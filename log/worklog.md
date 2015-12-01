@@ -13,6 +13,8 @@
 * worked on [Onboarding Checklist](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?ts=565dc35c#gid=1724807992&vpid=A2)
 * reviewed Zannah's WorkingAtMozilla pdf
 * opening blog post to KT
+* intro to team email
+* setup email, some snafus, working on reading docs mostly
 
 
 ### TODO
@@ -20,5 +22,5 @@
 * get through documents
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
-* intro to team email
+* email team members with meeting days
 * mozlando map
