@@ -6,9 +6,13 @@
 * 10:30am - Skype w/ Mandy
 * 2pm - science lab team call - [notes](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec01-2015)
 * made little tracking repo with tasks
+* read [article](http://bits.blogs.nytimes.com/2015/11/12/bringing-iphone-style-medical-research-to-the-android-world/?_r=1) about [Research Stack](http://researchstack.org/)
+> The new software framework will be similar to ResearchKit, which is open source and designed as modular building blocks. The ResearchStack design work is being led by Cornell Tech; Touch Lab, an Android developer; and Open mHealth, a nonprofit start-up focused on software for sharing health data. ResearchStack is being funded by the Robert Wood Johnson Foundation.
+* tried to get [Vidyo](https://v.mozilla.com/download.html?lang=en&csrf_tkn=63D91E3C78CD381A3C63CCD59F69697E#) to work (need login)
 
 
 ### TODO
 * make ghpage with new entries/blog
 * get through documents
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
+* make map block for expense data
