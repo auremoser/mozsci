@@ -12,6 +12,7 @@
 * read [blog post](http://marksurman.commons.ca/2015/10/26/fueling-a-movement/) by Mark
 * worked on [Onboarding Checklist](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?ts=565dc35c#gid=1724807992&vpid=A2)
 * reviewed Zannah's WorkingAtMozilla pdf
+* opening blog post to KT
 
 
 ### TODO
@@ -19,4 +20,5 @@
 * get through documents
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
-* opening blog post to KT
+* intro to team email
+* mozlando map
