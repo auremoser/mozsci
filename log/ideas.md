@@ -13,3 +13,4 @@
 * learn more about cartoCSS w/ Joey
 * inclusive language project with Lena
 * girl develop it code/coffee code review sessions
+* phobia photo reference
