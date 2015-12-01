@@ -2,7 +2,7 @@
 
 ### 12/1/15
 * meeting with KT about onboarding
-* read some onboarding documents ([reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom) and []())
+* read some onboarding documents ([reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom) and [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c))
 * 10:30am - Skype w/ Mandy
 * 2pm - science lab team call - [notes](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec01-2015)
 * made little tracking repo with tasks
