@@ -6,3 +6,9 @@
 * 10:30am - Skype w/ Mandy
 * 2pm - science lab team call - [notes](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec01-2015)
 * made little tracking repo with tasks
+
+
+### TODO
+* make ghpage with new entries/blog
+* get through documents
+* apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
