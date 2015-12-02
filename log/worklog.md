@@ -28,6 +28,7 @@
 * tasks for today's [onboarding assignment](http://commonspace.wordpress.com/2014/07/16/depthandscale/)
 * review for zannah's session of the [gdi curriculum site](http://girldevelopit.github.io/gdi-curriculum-site/)
 * made my first issue in the [github planning repo](https://github.com/mozillascience/plan/issues/33)
+* sent out Fellows call email and [etherpad for Dec 03](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
