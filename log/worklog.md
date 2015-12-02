@@ -17,10 +17,27 @@
 * setup email, some snafus, working on reading docs mostly
 
 
+### 12/2/15
+* meeting with KT and Zannah about Cohort Brainstorm ([roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping) + [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
+* squared away some more things on my checklist for onboarding
+* community call brainstorm scheduled on open data collection opportunities after orlando 12/13
+	* elizabeth - metasub
+	* research stack (http://researchstack.org/)
+	* joey - data collection hardware
+	* andrew thayler - open hardware
+
+
 ### TODO
+* review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
-* get through documents
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
 * email team members with meeting days
-* mozlando map
+* mozlando map/mapchat
+
+### RESOURCES
+* [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
+* [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c)
+* [roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping)
+* [onboarding checklist](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?ts=565dc35c#gid=1724807992&vpid=A2)
+* [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
