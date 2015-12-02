@@ -25,7 +25,9 @@
 	* research stack (http://researchstack.org/)
 	* joey - data collection hardware
 	* andrew thayler - open hardware
-
+* tasks for today's [onboarding assignment](http://commonspace.wordpress.com/2014/07/16/depthandscale/)
+* review for zannah's session of the [gdi curriculum site](http://girldevelopit.github.io/gdi-curriculum-site/)
+* made my first issue in the [github planning repo](https://github.com/mozillascience/plan/issues/33)
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
@@ -35,7 +37,9 @@
 * email team members with meeting days
 * mozlando map/mapchat
 
+
 ### RESOURCES
+* [planning repo](https://github.com/mozillascience/plan/issues/33)
 * [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
 * [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c)
 * [roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping)
