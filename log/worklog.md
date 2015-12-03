@@ -35,6 +35,8 @@
 ### 12/3/15
 * got computer
 * updated contact information for fellows
+* meeting with the fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
+* meeting with Arliss [etherpad](https://public.etherpad-mozilla.org/p/ArlissAurelia)
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
