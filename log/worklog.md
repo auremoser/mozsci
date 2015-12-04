@@ -38,6 +38,18 @@
 * meeting with the fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
 * meeting with Arliss [etherpad](https://public.etherpad-mozilla.org/p/ArlissAurelia)
 
+### 12/4/15
+* meeting with mandy 
+* business cards requested service now
+* created my [mozillians account](https://mozillians.org/en-US/u/aurelia/)
+* study group meeting, info on study groups [archived here](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
+* configure crashplan
+* [mofo onboarding handbook](https://docs.google.com/document/d/1snKZJcfau9irLs_aK0lYVT-NnAt5er-byuuHPkUcRVo/edit)
+* global wellness program
+* update mozillians.org: <https://mozillians.org/en-US/user/edit/>
+
+* how to submit
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
