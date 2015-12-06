@@ -37,6 +37,9 @@
 * updated contact information for fellows
 * meeting with the fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
 * meeting with Arliss [etherpad](https://public.etherpad-mozilla.org/p/ArlissAurelia)
+* started setting up new machine
+* added ssh github keys and walked through
+* met with mandy about trailing issues
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
