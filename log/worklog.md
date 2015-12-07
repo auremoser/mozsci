@@ -50,8 +50,36 @@
 * wrapped up new hire checklist :)
 * met with Steph to go over ideas
 * made calendar invites to meet with all the fellows
+* checked out [design dailies](http://desktopdailies.tumblr.com/)
 
+### 12/7/15
+* downloaded more tools from other computer
+* started blog post
+* made appointments with Fellows to meet on skype
+* started blog post
+* met with Christie
+ * post-doc at michigan state, agro-entymologist (population and agricultural study), pollinaiton ecologists, ecosystem services provided by insects, large datasets provided by others (ladybeetles since 1989) - invasions of new species
+ * longterm ecological research network LTER - Kellog Ecological Research
+ * data produced by other people - understanding good metadata
+ * undergrad in physics
+ * training materials for better data handling (software carpentry) - data spreadsheets fed SC curriculum
+ * **focus on increasing access (tajikistan mentorship students); all training on proprietary software**
+ * publication in closed access journals and can't access papers written in grad schools
+ * organismal ecologist focus but has a class in development to deal with open data and develop in the open
+ * bi-catch - 12 years of data (fireflies also caught with lady beetles) - doing a study on data cleaning (14 weeks), publishing 
+  * skills training and philosophical lessons
+  * 4 credits
+  * open on github
+  * needs to improve on data carpentry/software carpentry
+  Deterents:
+  * open access journals are more expensive
+  * competitive job environment -high impact publications are really valuable
 
+* met with joey
+ * speculative design / experimentation
+ * maps and data and visualization
+ * creative coding stuff, gap between what i want to create and the skills you need to make that happen
+ * so many tools - > polishing is my greatest challenge
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
@@ -67,3 +95,4 @@
 * [onboarding checklist](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?ts=565dc35c#gid=1724807992&vpid=A2)
 * [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * [aurelia's study group notes](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
+* [design dailies](http://desktopdailies.tumblr.com/)
