@@ -37,6 +37,9 @@
 * updated contact information for fellows
 * meeting with the fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
 * meeting with Arliss [etherpad](https://public.etherpad-mozilla.org/p/ArlissAurelia)
+* started setting up new machine
+* added ssh github keys and walked through
+* met with mandy about trailing issues
 
 ### 12/4/15
 * meeting with mandy 
