@@ -41,12 +41,25 @@
 * added ssh github keys and walked through
 * met with mandy about trailing issues
 
+### 12/4/15
+* meeting with mandy 
+* business cards requested service now
+* created my [mozillians account](https://mozillians.org/en-US/u/aurelia/)
+* study group meeting, info on study groups [archived here](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
+* update mozillians.org: <https://mozillians.org/en-US/user/edit/>
+* read through [MoFo Strategy](https://docs.google.com/presentation/d/1yPhg7ilRgAjHn41w3jGjvTzcEOCknBh8YaUq0gOc7rg/edit#slide=id.g742e43fbd_2_19)
+* configured crashplan
+* reviewed materials in the [mofo onboarding handbook](https://docs.google.com/document/d/1snKZJcfau9irLs_aK0lYVT-NnAt5er-byuuHPkUcRVo/edit)
+* wrapped up new hire checklist :)
+* met with Steph to go over ideas
+* made calendar invites to meet with all the fellows
+
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
-* email team members with meeting days
 * mozlando map/mapchat
 
 ### RESOURCES
@@ -56,3 +69,4 @@
 * [roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping)
 * [onboarding checklist](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?ts=565dc35c#gid=1724807992&vpid=A2)
 * [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
+* [aurelia's study group notes](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
