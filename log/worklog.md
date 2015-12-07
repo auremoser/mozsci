@@ -82,7 +82,24 @@
  * speculative design / experimentation
  * maps and data and visualization
  * creative coding stuff, gap between what i want to create and the skills you need to make that happen
- * so many tools - > polishing is my greatest challenge
+ * so many tools - > polishing is my greatest 
+ challenge
+ * going more the educational route
+ * more important that someone cares enough to bring in people -> design thinking
+ * trying to close gap between those ideas and the skills and developing curriculum and tools -> sprint idea
+
+* 20% projects, hey it's cool to take 2 days to sprint on your own stuff
+* aerial imagery to Peguin -> children's book, Aerial Bold
+* 2013- japan media arts festival 
+* société anonyme: http://theodi.org/culture/skor-codex-2012 <> how would aliens discover our culture, golden record / ryoji ikeda
+* ryoji ikeda
+
+"La Société Anonyme
+
+La Société Anonyme is an artist’s collective born from the ashes of the Dutch 2013
+funding cuts to the arts. An avant-garde art collective with a corporate twist après la lettre, La Société Anonyme launches its first product in July 2012: The SKOR Codex, a book preserving the legacy of one of the Netherlands’ perishing art organisations for the distant future. Adopting an experimental model of artistic corporation, La Société Anonyme responds to the commodification of culture by searching for alternative ways to make, promote and sustain art. La Société Anonyme is represented by Dušan Barok, Danny van der Kleij, Aymeric Mansoux, and Marloes de Valk."
+
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
