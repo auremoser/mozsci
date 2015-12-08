@@ -99,6 +99,10 @@
 La Société Anonyme is an artist’s collective born from the ashes of the Dutch 2013
 funding cuts to the arts. An avant-garde art collective with a corporate twist après la lettre, La Société Anonyme launches its first product in July 2012: The SKOR Codex, a book preserving the legacy of one of the Netherlands’ perishing art organisations for the distant future. Adopting an experimental model of artistic corporation, La Société Anonyme responds to the commodification of culture by searching for alternative ways to make, promote and sustain art. La Société Anonyme is represented by Dušan Barok, Danny van der Kleij, Aymeric Mansoux, and Marloes de Valk."
 
+### 12/8/15
+* met some mozillians
+* worked on a team/focus group about standardization
+
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
