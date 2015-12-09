@@ -103,7 +103,11 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * met some mozillians
 * worked on a team/focus group about standardization
 
-
+### 12/9/15
+* worked in morning session on [cohort leadership planning]()
+* worked in afternoon with MoFos on strutured activities
+* worked with focus team on our ["think tank concept"]()
+* 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
