@@ -104,10 +104,12 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * worked on a team/focus group about standardization
 
 ### 12/9/15
-* worked in morning session on [cohort leadership planning]()
+* worked in morning session on [cohort leadership planning](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * worked in afternoon with MoFos on strutured activities
-* worked with focus team on our ["think tank concept"]()
-* 
+* worked with focus team on our ["think tank concept"](https://public.etherpad-mozilla.org/p/mozlandoteam)
+* [github learning session](https://public.etherpad-mozilla.org/p/teaching-learning-github) with Zannah
+* attended [curriculum meeting](https://public.etherpad-mozilla.org/p/teach.mozilla-curriculum-plan)
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
