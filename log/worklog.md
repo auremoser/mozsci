@@ -137,7 +137,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
     * workcards/personas - what does a resilent person look like
     * therapeutic recommendations
   * which parts are the tractable components?
-  * growing federation of research scientists engaged in decoding - sharing atlas/patterns/lookbook
+  * growing federation of research scientists engaged in decoding - *sharing atlas/design patterns/lookbook for sharing data as a researcher*
   * growing community of participants who can find out if they are resilient
 
 ### TODO
