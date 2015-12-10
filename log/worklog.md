@@ -110,6 +110,20 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * [github learning session](https://public.etherpad-mozilla.org/p/teaching-learning-github) with Zannah
 * attended [curriculum meeting](https://public.etherpad-mozilla.org/p/teach.mozilla-curriculum-plan)
 
+### 12/10/15
+
+* fellowship meeting
+* mtg with Jason
+  * works exclusively on resilience project founded by Erik Shaw and Stephen Frend (Sage Bionetworks)
+  * specific risk factors for Disease but have escaped the consequence documented in a medical textbook
+  * documented in history a few times 1984 HIV causes aids, 1994 really understood and got controlled of CCR5 protective genetic mutation (natural immunity to HIV) - what are the potential - still marketed as a drug to treat HIV (hypot->discovery->therapy)
+  * trying to build a magical resilience machines
+  * associate professor, biomedical science producer
+    * governance
+    * tools/platforms
+    * engagement
+  * mount sinai, sharelab
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
