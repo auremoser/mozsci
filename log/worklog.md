@@ -123,6 +123,13 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
     * tools/platforms
     * engagement
   * mount sinai, sharelab
+  * before at Harvard Med school to prototype research studies
+  * design tests, write protocols, design surveys, work with vendors, working with video game designers to design the app- for people to volunteer to see if they are resilient
+  * **SEARCH** - let's find people who are resilient: retro,pros,referral
+  * **VALIDATE** - mechanisms to validate those IDs, has risk factor and lacks disease
+  * **DECODE** - figuring out
+  * alzeimers resilience
+  * only genetic resistence or also therapeutic
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
