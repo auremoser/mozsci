@@ -128,8 +128,15 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * **SEARCH** - let's find people who are resilient: retro,pros,referral
   * **VALIDATE** - mechanisms to validate those IDs, has risk factor and lacks disease
   * **DECODE** - figuring out
-  * alzeimers resilience
+  * [alzeimers resilience](http://www.nytimes.com/2014/12/29/health/in-a-new-approach-to-fighting-disease-helpful-genetic-mutations-are-sought.html)
   * only genetic resistence or also therapeutic
+  * washington university finally partnering - relationship driven
+  * pretty bespoke though, not all joining
+  * takeaways?
+    * anonymized statistics
+    * workcards/personas - what does a resilent person look like
+    * therapeutic recommendations
+  * which parts are the tractable components?
 
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
