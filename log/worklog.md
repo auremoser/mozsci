@@ -141,6 +141,8 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * growing community of participants who can find out if they are resilient
 
   ### 12/11/15
+  * morning breakfast team meeting
+  * met with working group on State of the web
   * [made presentation project](https://docs.google.com/presentation/d/1b2-cskfvzEXWpJBkMvbduKwLTBAe3aoefg9joUNdYAY/edit#slide=id.gdb09c04e3_0_65)
 
 ### TODO
