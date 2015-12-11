@@ -140,6 +140,9 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * growing federation of research scientists engaged in decoding - *sharing atlas/design patterns/lookbook for sharing data as a researcher*
   * growing community of participants who can find out if they are resilient
 
+  ### 12/11/15
+  * [made presentation project](https://docs.google.com/presentation/d/1b2-cskfvzEXWpJBkMvbduKwLTBAe3aoefg9joUNdYAY/edit#slide=id.gdb09c04e3_0_65)
+
 ### TODO
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
