@@ -175,6 +175,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * started checking out [assets documents](https://docs.google.com/document/d/1V7qXa3ql515dKvsOjSUBd3m64b5KEFxkVcs8u_qkuHc/edit?ts=566edf3e) from Bill
 * applied to [internet freedom festival](https://internetfreedomfestival.org/host-a-session/) with [a talk](https://github.com/auremoser/talks/blob/master/abstracts/16-04-IFF.md) on Open Science
 * made meeting with Michael Aukland and Joey for tomorrow
+* reached out to Annabel Church and Catt Small about research contacts
 
 ### TODO
 
