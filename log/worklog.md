@@ -174,6 +174,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * got lots of links [notes doc](https://public.etherpad-mozilla.org/p/AbbyAurelia)
   * started checking out [assets documents](https://docs.google.com/document/d/1V7qXa3ql515dKvsOjSUBd3m64b5KEFxkVcs8u_qkuHc/edit?ts=566edf3e) from Bill
 * applied to [internet freedom festival](https://internetfreedomfestival.org/host-a-session/)
+* made meeting with Michael Aukland and Joey for tomorrow
 
 ### TODO
 
