@@ -141,11 +141,39 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * growing community of participants who can find out if they are resilient
 
   ### 12/11/15
+
   * morning breakfast team meeting
   * met with working group on State of the web
   * [made presentation project](https://docs.google.com/presentation/d/1b2-cskfvzEXWpJBkMvbduKwLTBAe3aoefg9joUNdYAY/edit#slide=id.gdb09c04e3_0_65)
 
+  ### 12/14/15
+
+  * met with Kaitlin 1:1 [notes doc](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+  * meeting with Richard
+   * wildlife photography gig - South Africa -> biology is really cool
+   * penetration testing - CCC camps
+   * conservation biologist in the UK
+   * millenium seed bank - underground bank with seeds in the UK --> computationally illiterate
+   * funded PHD - photosynthesis efficiency in plants C4 figure out how to make that installable and stick it into rice and wheat - 50% increase in yield, part of international consortium
+   * dove into computer stuff
+   * make the world a better place, inhibited by slow science and competition
+   * **content mine** - make it legal and free/easy to analyze scientific literature
+    * getpapers - uses apis (ieee, arxive, pubmed)
+    * quickscrape -  define scrapers declaratively inteh browser
+    * scraperjson
+    * scraperwiki
+    * publishes make it very scary, but inappropriately
+  * outreach and education (helping researchers get started in content mining)
+  * accessiblity, how can people get involved bioJulia - bioinformatics tools for Julia
+  * building community around bioJulia
+  * user experience design is really bad
+  * wants to work on sprints (pick a project and hammer out fast)
+  * one monolithlic project in the team meeting
+* met with abby
+  * <https://mozillascience.org/seven-steps-to-building-community-around-your-open-source-project>
+
 ### TODO
+
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
@@ -153,6 +181,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * mozlando map/mapchat
 
 ### RESOURCES
+
 * [planning repo](https://github.com/mozillascience/plan/issues/33)
 * [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
 * [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c)
