@@ -171,6 +171,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * one monolithlic project in the team meeting
 * met with abby
   * <https://mozillascience.org/seven-steps-to-building-community-around-your-open-source-project>
+  * got lots of links [notes doc](https://public.etherpad-mozilla.org/p/AbbyAurelia)
 
 ### TODO
 
