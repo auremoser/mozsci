@@ -176,6 +176,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * applied to [internet freedom festival](https://internetfreedomfestival.org/host-a-session/) with [a talk](https://github.com/auremoser/talks/blob/master/abstracts/16-04-IFF.md) on Open Science
 * made meeting with Michael Aukland and Joey for tomorrow
 * reached out to Annabel Church and Catt Small about research contacts
+* submitted non-profit application to the Eyeo Festival
 
 ### TODO
 
