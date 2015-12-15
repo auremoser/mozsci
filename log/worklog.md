@@ -181,6 +181,8 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 ### 12/15/15
 * made an issue on keybase.io [repo](https://github.com/keybase/client/pull/1399)
 * read through some emails, worked on trying to update aspects of the site with Abi
+* tried to debug keybase blah
+* worked on issue [#34](https://github.com/mozillascience/plan/issues/34) to define a licensing checklist
 
 ### TODO
 
