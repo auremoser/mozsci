@@ -200,7 +200,8 @@ Reach out to people to talk about projects from Community Call
  * create friendly personable, conversational email with event details, log responses (6 hours)
  * collecting info/surveys results, bios (2 hours)
  * investigate options for transcription; connect with Amira about making event accessible for all audiences (4 hours)
- * help with curriculum (10 hours)                                                                                                                                                                    
+ * help with curriculum (10 hours)  
+ * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)                                                                                                                                                                  
 
 
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
