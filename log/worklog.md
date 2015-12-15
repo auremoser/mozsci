@@ -186,7 +186,20 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * meeting with Zannah about curriculum [notes](https://public.etherpad-mozilla.org/p/ZannahAurelia)
 * wrote to Allied Media Conference about volunteering
 
+Reach out to people to talk about projects from Community Call
+
 ### TODO
+* reach out to people for community call
+* fellows doc
+* etherpads archive
+* fellows booked for travel
+(FOR SUMMIT)    
+ * [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0) of invitees & manage that spreadsheet (8 hrs)
+ * create friendly personable, conversational email with event details, log responses (6 hours)
+ * collecting info/surveys results, bios (2 hours)
+ * investigate options for transcription; connect with Amira about making event accessible for all audiences (4 hours)
+ * help with curriculum (10 hours)                                                                                                                                                                    
+
 
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * make ghpage with new entries/blog
