@@ -178,6 +178,10 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * reached out to Annabel Church and Catt Small about research contacts
 * submitted non-profit application to the Eyeo Festival
 
+### 12/15/15
+* made an issue on keybase.io [repo](https://github.com/keybase/client/pull/1399)
+* read through some emails, worked on trying to update aspects of the site with Abi
+
 ### TODO
 
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
