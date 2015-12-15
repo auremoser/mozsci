@@ -179,6 +179,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * submitted non-profit application to the Eyeo Festival
 
 ### 12/15/15
+
 * made an issue on keybase.io [repo](https://github.com/keybase/client/pull/1399)
 * read through some emails, worked on trying to update aspects of the site with Abi
 * tried to debug keybase blah
@@ -189,6 +190,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 Reach out to people to talk about projects from Community Call
 
 ### TODO
+
 * reach out to people for community call
 * fellows doc
 * etherpads archive
