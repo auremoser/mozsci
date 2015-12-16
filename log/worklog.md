@@ -190,6 +190,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * went over fellows' homework, gave feedback
 * meeting with Joey
 * meeting with Michael
+* more fighting with a [keybase issue]()
 
 Reach out to people to talk about projects from Community Call
 
@@ -207,7 +208,9 @@ Reach out to people to talk about projects from Community Call
  * collecting info/surveys results, bios (2 hours)
  * investigate options for transcription; connect with Amira about making event accessible for all audiences (4 hours)
  * help with curriculum (10 hours)  
- * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)                                                                                                                                                                  
+ * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)
+* inspiration websites                            
+* create information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign>                                                                                                                                    
 
 
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
