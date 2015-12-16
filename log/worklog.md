@@ -186,15 +186,21 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * worked on issue [#34](https://github.com/mozillascience/plan/issues/34) to define a licensing checklist
 * meeting with Zannah about curriculum [notes](https://public.etherpad-mozilla.org/p/ZannahAurelia)
 * wrote to Allied Media Conference about volunteering
+* lots of email and fellow management work
+* went over fellows' homework, gave feedback
+* meeting with Joey
+* meeting with Michael
 
 Reach out to people to talk about projects from Community Call
 
 ### TODO
 
+* book ticket to chicago hive in january
 * reach out to people for community call
 * fellows doc
 * etherpads archive
 * fellows booked for travel
+* follow up on 
 (FOR SUMMIT)    
  * [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0) of invitees & manage that spreadsheet (8 hrs)
  * create friendly personable, conversational email with event details, log responses (6 hours)
