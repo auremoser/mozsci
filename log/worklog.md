@@ -193,6 +193,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * more fighting with a [keybase issue]()
 * reach out to people for community call
 * helped edit [science end of year report](https://public.etherpad-mozilla.org/p/2015-science-eoy-report)
+* gave feedback on Zannah's blogpost for the [WOW Summit](https://public.etherpad-mozilla.org/p/wow-blogpost)
 
 Reach out to people to talk about projects from Community Call
 
