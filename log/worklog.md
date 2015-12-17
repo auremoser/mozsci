@@ -191,13 +191,16 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * meeting with Joey
 * meeting with Michael
 * more fighting with a [keybase issue]()
+* reach out to people for community call
+* helped edit [science end of year report](https://public.etherpad-mozilla.org/p/2015-science-eoy-report)
 
 Reach out to people to talk about projects from Community Call
 
 ### TODO
 
-* book ticket to chicago hive in january
-* reach out to people for community call
+* make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
+* book ticket to chicago hive in january thurs-sun
+
 * fellows doc
 * etherpads archive
 * fellows booked for travel
@@ -214,7 +217,6 @@ Reach out to people to talk about projects from Community Call
 
 
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
-* make ghpage with new entries/blog
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
 * mozlando map/mapchat
