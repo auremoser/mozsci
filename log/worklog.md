@@ -195,17 +195,31 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * helped edit [science end of year report](https://public.etherpad-mozilla.org/p/2015-science-eoy-report)
 * gave feedback on Zannah's blogpost for the [WOW Summit](https://public.etherpad-mozilla.org/p/wow-blogpost)
 
-Reach out to people to talk about projects from Community Call
+### 12/17/15
+
+* reviewed fellows repo pull requests
+* reviewed some blog changes for KT's blog
+* added Zannah's collected interview materials
+* added Kaitlin's presentation exercise to fellows repo
+* ran weekly fellows meeting
+* went over fellows' homework assignments in their repo
+
+### 12/18/15
+* formatted [EOY blog post with images](https://www.mozillascience.org/looking-back-on-2015)
+* sent out fellow followup emails for activities/writing exercises
+* met with Zannah and Abby about Prototype Phase materials
+* added some details for the [WOW invite](https://public.etherpad-mozilla.org/p/WOW-Summit_Invite) and the [WOW survey](http://goo.gl/forms/h3okDkjg9g)
+
 
 ### TODO
-
+* fellows deliverables from meeting with Zannah
+* setup expensify submit receipts
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
-
+* Reach out to people to talk about projects from Community Call
 * fellows doc
 * etherpads archive
 * fellows booked for travel
-* follow up on 
 (FOR SUMMIT)    
  * [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0) of invitees & manage that spreadsheet (8 hrs)
  * create friendly personable, conversational email with event details, log responses (6 hours)
@@ -214,9 +228,7 @@ Reach out to people to talk about projects from Community Call
  * help with curriculum (10 hours)  
  * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)
 * inspiration websites                            
-* create information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign>                                                                                                                                    
-
-
+* create information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign>                                                                                                                                
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
