@@ -222,7 +222,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
  * Deborah Estrin
  * Elizabeth Henaff
  * Andrew Thayler
-
+* updated 1:1 doc [here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 ### TODO
 
