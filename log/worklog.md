@@ -210,17 +210,28 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * met with Zannah and Abby about Prototype Phase materials
 * added some details for the [WOW invite](https://public.etherpad-mozilla.org/p/WOW-Summit_Invite) and the [WOW survey](http://goo.gl/forms/h3okDkjg9g)
 *  emailed about email protocol for the group
+* fellows deliverables from meeting with Zannah
+* setup expensify submit receipts
+* response to SE Daily podcast interview request
+* started working  information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign> 
+
+### 12/21/15
+* emailed about email protocol
+* programmed 2 gdi courses, CS fundamentals and MeteorJS
+* reached out to 3 people for our community call 
+ * Deborah Estrin
+ * Elizabeth Henaff
+ * Andrew Thayler
 
 
 ### TODO
-* fellows deliverables from meeting with Zannah
-* setup expensify submit receipts
+
+
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
 * Reach out to people to talk about projects from Community Call
-* fellows doc
 * etherpads archive
-* fellows booked for travel
+
 (FOR SUMMIT)    
  * [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0) of invitees & manage that spreadsheet (8 hrs)
  * create friendly personable, conversational email with event details, log responses (6 hours)
