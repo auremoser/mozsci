@@ -209,6 +209,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * sent out fellow followup emails for activities/writing exercises
 * met with Zannah and Abby about Prototype Phase materials
 * added some details for the [WOW invite](https://public.etherpad-mozilla.org/p/WOW-Summit_Invite) and the [WOW survey](http://goo.gl/forms/h3okDkjg9g)
+*  emailed about email protocol for the group
 
 
 ### TODO
