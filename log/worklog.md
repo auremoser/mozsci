@@ -219,13 +219,16 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * emailed about email protocol
 * programmed 2 gdi courses, CS fundamentals and MeteorJS
 * reached out to 3 people for our community call 
- * Deborah Estrin
- * Elizabeth Henaff
+ * Deborah Estrin (can't do January)
+ * Elizabeth Henaff (can do)
  * Andrew Thayler
 * updated 1:1 doc [here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* commented on Steph's [contributor issue](https://github.com/stephwright/Brain/issues/2)
+
 
 ### TODO
-
+* template library of emails
+* confirm speakers for January call
 
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
