@@ -236,11 +236,13 @@ https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1
 
 ### TODO
 * template library of emails
-* confirm speakers for January call
+* email details speakers for January call
+* figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
+* run site locally
+* keybase issue
 
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
-* Reach out to people to talk about projects from Community Call
 * etherpads archive
 
 (FOR SUMMIT)    
@@ -249,9 +251,8 @@ https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1
  * collecting info/surveys results, bios (2 hours)
  * investigate options for transcription; connect with Amira about making event accessible for all audiences (4 hours)
  * help with curriculum (10 hours)  
- * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)
-* inspiration websites                            
-* create information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign>                                                                                                                                
+ * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)                         
+                                                                                                                               
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
