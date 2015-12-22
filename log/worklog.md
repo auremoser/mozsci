@@ -233,6 +233,7 @@ https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1
 * emailed out community call details to fellows via gcal 
 * created [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jan14-2015) with confirmed speakers
 * created [mood board on pinterest](https://www.pinterest.com/aure_moser/website/) for the website
+* sent out first wave of WOW invites according to the [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0)
 
 ### TODO
 * template library of emails
