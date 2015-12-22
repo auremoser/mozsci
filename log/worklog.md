@@ -222,8 +222,11 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
  * Deborah Estrin (can't do January)
  * Elizabeth Henaff (can do)
  * Andrew Thayler
+ * Carrie Selzer, Great Nature Project (Nat Geo)
 * updated 1:1 doc [here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * commented on Steph's [contributor issue](https://github.com/stephwright/Brain/issues/2)
+* worked on [content inventory](
+https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1QBumPExkkTL_ktgMQ/edit?usp=sharing), finished
 
 
 ### TODO
