@@ -232,7 +232,7 @@ https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1
 ### 12/22/15
 * emailed out community call details to fellows via gcal 
 * created [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jan14-2015) with confirmed speakers
-* created mood board on pinterest for the website
+* created [mood board on pinterest](https://www.pinterest.com/aure_moser/website/) for the website
 
 ### TODO
 * template library of emails
