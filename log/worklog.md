@@ -223,6 +223,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
  * Elizabeth Henaff (can do)
  * Andrew Thayler
  * Carrie Selzer, Great Nature Project (Nat Geo)
+ * Scott Loarie, iNaturalist
 * updated 1:1 doc [here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * commented on Steph's [contributor issue](https://github.com/stephwright/Brain/issues/2)
 * worked on [content inventory](
