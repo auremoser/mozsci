@@ -236,13 +236,16 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 
 ### 12/23/15
 * pull request for [lab website](https://github.com/mozillascience/site/pull/61)
+* debugged running site locally whoohoo
+* added issue [#40](https://github.com/mozillascience/plan/issues/40) for community call
+
 
 ### TODO
 * template library of emails
 * email details speakers for January call
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
-* run site locally
 * keybase issue
+* make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
 
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
