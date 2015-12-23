@@ -226,14 +226,16 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
  * Scott Loarie, iNaturalist
 * updated 1:1 doc [here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * commented on Steph's [contributor issue](https://github.com/stephwright/Brain/issues/2)
-* worked on [content inventory](
-https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1QBumPExkkTL_ktgMQ/edit?usp=sharing), finished
+* worked on [content inventory](https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1QBumPExkkTL_ktgMQ/edit?usp=sharing), finished
 
 ### 12/22/15
 * emailed out community call details to fellows via gcal 
 * created [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jan14-2015) with confirmed speakers
 * created [mood board on pinterest](https://www.pinterest.com/aure_moser/website/) for the website
 * sent out first wave of WOW invites according to the [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0)
+
+### 12/23/15
+* pull request for [lab website](https://github.com/mozillascience/site/pull/61)
 
 ### TODO
 * template library of emails
