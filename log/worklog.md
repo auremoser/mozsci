@@ -238,6 +238,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * pull request for [lab website](https://github.com/mozillascience/site/pull/61)
 * debugged running site locally whoohoo
 * added issue [#40](https://github.com/mozillascience/plan/issues/40) for community call
+* updated [call wiki](https://wiki.mozilla.org/ScienceLab/Calls) with January details
 
 
 ### TODO
