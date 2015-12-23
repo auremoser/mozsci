@@ -244,7 +244,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * added issue for [summit tasks](https://github.com/mozillascience/plan/issues/42)
 * finished invites for round 1
 * reached out to transcriptionist for WOW summit
-* wrote all invitations for jan 4-7 in my onboarding checklist
+* wrote [all invitations for jan 4-7](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit#gid=1724807992) in my onboarding checklist
 
 
 ### TODO
