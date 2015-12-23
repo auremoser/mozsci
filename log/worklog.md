@@ -239,26 +239,24 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * debugged running site locally whoohoo
 * added issue [#40](https://github.com/mozillascience/plan/issues/40) for community call
 * updated [call wiki](https://wiki.mozilla.org/ScienceLab/Calls) with January details
+* made plan for fellow's workweek [#41](https://github.com/mozillascience/plan/issues/41)
+* updated [mailing list with details](https://mail.mozilla.org/admindb/mozillascience)
+* added issue for [summit tasks](https://github.com/mozillascience/plan/issues/42)
+* finished invites for round 1
+* reached out to transcriptionist for WOW summit
+* wrote all invitations for jan 4-7 in my onboarding checklist
 
 
 ### TODO
 * template library of emails
-* email details speakers for January call
+* issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
 * keybase issue
 * make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
 
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
 * book ticket to chicago hive in january thurs-sun
-* etherpads archive
-
-(FOR SUMMIT)    
- * [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0) of invitees & manage that spreadsheet (8 hrs)
- * create friendly personable, conversational email with event details, log responses (6 hours)
- * collecting info/surveys results, bios (2 hours)
- * investigate options for transcription; connect with Amira about making event accessible for all audiences (4 hours)
- * help with curriculum (10 hours)  
- * get fellows onboarded to event plan, arrange travel with Arliss (3hrs)                         
+* etherpads archive                   
                                                                                                                                
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
