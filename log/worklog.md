@@ -246,7 +246,9 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * reached out to transcriptionist for WOW summit
 * wrote [all invitations for jan 4-7](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit#gid=1724807992) in my onboarding checklist
 
+### 12/27/15
 
+* emailed claudia mueller birn (clmb@inf.fu-berlin.de)
 ### TODO
 * template library of emails
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
