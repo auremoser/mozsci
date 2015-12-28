@@ -249,6 +249,8 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 ### 12/27/15
 
 * emailed claudia mueller birn (clmb@inf.fu-berlin.de)
+* started library of emails
+
 ### TODO
 * template library of emails
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
