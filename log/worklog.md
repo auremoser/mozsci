@@ -250,8 +250,17 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 
 * emailed claudia mueller birn (clmb@inf.fu-berlin.de)
 * started library of emails
+* invited Fatma from Amel's email to the Cohort Group
+* worked on Egencia issue with HR
+* updated project schedule and other materials in fellow's repo.
+* update issue [#35](https://github.com/mozillascience/plan/issues/35)
+
 
 ### TODO
+
+* tracking all the study group forks
+** trendinafrica as trendinafrica/studyGroup
+* make the study group guidelines more "visual"
 * template library of emails
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
