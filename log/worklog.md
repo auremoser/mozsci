@@ -254,6 +254,10 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * worked on Egencia issue with HR
 * updated project schedule and other materials in fellow's repo.
 * update issue [#35](https://github.com/mozillascience/plan/issues/35)
+* made [entry](http://goo.gl/forms/4wu3nkH7WY)/exit surveys for fellow sprints
+* emailed update to team
+* started draft of Prototype email to fellows
+* emailed fellows about blogs and prototype phase details
 
 
 ### TODO
