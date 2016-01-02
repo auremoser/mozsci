@@ -259,6 +259,13 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * started draft of Prototype email to fellows
 * emailed fellows about blogs and prototype phase details
 
+### 1/2/16
+
+* responded to Bill about Africa community:
+ * Amel currently co-organizes a Mozilla Study Group in Tunis: <http://amelgh.github.io/IPT_Tunisia/>
+ * Anelda has been involved in the Cape R User Group (<https://caperuser.wordpress.com/>) as well as numerous other Software Carpentry and Mozilla Science Lab events.
+ * Judit works for a Bioinformatics Knowledge Transfer Program based in SA: <http://ktp.cpgr.org.za/>
+
 
 ### TODO
 
