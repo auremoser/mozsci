@@ -270,6 +270,21 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 
 * meeting with KT
 * some planning emails and initial correspondence
+* wrote email draft to WOW summit members
+* rody r stats email response
+* emailed norma about travel accommodation
+* added blog reports task to [prototype phase](https://github.com/mozillascience/fellows-class-2015/tree/master/prototype)
+* met with Arliss about [organizational logistics](https://github.com/mozillascience/plan/issues/42)
+* wrote up etherpad for fellows' [call notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
+* drafted fellow's call email
+* reserached travel for [Rhody R stats](https://github.com/rhodyrstats/intro_r_workshop)
+
+* setup chat with bill
+* setup meeting on wow summit schedule [#41](https://github.com/mozillascience/plan/issues/41)
+* rush order some stickers
+* make gh-pages for a project "gallery"
+* send out fellows calls : https://public.etherpad-mozilla.org/p/2015-science-fellows-dec16
+* add Study Group etherpad to event: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2016
 
 ### TODO
 
@@ -279,7 +294,6 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * template library of emails
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
-* keybase issue
 * make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
 
 * make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
