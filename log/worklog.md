@@ -266,6 +266,10 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
  * Anelda has been involved in the Cape R User Group (<https://caperuser.wordpress.com/>) as well as numerous other Software Carpentry and Mozilla Science Lab events.
  * Judit works for a Bioinformatics Knowledge Transfer Program based in SA: <http://ktp.cpgr.org.za/>
 
+### 1/4/16
+
+* meeting with KT
+* some planning emails and initial correspondence
 
 ### TODO
 
