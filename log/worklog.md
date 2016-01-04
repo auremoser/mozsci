@@ -281,6 +281,8 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * arranged [Africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 met with Amira about Accessibility and Mozilla Clubs [notes in the event](https://calendar.google.com/calendar/render?pli=1#eventpage_6|eid-YmxqNGplbzY5MWZzbnZrNjJodGRpdG11bG8gYXVyZWxpYUBtb3ppbGxhZm91bmRhdGlvbi5vcmc-1-0-)
 * sent visa info request for Anelda, Ancon, Fatma
+* emailed first round invitees with travel info
+* made cover letter for visa invites: https://drive.google.com/a/mozilla.com/file/d/0B6_ZVUFx2WHHQTBzcU5hanJYUDg/view?usp=sharing
 
 
 * setup chat with bill
