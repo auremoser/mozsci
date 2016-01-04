@@ -278,6 +278,10 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * wrote up etherpad for fellows' [call notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
 * drafted fellow's call email
 * reserached travel for [Rhody R stats](https://github.com/rhodyrstats/intro_r_workshop)
+* arranged [Africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+met with Amira about Accessibility and Mozilla Clubs [notes in the event](https://calendar.google.com/calendar/render?pli=1#eventpage_6|eid-YmxqNGplbzY5MWZzbnZrNjJodGRpdG11bG8gYXVyZWxpYUBtb3ppbGxhZm91bmRhdGlvbi5vcmc-1-0-)
+* sent visa info request for Anelda, Ancon, Fatma
+
 
 * setup chat with bill
 * setup meeting on wow summit schedule [#41](https://github.com/mozillascience/plan/issues/41)
