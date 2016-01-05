@@ -283,6 +283,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * sent visa info request for Anelda, Ancon, Fatma
 * emailed first round invitees with travel info
 * made cover letter for visa invites: https://drive.google.com/a/mozilla.com/file/d/0B6_ZVUFx2WHHQTBzcU5hanJYUDg/view?usp=sharing
+* made agenda for next week's meeting with [bill](https://public.etherpad-mozilla.org/p/bill%3C%3Eaurelia)
+* arranged for some more travel for transcriptionist
+
 
 
 * setup chat with bill
