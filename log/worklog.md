@@ -299,6 +299,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * applied for TSA pre-check info
 * updated [mozlando working group materials](https://docs.google.com/document/d/15NVMqr4unr1HNDO_esGpMfHXm-Q7p7J56CplBtqtsis/edit#)
 * booked travel to berlin, booked travel to Hive Buzz Chicago
+* emailed a host of round 2 invitees
+* emailed a few rsvp'ers their travel info
 
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
