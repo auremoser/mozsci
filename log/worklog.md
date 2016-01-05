@@ -296,7 +296,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * wrote entry survey for Cohort Members
 * wrote 2nd round invites to locals for WOW Summit
 * recommented on [#41](https://github.com/mozillascience/plan/issues/41#issuecomment-169045199)
-
+* applied for TSA pre-check info
+* updated [mozlando working group materials](https://docs.google.com/document/d/15NVMqr4unr1HNDO_esGpMfHXm-Q7p7J56CplBtqtsis/edit#)
 
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
