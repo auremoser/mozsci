@@ -301,6 +301,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * booked travel to berlin, booked travel to Hive Buzz Chicago
 * emailed a host of round 2 invitees
 * emailed a few rsvp'ers their travel info
+* meeting with Chris to go over mofo strategy
 
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
