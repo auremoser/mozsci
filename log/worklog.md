@@ -287,13 +287,19 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * arranged for some more travel for transcriptionist
 
 
+### 1/5/16
 
 * setup chat with bill
 * setup meeting on wow summit schedule [#41](https://github.com/mozillascience/plan/issues/41)
-* rush order some stickers
+* send out fellows calls : https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07
+* reached out to Pamela Hewitt about travel arrangements
+* wrote entry survey for Cohort Members
+* wrote 2nd round invites to locals for WOW Summit
+* recommented on [#41](https://github.com/mozillascience/plan/issues/41#issuecomment-169045199)
+
+
 * make gh-pages for a project "gallery"
-* send out fellows calls : https://public.etherpad-mozilla.org/p/2015-science-fellows-dec16
-* add Study Group etherpad to event: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2016
+* add Event for mixer etherpad to event: 
 
 ### TODO
 
