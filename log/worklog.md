@@ -302,6 +302,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * emailed a host of round 2 invitees
 * emailed a few rsvp'ers their travel info
 * meeting with Chris to go over mofo strategy
+* lots of little logistical arrangements for letters of invitation, WOW Summit response catchup.
+* emailed Deborah Estrin about Community Call
+* drafted [Nifras' blog with track changes for approval](https://docs.google.com/document/d/1R8va3EdWSpLz3D1roY-Ek8bF3NfkN3eryOURfn186NU/edit)
 
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
