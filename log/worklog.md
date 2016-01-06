@@ -307,6 +307,14 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * drafted [Nifras' blog with track changes for approval](https://docs.google.com/document/d/1R8va3EdWSpLz3D1roY-Ek8bF3NfkN3eryOURfn186NU/edit)
 * closed this issue for fellow's [Prototype Phase](https://github.com/mozillascience/plan/issues/35)
 
+
+### 1/6/16
+* modifications on March 10th Community Call - Deborah Estrin is speaking
+* some logistics for visas, some more travel info sent
+* checked in with Pamela about reimbursements
+* thought on a Hive Buzz Chicago
+
+* [pitch to hive buzz chicago](https://docs.google.com/a/mozillafoundation.org/forms/d/15tznisphzJW4zYtmYPGt57D1fFblNb_1GajSKJJg5Zs/edit?usp=sharing) + review [current seshes](https://docs.google.com/spreadsheets/d/14q_MfxaUVDZ19YfNWf6fGMkHj8P7q7u0zM9tBX3XHFU/edit#gid=595942937)
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
 
