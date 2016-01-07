@@ -312,9 +312,29 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * modifications on March 10th Community Call - Deborah Estrin is speaking
 * some logistics for visas, some more travel info sent
 * checked in with Pamela about reimbursements
-* thought on a Hive Buzz Chicago
+* thought on a Hive Buzz Chicago pitch with stuart
+* meeting with the team on the WOW summit
+* lots of wow summit emails and spreadsheet updates
+* attended teachers meeting for parsons
+
+### 1/7/16
+* more email for WOW
+* fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
+
+
+
+* BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
+  ** tech exchange fellows
+  ** two OWF in boston
+  ** Berkman folks / Ethan Zuckerman
+  ** mozilla pop-up office in Boston
+  ** networking thing, less of a facillitated hacking thing
+
+* rights' con? can you go, would you go?
+* working open workshop - assets
 
 * [pitch to hive buzz chicago](https://docs.google.com/a/mozillafoundation.org/forms/d/15tznisphzJW4zYtmYPGt57D1fFblNb_1GajSKJJg5Zs/edit?usp=sharing) + review [current seshes](https://docs.google.com/spreadsheets/d/14q_MfxaUVDZ19YfNWf6fGMkHj8P7q7u0zM9tBX3XHFU/edit#gid=595942937)
+* make a gh-page for software checklisst
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
 
