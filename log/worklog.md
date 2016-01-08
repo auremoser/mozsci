@@ -320,6 +320,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 ### 1/7/16
 * more email for WOW
 * fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
+* fellows blog add [PR 63](https://github.com/mozillascience/site/pull/63)
+
+
+* feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
 
 
 
