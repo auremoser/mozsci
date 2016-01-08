@@ -323,11 +323,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * fellows blog add [PR 63](https://github.com/mozillascience/site/pull/63)
 
 
+#### STUDY GROUP
 * feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
+* survey design for swag pack sending
+* newletter
+* code review checklist for peers
+ * steps to reproducable research <http://kbroman.org/steps2rr/>
 
 
-
-* BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
+#### BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
   ** tech exchange fellows
   ** two OWF in boston
   ** Berkman folks / Ethan Zuckerman
