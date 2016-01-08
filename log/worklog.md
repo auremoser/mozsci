@@ -321,7 +321,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * more email for WOW
 * fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
 * fellows blog add [PR 63](https://github.com/mozillascience/site/pull/63)
+* enigma application for women: https://www.usenix.org/node/194357/done?sid=2118
 
+* email study group list with twitter list
 
 #### STUDY GROUP
 * feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
@@ -334,6 +336,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
   * code alongs
   * code review
   * [open utility belt](https://github.com/mozillascience/studyGroupLessons/issues/7)
+  * [MozStudy Twitter List](https://twitter.com/MozillaScience/lists/mozstudy)
 
 
 #### BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
