@@ -329,6 +329,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * newletter
 * code review checklist for peers
  * steps to reproducable research <http://kbroman.org/steps2rr/>
+ * lesssons
+  * open science 101
+  * code alongs
+  * code review
+  * [open utility belt](https://github.com/mozillascience/studyGroupLessons/issues/7)
 
 
 #### BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
