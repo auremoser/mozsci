@@ -337,6 +337,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
   * code review
   * [open utility belt](https://github.com/mozillascience/studyGroupLessons/issues/7)
   * [MozStudy Twitter List](https://twitter.com/MozillaScience/lists/mozstudy)
+  * comments to [zannah's issue](https://github.com/mozillascience/learning/issues/6#issuecomment-169837383)
 
 
 #### BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
