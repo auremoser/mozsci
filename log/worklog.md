@@ -322,8 +322,28 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
 * fellows blog add [PR 63](https://github.com/mozillascience/site/pull/63)
 * enigma application for women: https://www.usenix.org/node/194357/done?sid=2118
+* prep for Hive Chicago,
+* prep for meteor workshop
+* email to speakers for comm call
+* blog post post (thanks kay)
+
+### 1/1/16
+
+* email draft to everyone for canned responses
+* darci meeting
+
+* regional spreadsheet
+* followup and outreach strategy
+* tinyletter newsletter
 
 * email study group list with twitter list
+
+#### STRATEGY
+
+* newletter
+* canned responses
+* contacts and regional owners
+* followup and outreach schedule
 
 #### STUDY GROUP
 * feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
