@@ -327,16 +327,67 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email to speakers for comm call
 * blog post post (thanks kay)
 
-### 1/1/16
+### 1/11/16
 
 * email draft to everyone for canned responses
 * darci meeting
+* standup
+* emails and logistics for fellows call
+* make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
+* book ticket to chicago hive in january thurs-sun
+* etherpads archive 
+* space apps [challenge app](https://2015.spaceappschallenge.org/2016-registration/)
+* etherpad for fellows call, email queued
+* mailing list email about community call, tweet
+* submitted a HCB16 session: <https://docs.google.com/forms/d/15tznisphzJW4zYtmYPGt57D1fFblNb_1GajSKJJg5Zs/formResponse>
+* email to brett and melissa bout boston and berlin events
+* draft of orientation email
+* some travel emails
+
+####1/12/16
+
+* added users/blog to our website for the fellows
+* sent out fellows call reminders
+* more travel email for WOW
+* meeting with Dan + Erika
+* monthly internal foundation call meeting
+* imentor lunch meeting
+* booked accommodation for egencia
+* taught class on Meteor.js
+
+Contributor
+
+Github etiquette
+* remember to accommodate .gitignore file (generator)
+* have a contributor markdown
+* have semantic folders, pick a schema and stick with it
 
 * regional spreadsheet
 * followup and outreach strategy
 * tinyletter newsletter
 
+* make curriculum for contributors and github projects in the [cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes) - have notes by Friday
+
+
+### STUDY GROUPS - Bill Meeting
+* "it is what the local communities want to make it"
+  * maximally inclusive spaces
 * email study group list with twitter list
+open science tool belt off the groups
+* clean read study group handbook / 
+* lessons in repo, and issues with notes from repos
+* open an issue -> ask who they are, what's up,  - really open 
+* regular communication
+* broader community things
+* make sure we're supporting people investigating working open and open science
+* open licensing/open data
+* open science had most community contributions
+ * tunis
+ * madeleine
+ * rhody r stats
+ * australia groups very independent (autonomous)
+ * minnesota (rob schaffer)
+* relationship management - way to plug back in 
 
 #### STRATEGY
 
@@ -386,9 +437,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
 * make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
 
-* make deliverables for fellows [#35](https://github.com/mozillascience/plan/issues/35)
-* book ticket to chicago hive in january thurs-sun
-* etherpads archive                   
+                  
                                                                                                                                
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
 * apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
