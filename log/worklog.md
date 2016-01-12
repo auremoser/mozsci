@@ -354,6 +354,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * imentor lunch meeting
 * booked accommodation for egencia
 * taught class on Meteor.js
+* set-up multi-factor on phone
+* details to Norma about vocabulary
+* tweets about thursday's community call
 
 Contributor
 
@@ -362,32 +365,18 @@ Github etiquette
 * have a contributor markdown
 * have semantic folders, pick a schema and stick with it
 
+mitigating conflict
+giving people the benefit of the doubt
+how you reward people, how you recognize specific work
+credits page? humans.txt +1
+getting a DOI through ???
+
 * regional spreadsheet
 * followup and outreach strategy
 * tinyletter newsletter
 
 * make curriculum for contributors and github projects in the [cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes) - have notes by Friday
 
-
-### STUDY GROUPS - Bill Meeting
-* "it is what the local communities want to make it"
-  * maximally inclusive spaces
-* email study group list with twitter list
-open science tool belt off the groups
-* clean read study group handbook / 
-* lessons in repo, and issues with notes from repos
-* open an issue -> ask who they are, what's up,  - really open 
-* regular communication
-* broader community things
-* make sure we're supporting people investigating working open and open science
-* open licensing/open data
-* open science had most community contributions
- * tunis
- * madeleine
- * rhody r stats
- * australia groups very independent (autonomous)
- * minnesota (rob schaffer)
-* relationship management - way to plug back in 
 
 #### STRATEGY
 
@@ -399,28 +388,8 @@ open science tool belt off the groups
 
 #### STUDY GROUP
 * feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
-* survey design for swag pack sending
-* newletter
-* code review checklist for peers
- * steps to reproducable research <http://kbroman.org/steps2rr/>
- * lesssons
-  * open science 101
-  * code alongs
-  * code review
-  * [open utility belt](https://github.com/mozillascience/studyGroupLessons/issues/7)
-  * [MozStudy Twitter List](https://twitter.com/MozillaScience/lists/mozstudy)
-  * comments to [zannah's issue](https://github.com/mozillascience/learning/issues/6#issuecomment-169837383)
 
 
-#### BOSTON MEETUP: slifty fellows - Boston, setup Boston event convening- Open Vis Conf
-  ** tech exchange fellows
-  ** two OWF in boston
-  ** Berkman folks / Ethan Zuckerman
-  ** mozilla pop-up office in Boston
-  ** networking thing, less of a facillitated hacking thing
-
-* rights' con? can you go, would you go?
-* working open workshop - assets
 
 * [pitch to hive buzz chicago](https://docs.google.com/a/mozillafoundation.org/forms/d/15tznisphzJW4zYtmYPGt57D1fFblNb_1GajSKJJg5Zs/edit?usp=sharing) + review [current seshes](https://docs.google.com/spreadsheets/d/14q_MfxaUVDZ19YfNWf6fGMkHj8P7q7u0zM9tBX3XHFU/edit#gid=595942937)
 * make a gh-page for software checklisst
