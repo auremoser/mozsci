@@ -357,6 +357,16 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * set-up multi-factor on phone
 * details to Norma about vocabulary
 * tweets about thursday's community call
+* retweeted Rhody R Stats event update
+* send Jeff #mozstudy resources about R for his workshop
+ * feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
+* chatted with Annabel about trip to berlin
+* added fellows blog to user pages [here](https://github.com/mozillascience/site/pull/66) and in issue #62
+
+1/13/16
+* email to Brett and Melissa about WOW
+* email to Annabel about WOW possibilities
+* feedback on the [OWF narrative page](https://docs.google.com/document/d/1WRLUoMaoWvG1z_ASsQ0_WJ7NYj8E2W0Aqc6dHpZlM1U/edit)
 
 Contributor
 
@@ -387,11 +397,9 @@ getting a DOI through ???
 * followup and outreach schedule
 
 #### STUDY GROUP
-* feedback on [Rhody R Stats](https://github.com/rhodyrstats/intro_r_workshop)
 
+Invitation: Working Open Workshop | Feb. 4-7, 2016
 
-
-* [pitch to hive buzz chicago](https://docs.google.com/a/mozillafoundation.org/forms/d/15tznisphzJW4zYtmYPGt57D1fFblNb_1GajSKJJg5Zs/edit?usp=sharing) + review [current seshes](https://docs.google.com/spreadsheets/d/14q_MfxaUVDZ19YfNWf6fGMkHj8P7q7u0zM9tBX3XHFU/edit#gid=595942937)
 * make a gh-page for software checklisst
 * make gh-pages for a project "gallery"
 * add Event for mixer etherpad to event: 
@@ -401,7 +409,6 @@ getting a DOI through ???
 * tracking all the study group forks
 ** trendinafrica as trendinafrica/studyGroup
 * make the study group guidelines more "visual"
-* template library of emails
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
 * figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
 * make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
