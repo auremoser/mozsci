@@ -367,6 +367,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email to Brett and Melissa about WOW
 * email to Annabel about WOW possibilities
 * feedback on the [OWF narrative page](https://docs.google.com/document/d/1WRLUoMaoWvG1z_ASsQ0_WJ7NYj8E2W0Aqc6dHpZlM1U/edit)
+* worked on training [vocabulary](https://docs.google.com/document/d/1UJIIMupcsoNs--4pOfCy83jQ7WgK4AVO6nHTCecrw6g/edit?ts=569581d7#) for transcriptionist on 1/13
+* sent [intro text](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit) to [Study group fork](https://github.com/ClashTheBunny/studyGroup/issues/2)
+* slidewinder [public contributor](https://github.com/slidewinder/slidewinder)
+* tweets about community call
 
 Contributor
 
