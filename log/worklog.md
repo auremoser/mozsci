@@ -371,6 +371,14 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * sent [intro text](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit) to [Study group fork](https://github.com/ClashTheBunny/studyGroup/issues/2)
 * slidewinder [public contributor](https://github.com/slidewinder/slidewinder)
 * tweets about community call
+* hive call with stuart and david on our sessions (some planning there)
+* travel emails, prep activities
+
+1/14/15
+* thanks to community contributors to call
+* community call
+* fellows call
+* TSA appointment
 
 Contributor
 
