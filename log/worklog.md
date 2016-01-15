@@ -389,6 +389,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * reach out to speakers
 * make schedule for participants in germany
 * stage blog posts for fellows
+* interview with SE daily [notes](https://public.etherpad-mozilla.org/p/se-interview)
 
 Contributor
 
