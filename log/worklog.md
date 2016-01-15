@@ -363,7 +363,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * chatted with Annabel about trip to berlin
 * added fellows blog to user pages [here](https://github.com/mozillascience/site/pull/66) and in issue #62
 
-1/13/16
+####1/13/16
 * email to Brett and Melissa about WOW
 * email to Annabel about WOW possibilities
 * feedback on the [OWF narrative page](https://docs.google.com/document/d/1WRLUoMaoWvG1z_ASsQ0_WJ7NYj8E2W0Aqc6dHpZlM1U/edit)
@@ -374,11 +374,19 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * hive call with stuart and david on our sessions (some planning there)
 * travel emails, prep activities
 
-1/14/15
+####1/14/16
 * thanks to community contributors to call
 * community call
 * fellows call
 * TSA appointment
+* events stuff
+* curriculum for zannah
+
+
+####1/15/16
+* reach out to speakers
+* make schedule for participants in germany
+* stage blog posts for fellows
 
 Contributor
 
