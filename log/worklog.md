@@ -384,6 +384,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 
 ####1/15/16
+* heartbeats demo with cassie
+* team meeting
 * reach out to speakers
 * make schedule for participants in germany
 * stage blog posts for fellows
