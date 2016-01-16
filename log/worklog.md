@@ -391,7 +391,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * interview with SE daily [notes](https://public.etherpad-mozilla.org/p/se-interview)
 * meeting with Claudia on monday
 * worked on scheduling for teaching and talks
-* worked on some
+* worked on some travel logistics for confs and fellowship
 
 * make schedule for participants in germany
 * stage blog posts for fellows
