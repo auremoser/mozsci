@@ -385,25 +385,14 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 ####1/15/16
 * heartbeats demo with cassie
+* feedback for Richard on slidewinder :)
 * team meeting
 * reach out to speakers
+* interview with SE daily [notes](https://public.etherpad-mozilla.org/p/se-interview)
+* meeting with Claudia on monday
+
 * make schedule for participants in germany
 * stage blog posts for fellows
-* interview with SE daily [notes](https://public.etherpad-mozilla.org/p/se-interview)
-
-Contributor
-
-Github etiquette
-* remember to accommodate .gitignore file (generator)
-* have a contributor markdown
-* have semantic folders, pick a schema and stick with it
-
-mitigating conflict
-giving people the benefit of the doubt
-how you reward people, how you recognize specific work
-credits page? humans.txt +1
-getting a DOI through ???
-
 * regional spreadsheet
 * followup and outreach strategy
 * tinyletter newsletter
