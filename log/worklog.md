@@ -392,6 +392,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with Claudia on monday
 * worked on scheduling for teaching and talks
 * worked on some travel logistics for confs and fellowship
+* checked out abby's new awesome issue for 
+* wrote to Rose Eveleth about Open Science Community Call
 
 * make schedule for participants in germany
 * stage blog posts for fellows
