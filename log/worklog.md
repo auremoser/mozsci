@@ -395,6 +395,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * checked out abby's new awesome issue for 
 * wrote to Rose Eveleth about Open Science Community Call
 
+
+####1/19/15
+* worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
 * make schedule for participants in germany
 * stage blog posts for fellows
 * regional spreadsheet
