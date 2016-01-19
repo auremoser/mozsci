@@ -398,6 +398,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 ####1/19/15
 * worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
+* blog post about HIVe Chicago
 * setup gistup
 * make [schedule](https://public.etherpad-mozilla.org/p/wow-mslparty) for participants in germany
 * stage blog posts for fellows
