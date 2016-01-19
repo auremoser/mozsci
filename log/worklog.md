@@ -398,6 +398,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 ####1/19/15
 * worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
+* made fellows call for this week [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan21)
+* made [mapping resources](https://gist.github.com/auremoser/e7603d70406fe5956a62) for the Frick event upcoming
+* commment on abby's calendar issue: https://github.com/mozillascience/site/issues/74
+
 * blog post about HIVe Chicago
 * setup gistup
 * make [schedule](https://public.etherpad-mozilla.org/p/wow-mslparty) for participants in germany
