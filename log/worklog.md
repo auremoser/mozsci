@@ -387,7 +387,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * heartbeats demo with cassie
 * feedback for Richard on slidewinder :)
 * team meeting
-* reach out to speakers
+* reach out to speakers - Rose, April
 * interview with SE daily [notes](https://public.etherpad-mozilla.org/p/se-interview)
 * meeting with Claudia on monday
 * worked on scheduling for teaching and talks
@@ -399,17 +399,32 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 ####1/19/15
 * worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
 * made fellows call for this week [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan21)
+* polished a bit of the msl party plan for the [workweek]()
 * made [mapping resources](https://gist.github.com/auremoser/e7603d70406fe5956a62) for the Frick event upcoming
+* made short list of swag kit ideas
+* mtg with the Frick collection on mapping workshop
+* metis [data science talk prep](https://docs.google.com/presentation/d/1iW7taqktB_MR1CWyHnxnLSj2ulyiBien0utwMhmaNEs/edit#slide=id.gc56696b0f_4_813)
+* mtg with KT for 
 * commment on abby's calendar issue: https://github.com/mozillascience/site/issues/74
+* setup gistup, tested with a map on the wealthiest 1%
+* tinyletter newsletter to arliss
+
+* Kits blog post
+* Kits
+ * pledge to host a global sprint site
+ * instructions for what to share with social media :)
+ * Tweets w/ photos of Research Fox in the Andes
+ * Or Tweets w/ photos of Research Fox spotted somewhere
+ * Blogpost w/ form
+ * What does Open Sci mean to you?
+ * Why do you want a Research Fox?
+ * What have you done to advance Open Sci / Open Research / Open DAta
 
 * blog post about HIVe Chicago
-* setup gistup
 * make [schedule](https://public.etherpad-mozilla.org/p/wow-mslparty) for participants in germany
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
-* tinyletter newsletter
-
 * make curriculum for contributors and github projects in the [cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes) - have notes by Friday
 
 
