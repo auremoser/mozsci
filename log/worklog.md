@@ -404,10 +404,20 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made short list of swag kit ideas
 * mtg with the Frick collection on mapping workshop
 * metis [data science talk prep](https://docs.google.com/presentation/d/1iW7taqktB_MR1CWyHnxnLSj2ulyiBien0utwMhmaNEs/edit#slide=id.gc56696b0f_4_813)
-* mtg with KT for 
+* mtg with KT for 1:1
 * commment on abby's calendar issue: https://github.com/mozillascience/site/issues/74
 * setup gistup, tested with a map on the wealthiest 1%
 * tinyletter newsletter to arliss
+* gave talk at METIS
+* gave class on Meteor JS for Girl Develop It
+
+#### 1/20/15
+* met with Claudia in Berlin about ideas for meetups/adventures
+* Hive Chicago logistics
+* met with Arliss about outreach plans
+* email to claudia about logistics
+* made an event page for the WOW mixer
+* went over Chris' [strategic plan dec in prep for meeting](https://public.etherpad-mozilla.org/p/msl-mln-chat-jan-2016)
 
 * Kits blog post
 * Kits
