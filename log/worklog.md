@@ -418,6 +418,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email to claudia about logistics
 * made an event page for the WOW mixer
 * went over Chris' [strategic plan dec in prep for meeting](https://public.etherpad-mozilla.org/p/msl-mln-chat-jan-2016)
+* lots of wow email and last minute logistics (Demitri, Anna, Siddha...)
+* confirmed Kurtis as a community call speaker
+* submitted to [CSV conf](http://csvconf.com/)
 
 * Kits blog post
 * Kits
