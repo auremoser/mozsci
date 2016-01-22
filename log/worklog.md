@@ -396,7 +396,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * wrote to Rose Eveleth about Open Science Community Call
 
 
-####1/19/15
+####1/19/16
 * worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
 * made fellows call for this week [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan21)
 * polished a bit of the msl party plan for the [workweek]()
@@ -411,7 +411,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * gave talk at METIS
 * gave class on Meteor JS for Girl Develop It
 
-#### 1/20/15
+#### 1/20/16
 * met with Claudia in Berlin about ideas for meetups/adventures
 * Hive Chicago logistics
 * met with Arliss about outreach plans
@@ -421,7 +421,22 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * lots of wow email and last minute logistics (Demitri, Anna, Siddha...)
 * confirmed Kurtis as a community call speaker
 * submitted to [CSV conf](http://csvconf.com/)
+* did some #privacymonth tweets
+* reached out to Emily Elert <emily.elert@gmail.com> MinuteEarth, environmental stuff, about community call
 
+
+#### 1/21/16
+* reached out to Fellows team with a fellows contact spreadsheet, invite to first call, moved it because of a holiday
+* [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan21)
+* kits blog on plane
+* reviewed contributor currculum for Zannah, need to make some handouts/presentations
+* reached out to real scientists
+* some catchup emails post-plane landing
+* [issue 13](https://github.com/mozillascience/working-open-workshop/issues/13) for WOW workweek schedule
+* tweeted about Genspace event
+
+
+* fellows blogs 
 * Kits blog post
 * Kits
  * pledge to host a global sprint site
@@ -445,7 +460,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 * newletter
 * something with [steph's user doc](https://docs.google.com/spreadsheets/d/1p7R8VG9zJU9bhqx3v6LcNH_vHez_JuJGp5sF4LDgfxo/edit#gid=0)
-* canned responses
 * contacts and regional owners
 * followup and outreach schedule
 
