@@ -434,6 +434,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * some catchup emails post-plane landing
 * [issue 13](https://github.com/mozillascience/working-open-workshop/issues/13) for WOW workweek schedule
 * tweeted about Genspace event
+* confirmed Emily Elert as a speaker for our community call!
 
 
 * fellows blogs 
