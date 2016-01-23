@@ -436,6 +436,16 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * tweeted about Genspace event
 * confirmed Emily Elert as a speaker for our community call!
 
+#### 1/22/16
+* Hive Buzz Chicago prep and packing, setup
+* opening night event, took notes
+* Emails, reached outto folks
+ * Matthias Kirschner - Free Software Foundation Europe mk@fsfe.org
+ * Wolf Jeschonnek - Fab Lab Berlin wolf@makea.org
+ * Nils Weichert - Wikimedia Deutschland nils.weichert@wikimedia.de
+ * Leonhard Dobusch, researcher from my university, he is perfect connected with the "net community" <Leonhard.Dobusch@fu-berlin.de>
+ * Benjamin Kampmann - Open Tech School ben@opentechschool.org
+
 
 * fellows blogs 
 * Kits blog post
@@ -454,7 +464,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
-* make curriculum for contributors and github projects in the [cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes) - have notes by Friday
 
 
 #### STRATEGY
@@ -470,7 +479,6 @@ Invitation: Working Open Workshop | Feb. 4-7, 2016
 
 * make a gh-page for software checklisst
 * make gh-pages for a project "gallery"
-* add Event for mixer etherpad to event: 
 
 ### TODO
 
@@ -478,13 +486,11 @@ Invitation: Working Open Workshop | Feb. 4-7, 2016
 ** trendinafrica as trendinafrica/studyGroup
 * make the study group guidelines more "visual"
 * issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
-* figure out how to add etherpad to [commcall](https://www.mozillascience.org/community-call-jan-14-11-et)
 * make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
 
                   
                                                                                                                                
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
-* apply to [the combine](http://www.thecombine.nyc/menu/) for parsons' classes
 * make map block for expense data
 * mozlando map/mapchat
 

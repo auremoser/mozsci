@@ -22,7 +22,7 @@ In either case, please fill out this form so we can learn more about you, and se
 
 We'll send it to you ASAP, allow with instructions on yow to share your swag receipt with the Twitterverse!
 
-<img of rhody r stats>
+<img of rhody r stats sticker tweet>
 
 Thanks and good luck!
 
