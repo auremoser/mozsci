@@ -440,8 +440,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * Hive Buzz Chicago prep and packing, setup
 * opening night event, took notes
 * Emails, reached outto folks
- * Matthias Kirschner - Free Software Foundation Europe mk@fsfe.org
- * Wolf Jeschonnek - Fab Lab Berlin wolf@makea.org
+ * **Matthias Kirschner** - Free Software Foundation Europe mk@fsfe.org
+ * **Wolf Jeschonnek** - Fab Lab Berlin wolf@makea.org
  * Nils Weichert - Wikimedia Deutschland nils.weichert@wikimedia.de
  * Leonhard Dobusch, researcher from my university, he is perfect connected with the "net community" <Leonhard.Dobusch@fu-berlin.de>
  * Benjamin Kampmann - Open Tech School ben@opentechschool.org
