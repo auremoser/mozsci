@@ -445,7 +445,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
  * Nils Weichert - Wikimedia Deutschland nils.weichert@wikimedia.de
  * Leonhard Dobusch, researcher from my university, he is perfect connected with the "net community" <Leonhard.Dobusch@fu-berlin.de>
  * Benjamin Kampmann - Open Tech School ben@opentechschool.org
-
+* submitted syllabus to Open Syllabus Project
 
 * fellows blogs 
 * Kits blog post
