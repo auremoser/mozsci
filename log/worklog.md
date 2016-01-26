@@ -446,6 +446,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
  * Leonhard Dobusch, researcher from my university, he is perfect connected with the "net community" <Leonhard.Dobusch@fu-berlin.de>
  * Benjamin Kampmann - Open Tech School ben@opentechschool.org
 * submitted syllabus to Open Syllabus Project
+* fixed up bl.ocks account for hcb
+* added ideas to [Hive Chicago Buzz Feedback](https://docs.google.com/document/d/14ZnEqVP-q6JZXUa7LcVBka_EXPfFi-ViF9m6q0zNQis/edit)
+
+#### 1/23/16
+
+* made up fellows etherpad [for call this week](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan28)
 
 * fellows blogs 
 * Kits blog post
