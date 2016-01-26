@@ -449,14 +449,19 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * fixed up bl.ocks account for hcb
 * added ideas to [Hive Chicago Buzz Feedback](https://docs.google.com/document/d/14ZnEqVP-q6JZXUa7LcVBka_EXPfFi-ViF9m6q0zNQis/edit)
 
-#### 1/23/16
+#### 1/26/16
 
 * made up fellows etherpad [for call this week](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan28)
 * hive chicago buzz activities
   * Mapping workshop: <https://github.com/auremoser/HCB-mapping>
-  * Data resources:
+  * Data resources: <https://www.dropbox.com/home/Hive_Buzz_Data>
   * Code resources: <https://github.com/MozillaHive/hcb16-maps>
   * Blog post: <https://mozillascience.org/hive-chicago-buzz>
+* staged blog post
+* week in review blog mailing list meeting with arliss
+* make [comparative list of mailing list](.google.com/spreadsheets/u/1/d/1rjVhh2wOGUsbRugtyE-dA_KWAE5kq7-8OSW3I)
+* contacts in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=1220871281) for WOW, confirmed
+
 
 * fellows blogs 
 * Kits blog post
