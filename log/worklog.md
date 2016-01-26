@@ -452,6 +452,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 1/23/16
 
 * made up fellows etherpad [for call this week](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan28)
+* hive chicago buzz activities
+  * Mapping workshop: <https://github.com/auremoser/HCB-mapping>
+  * Data resources:
+  * Code resources: <https://github.com/MozillaHive/hcb16-maps>
+  * Blog post: 
 
 * fellows blogs 
 * Kits blog post
