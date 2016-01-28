@@ -462,7 +462,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * make [comparative list of mailing list](.google.com/spreadsheets/u/1/d/1rjVhh2wOGUsbRugtyE-dA_KWAE5kq7-8OSW3I)
 * contacts in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=1220871281) for WOW, confirmed
 
+#### 1/27/16
+* real scientists followup for comm call
+* template emails for attendees mailed out for approval
+* service now badge for paris
+* made hacks hackers template for [annabel](https://public.etherpad-mozilla.org/p/berlin-hh-msl)
 
+* template emails for attendees
 * fellows blogs 
 * Kits blog post
 * Kits
