@@ -468,21 +468,21 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * service now badge for paris
 * made hacks hackers template for [annabel](https://public.etherpad-mozilla.org/p/berlin-hh-msl)
 
-* template emails for attendees
-* fellows blogs 
-* Kits blog post
-* Kits
- * pledge to host a global sprint site
- * instructions for what to share with social media :)
- * Tweets w/ photos of Research Fox in the Andes
- * Or Tweets w/ photos of Research Fox spotted somewhere
- * Blogpost w/ form
- * What does Open Sci mean to you?
- * Why do you want a Research Fox?
- * What have you done to advance Open Sci / Open Research / Open DAta
+#### 1/29/16
+* worked on WOW presentation for contributing md
+* worked on handout for lessons
+* started planning hacks hackers talk
+* reviewed agenda for WOW #mslparty week
+* made study group [call issue](https://github.com/mozillascience/plan/issues/61)
+* moved study group meeting
+* wrapped up template emails for attendees, sent out to WOW members
+* Kits blog posted awaiting response for Feb 16 send off
+* review [schedule](https://public.etherpad-mozilla.org/p/wow-mslparty) for participants in germany
+* blog post about HIVE Chicago - posted
+* submitted IPAMs request to KT
 
-* blog post about HIVe Chicago
-* make [schedule](https://public.etherpad-mozilla.org/p/wow-mslparty) for participants in germany
+
+
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
