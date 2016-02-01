@@ -481,11 +481,23 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * blog post about HIVE Chicago - posted
 * submitted IPAMs request to KT
 
+#### 2/01/16
+
+* made presentation for WOW
+* made handout for WOW
+* sent fellows welcome email
+* reservation for 3 Schwestern
 
 
+* hacks/hackers talk/presentation
+* go over fellows' schedule
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
+
+* buy ticket to Strata hadoop world - 3/29 1:30-1:50pm 
+* buy ticket to SxSW, buy ticket to IPAMS March 6th (sunday, arrive), March 7 bus at 8:30 (http://www.ipam.ucla.edu/your-visit/hotels/)
+If you are coming to IPAM for less than 1 month, it is recommended that you stay in a hotel.  If you can find an apartment to sublease or rent for 20 days, that's perfect!  But keep in mind that your sublease or rental agreement must say 20 days in order for you to get your full reimbursement because IPAM can only reimburse you for your actual stay.  So, for example, if you are coming for 20 days and you rent a furnished apartment/room for 20 days, you can get reimbursed your full amount up to your max.  However, if it turns out that you rent an apartment for 30 days, you will only be reimbursed for the 20 days (the amount will be prorated) regardless of what your monthly max is.  Please let me know if this does not make sense or you have questions. 
 
 
 #### STRATEGY
