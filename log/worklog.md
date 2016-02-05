@@ -487,16 +487,31 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made handout for WOW
 * sent fellows welcome email
 * reservation for 3 Schwestern
-
-
+* debugged some hideous ssh github issue
+* sent Wolf invite for Thursday
+* coordinate with Rose Eveleth about March community call
+* made presentation for hacks hackers
+* fellows dinner
 * hacks/hackers talk/presentation
 * go over fellows' schedule
+
+
+####2/5/16
+
+* published blog about community call [here](https://mozillascience.org/community-call-feb-11-11et)
+* emailed speakers for community call
+* tweeted community call
+* gave talk on contribution
+* setup website for working open workshop [materials](http://mozillascience.github.io/working-open-workshop/)
+
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
 
 * buy ticket to Strata hadoop world - 3/29 1:30-1:50pm 
 * buy ticket to SxSW, buy ticket to IPAMS March 6th (sunday, arrive), March 7 bus at 8:30 (http://www.ipam.ucla.edu/your-visit/hotels/)
+
+
 If you are coming to IPAM for less than 1 month, it is recommended that you stay in a hotel.  If you can find an apartment to sublease or rent for 20 days, that's perfect!  But keep in mind that your sublease or rental agreement must say 20 days in order for you to get your full reimbursement because IPAM can only reimburse you for your actual stay.  So, for example, if you are coming for 20 days and you rent a furnished apartment/room for 20 days, you can get reimbursed your full amount up to your max.  However, if it turns out that you rent an apartment for 30 days, you will only be reimbursed for the 20 days (the amount will be prorated) regardless of what your monthly max is.  Please let me know if this does not make sense or you have questions. 
 
 
