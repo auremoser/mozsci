@@ -496,7 +496,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * go over fellows' schedule
 
 
-####2/5/16
+#### 2/5/16-2/8/2016
 
 * published blog about community call [here](https://mozillascience.org/community-call-feb-11-11et)
 * emailed speakers for community call
@@ -504,6 +504,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * gave talk on contribution
 * setup website for working open workshop [materials](http://mozillascience.github.io/working-open-workshop/)
 
+
+* write blog post on jenks [algorithm]
+>@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
