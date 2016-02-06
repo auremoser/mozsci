@@ -503,6 +503,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * tweeted community call
 * gave talk on contribution
 * setup website for working open workshop [materials](http://mozillascience.github.io/working-open-workshop/)
+* email participants about followup survey
+* invite those who have RSVP'd to github issue
+
+
+* issues for participants
 
 
 * write blog post on jenks [algorithm]
