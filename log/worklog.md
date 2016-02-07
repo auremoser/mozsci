@@ -505,7 +505,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * setup website for working open workshop [materials](http://mozillascience.github.io/working-open-workshop/)
 * email participants about followup survey
 * invite those who have RSVP'd to github issue
-* thank you notes to madeleine, melissa + sarah, fellows, norma, luke/cassie
+* thank you notes to madeleine, melissa + sarah, fellows, norma, luke/cassie, annabel, martyna
 
 
 * issues for participants
