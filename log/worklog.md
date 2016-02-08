@@ -496,7 +496,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * go over fellows' schedule
 
 
-#### 2/5/16-2/8/2016
+#### 2/5/16-2/8/16
 
 * published blog about community call [here](https://mozillascience.org/community-call-feb-11-11et)
 * emailed speakers for community call
@@ -508,7 +508,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * thank you notes to madeleine, melissa + sarah, fellows, norma, luke/cassie, annabel, martyna
 
 
+
+#### 2/8/16
+* hacks hackers connect rsvp
+* canceled 1:1
+* contacted Parker Abercrombie at Nasa
 * issues for participants
+* wrote to the JPL about speaking invite for March
 
 
 * write blog post on jenks [algorithm]
