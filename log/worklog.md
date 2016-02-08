@@ -508,7 +508,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * thank you notes to madeleine, melissa + sarah, fellows, norma, luke/cassie, annabel, martyna
 
 
-
 #### 2/8/16
 * hacks hackers connect rsvp
 * submitted RSVPs 
@@ -520,9 +519,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * gitter chat created
 * thank you email to birgit
 * submitted expenses
+* all issues for participants sent
+* 
 
-
-* issues for participants
 * team email about community call
 * swag kit mails!
 * write blog post on jenks [algorithm]
