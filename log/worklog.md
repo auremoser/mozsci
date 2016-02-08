@@ -516,10 +516,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * moz list serve draft email
 * canceled 1:1
 * contacted Parker Abercrombie at Nasa
-* issues for participants
 * wrote to the JPL about speaking invite for March
+* gitter chat created
+* thank you email to birgit
+* submitted expenses
 
 
+* issues for participants
+* team email about community call
+* swag kit mails!
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 * stage blog posts for fellows
