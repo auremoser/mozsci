@@ -511,6 +511,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 2/8/16
 * hacks hackers connect rsvp
+* submitted RSVPs 
 * community call email to listserv
 * moz list serve draft email
 * canceled 1:1
