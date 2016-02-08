@@ -511,6 +511,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 2/8/16
 * hacks hackers connect rsvp
+* community call email to listserv
+* moz list serve draft email
 * canceled 1:1
 * contacted Parker Abercrombie at Nasa
 * issues for participants
