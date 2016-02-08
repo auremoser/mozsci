@@ -520,7 +520,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * thank you email to birgit
 * submitted expenses
 * all issues for participants sent
-* 
+* special emails to anna and christopher and ali about issues
+
 
 * team email about community call
 * swag kit mails!
