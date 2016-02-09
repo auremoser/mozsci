@@ -523,6 +523,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * special emails to anna and christopher and ali about issues
 
 
+#### 2/8/16
+* Space apps
+* IFF move date email
+* IPAMS booking negotiations for March
+* work on study group forks
+* cern and zebetus (harry) study group fork outreachs
+
 
 * team email about community call
 * swag kit mails!
