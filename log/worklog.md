@@ -519,8 +519,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * gitter chat created
 * thank you email to birgit
 * submitted expenses
-* all issues for participants sent
+* [all issues](https://github.com/mozillascience/working-open-workshop/issues) for participants sent
 * special emails to anna and christopher and ali about issues
+
 
 
 * team email about community call
