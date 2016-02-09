@@ -530,6 +530,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * stage blog posts for fellows
 * regional spreadsheet
 * followup and outreach strategy
+* booked tentative travel for ipams
 
 * buy ticket to Strata hadoop world - 3/29 1:30-1:50pm 
 * buy ticket to SxSW, buy ticket to IPAMS March 6th (sunday, arrive), March 7 bus at 8:30 (http://www.ipam.ucla.edu/your-visit/hotels/)
