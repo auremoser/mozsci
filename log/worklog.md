@@ -541,6 +541,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * team call
 * call with arliss about sg call on friday
 * email to tom about mcing sg call
+* get back to abby about [OLC notes](https://public.etherpad-mozilla.org/p/olc-plan)
 
 * email to study group about Friday
 * content calendar for MSL
