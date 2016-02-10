@@ -530,9 +530,24 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * work on study group forks
 * cern and zebetus (harry) study group fork outreachs
 * WLIA [slides for talk](https://docs.google.com/presentation/d/13cvS4jNV4uV3NHoBmmWCxXxvn4Sr9PIU0KQDzT7Q7zU/edit#slide=id.gf048b468c_0_550)
-
-
+* tweet about commcall
 * team email about community call
+
+#### 2/10/16
+* some wow emails
+* emailed fellows about speaking on Thursday
+* packed for Wisconsin
+* setup egencia with my tsa pre-check stuff
+* team call
+* call with arliss about sg call on friday
+* email to tom about mcing sg call
+
+* email to study group about Friday
+* content calendar for MSL
+
+* Also, more drastically, (and I’m a complete noob with these matters so feel free to ignore the suggestions/ramblings) can the “core” elements of the Study Group forkable repo be in a separate repo that is called as a git submodule in the Study Group one? That way, the outer repo only contains config files etc., while the submodule can be updated regularly without breaking everything. Right now, we might not always git pull upstream gh-pages because we’ve modified the forked files quite a bit.
+Does that make any sense?
+* tweet about comm call
 * swag kit mails!
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
