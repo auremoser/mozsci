@@ -543,12 +543,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email to tom about mcing sg call
 * get back to abby about [OLC notes](https://public.etherpad-mozilla.org/p/olc-plan)
 * email to erika about wow notes
-* setup [olc slots](https://calendar.google.com/calendar/selfsched?sstoken=UUtxcDM0M2R3MjVDfGRlZmF1bHR8OWFhZTBmMzI3OGFhY2E1ODJlNzdjN2U5NDMzOTdhZjg) w/ abby, drafted email 
+* setup [olc slots](https://calendar.google.com/calendar/selfsched?sstoken=UUtxcDM0M2R3MjVDfGRlZmF1bHR8OWFhZTBmMzI3OGFhY2E1ODJlNzdjN2U5NDMzOTdhZjg) w/ abby, drafted email, [olc planning notes](https://public.etherpad-mozilla.org/p/olc-plan)
 * tweet for community call
 * email to study group about Friday
+* made blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 
 
+* write up wrap up blog for fellows
 * content calendar for MSL
+* figure out 
 
 * Also, more drastically, (and I’m a complete noob with these matters so feel free to ignore the suggestions/ramblings) can the “core” elements of the Study Group forkable repo be in a separate repo that is called as a git submodule in the Study Group one? That way, the outer repo only contains config files etc., while the submodule can be updated regularly without breaking everything. Right now, we might not always git pull upstream gh-pages because we’ve modified the forked files quite a bit.
 Does that make any sense?
