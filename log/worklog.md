@@ -547,6 +547,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * tweet for community call
 * email to study group about Friday
 * made blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+* added to abby's [debrief etherpad](https://public.etherpad-mozilla.org/p/sciencelab-berlin-debrief)
 
 
 * write up wrap up blog for fellows
