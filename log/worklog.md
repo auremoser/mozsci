@@ -556,7 +556,22 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * worked on [newsletter round up](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) with Arliss
 * write up wrap up blog for fellows
 * content calendar for MSL
-* figure out 
+* correspondence for various post-wow issues
+* posted pre-blog on fellows
+
+#### 2/16/16
+* meeting with KT 
+* figure out space apps sitch
+ * julia + meghan to see hive support (space apps meeting question sent)
+* worked on debrief doc
+
+
+* blog schedule - Tuesday post
+* figure out newsletter
+* figure out study group upload
+* get another speaker for march
+- Engagement -- GET conf
+
 
 * Also, more drastically, (and I’m a complete noob with these matters so feel free to ignore the suggestions/ramblings) can the “core” elements of the Study Group forkable repo be in a separate repo that is called as a git submodule in the Study Group one? That way, the outer repo only contains config files etc., while the submodule can be updated regularly without breaking everything. Right now, we might not always git pull upstream gh-pages because we’ve modified the forked files quite a bit.
 Does that make any sense?
