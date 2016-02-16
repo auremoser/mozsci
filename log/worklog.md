@@ -568,6 +568,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
  * notes [here](https://public.etherpad-mozilla.org/p/mozsciencekickoff)
  * issues forthcoming
 * guest blog series [here](https://mozillascience.org/rr-richard)
+* reminder emails with etherpads to all WOW mentorships starting tomorrow
+* meeting with Abby to go over WOW logistics for meetings tomorrow
 
 
 * blog schedule - Tuesday post
