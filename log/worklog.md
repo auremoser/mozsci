@@ -564,6 +564,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * figure out space apps sitch
  * julia + meghan to see hive support (space apps meeting question sent)
 * worked on debrief doc
+* meeting with zannah and design team about [website redesign brand brainstorm](https://github.com/MozillaFoundation/plan/issues/704)
+ * notes [here](https://public.etherpad-mozilla.org/p/mozsciencekickoff)
+ * issues forthcoming
 
 
 * blog schedule - Tuesday post
