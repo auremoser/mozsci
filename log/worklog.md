@@ -567,6 +567,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with zannah and design team about [website redesign brand brainstorm](https://github.com/MozillaFoundation/plan/issues/704)
  * notes [here](https://public.etherpad-mozilla.org/p/mozsciencekickoff)
  * issues forthcoming
+* guest blog series [here](https://mozillascience.org/rr-richard)
 
 
 * blog schedule - Tuesday post
