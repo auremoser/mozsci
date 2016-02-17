@@ -571,6 +571,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * reminder emails with etherpads to all WOW mentorships starting tomorrow
 * meeting with Abby to go over WOW logistics for meetings tomorrow
 * study group event for [march call](https://github.com/mozillascience/plan/issues/63)
+* more website issues [82](https://github.com/mozillascience/site/issues/82)
 
 
 * blog schedule - Thursday post
@@ -579,9 +580,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * figure out study group upload
 * get another speaker for march
 - Engagement -- GET conf
+* deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
 
 
-* tweet about comm call
+
 * swag kit mails!
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
