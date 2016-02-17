@@ -583,7 +583,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
 
 
-
+* issues to [open snp stuff](https://github.com/openSNP/snpr)
 * swag kit mails!
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
