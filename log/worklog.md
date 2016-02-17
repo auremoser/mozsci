@@ -580,11 +580,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
  * Anna
  * Bastian
  * Jon
- * 
+ * Oliver
+ * Kirstie
 
 * emailed fellows to remind them of tomorrow's call
 * website issues [81](https://github.com/mozillascience/site/issues/81) + [82](https://github.com/mozillascience/site/issues/82)
+* agreed to be emoticon judge
+* made a bunch of [notes from today's meetings](https://docs.google.com/document/d/1kn7nDXEqkQHQ0SuuOYp2-EoQHGi70cR8VQw4Ls9qXvE/edit#)
 
+* figure out schedule for April Event
 * blog schedule - Thursday post
 * get fellowship sprint feedback into etherpads
 * figure out newsletter
