@@ -574,6 +574,17 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * more website issues [82](https://github.com/mozillascience/site/issues/82)
 
 
+#### 2/17/16
+* started meetings with all OLC people for 2/17
+ * Madeleine
+ * Anna
+ * Bastian
+ * Jon
+ * 
+
+* emailed fellows to remind them of tomorrow's call
+* website issues [81](https://github.com/mozillascience/site/issues/81)
+
 * blog schedule - Thursday post
 * get fellowship sprint feedback into etherpads
 * figure out newsletter
