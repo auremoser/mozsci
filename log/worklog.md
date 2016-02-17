@@ -583,7 +583,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
  * 
 
 * emailed fellows to remind them of tomorrow's call
-* website issues [81](https://github.com/mozillascience/site/issues/81)
+* website issues [81](https://github.com/mozillascience/site/issues/81) + [82](https://github.com/mozillascience/site/issues/82)
 
 * blog schedule - Thursday post
 * get fellowship sprint feedback into etherpads

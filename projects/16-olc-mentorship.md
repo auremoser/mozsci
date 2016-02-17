@@ -32,3 +32,28 @@
 * get through most of the open issues
 * host a local hack event
 * 5pm timeslot so philip can join in australia
+
+
+**Jon**
+
+<https://public.etherpad-mozilla.org/p/wow-jon>
+
+* Science Open
+* Berlin Open Science Meetup
+* funding options
+* meetup qwerks/cool things
+
+**Kirstie**
+
+<https://public.etherpad-mozilla.org/p/wow-kirstie>
+
+* contributors
+* gave her the demo site and the list of options: <https://public.etherpad-mozilla.org/p/w4w>
+
+**Oliver**
+
+<https://public.etherpad-mozilla.org/p/wow-oliver>
+
+* license to choose
+* getting contributors, getting on collaborate
+* getting funding
