@@ -594,6 +594,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * recommendation letter for Amit for Mozilla reps
 * meeting with Fellows team
 * meeting with Fellows
+* reached out to Sumana and Fairpixels for the Open Science Community Call
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
