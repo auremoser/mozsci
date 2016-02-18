@@ -588,11 +588,17 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * agreed to be emoticon judge
 * made a bunch of [notes from today's meetings](https://docs.google.com/document/d/1kn7nDXEqkQHQ0SuuOYp2-EoQHGi70cR8VQw4Ls9qXvE/edit#)
 
+#### 2/18/16
+* changed study group for Otago
+* started draft for study group patch
+* recommendation letter for Amit for Mozilla reps
+* meeting with Fellows team
+* meeting with Fellows
+
 * figure out schedule for April Event
 * blog schedule - Thursday post
 * get fellowship sprint feedback into etherpads
 * figure out newsletter
-* figure out study group upload
 * get another speaker for march
 - Engagement -- GET conf
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
