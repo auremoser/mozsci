@@ -592,9 +592,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * changed study group for Otago
 * started draft for study group patch
 * recommendation letter for Amit for Mozilla reps
-* meeting with Fellows team
-* meeting with Fellows
-* reached out to Sumana and Fairpixels for the Open Science Community Call
+* meeting with Fellows team [notes](https://public.etherpad-mozilla.org/p/mozfellowships)
+* meeting with Fellows [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-feb18)
+* reached out to Sumana and Fairpixels for the Open Science Community Call, made [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr14-2016)
+* added community [call issue](https://github.com/mozillascience/plan/issues/64)
+
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
