@@ -596,7 +596,16 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with Fellows [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-feb18)
 * reached out to Sumana and Fairpixels for the Open Science Community Call, made [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr14-2016)
 * added community [call issue](https://github.com/mozillascience/plan/issues/64)
+* kirstie email collab with abby
+* added some ideas to the website page [#86](https://github.com/mozillascience/site/issues/86)
 
+
+#### 2/19/16
+* meeting with KT zannah on roles and study groups
+* meeting with team
+* meeting with advocacy fellows applicant
+* comments on the IA for the site
+* sent out first newsletter for february!
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
