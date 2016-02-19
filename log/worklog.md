@@ -607,6 +607,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * comments on the IA for the site
 * sent out first newsletter for february!
 * added march [call details](https://mozillascience.org/community-call-mar-10-11-et)
+* reached out to Sumana and Sumana's contacts for the community calls
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
