@@ -608,6 +608,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * sent out first newsletter for february!
 * added march [call details](https://mozillascience.org/community-call-mar-10-11-et)
 * reached out to Sumana and Sumana's contacts for the community calls
+* review christie/steph blog [here](https://docs.google.com/document/d/1oI2ZvS6MZRW8JMnLzAW2FSKww0h15ppYaIDlbkXprkg/edit?ts=56c76282)
+
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
