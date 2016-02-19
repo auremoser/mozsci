@@ -606,6 +606,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with advocacy fellows applicant
 * comments on the IA for the site
 * sent out first newsletter for february!
+* added march [call details](https://mozillascience.org/community-call-mar-10-11-et)
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
