@@ -620,6 +620,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * beautiful rising meeting
 * get another speaker for march
 - Engagement -- GET conf
+* reach out to another speaker for april community call @Design Open
+
 
 
 * make template for study groups events
