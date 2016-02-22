@@ -618,14 +618,14 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * homepage meeting
 * olc etherpads and updated notes doc:
 * beautiful rising meeting
+* get another speaker for march
+- Engagement -- GET conf
 
 
 * make template for study groups events
 * figure out schedule for April Event
-* blog schedule - Thursday post
+* blog schedule - Tuesday post
 * get fellowship sprint feedback into etherpads
-* get another speaker for march
-- Engagement -- GET conf
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
 
 
