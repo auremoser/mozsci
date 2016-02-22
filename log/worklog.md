@@ -616,6 +616,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * some [Cohort feedback](https://github.com/mozillascience/working-open-workshop/issues/61#issuecomment-186659823) for contributing md
 * 1-1 meeting
 * homepage meeting
+* olc etherpads and updated notes doc:
+* beautiful rising meeting
 
 
 * make template for study groups events
