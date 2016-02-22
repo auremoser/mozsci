@@ -610,6 +610,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * reached out to Sumana and Sumana's contacts for the community calls
 * review christie/steph blog [here](https://docs.google.com/document/d/1oI2ZvS6MZRW8JMnLzAW2FSKww0h15ppYaIDlbkXprkg/edit?ts=56c76282)
 
+#### 2/21/16
+* space apps arrangements
+* basket requests
+
 
 * figure out schedule for April Event
 * blog schedule - Thursday post
