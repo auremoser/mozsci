@@ -621,7 +621,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * get another speaker for march
 - Engagement -- GET conf
 * reach out to another speaker for april community call @Design Open
-
+* fellow's program updates call every 4 weeks
 
 
 * make template for study groups events
