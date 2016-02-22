@@ -613,12 +613,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 2/21/16
 * space apps arrangements
 * basket requests
+* some [Cohort feedback](https://github.com/mozillascience/working-open-workshop/issues/61#issuecomment-186659823) for contributing md
+* 1-1 meeting
+* homepage meeting
 
 
+* make template for study groups events
 * figure out schedule for April Event
 * blog schedule - Thursday post
 * get fellowship sprint feedback into etherpads
-* figure out newsletter
 * get another speaker for march
 - Engagement -- GET conf
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
