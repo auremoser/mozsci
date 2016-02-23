@@ -630,7 +630,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * study group send off email
 * posted joey's project
 * solicited more speakers
-* OLC day of meetings
+* OLC day of meetings [notes](https://docs.google.com/document/d/1kn7nDXEqkQHQ0SuuOYp2-EoQHGi70cR8VQw4Ls9qXvE/edit#)
+* sent out etherpads for tomorrow's calls
 
 
 * make template for study groups events
