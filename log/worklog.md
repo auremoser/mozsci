@@ -626,6 +626,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * reached out to Audrey Eschright for April Community Call
 * sent out agenda for fellows calls
 
+#### 2/22/16
+* study group send off email
+* posted joey's project
+* solicited more speakers
+* OLC day of meetings
+
 
 * make template for study groups events
 * figure out schedule for April Event
