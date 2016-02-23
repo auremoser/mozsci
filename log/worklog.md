@@ -623,6 +623,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * reach out to another speaker for april community call @Design Open
 * fellow's program updates call every 4 weeks
 * reached out to [this guy](http://tech.cornell.edu/people/jp-pollak) about engagement call 
+* reached out to Audrey Eschright for April Community Call
+* sent out agenda for fellows calls
 
 
 * make template for study groups events
