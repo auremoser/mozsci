@@ -622,6 +622,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 - Engagement -- GET conf
 * reach out to another speaker for april community call @Design Open
 * fellow's program updates call every 4 weeks
+* reached out to [this guy](http://tech.cornell.edu/people/jp-pollak) about engagement call 
 
 
 * make template for study groups events
