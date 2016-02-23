@@ -632,6 +632,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * solicited more speakers
 * OLC day of meetings [notes](https://docs.google.com/document/d/1kn7nDXEqkQHQ0SuuOYp2-EoQHGi70cR8VQw4Ls9qXvE/edit#)
 * sent out etherpads for tomorrow's calls
+* confirmation from jp pollak!
 
 
 * make template for study groups events
