@@ -634,6 +634,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * sent out etherpads for tomorrow's calls
 * confirmation from jp pollak!
 
+#### 2/23/16
+* study group africa, first meeting
+* OLC meetings with Christopher, Igor, Tim
+* review of OLC stuff with Abby
+* contacts to Kristina for the website
+* checkin with MSL on gitter
+
 
 * make template for study groups events
 * figure out schedule for April Event
