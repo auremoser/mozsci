@@ -638,7 +638,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * study group africa, first meeting
 * OLC meetings with Christopher, Igor, Tim
 * review of OLC stuff with Abby
-* contacts to Kristina for the website
+* contacts to Kristina [for the website](https://github.com/mozillascience/site/issues/81#issuecomment-188380687)
 * checkin with MSL on gitter
 
 
