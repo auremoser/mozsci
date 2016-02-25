@@ -645,6 +645,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 2/23/16
 
 * respond to content issue: https://github.com/mozillascience/site/issues/86
+* https://github.com/mozillascience/site/issues/81
 * comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
 * make template for study groups events
 * figure out schedule for April Event
@@ -652,6 +653,14 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * get fellowship sprint feedback into etherpads
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
 
+PACKS
+    get postcard made
+    get envelopes
+    1/2 pack of fox stickers
+    1/2 pack of logo stickers
+    postcard with bitly resource link / welcome message / prompt to tweet (like what Madeleine did with her swag)
+    buttons made from Abby's templates
+    tattlys (I invested in some science tattlys that we can confetti into the packs)
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
 * swag kit mails!
