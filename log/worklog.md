@@ -640,8 +640,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * review of OLC stuff with Abby
 * contacts to Kristina [for the website](https://github.com/mozillascience/site/issues/81#issuecomment-188380687)
 * checkin with MSL on gitter
+* gh-pages checklist with steph
 
+#### 2/23/16
 
+* respond to content issue: https://github.com/mozillascience/site/issues/86
+* comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
 * make template for study groups events
 * figure out schedule for April Event
 * blog schedule - Tuesday post
