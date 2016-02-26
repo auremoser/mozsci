@@ -663,6 +663,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * catchup on abby's OLC assignments
 * emails to kristina about the website
 
+#### 2/26/16
+* curriculum meeting [notes](https://public.etherpad-mozilla.org/p/teach.mct-mtg-february-2016)
+* filled in steph's checklist for [code stuff](https://public.etherpad-mozilla.org/p/opendata-checklist)
+
 PACKS
     get postcard made
     get envelopes
