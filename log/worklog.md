@@ -662,15 +662,19 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with the Round for contacts share
 * catchup on abby's OLC assignments
 * emails to kristina about the website
+* comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
+
 
 #### 2/26/16
 * curriculum meeting [notes](https://public.etherpad-mozilla.org/p/teach.mct-mtg-february-2016)
 * filled in steph's checklist for [code stuff](https://public.etherpad-mozilla.org/p/opendata-checklist) [site](http://auremoser.github.io/checklist/)
+* feedback on messaging [here](https://docs.google.com/a/mozillafoundation.org/forms/d/1QN8Pv_Tfe0VphoSkXglf902GFn50XlXlPL3S2tLmckE/formResponse)
 
-
+* check in with Ali and Stuart about OLC
+* figuring out fellows mid-term workweek, and plans for the next fellow phase
 * respond to content issue: https://github.com/mozillascience/site/issues/86
 * https://github.com/mozillascience/site/issues/81
-* comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
+
 
 PACKS
     get postcard made
