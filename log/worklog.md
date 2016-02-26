@@ -653,6 +653,16 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * get fellowship sprint feedback into etherpads
 * deal with [patch issue](https://github.com/mozillascience/studyGroup/pull/48#issuecomment-184941764)
 
+#### 2/25/16
+* [checklist stuff](http://github.com/auremoser/checklist) with steph
+* swag packs breakdown
+* creative tech week arrangments
+* website planning meeting, feedback
+* meeting with Metis students for Refugee project
+* meeting with the Round for contacts share
+* catchup on abby's OLC assignments
+* emails to kristina about the website
+
 PACKS
     get postcard made
     get envelopes
