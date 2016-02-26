@@ -665,7 +665,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 2/26/16
 * curriculum meeting [notes](https://public.etherpad-mozilla.org/p/teach.mct-mtg-february-2016)
-* filled in steph's checklist for [code stuff](https://public.etherpad-mozilla.org/p/opendata-checklist)
+* filled in steph's checklist for [code stuff](https://public.etherpad-mozilla.org/p/opendata-checklist) [site](http://auremoser.github.io/checklist/)
+
+
+* respond to content issue: https://github.com/mozillascience/site/issues/86
+* https://github.com/mozillascience/site/issues/81
+* comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
 
 PACKS
     get postcard made
