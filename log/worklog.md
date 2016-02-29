@@ -680,6 +680,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 2/27/16
 * meeting with KT for check in
 * meeting with Samantha and Andy for Frick workshop on the 25th
+* filled out [diversity + inclusion stuff](https://docs.google.com/a/mozillafoundation.org/forms/d/1wj_LFpDjkiFKgLlFwI8WHo99fTiEScNTQklaVWxYQqw/formResponse)
 
 PACKS
     get postcard made
