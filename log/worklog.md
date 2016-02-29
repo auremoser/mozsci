@@ -683,6 +683,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * filled out [diversity + inclusion stuff](https://docs.google.com/a/mozillafoundation.org/forms/d/1wj_LFpDjkiFKgLlFwI8WHo99fTiEScNTQklaVWxYQqw/formResponse)
 * site planning meeting on fellowship pages!
 * mozilla monthly internal call
+* reached out to jeff + shauna for study group call
 
 PACKS
     get postcard made
