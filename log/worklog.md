@@ -679,6 +679,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 2/27/16
 * meeting with KT for check in
+* meeting with Samantha and Andy for Frick workshop on the 25th
 
 PACKS
     get postcard made
