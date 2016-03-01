@@ -684,6 +684,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * site planning meeting on fellowship pages!
 * mozilla monthly internal call
 * reached out to jeff + shauna for study group call
+* got apartment for sxsw
+* 
 
 PACKS
     get postcard made
