@@ -693,6 +693,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * went over some redpen designs
 * printed materials for the swag packs, assembled rough assembly line
 * some logistics for space apps
+* made a new checklist for steph: https://github.com/mozillascience/checklist
+* finished study group blog post in wordpress -> sent to KT for review
+* study group email reminder sent
+* updates to all OLC members sent for meetings tomorrow
+* tweeted about study group call and @shauna_gm's participation
+* reached out to 3 new study group forks
 
 PACKS
     get postcard made
