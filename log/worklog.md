@@ -689,6 +689,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 3/1/16
 * some text for the [website content](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
+* reminders to OLC for tomorrow sent
+* went over some redpen designs
+* printed materials for the swag packs, assembled rough assembly line
+* some logistics for space apps
 
 PACKS
     get postcard made
