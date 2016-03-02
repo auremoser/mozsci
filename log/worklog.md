@@ -700,6 +700,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * tweeted about study group call and @shauna_gm's participation
 * reached out to 3 new study group forks
 
+#### 3/2/16
+* OLC meetings with Anna, Madeleine, Bastian
+* emails with community call people
+
 PACKS
     get postcard made
     get envelopes
