@@ -703,6 +703,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 3/2/16
 * OLC meetings with Anna, Madeleine, Bastian
 * emails with community call people
+* fellows etherpad, fellows email
+* website emails, lots of general responses
+* prepared some swag packs 
 
 PACKS
     get postcard made
