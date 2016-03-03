@@ -712,7 +712,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * responded to some emails
 * confirmed Tiffany as MC for study Group call
 * personally messaged all study groupers in the [matrix](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
-* fellow's call
+* fellow's call: <https://public.etherpad-mozilla.org/p/2015-science-fellows-mar02>
 * commented on [ia findings](https://docs.google.com/document/d/1oveyDCRLWtyXBSkLyrJGtMzRkAw6req2n5ARSO5d-gI/edit)
 * commented on trailing redpens
 * assembled swag packs
