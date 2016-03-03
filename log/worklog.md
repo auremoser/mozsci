@@ -707,6 +707,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * website emails, lots of general responses
 * prepared some swag packs 
 
+#### 3/3/2016
+* website meeting at 12:30
+* responded to some emails
+* confirmed Tiffany as MC for study Group call
+* personally messaged all study groupers in the [matrix](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+
 PACKS
     get postcard made
     get envelopes
