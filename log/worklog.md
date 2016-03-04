@@ -724,6 +724,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * emails with study group leads on new project and outreach
 * some inspiring basket request correspondence
 * thank you to Shauna from the study group call spot
+* filled out foundation [questionnaire](https://www.surveygizmo.com/s3/2633339/Innovation-Operational-Questionnaire-Foundation) from Hermina
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
