@@ -717,6 +717,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * commented on trailing redpens
 * assembled swag packs
 
+#### 3/4/2016
+* setup call pad for Study Group Leads call: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2016
+* added Alexander as a speaker to the may community call: https://public.etherpad-mozilla.org/p/sciencelab-calls-may12-2016
+
+
 PACKS
     get postcard made
     get envelopes
