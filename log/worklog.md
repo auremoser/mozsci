@@ -720,8 +720,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 3/4/2016
 * setup call pad for Study Group Leads call: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2016
 * added Alexander as a speaker to the may community call: https://public.etherpad-mozilla.org/p/sciencelab-calls-may12-2016
+* meeting with Chris from iHub about Nairobi summer data training with KT
+* emails with study group leads on new project and outreach
+* some inspiring basket request correspondence
+* thank you to Shauna from the study group call spot
 
-
+Send followup to Chris about fellows work week, resources, data training etcet
+train the trainers
 PACKS
     get postcard made
     get envelopes
