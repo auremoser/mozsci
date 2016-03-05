@@ -729,7 +729,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * feedback to Sarah from UW madison
 * worked with Matthew on [network pulse sketches](http://xmatthewx.github.io/network-pulse/)
 
-#### 3/
+#### 3/5/16
+* google women techmakers event
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
