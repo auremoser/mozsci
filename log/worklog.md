@@ -731,6 +731,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 3/5/16
 * google women techmakers event
+* made a webworkers app: https://aureweather.firebaseapp.com/
+* published a blog on the community call: https://mozillascience.org/community-call-mar-10-11et
+* emailed speakers
+* emailed
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
