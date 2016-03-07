@@ -734,7 +734,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made a webworkers app: https://aureweather.firebaseapp.com/
 * published a blog on the community call: https://mozillascience.org/community-call-mar-10-11et
 * emailed speakers
-* emailed
+* emailed abby about hosting call
+
+#### 3/6/16
+* prep for ipams, flew to LA
+* commented on Red pen about [IA for the MSL site]()
+
+
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
