@@ -742,7 +742,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * added expensify receipts for shipping swag kits
 * updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * made fellows' call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar10), scheduled email to fellows
-* put together april fellows' week planning [pad](https://public.etherpad-mozilla.org/p/april-fellows-jam)
+* put together april fellows' week planning [pad](https://public.etherpad-mozilla.org/p/april-fellows-jam) [#57](https://github.com/mozillascience/plan/issues/57)
 
 
 
