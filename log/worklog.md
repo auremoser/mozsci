@@ -741,6 +741,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * commented on Red pen about [IA for the MSL site](https://redpen.io/uk017bb24968e69f1b)
 * added expensify receipts for shipping swag kits
 * updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+* made fellows' call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar10), scheduled email to fellows
+* put together april fellows' week planning [pad](https://public.etherpad-mozilla.org/p/april-fellows-jam)
 
 
 
