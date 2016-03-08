@@ -750,6 +750,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * took notes at [day one of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 * random emails
 * made [presentation for sxsw](https://docs.google.com/presentation/d/1wndNYznUWJVozeH48NBT5enWqnEoWDTQl2jI6ivBPyA/edit#slide=id.g846db460f_0_0)
+* feedback to some study groups
+* added some more to the Study Group matrix
+* attended space apps admins calls
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
