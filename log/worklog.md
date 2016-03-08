@@ -746,6 +746,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * tweeted Anna's contributing md for [biodiversity Hackdays](https://github.com/SheffieldR/NBN_hack_series/blob/master/CONTRIBUTING.md)
 
 
+#### 3/7/16
+* took notes at [day one of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+* random emails
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
