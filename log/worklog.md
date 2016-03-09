@@ -759,6 +759,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * approval for CSV and Netherlands conference
 * only one OLC meeting today :( - demitri
 
+#### 3/9/16
+* took notes at [day three of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+
+
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
