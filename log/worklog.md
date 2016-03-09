@@ -745,7 +745,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * put together april fellows' week planning [pad](https://public.etherpad-mozilla.org/p/april-fellows-jam) [#57](https://github.com/mozillascience/plan/issues/57)
 * tweeted Anna's contributing md for [biodiversity Hackdays](https://github.com/SheffieldR/NBN_hack_series/blob/master/CONTRIBUTING.md)
 
-
 #### 3/7/16
 * took notes at [day one of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 * random emails
@@ -753,6 +752,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * feedback to some study groups
 * added some more to the Study Group matrix
 * attended space apps admins calls
+
+#### 3/8/16
+* took notes at [day two of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+* emails answered from Stavros of Expertise Finder in Toronto and CSV conf
+* approval for CSV and Netherlands conference
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
