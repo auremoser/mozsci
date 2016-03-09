@@ -763,6 +763,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * took notes at [day three of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 * drafted OWF email copy 
 
+- biononymous
+- practice talk
+- update website
+- update stereo semantics
+
 
 
 Send followup to Chris about fellows work week, resources, data training etcet
