@@ -755,8 +755,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 3/8/16
 * took notes at [day two of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
-* emails answered from Stavros of Expertise Finder in Toronto and CSV conf
+* emails answered from Stavros of Expertise Finder in Toronto and CSV conf, Ancon email catchup
 * approval for CSV and Netherlands conference
+* only one OLC meeting today :( - demitri
+
 
 Send followup to Chris about fellows work week, resources, data training etcet
 train the trainers
