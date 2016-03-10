@@ -762,6 +762,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 #### 3/9/16
 * took notes at [day three of IPAMS](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 * drafted OWF email copy 
+* applied google io
+* set-up meetings with OWF fellow prog manage interviews
+* flew to austin
+* prepped talk for sxsw
 
 - biononymous
 - practice talk
