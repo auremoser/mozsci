@@ -774,6 +774,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * practiced talk for sxsw
 * 
 
+* apply to SRCCON march 30
+
 - biononymous
 - practice talk
 - update website
