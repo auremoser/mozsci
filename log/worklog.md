@@ -767,6 +767,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * flew to austin
 * [prepped talk for sxsw](https://docs.google.com/presentation/d/1wndNYznUWJVozeH48NBT5enWqnEoWDTQl2jI6ivBPyA/edit#slide=id.g846db460f_0_1060)
 
+#### 3/10/16
+
+* intro'd joey to reporter to cover research
+* worked on updating [team mtg document](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar11-2016)
+* practiced talk for sxsw
+* 
+
 - biononymous
 - practice talk
 - update website
