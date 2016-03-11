@@ -765,7 +765,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * applied google io
 * set-up meetings with OWF fellow prog manage interviews
 * flew to austin
-* prepped talk for sxsw
+* [prepped talk for sxsw](https://docs.google.com/presentation/d/1wndNYznUWJVozeH48NBT5enWqnEoWDTQl2jI6ivBPyA/edit#slide=id.g846db460f_0_1060)
 
 - biononymous
 - practice talk
