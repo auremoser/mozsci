@@ -772,7 +772,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * intro'd joey to reporter to cover research
 * worked on updating [team mtg document](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar11-2016)
 * practiced talk for sxsw
-* 
+* gave talk
+* chatted with a pile of folks post-talk
+* apt with Caroline, Justin and Mike for tomorrow
 
 * apply to SRCCON march 30
 
