@@ -784,6 +784,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * job opportunity to mailing list
 * team meeting [notes](https://public.etherpad-mozilla.org/p/sciencelab-team-standup-mar2016)
 * apply to SRCCON march 30
+* fellows call setup [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar17)
+* data science bootcamp meeting [notes](https://drive.google.com/file/d/0Bz94QYIr9g9FWkhRMHZ4OWNNU3c/view)
 
 - biononymous
 - practice talk
