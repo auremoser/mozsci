@@ -786,9 +786,10 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * apply to SRCCON march 30
 * fellows call setup [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar17)
 * data science bootcamp meeting [notes](https://drive.google.com/file/d/0Bz94QYIr9g9FWkhRMHZ4OWNNU3c/view)
+* sketched out basic schedule for data camp at cartodb
+
 
 - biononymous
-- practice talk
 - update website
 - update stereo semantics
 
