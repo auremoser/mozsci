@@ -776,6 +776,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * chatted with a pile of folks post-talk
 * apt with Caroline, Justin and Mike for tomorrow
 
+
+#### 3/14/16
+
+* [meeting with KT](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* se daily podcast tweet
+* job opportunity to mailing list
+* team meeting [notes](https://public.etherpad-mozilla.org/p/sciencelab-team-standup-mar2016)
 * apply to SRCCON march 30
 
 - biononymous
@@ -797,7 +804,7 @@ PACKS
     tattlys (I invested in some science tattlys that we can confetti into the packs)
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
-* swag kit mails!
+
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 * stage blog posts for fellows
