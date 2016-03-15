@@ -790,6 +790,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * booked flights for strata
 * booked flights for workweek in toronto
 * booked accommodation for toronto
+* responded to an OpenSNP [issue](https://github.com/openSNP/snpr/issues/268#issuecomment-195914429)
 
 
 - biononymous
