@@ -795,16 +795,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * booked flights for CSVConf
 * reset questions on fellows etherpad for next phase
 
+#### 3/15/16
+* working on flights for all upcoming conferences
+* interviews with OWF
+* meeting with amel [olc notes](https://public.etherpad-mozilla.org/p/wow-amel-et-al)
 * interview greatest hits blog - 4/18
+* review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) 
 
 - biononymous
 - update website
-- update stereo semantics
-
-
-
-
-
 
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
@@ -816,12 +815,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * followup and outreach strategy
 * booked tentative travel for ipams
 
-* buy ticket to Strata hadoop world - 3/29 1:30-1:50pm 
-* buy ticket to SxSW, buy ticket to IPAMS March 6th (sunday, arrive), March 7 bus at 8:30 (http://www.ipam.ucla.edu/your-visit/hotels/)
-
-
-If you are coming to IPAM for less than 1 month, it is recommended that you stay in a hotel.  If you can find an apartment to sublease or rent for 20 days, that's perfect!  But keep in mind that your sublease or rental agreement must say 20 days in order for you to get your full reimbursement because IPAM can only reimburse you for your actual stay.  So, for example, if you are coming for 20 days and you rent a furnished apartment/room for 20 days, you can get reimbursed your full amount up to your max.  However, if it turns out that you rent an apartment for 30 days, you will only be reimbursed for the 20 days (the amount will be prorated) regardless of what your monthly max is.  Please let me know if this does not make sense or you have questions. 
-
 
 #### STRATEGY
 
@@ -832,9 +825,6 @@ If you are coming to IPAM for less than 1 month, it is recommended that you stay
 
 #### STUDY GROUP
 
-Invitation: Working Open Workshop | Feb. 4-7, 2016
-
-* make a gh-page for software checklisst
 * make gh-pages for a project "gallery"
 
 ### TODO
@@ -847,7 +837,7 @@ Invitation: Working Open Workshop | Feb. 4-7, 2016
 
                   
                                                                                                                                
-* review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) before call
+before call
 * make map block for expense data
 * mozlando map/mapchat
 
