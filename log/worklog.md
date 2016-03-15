@@ -791,7 +791,11 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * booked flights for workweek in toronto
 * booked accommodation for toronto
 * responded to an OpenSNP [issue](https://github.com/openSNP/snpr/issues/268#issuecomment-195914429)
+* Send followup to Chris about fellows work week, resources, data training etcet
+* booked flights for CSVConf
+* reset questions on fellows etherpad for next phase
 
+* interview greatest hits blog - 4/18
 
 - biononymous
 - update website
@@ -799,16 +803,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 
 
-Send followup to Chris about fellows work week, resources, data training etcet
-train the trainers
-PACKS
-    get postcard made
-    get envelopes
-    1/2 pack of fox stickers
-    1/2 pack of logo stickers
-    postcard with bitly resource link / welcome message / prompt to tweet (like what Madeleine did with her swag)
-    buttons made from Abby's templates
-    tattlys (I invested in some science tattlys that we can confetti into the packs)
+
+
+
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
 
