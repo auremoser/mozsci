@@ -801,6 +801,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with amel [olc notes](https://public.etherpad-mozilla.org/p/wow-amel-et-al)
 * interview greatest hits blog - 4/18
 * review [fellows structure doc](https://docs.google.com/document/d/18XX0qhbLnp_CkrUDBUx3cetSa65P4bBLAqfyMioWL14/edit?ts=565f068e) 
+* reach out to women techmakers for lainie
 
 - biononymous
 - update website
