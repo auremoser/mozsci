@@ -815,6 +815,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * time zone emails for olc meetings
 * study group stuff with hannah and abby
 * newsletter content primed and emailed to arliss [notes here](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
+* thinking about study groups
+* updated OLC notes doc for Abby
 
 - biononymous
 - update website
@@ -827,6 +829,8 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * merging upstream - maybe have instructions for this
 * monitoring forks - maybe write a script to pull fork updates
 * events calendar - maybe write a script for the events calendar
+* make the study group guidelines more "visual"
+* introduce play: mozlando map/mapchat
 
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
@@ -847,20 +851,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * followup and outreach schedule
 
 
-
-### TODO
-
-* tracking all the study group forks
-** trendinafrica as trendinafrica/studyGroup
-* make the study group guidelines more "visual"
-* issues for [summit tasks](https://github.com/mozillascience/plan/issues/42), [#41](https://github.com/mozillascience/plan/issues/41), [#40](https://github.com/mozillascience/plan/issues/40)
-* make event for the community mixer [#38](https://github.com/mozillascience/plan/issues/38)
-
-                  
-                                                                                                                               
-before call
-* make map block for expense data
-* mozlando map/mapchat
 
 ### RESOURCES
 
