@@ -805,6 +805,13 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 #### 3/16/16
 * olc meetings, bright and early
+  * madeleine
+  * madeleine + luke
+  * kirstie
+  * anna
+  * jon (resheduled to next week)
+  * bastian (abby)
+  * oliver
 * time zone emails for olc meetings
 * study group stuff with hannah and abby
 * newsletter content primed and emailed to arliss [notes here](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
