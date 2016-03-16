@@ -817,10 +817,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * newsletter content primed and emailed to arliss [notes here](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
 * thinking about study groups
 * updated OLC notes doc for Abby
+* data comments on [planning doc](https://docs.google.com/document/d/1w3biOwEqJcd8oZ8Uz7zoTQ_aUzNy-3H8SukFBHQvZck/edit?ts=56e9996b) for Steph
+
 
 - biononymous
 - update website
 - https for stereo semantics
+
+- blog post on interviews (friday)
+- newsletter draft to tinyletter format (thursday)
 
 #### STUDY GROUP
 
