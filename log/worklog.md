@@ -808,7 +808,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
   * madeleine
   * madeleine + luke
   * kirstie
-  * anna
+  * anna (rescheduled to next week)
   * jon (resheduled to next week)
   * bastian (abby)
   * oliver
@@ -818,6 +818,15 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 - biononymous
 - update website
+- https for stereo semantics
+
+#### STUDY GROUP
+
+* make gh-pages for a project "gallery"
+* make spreadsheet of regional contacts, breakout from Matrix spreadsheet
+* merging upstream - maybe have instructions for this
+* monitoring forks - maybe write a script to pull fork updates
+* events calendar - maybe write a script for the events calendar
 
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
@@ -837,9 +846,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * contacts and regional owners
 * followup and outreach schedule
 
-#### STUDY GROUP
 
-* make gh-pages for a project "gallery"
 
 ### TODO
 
