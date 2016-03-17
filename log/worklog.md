@@ -835,6 +835,12 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
   * Brian Jacobs, National Geographic
 * setup some stuff for [Science Hack Day / Space Apps](https://github.com/stuartlynn/sciencehackday.nyc)
 
+
+#### 3/17/16
+* sent out newsletter - thanks arliss for links
+* met with OWF interviewee
+* met with cross-fellows (OWF and KT from MSL)
+* hosted fellows' call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar17)
 community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 - biononymous
