@@ -818,7 +818,24 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * thinking about study groups
 * updated OLC notes doc for Abby
 * data comments on [planning doc](https://docs.google.com/document/d/1w3biOwEqJcd8oZ8Uz7zoTQ_aUzNy-3H8SukFBHQvZck/edit?ts=56e9996b) for Steph
+* outreach for GeoJourNews
+  * Heather Chaplin - The New School (for venue)
+  * Adam Varga - Forecast.io
+  * Sisi Wei - ProPublica 
+    * they just did this project and it's awesome on mobile/desktop: https://projects.propublica.org/houston/, plus they might want to promote their Summer Data Institute
+  * Ana Becker - Wall Street Journal 
+    * she just did an unrelated piece on emoji but might be able to talk about their mapping projects or connect us to a coworker
+  * Jonathan Stray - Privacy/Security Consulting, talked about data sci @NICAR maybe he could do a talk on location data and privacy
+  * Gregor Aisch - NYTimes or another mapper on the team
+  * Peter Richardson/Mike Cunningham - Mapzen
+  * Matías Kalwill - Bikestorming 
+    * they were CDB grant winners and I think Matí is still in NY and could talk about the project, he gave a talk at Civic Hall for Noah's BetaNYC meetup a few months ago
+  * Ingrid Burrington
+  * Martin O'Leary, Uncharted Atlas
+  * Brian Jacobs, National Geographic
+* setup some stuff for [Science Hack Day / Space Apps](https://github.com/stuartlynn/sciencehackday.nyc)
 
+community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 - biononymous
 - update website
