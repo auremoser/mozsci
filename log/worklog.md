@@ -846,6 +846,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * catchup on emails and ipams logistics
 * commented on fab riders [network v community article](http://www.fabriders.net/communities_or_networks/)
 
+#### 3/18/16
+* arliss call about Global Sprint
+
+* make a hacker conference website for science
+* make website for global sprint
 * fellows blog post
 * melissa's fellows + host orgs spreadsheet
 * study groups
