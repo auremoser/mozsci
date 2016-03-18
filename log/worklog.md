@@ -842,6 +842,9 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * met with cross-fellows (OWF and KT from MSL)
 * hosted fellows' call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar17)
 community call: martin o leary uncharted atlas: https://twitter.com/mewo2
+* sent packages, trailing swag packs
+* catchup on emails and ipams logistics
+* commented on fab riders [network v community article](http://www.fabriders.net/communities_or_networks/)
 
 - biononymous
 - update website
