@@ -847,6 +847,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * commented on fab riders [network v community article](http://www.fabriders.net/communities_or_networks/)
 
 * fellows blog post
+* melissa's fellows + host orgs spreadsheet
 * study groups
 * fellows plan boston april
 * fellows
