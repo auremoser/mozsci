@@ -848,6 +848,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 3/18/16
 * arliss call about Global Sprint
+* [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar18-2016)
+* calendar item for Training plan with Z + S
+* worked on intros for [GeoJourNews](https://nvite.com/GeoJourNews2016/fb60) + [invite spreadsheet](https://docs.google.com/spreadsheets/d/1M-zlQCi2I8jhUfsQIouaZiCWcRCuCwEOO1upsqgRHT0/edit#gid=0)
 
 * make a hacker conference website for science
 * make website for global sprint
