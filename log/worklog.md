@@ -853,6 +853,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked on intros for [GeoJourNews](https://nvite.com/GeoJourNews2016/fb60) + [invite spreadsheet](https://docs.google.com/spreadsheets/d/1M-zlQCi2I8jhUfsQIouaZiCWcRCuCwEOO1upsqgRHT0/edit#gid=0)
 * melissa's fellows + host orgs spreadsheet
 * fellows blog post rr-interviews/
+* updated gh-pages for mozilla map site
 
 * make a hacker conference website for science
 * make website for global sprint
