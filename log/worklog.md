@@ -868,7 +868,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * more olc meetings (Demitri, Open Cosmics w/ Abby)
 * replied to open web fellow about ushahidi
 * replied to Zannah about graph libraries
+* wrote to new study group fork
+
 * worked on science hackday layout too
+
 
 * make a hacker conference website for science
 * make website for global sprint
