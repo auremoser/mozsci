@@ -860,11 +860,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * hospital visit and tests
 * olc meetings Achintya, Patricia, Harry (missed)
 * all team meeting
-
+* left comments on our [redfin](https://redpen.io/hze34bdcf69992b631)
+* staff meeting
+* project registration spreadsheet [made](https://docs.google.com/forms/d/16M_SiiJkmrkkSONpgd0ERUHLkr1WF4WWXZJIwvurzIs/viewform)
+* site registration spreadsheet [made](https://docs.google.com/forms/d/1uN5Q535pib0YxeZWWv1VlSdLig5mdjCWm2MuEaXz8fE/viewform)
 
 * make a hacker conference website for science
 * make website for global sprint
 * study groups
+  * branding guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
 * fellows plan boston april
 * agenda for nairobi
 * space apps website
