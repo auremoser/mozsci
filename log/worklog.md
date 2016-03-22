@@ -864,6 +864,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * staff meeting
 * project registration spreadsheet [made](https://docs.google.com/forms/d/16M_SiiJkmrkkSONpgd0ERUHLkr1WF4WWXZJIwvurzIs/viewform)
 * site registration spreadsheet [made](https://docs.google.com/forms/d/1uN5Q535pib0YxeZWWv1VlSdLig5mdjCWm2MuEaXz8fE/viewform)
+* worked on global sprint landing page [here](http://mozillascience.github.io/global-sprint-2016/#about)
+* more olc meetings
 
 * make a hacker conference website for science
 * make website for global sprint
