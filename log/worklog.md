@@ -855,6 +855,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows blog post rr-interviews/
 * updated gh-pages for mozilla map site
 
+
+#### 3/22/16
+* hospital visit and tests
+* olc meetings Achintya, Patricia, Harry (missed)
+* all team meeting
+
+
 * make a hacker conference website for science
 * make website for global sprint
 * study groups
