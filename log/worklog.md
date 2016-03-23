@@ -878,6 +878,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed garth from design open about april community call
 * added to agenda for april meetup: 
 * fellows call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar24) for tomorrow
+* last of the olc meetings
 
 * worked on science hackday layout too
 
