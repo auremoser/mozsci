@@ -870,6 +870,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * replied to Zannah about graph libraries
 * wrote to new study group fork
 
+#### 3/23/16
+* olc meetings tim & ali
+* worked on slides for strata
+* doctor's appointment
+* gathered together notes for tomorrow's community call
+* emailed garth from design open about april community call
+* added to agenda for april meetup: 
+* fellows call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar24) for tomorrow
+
 * worked on science hackday layout too
 
 
