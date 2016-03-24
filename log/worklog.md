@@ -885,6 +885,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 * emails about swag
 * website standup
+* fellows call and updates on april workweek
+* finished up and sent strata slides
+* packed for SF
 
 
 * study group call on biojulia
@@ -905,6 +908,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows plan boston april
 * agenda for nairobi
 * space apps website
+
+* learn new CMS
+  * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
+  * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
 
 
