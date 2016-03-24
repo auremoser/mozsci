@@ -879,28 +879,42 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added to agenda for april meetup: 
 * fellows call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar24) for tomorrow
 * last of the olc meetings
+* ~~made~~ website for global sprint
+
+#### 3/24/16
+
+* emails about swag
+* website standup
+
+* study group call on biojulia
+  * etherpad
+  * speaker
+  * mc
 
 * worked on science hackday layout too
+* send in slides
+* paack
+* study group inventory
 
 
 * make a hacker conference website for science
-* make website for global sprint
-* study groups
-  * branding guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
+
+
 * fellows plan boston april
 * agenda for nairobi
 * space apps website
 
+
+
 - biononymous
 - update website
-- https for stereo semantics
 
-- blog post on interviews (friday)
-- newsletter draft to tinyletter format (thursday)
 
 #### STUDY GROUP
 
 * make gh-pages for a project "gallery"
+* make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
+* align with web page expectations: https://redpen.io/ow3163da6caa22acde
 * make spreadsheet of regional contacts, breakout from Matrix spreadsheet
 * merging upstream - maybe have instructions for this
 * monitoring forks - maybe write a script to pull fork updates
