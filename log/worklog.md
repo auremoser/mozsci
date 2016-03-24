@@ -888,6 +888,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows call and updates on april workweek
 * finished up and sent strata slides
 * packed for SF
+* commented on [science wireframes](https://redpen.io/p/eb9d7534bcf4dfcc17)
 
 
 * study group call on biojulia
