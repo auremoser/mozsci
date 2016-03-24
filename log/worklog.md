@@ -886,7 +886,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emails about swag
 * website standup
 * fellows call and updates on april workweek
-* finished up and sent strata slides
+* finished up and sent strata slides [here](https://docs.google.com/presentation/d/13NlhhjhFXzigHme40-QI0uZmYgM8lKF4iAWkgLhHcT8/edit?usp=sharing)
 * packed for SF
 * commented on [science wireframes](https://redpen.io/p/eb9d7534bcf4dfcc17)
 
