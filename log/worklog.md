@@ -886,10 +886,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emails about swag
 * website standup
 
+
 * study group call on biojulia
   * etherpad
   * speaker
   * mc
+  * checkin emails to everyone
 
 * worked on science hackday layout too
 * send in slides
