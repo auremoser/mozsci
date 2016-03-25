@@ -856,7 +856,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * ~~made~~ website for global sprint
 
 #### 3/24/16
-
 * emails about swag
 * website standup
 * fellows call and updates on april workweek
@@ -864,6 +863,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * packed for SF
 * commented on [science wireframes](https://redpen.io/p/eb9d7534bcf4dfcc17)
 
+#### 3/25/16
+* team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar24-2016)
 
 * etherpad for tomorrow's team call
 
