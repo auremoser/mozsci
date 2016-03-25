@@ -856,7 +856,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * ~~made~~ website for global sprint
 
 #### 3/24/16
-* emails about swag
+* emails about [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * website standup
 * fellows call and updates on april workweek
 * finished up and sent strata slides [here](https://docs.google.com/presentation/d/13NlhhjhFXzigHme40-QI0uZmYgM8lKF4iAWkgLhHcT8/edit?usp=sharing)
@@ -866,42 +866,35 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 3/25/16
 * team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar24-2016)
 * fleshed out study group leads etherpad for april [here](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
+* confirmed Francis as a speaker for the Machine Learning themed call
 * officially registered on the space apps page [with brooklyn site location](https://2016.spaceappschallenge.org/locations/brooklyn-ny-usa)
-* updated [space apps website](http://sciencehackday.nyc/) made some spreadsheets for organizational purposes and created [a github organization]() and [organizational sheets](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
+* updated [space apps website](http://sciencehackday.nyc/) made some spreadsheets for organizational purposes and created [a github organization](https://github.com/sciencehackdayny) and [organizational sheets](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
 * emailed stuart to update on this progress
 * wrote back to Colleen of the Women's Geospatial Coding and Visualization Group, pretty cool, about upcoming study group
-
-* etherpad for tomorrow's team call
-
-
-* study group call on biojulia
-  * etherpad
+* asked Jeff to MC the Study Group call
+* queued up email for Study Group Call on Friday April 1st
+* study group call on machine learning
+  * [x] etherpad
   * [x] speaker
-  * mc
-  * checkin emails to everyone
-
-* worked on science hackday layout too
-* send in slides
-* paack
-* study group inventory
+  * [x] mc
+  * [x] checkin emails to everyone
+* fellows plan boston april pretty much wrapped
 
 
+* practice talk
+* revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
+* study group [inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
 * make a hacker conference website for science
-
-
-* fellows plan boston april
+* book boston travel for april
 * agenda for nairobi
-* space apps website
+* promote space apps
 
 * learn new CMS
   * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
   * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
-
-
 - biononymous
 - update website
-
 
 #### STUDY GROUP
 
