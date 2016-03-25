@@ -196,7 +196,6 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * gave feedback on Zannah's blogpost for the [WOW Summit](https://public.etherpad-mozilla.org/p/wow-blogpost)
 
 ### 12/17/15
-
 * reviewed fellows repo pull requests
 * reviewed some blog changes for KT's blog
 * added Zannah's collected interview materials
@@ -247,7 +246,6 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * wrote [all invitations for jan 4-7](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit#gid=1724807992) in my onboarding checklist
 
 ### 12/27/15
-
 * emailed claudia mueller birn (clmb@inf.fu-berlin.de)
 * started library of emails
 * invited Fatma from Amel's email to the Cohort Group
@@ -260,14 +258,12 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * emailed fellows about blogs and prototype phase details
 
 ### 1/2/16
-
 * responded to Bill about Africa community:
  * Amel currently co-organizes a Mozilla Study Group in Tunis: <http://amelgh.github.io/IPT_Tunisia/>
  * Anelda has been involved in the Cape R User Group (<https://caperuser.wordpress.com/>) as well as numerous other Software Carpentry and Mozilla Science Lab events.
  * Judit works for a Bioinformatics Knowledge Transfer Program based in SA: <http://ktp.cpgr.org.za/>
 
 ### 1/4/16
-
 * meeting with KT
 * some planning emails and initial correspondence
 * wrote email draft to WOW summit members
@@ -286,9 +282,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made agenda for next week's meeting with [bill](https://public.etherpad-mozilla.org/p/bill%3C%3Eaurelia)
 * arranged for some more travel for transcriptionist
 
-
 ### 1/5/16
-
 * setup chat with bill
 * setup meeting on wow summit schedule [#41](https://github.com/mozillascience/plan/issues/41)
 * send out fellows calls : https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07
@@ -306,7 +300,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * emailed Deborah Estrin about Community Call
 * drafted [Nifras' blog with track changes for approval](https://docs.google.com/document/d/1R8va3EdWSpLz3D1roY-Ek8bF3NfkN3eryOURfn186NU/edit)
 * closed this issue for fellow's [Prototype Phase](https://github.com/mozillascience/plan/issues/35)
-
 
 ### 1/6/16
 * modifications on March 10th Community Call - Deborah Estrin is speaking
@@ -328,7 +321,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * blog post post (thanks kay)
 
 ### 1/11/16
-
 * email draft to everyone for canned responses
 * darci meeting
 * standup
@@ -345,7 +337,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * some travel emails
 
 ####1/12/16
-
 * added users/blog to our website for the fellows
 * sent out fellows call reminders
 * more travel email for WOW
@@ -382,7 +373,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * events stuff
 * curriculum for zannah
 
-
 ####1/15/16
 * heartbeats demo with cassie
 * feedback for Richard on slidewinder :)
@@ -394,7 +384,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * worked on some travel logistics for confs and fellowship
 * checked out abby's new awesome issue for 
 * wrote to Rose Eveleth about Open Science Community Call
-
 
 ####1/19/16
 * worked on curriculum for [HiveNYC](https://github.com/auremoser/HCB-mapping)
@@ -450,7 +439,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * added ideas to [Hive Chicago Buzz Feedback](https://docs.google.com/document/d/14ZnEqVP-q6JZXUa7LcVBka_EXPfFi-ViF9m6q0zNQis/edit)
 
 #### 1/26/16
-
 * made up fellows etherpad [for call this week](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan28)
 * hive chicago buzz activities
   * Mapping workshop: <https://github.com/auremoser/HCB-mapping>
@@ -495,9 +483,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * hacks/hackers talk/presentation
 * go over fellows' schedule
 
-
 #### 2/5/16-2/8/16
-
 * published blog about community call [here](https://mozillascience.org/community-call-feb-11-11et)
 * emailed speakers for community call
 * tweeted community call
@@ -506,7 +492,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email participants about followup survey
 * invite those who have RSVP'd to github issue
 * thank you notes to madeleine, melissa + sarah, fellows, norma, luke/cassie, annabel, martyna
-
 
 #### 2/8/16
 * hacks hackers connect rsvp
@@ -521,7 +506,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * submitted expenses
 * [all issues](https://github.com/mozillascience/working-open-workshop/issues) for participants sent
 * special emails to anna and christopher and ali about issues
-
 
 #### 2/9/16
 * Space apps
@@ -549,7 +533,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * added to abby's [debrief etherpad](https://public.etherpad-mozilla.org/p/sciencelab-berlin-debrief  )
 
-
 #### 2/12/16
 * gave talk at WLIA
 * study group call 
@@ -572,7 +555,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * meeting with Abby to go over WOW logistics for meetings tomorrow
 * study group event for [march call](https://github.com/mozillascience/plan/issues/63)
 * more website issues [82](https://github.com/mozillascience/site/issues/82)
-
 
 #### 2/17/16
 * started meetings with all OLC people for 2/17
@@ -598,7 +580,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * added community [call issue](https://github.com/mozillascience/plan/issues/64)
 * kirstie email collab with abby
 * added some ideas to the website page [#86](https://github.com/mozillascience/site/issues/86)
-
 
 #### 2/19/16
 * meeting with KT zannah on roles and study groups
@@ -664,7 +645,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * emails to kristina about the website
 * comment on redpen: https://redpen.io/p/kwe0b1b8415da9f6f4
 
-
 #### 2/26/16
 * curriculum meeting [notes](https://public.etherpad-mozilla.org/p/teach.mct-mtg-february-2016)
 * filled in steph's checklist for [code stuff](https://public.etherpad-mozilla.org/p/opendata-checklist) [site](http://auremoser.github.io/checklist/)
@@ -676,7 +656,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * respond to content issue: https://github.com/mozillascience/site/issues/86
 * https://github.com/mozillascience/site/issues/81
 
-
 #### 2/27/16
 * meeting with KT for check in
 * meeting with Samantha and Andy for Frick workshop on the 25th
@@ -685,7 +664,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * mozilla monthly internal call
 * reached out to jeff + shauna for study group call
 * got apartment for sxsw
-
 
 #### 3/1/16
 * some text for the [website content](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
@@ -768,7 +746,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * [prepped talk for sxsw](https://docs.google.com/presentation/d/1wndNYznUWJVozeH48NBT5enWqnEoWDTQl2jI6ivBPyA/edit#slide=id.g846db460f_0_1060)
 
 #### 3/10/16
-
 * intro'd joey to reporter to cover research
 * worked on updating [team mtg document](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar11-2016)
 * practiced talk for sxsw
@@ -778,7 +755,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 
 
 #### 3/14/16
-
 * [meeting with KT](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * se daily podcast tweet
 * job opportunity to mailing list
@@ -835,7 +811,6 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
   * Brian Jacobs, National Geographic
 * setup some stuff for [Science Hack Day / Space Apps](https://github.com/stuartlynn/sciencehackday.nyc)
 
-
 #### 3/17/16
 * sent out newsletter - thanks arliss for links
 * met with OWF interviewee
@@ -854,7 +829,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * melissa's fellows + host orgs spreadsheet
 * fellows blog post rr-interviews/
 * updated gh-pages for mozilla map site
-
 
 #### 3/22/16
 * hospital visit and tests
@@ -891,9 +865,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * commented on [science wireframes](https://redpen.io/p/eb9d7534bcf4dfcc17)
 
 
+* etherpad for tomorrow's team call
+
+
 * study group call on biojulia
   * etherpad
-  * speaker
+  * [x] speaker
   * mc
   * checkin emails to everyone
 
