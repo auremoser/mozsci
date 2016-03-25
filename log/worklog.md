@@ -834,7 +834,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * hospital visit and tests
 * olc meetings Achintya, Patricia, Harry (missed)
 * all team meeting
-* left comments on our [redfin](https://redpen.io/hze34bdcf69992b631)
+* left comments on our [redpen](https://redpen.io/hze34bdcf69992b631)
 * staff meeting
 * project registration spreadsheet [made](https://docs.google.com/forms/d/16M_SiiJkmrkkSONpgd0ERUHLkr1WF4WWXZJIwvurzIs/viewform)
 * site registration spreadsheet [made](https://docs.google.com/forms/d/1uN5Q535pib0YxeZWWv1VlSdLig5mdjCWm2MuEaXz8fE/viewform)
@@ -865,6 +865,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 3/25/16
 * team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar24-2016)
+* fleshed out study group leads etherpad for april [here](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
+* officially registered on the space apps page [with brooklyn site location](https://2016.spaceappschallenge.org/locations/brooklyn-ny-usa)
+* updated [space apps website](http://sciencehackday.nyc/) made some spreadsheets for organizational purposes and created [a github organization]() and [organizational sheets](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
+* emailed stuart to update on this progress
+* wrote back to Colleen of the Women's Geospatial Coding and Visualization Group, pretty cool, about upcoming study group
 
 * etherpad for tomorrow's team call
 
