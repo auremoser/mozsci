@@ -879,6 +879,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * [x] mc
   * [x] checkin emails to everyone
 * fellows plan boston april pretty much wrapped
+* list of interactives to Steph
+* intro outreach to Amel about attending the all-hands
+* booked travel and airbnb for boston and the get conference
 
 
 * practice talk
