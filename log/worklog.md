@@ -889,9 +889,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added him to the log
 * wrote back to colleen about things and stuff
 * cross fellow adventure email with april event etherpad
+* team standup [notes](https://public.etherpad-mozilla.org/p/sciencelab-team-standup-mar2016)
+* 1-1 with KT
 
 * swag pack to colleen
 * add slide to deep-learing
+
+setup logistics for next week's community call
+more machine learning resources to study group call: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016
+
 
 * practice talk
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
