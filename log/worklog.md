@@ -890,7 +890,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote back to colleen about things and stuff
 * cross fellow adventure email with april event etherpad
 * team standup [notes](https://public.etherpad-mozilla.org/p/sciencelab-team-standup-mar2016)
-* 1-1 with KT
+* 1-1 with [notes](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 * swag pack to colleen
 * add slide to deep-learing
