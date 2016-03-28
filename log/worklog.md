@@ -906,6 +906,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 - biononymous
 - update website
+- map call: http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
 
 #### STUDY GROUP
 
