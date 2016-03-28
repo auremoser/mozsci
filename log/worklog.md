@@ -884,6 +884,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * booked travel and airbnb for boston and the get conference
 
 
+#### 3/26/16
+* thanked nifras for joining study groups
+* added him to the log
+* wrote back to colleen about things and stuff
+
+* swag pack to colleen
+* add slide to deep-learing
+
 * practice talk
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * study group [inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
