@@ -900,6 +900,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * book boston travel for april
 * agenda for nairobi
 * promote space apps
+* data management mood board
+  * quick lesson with primer material
 
 * learn new CMS
   * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
