@@ -888,6 +888,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * thanked nifras for joining study groups
 * added him to the log
 * wrote back to colleen about things and stuff
+* cross fellow adventure email with april event etherpad
 
 * swag pack to colleen
 * add slide to deep-learing
