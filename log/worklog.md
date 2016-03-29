@@ -884,7 +884,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * booked travel and airbnb for boston and the get conference
 
 
-#### 3/26/16
+#### 3/28/16
 * thanked nifras for joining study groups
 * added him to the log
 * wrote back to colleen about things and stuff
@@ -893,19 +893,27 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * 1-1 with [notes](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * updated the study group [call notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016) with machine learning links
 * fixed part of site globalsprintjade-file for the [forms additions](https://github.com/mozillascience/global-sprint-2016/issues/5)
+* tweeted about study group call
+* book boston travel for april
+* commented on [new redpens](https://redpen.io/p/eb9d7534bcf4dfcc17)
+
+#### 3/29/16
+* rode to San Jose for talk
+* fixed one line issue for Abby
+* 
 
 * swag pack to colleen
 * add slide to deep-learing
 
 setup logistics for next week's community call
-more machine learning resources to study group call: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016
+
 
 
 * practice talk
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * study group [inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
 * make a hacker conference website for science
-* book boston travel for april
+
 * agenda for nairobi
 * promote space apps
 * data management mood board
