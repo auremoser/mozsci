@@ -902,13 +902,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fixed one line issue for Abby
 * submitted survey for All hands speaker recs
 * sent fellows call reminder email
+* responded to [lennart about his study group question](https://github.com/IRN-Toronto/group/issues/1#issuecomment-202951757)
 
 * swag pack to colleen
 * add slide to deep-learing
 
-setup logistics for next week's community call
-
-
+* setup logistics for next week's community call
 
 * practice talk
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
