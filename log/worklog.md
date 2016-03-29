@@ -900,7 +900,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 3/29/16
 * rode to San Jose for talk
 * fixed one line issue for Abby
-* 
+* submitted survey for All hands speaker recs
+* sent fellows call reminder email
 
 * swag pack to colleen
 * add slide to deep-learing
