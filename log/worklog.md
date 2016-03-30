@@ -906,6 +906,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * gave [talk](https://docs.google.com/presentation/d/13NlhhjhFXzigHme40-QI0uZmYgM8lKF4iAWkgLhHcT8/edit#slide=id.g1210594eb4_3_5)
 * some emails and catchup post-talk
 
+#### 3/30/16
+* study group africa call [here](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* olc call 
+* added azza to study groups
+
 * swag pack to colleen
 * add slide to deep-learing
 
