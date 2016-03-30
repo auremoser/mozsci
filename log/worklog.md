@@ -950,7 +950,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
-
+* help kristie [with website](http://stemmrolemodels.com/)
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 * stage blog posts for fellows
