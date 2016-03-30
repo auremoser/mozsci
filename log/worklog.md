@@ -908,9 +908,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 3/30/16
 * study group africa call [here](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
-* olc call 
+* met with 
 * added azza to study groups
-* sent more geojournews speaker [invites](https://docs.google.com/spreadsheets/d/1M-zlQCi2I8jhUfsQIouaZiCWcRCuCwEOO1upsqgRHT0/edit#gid=0)
+* sent more [geojournews](https://nvite.com/GeoJourNews2016/fb60) speaker [invites](https://docs.google.com/spreadsheets/d/1M-zlQCi2I8jhUfsQIouaZiCWcRCuCwEOO1upsqgRHT0/edit#gid=0)
+* met with kirstie about stemm role models
 
 * swag pack to colleen
 * add slide to deep-learing
