@@ -914,6 +914,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with kirstie about stemm role models
 * met with oliver at worldbrain
 * started working on more asset inventory for study groups
+* created a call event on the site for our [community calls](https://mozillascience.org/community-call-apr-14-11-et)
 
 * swag pack to colleen
 * add slide to deep-learing
