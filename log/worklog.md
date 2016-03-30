@@ -904,6 +904,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent fellows call reminder email
 * responded to [lennart about his study group question](https://github.com/IRN-Toronto/group/issues/1#issuecomment-202951757)
 * gave [talk](https://docs.google.com/presentation/d/13NlhhjhFXzigHme40-QI0uZmYgM8lKF4iAWkgLhHcT8/edit#slide=id.g1210594eb4_3_5)
+* some emails and catchup post-talk
 
 * swag pack to colleen
 * add slide to deep-learing
