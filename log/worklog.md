@@ -912,13 +912,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added azza to study groups
 * sent more [geojournews](https://nvite.com/GeoJourNews2016/fb60) speaker [invites](https://docs.google.com/spreadsheets/d/1M-zlQCi2I8jhUfsQIouaZiCWcRCuCwEOO1upsqgRHT0/edit#gid=0)
 * met with kirstie about stemm role models
+* met with oliver at worldbrain
+* started working on more asset inventory for study groups
 
 * swag pack to colleen
 * add slide to deep-learing
 
 * setup logistics for next week's community call
 
-* practice talk
+
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * study group [inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
 * make a hacker conference website for science
