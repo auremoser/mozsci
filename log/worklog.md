@@ -920,6 +920,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * scheduled some tweets for the community call
 * last minute adjustments for GeoJourNews, venue contacts
 
+#### 3/31/16
+* flew back to NY
+* meeting for global sprint site setup
+* intro to [tito](https://ti.to/signup) from sarah allen
+* aborted mofo internal meeting :(
+* 
+
 * swag pack to colleen
 * add slide to deep-learing
 
