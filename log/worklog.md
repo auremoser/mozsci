@@ -915,6 +915,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with oliver at worldbrain
 * started working on more asset inventory for study groups
 * created a call event on the site for our [community calls](https://mozillascience.org/community-call-apr-14-11-et)
+* updated the [call archive with the new times](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
+* queued up the blog post for april
+* scheduled some tweets for the community call
 
 * swag pack to colleen
 * add slide to deep-learing
