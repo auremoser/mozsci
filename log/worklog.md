@@ -925,7 +925,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting for [global sprint site setup](https://public.etherpad-mozilla.org/p/sciencelab-2016globalsprint-sites)
 * intro to [tito](https://ti.to/signup) from sarah allen
 * aborted mofo internal meeting :(
-* 
+* fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar31)
 
 * swag pack to colleen
 * add slide to deep-learing
