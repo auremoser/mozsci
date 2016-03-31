@@ -918,6 +918,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated the [call archive with the new times](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 * queued up the blog post for april
 * scheduled some tweets for the community call
+* last minute adjustments for GeoJourNews, venue contacts
 
 * swag pack to colleen
 * add slide to deep-learing
