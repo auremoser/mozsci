@@ -938,6 +938,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * shared space apps with [HIVE network](https://hivenyc.slack.com/messages/events/): http://sciencehackday.nyc/
 * met up with David Jay to talk about Science Collaborative networks
 * team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr1-2016)
+* OLC call with Peter 
 
 * study group wrap up
 * swag pack to colleen
