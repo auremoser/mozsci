@@ -935,6 +935,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added to zannah's [talk](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmap-new)
 * setup hangouts on air for study group call
 * blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0) update
+* shared space apps with [HIVE network](https://hivenyc.slack.com/messages/events/): http://sciencehackday.nyc/
 
 * study group wrap up
 * swag pack to colleen
