@@ -936,10 +936,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * setup hangouts on air for study group call
 * blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0) update
 * shared space apps with [HIVE network](https://hivenyc.slack.com/messages/events/): http://sciencehackday.nyc/
+* met up with David Jay to talk about Science Collaborative networks
 
 * study group wrap up
 * swag pack to colleen
-
 * setup logistics for next week's community call
 
 
