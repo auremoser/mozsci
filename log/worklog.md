@@ -933,8 +933,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 4/1/16
 * study group [call on machine learning](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
 * added to zannah's [talk](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmap-new)
-* setup hangouts on air
+* setup hangouts on air for study group call
+* blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0) update
 
+* study group wrap up
 * swag pack to colleen
 * add slide to deep-learing
 
