@@ -926,6 +926,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * intro to [tito](https://ti.to/signup) from sarah allen
 * aborted mofo internal meeting :(
 * fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-mar31)
+* setup [tito account](https://ti.to/mozilla-science-lab/2016-gs-nyc/admin) for Mozilla Science Lab
+* wrote to check in about April meetup
+
+
+#### 4/1/16
+* study group [call on machine learning](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
+* added to zannah's [talk](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmap-new)
+* setup hangouts on air
 
 * swag pack to colleen
 * add slide to deep-learing
@@ -951,6 +959,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 - map call: http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
 
 #### STUDY GROUP
+
+ideas
+  * translations
+  * commented out alternate
 
 * make gh-pages for a project "gallery"
 * make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
