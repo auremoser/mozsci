@@ -938,7 +938,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 * study group wrap up
 * swag pack to colleen
-* add slide to deep-learing
 
 * setup logistics for next week's community call
 
@@ -951,14 +950,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * promote space apps
 * data management mood board
   * quick lesson with primer material
-
+* sketch schedule for fellows new workweek
 * learn new CMS
   * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
   * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
 - biononymous
 - update website
-- map call: http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
+* map call: 
+  * uncharted atlas
+  * women in cartography http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
 
 #### STUDY GROUP
 
