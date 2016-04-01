@@ -939,6 +939,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met up with David Jay to talk about Science Collaborative networks
 * team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr1-2016)
 * OLC call with Peter 
+* wrote to bill about study group config rules
+* added new ancon paul fork to study groups
 
 * study group wrap up
 * swag pack to colleen
