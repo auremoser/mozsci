@@ -43,7 +43,7 @@ The Study Groups have a variety of existing material which we should attempt to 
   * communication 
   	- generate translations and crowdsource correction in the community
   * s-org potential 
-  	- create commented out alternate versions of study group repo (mozilla clubs/?)
+  	- create commented out alternate versions of study group repo (mozilla clubs/skill share)
   * visibility 
   	- make gh-pages for a study group "gallery"
   	- align with web page expectations: https://redpen.io/ow3163da6caa22acde
