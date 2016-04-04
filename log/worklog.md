@@ -944,9 +944,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added new ancon paul fork to study groups
 * emailed Andrew about may call and coral project speakers
 * emailed francis thank you for study group call today
+* swag pack to colleen
 
 * study group wrap up
-* swag pack to colleen
+
 * setup logistics for next week's community call
 
 
