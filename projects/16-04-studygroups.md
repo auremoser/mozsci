@@ -2,11 +2,11 @@
 
 **4/4/16**
 
-### ASSETS**
+### ASSETS
 
 The Study Groups have a variety of existing material which we should attempt to unify
 
-* Public
+* **Public**
 	* [Study Group Lessons](https://github.com/mozillascience/studyGroupLessons)
 	* [Study Group Base Repo](https://github.com/mozillascience/studyGroup/)
 	* [Study Group Handbook](http://mozillascience.github.io/studyGroupHandbook)
@@ -22,8 +22,8 @@ The Study Groups have a variety of existing material which we should attempt to 
 		* [February 2016](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2016)
 		* [March 2016](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2016)
 		* [April 2016](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2016)
-	* Study Group Hashtag: #mozstudy
-* Admin
+	* Study Group Hashtag: `#mozstudy`
+* **Admin**
 	* [Study Group Leads and Targets Matrix](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 	* [MSL Template Mails](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit)
 	*[Study Group Interest Survey Responses](https://docs.google.com/spreadsheets/u/1/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764&vpid=A2)
