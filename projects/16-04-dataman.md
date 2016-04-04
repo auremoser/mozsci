@@ -24,7 +24,7 @@ Here are some interactives that demonstrate what can be done in the curriculum a
 * [Stack Overflow](http://stackoverflow.com/research/developer-survey-2016)
 * [Data Sonification](http://listen.hatnote.com/)
 
-##### COMPETITIVE ANALYSIS
+### COMPETITIVE ANALYSIS
 
 Here are some examples of what kind of tools and services currently treat the broad topic of "open data" and "data management."
 
