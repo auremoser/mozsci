@@ -950,6 +950,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * started sketching study group strategy
 * some expenses and report stuff
 * registered for all hands
+* worked on some copy [here](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
 
 * study group wrap up
 * setup logistics for next week's community call
