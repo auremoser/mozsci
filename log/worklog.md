@@ -946,15 +946,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed francis thank you for study group call today
 * swag pack to colleen
 
+#### 4/3/16
+* started sketching study group strategy
+
 * study group wrap up
-
 * setup logistics for next week's community call
-
-
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
-* study group [inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
 * make a hacker conference website for science
-
 * agenda for nairobi
 * promote space apps
 * data management mood board
@@ -964,6 +962,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
   * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
+
+#### SIDE PROJECTS
+
+* issues to [open snp stuff](https://github.com/openSNP/snpr)
+* help kristie [with website](http://stemmrolemodels.com/)
+* write blog post on jenks [algorithm]
+>@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 - biononymous
 - update website
 * map call: 
@@ -971,35 +976,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * women in cartography http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
   * more women in carto: http://www.citylab.com/design/2016/03/meet-the-extraordinary-women-making-maps-today/475656/
 
-#### STUDY GROUP
-
-ideas
-  * translations
-  * commented out alternate
-
-* make gh-pages for a project "gallery"
-* make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
-* align with web page expectations: https://redpen.io/ow3163da6caa22acde
-* make spreadsheet of regional contacts, breakout from Matrix spreadsheet
-* merging upstream - maybe have instructions for this
-* monitoring forks - maybe write a script to pull fork updates
-* events calendar - maybe write a script for the events calendar
-* make the study group guidelines more "visual"
-* introduce play: mozlando map/mapchat
-
-
-* issues to [open snp stuff](https://github.com/openSNP/snpr)
-* help kristie [with website](http://stemmrolemodels.com/)
-* write blog post on jenks [algorithm]
->@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
-* stage blog posts for fellows
-* regional spreadsheet
-* followup and outreach strategy
-* booked tentative travel for ipams
-
 
 #### STRATEGY
-
 * newletter
 * something with [steph's user doc](https://docs.google.com/spreadsheets/d/1p7R8VG9zJU9bhqx3v6LcNH_vHez_JuJGp5sF4LDgfxo/edit#gid=0)
 * contacts and regional owners
