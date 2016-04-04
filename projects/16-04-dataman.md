@@ -1,8 +1,8 @@
-#### Data Management Ideas
+## Data Management Ideas
 
 **4/4/16**
 
-##### INSPIRATION
+### INSPIRATION
 
 Here are some interactives that demonstrate what can be done in the curriculum and interactive engagement spaces.
 
@@ -36,7 +36,7 @@ Here are some examples of what kind of tools and services currently treat the br
 * [Linked Data Tools List](http://linkeddata.org/tools)
 
 
-##### (A MODEST) PROPOSAL
+### (A MODEST) PROPOSAL
 
 We build a pilot of the primer materials as an interactive tutorial 
 

@@ -19,7 +19,7 @@
 - project call every monday
 - community calls
 
-E###VENTS
+###EVENTS
 * mozfest
 - 12/7-12/11 Orlando
 - 6/13-6/17 London
