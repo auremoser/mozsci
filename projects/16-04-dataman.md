@@ -16,7 +16,7 @@ Here are some interactives that demonstrate what can be done in the curriculum a
 
 **JOURNALISM**
 
-* What is code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [What is code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Database of the Dead](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 **QUICK/QUIRKY**
@@ -42,12 +42,20 @@ We build a pilot of the primer materials as an interactive tutorial
 
 **CONSTRAINTS**
 
-* i dig the ease of consumption for the Encryption awareness campaign videos, but it would be nice if this had a format that was a bit more self-directed, making the patron less of a consumer more of a coordinator of the content
-* 
-* 
+* *interactive* - I dig the ease of consumption for the Encryption awareness campaign videos, but it would be nice if this had a format that was a bit more self-directed, making the patron less of a consumer more of a coordinator of the content
+* *editable and easy for our team* - gh-pages + jekyll
+* *scaleable* - a format that can be copied for more curriculum beyond the primer (hope page with index of lessons)
 
 **GOALS**
 
-* 
-* 
-* 
+* build a series of primers exercises and handouts to educate patrons on open data
+* provide multiple modes/methods of engagement
+* build an open and expandable curriculum
+* engage the community in development and grooming of the curriculum
+
+**LINKS**
+
+* Open Data Training Plan: https://github.com/mozillascience/open-data-training
+* Roadmap: https://github.com/mozillascience/open-data-training/blob/master/planning/ROADMAP.md
+* Primers First one: https://docs.google.com/document/d/1Uw_MUy5c3To4Sow4HHrA9AA_PghRQw9HGgdIlLQYFJ8/edit
+* Modules Outline and first one here: https://docs.google.com/a/mozilla.com/document/d/13IkFpNFoa-ARER44n-OXVmXYscr8alud0gcrZNYyHPI/edit?usp=sharing
