@@ -946,9 +946,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed francis thank you for study group call today
 * swag pack to colleen
 
-#### 4/3/16
+#### 4/4/16
 * started sketching study group strategy
 * some expenses and report stuff
+* registered for all hands
 
 * study group wrap up
 * setup logistics for next week's community call
@@ -983,7 +984,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * something with [steph's user doc](https://docs.google.com/spreadsheets/d/1p7R8VG9zJU9bhqx3v6LcNH_vHez_JuJGp5sF4LDgfxo/edit#gid=0)
 * contacts and regional owners
 * followup and outreach schedule
-
 
 
 ### RESOURCES
