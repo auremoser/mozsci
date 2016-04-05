@@ -50,6 +50,7 @@ The Study Groups have a variety of existing material which we should attempt to 
   * mobilizing commmunity
   	- make spreadsheet of regional contacts, breakout from Matrix spreadsheet
   	- update matrix/spreadsheet of current contacts and setup regular check-ins
+  	- create regional "welcomers"
   * merging upstream 
   	- maybe have instructions for this in the handbook
   	- write out criteria for merges in the wiki
