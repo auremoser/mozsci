@@ -952,6 +952,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * registered for all hands
 * worked on some copy [here](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
 
+#### 4/5/16
+* roadmap - [aure's work](https://public.etherpad-mozilla.org/p/sciencelab-accountability-aurelia)
+
 * study group wrap up
 * setup logistics for next week's community call
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
