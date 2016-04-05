@@ -39,7 +39,7 @@ The Study Groups have a variety of existing material which we should attempt to 
 	* design - lots of assets are text right now
 	* fun/play - more of it
 
-**IDEAS** 
+### IDEAS
   * communication 
   	- generate translations and crowdsource correction in the community
   * s-org potential 
@@ -66,7 +66,6 @@ The Study Groups have a variety of existing material which we should attempt to 
   * introduce play
   	- mozlando map/mapchat
 
-
 ### CONSTRAINTS
 * maintain existing resources for current community
 * keep things github friendly but welcoming to non-githubers
@@ -78,7 +77,6 @@ The Study Groups have a variety of existing material which we should attempt to 
 * Ensure regular and consistent communication
 * Clean/Scrub resources to avoid redundency but ensure scalability
 * Provide means of reconnecting and network development 
-
 
 ###LINKS
 * [Regional Contacts](https://docs.google.com/spreadsheets/d/1hJsenXpY_IIera9iAABs0-LFJxYuGlsdCzcnfBV41yM/edit?usp=sharing)
