@@ -50,7 +50,7 @@ Here are some thoughts about what to address.
 
   * communication 
   	- generate translations and crowdsource correction in the community
-  * s-org potential 
+  * x-org potential 
   	- create commented out alternate versions of study group repo (mozilla clubs/skill share)
   * visibility 
   	- make gh-pages for a study group "gallery"
@@ -97,4 +97,8 @@ Here are some thoughts about what to address.
 ### FOLLOWUP
 * ali localization stuff in toronto - @alicoding
 * first time - localization stuff, transifex
+* setup for global sprint
+* config file with templates
+
+* study group leads background
 
