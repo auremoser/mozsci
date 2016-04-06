@@ -42,6 +42,8 @@ Here are some problems surfaced in the audit of Study Group Materials.
 	* design - lots of assets are text right now
 	* fun/play - more of it
 
+![worldwide](img/ww.png)
+
 ### IDEAS
 
 Here are some thoughts about what to address.
@@ -72,6 +74,8 @@ Here are some thoughts about what to address.
   	- make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
   * introduce play
   	- mozlando map/mapchat
+
+![mapchat](img/mapchat.png)
 
 ### CONSTRAINTS
 * maintain existing resources for current community
