@@ -958,6 +958,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked on open science edits content for the website [here](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit#)
 * geojournews and open vis conf logistics
 
+#### 4/6/16
+* study group onboarding from zannah [here](https://public.etherpad-mozilla.org/p/studygroup-onboarding)
+
 * study group wrap up
 * setup logistics for next week's community call
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
