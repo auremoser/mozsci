@@ -49,16 +49,17 @@ Here are some problems surfaced in the audit of Study Group Materials.
 Here are some thoughts about what to address.
 
   * communication 
-  	- generate translations and crowdsource correction in the community
-  * x-org potential 
+  	- [investigagte] generate translations and crowdsource correction in the community
+  * [**HIGH**] modularity 
   	- create commented out alternate versions of study group repo (mozilla clubs/skill share)
+    - add a few configuration questions to answer after you fork (ie. location)
   * visibility 
   	- make gh-pages for a study group "gallery"
   	- align with web page expectations: https://redpen.io/ow3163da6caa22acde
-  * mobilizing commmunity
+  * [**HIGH**] mobilizing commmunity
   	- make spreadsheet of regional contacts, breakout from Matrix spreadsheet
-  	- update matrix/spreadsheet of current contacts and setup regular check-ins
-  	- create regional "welcomers"
+		- update matrix/spreadsheet of current contacts and setup regular check-ins
+		- create regional "welcomers" +1 (once we have enough people participation to warrant)+1
   * merging upstream 
   	- maybe have instructions for this in the handbook
   	- write out criteria for merges in the wiki
@@ -92,6 +93,7 @@ Here are some thoughts about what to address.
 ###LINKS
 * [Regional Contacts](https://docs.google.com/spreadsheets/d/1hJsenXpY_IIera9iAABs0-LFJxYuGlsdCzcnfBV41yM/edit?usp=sharing)
 * [Study Group Asset Inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
+* [Zannah's Study Group Onboarding Outline](https://public.etherpad-mozilla.org/p/studygroup-onboarding)
 
 
 ### FOLLOWUP
