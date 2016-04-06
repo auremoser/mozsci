@@ -32,15 +32,15 @@ The Study Groups have a variety of existing material which we should attempt to 
 
 Here are some problems surfaced in the audit of Study Group Materials.
 
-	* communication - community is greater than eng/por/ben
-	* x-org potential - repo is currently only used for study groups though the site/lesson model could be more modular
-	* visibility - community does does not
-	* mobilizing community - checkins, relevant collaborations encouraged
-	* mechanics/merging upstream - logistically not fun
-	* monitoring forks - not scalable right now
-	* tracking events - hard to do accross forks
-	* design - lots of assets are text right now
-	* fun/play - more of it
+* **communication** - community is greater than eng/por/ben
+* **x-org potential** - repo is currently only used for study groups though the site/lesson model could be more modular
+* **visibility** - community does does not
+* **mobilizing community** - checkins, relevant collaborations encouraged
+* **mechanics/merging upstream** - logistically not fun
+* **monitoring forks** - not scalable right now
+* **tracking events** - hard to do accross forks
+* **design** - lots of assets are text right now
+* **fun/play** - more of it
 
 ![worldwide](https://raw.githubusercontent.com/auremoser/mozsci/master/img/ww.png)
 
