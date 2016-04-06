@@ -83,10 +83,10 @@ Here are some thoughts about what to address.
 
 ### GOALS
 
-* Make sure we're supporting people working open / in open science
+* Make sure we're supporting people working in open source/science
 * Build connections/lessons to Open Science + Open Data
 * Ensure regular and consistent communication
-* Clean/Scrub resources to avoid redundency but ensure scalability
+* Clean/scrub resources to avoid redundency but ensure scalability
 * Provide means of reconnecting and network development 
 
 ###LINKS
