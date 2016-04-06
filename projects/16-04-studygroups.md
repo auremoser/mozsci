@@ -29,6 +29,9 @@ The Study Groups have a variety of existing material which we should attempt to 
 	*[Study Group Interest Survey Responses](https://docs.google.com/spreadsheets/u/1/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764&vpid=A2)
 
 ### ISSUES
+
+Here are some problems surfaced in the audit of Study Group Materials.
+
 	* communication - community is greater than eng/por/ben
 	* x-org potential - repo is currently only used for study groups though the site/lesson model could be more modular
 	* visibility - community does does not
@@ -40,6 +43,9 @@ The Study Groups have a variety of existing material which we should attempt to 
 	* fun/play - more of it
 
 ### IDEAS
+
+Here are some thoughts about what to address.
+
   * communication 
   	- generate translations and crowdsource correction in the community
   * s-org potential 
