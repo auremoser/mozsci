@@ -34,7 +34,7 @@ Here are some problems surfaced in the audit of Study Group Materials.
 
 * **communication** - community is greater than eng/por/ben
 * **x-org potential** - repo is currently only used for study groups though the site/lesson model could be more modular
-* **visibility** - community does does not
+* **visibility** - community does not appear on the site currently
 * **mobilizing community** - checkins, relevant collaborations encouraged
 * **mechanics/merging upstream** - logistically not fun
 * **monitoring forks** - not scalable right now
@@ -92,4 +92,9 @@ Here are some thoughts about what to address.
 ###LINKS
 * [Regional Contacts](https://docs.google.com/spreadsheets/d/1hJsenXpY_IIera9iAABs0-LFJxYuGlsdCzcnfBV41yM/edit?usp=sharing)
 * [Study Group Asset Inventory](https://docs.google.com/spreadsheets/d/1aQhmnDO4zYt24sD8ItYeesbAn2TUiHzKyllSkzs4VN0/edit#gid=0)
+
+
+### FOLLOWUP
+* ali localization stuff in toronto - @alicoding
+* first time - localization stuff, transifex
 
