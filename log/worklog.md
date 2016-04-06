@@ -955,6 +955,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 4/5/16
 * roadmap - [aure's work](https://public.etherpad-mozilla.org/p/sciencelab-accountability-aurelia)
 * worked on msl gantt chart
+* worked on open science edits content for the website [here](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit#)
+* geojournews and open vis conf logistics
 
 * study group wrap up
 * setup logistics for next week's community call
