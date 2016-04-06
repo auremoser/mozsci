@@ -42,7 +42,7 @@ Here are some problems surfaced in the audit of Study Group Materials.
 	* design - lots of assets are text right now
 	* fun/play - more of it
 
-![worldwide](img/ww.png)
+![worldwide](https://raw.githubusercontent.com/auremoser/mozsci/master/img/ww.png)
 
 ### IDEAS
 
@@ -75,7 +75,7 @@ Here are some thoughts about what to address.
   * introduce play
   	- mozlando map/mapchat
 
-![mapchat](img/mapchat.png)
+![mapchat](https://raw.githubusercontent.com/auremoser/mozsci/master/img/mapchat.png)
 
 ### CONSTRAINTS
 * maintain existing resources for current community
