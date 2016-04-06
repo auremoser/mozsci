@@ -64,17 +64,21 @@ Here are some thoughts about what to address.
   	- maybe have instructions for this in the handbook
   	- write out criteria for merges in the wiki
   	- develop additional documentation in the wiki
-  * monitoring forks 
-  	- maybe write a script to pull fork updates
-  	- document in wiki maintenance
-  	- make studyGroupAdmin repo for monitoring scripts
-  * events calendar 
-  	- maybe write a script for the events calendar with gh realtime/stream api
-  * design
-  	- make the study group guidelines more "visual"
-  	- make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction
-  * introduce play
-  	- mozlando map/mapchat
+  * [**HIGH**] monitoring forks 
+		- maybe write a script to pull fork updates +1+1+1+1
+		^^ is this also to pull events, so we know when they're happening, how frequently, etc?
+		- research if someone has done this!
+  	- monthly update share out
+		- document in wiki maintenance
+		- make studyGroupAdmin repo for monitoring scripts
+  * events calendar < I would wait for the website to maybe tackle this
+		- maybe write a script for the events calendar with gh realtime/stream api
+ 	* design
+		- make the study group guidelines more "visual" +1
+		- make brand guidelines: http://mozilla.github.io/mozilla-club-guides/branding-guidelines/#introduction +1+1
+		- to add the brand guidelines, a style/expectation guide, like 18F on how to contribute / participate / etc 
+  * introduce play I like this, it seems fun, but lower priority
+		- mozlando map/mapchat
 
 ![mapchat](https://raw.githubusercontent.com/auremoser/mozsci/master/img/mapchat.png)
 
