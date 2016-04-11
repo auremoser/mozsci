@@ -963,8 +963,22 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [wow invites for August wow](https://docs.google.com/spreadsheets/d/1bZZjWTeIxshgo8gl974-Uwxw3SimzNZJQeqO2ZRN7QU/edit#gid=0)
 * tweeted about community call, blog post up
 * worked on emails about mozsprint, community email, catchup on other work and listserv approvals
+* wrote to new fork [here](https://github.com/raj-maurya/studyGroup/commit/a73f5a47d05eaf25ef0da7c29ee53a28299d610e)
 
+#### 4/11/16
 
+* documentary arrangements, interview with Lina
+* [culture amp survey](https://mozilla.cultureamp.com/responses/570b59a6db4d0842d7019230)
+* abby's google ticket
+* community call publicity - tweets
+* emailed speakers for thursday call
+* fellows call prep
+* put together plan for fellows 3rd part for friday
+
+* community call about geojournews
+* populate community call with updates
+
+* space apps tutorials and materials
 * primers framework layout
 * study group wrap up blog
 * setup logistics for next week's community call
