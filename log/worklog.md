@@ -974,6 +974,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * abby's google.io ticket arrangements
 * geojournews community call arrangements with erika
 * changed speaker arrangements for [community call Jun 09](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016)
+* [space apps meeting](https://public.etherpad-mozilla.org/p/spaceapps2016)
 
 * community call publicity - tweets
 * emailed speakers for thursday call
