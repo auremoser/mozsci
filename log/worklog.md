@@ -969,7 +969,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 * documentary arrangements, interview with Lina
 * [culture amp survey](https://mozilla.cultureamp.com/responses/570b59a6db4d0842d7019230)
-* meeting with KT
+* meeting with KT [notes](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * msl staff checkin
 * abby's google.io ticket arrangements
 * geojournews community call arrangements with erika
