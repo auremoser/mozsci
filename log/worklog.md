@@ -983,6 +983,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [js conf medellin application](http://jsconf.co/#with-love)
 * [node conf ar application]()
 * tweet about community call
+* rsvp for def hacks() judging on sunday
+* made plans to meet with Stuart for Science Hack Day on Thursday
+* studying up for the MLN project call on Friday via KT
 
 * community call publicity - tweets
 * emailed speakers for thursday call
