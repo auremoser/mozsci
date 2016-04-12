@@ -986,7 +986,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * rsvp for def hacks() judging on sunday
 * made plans to meet with Stuart for Science Hack Day on Thursday
 * studying up for the MLN project call on Friday via KT
+* meeting olc with [amel et al]()
+* meeting with peter grabitz
+* wrote up plan for [study group cameo](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit?usp=sharing) at Anelda's pan-african training session next week
+* 
 
+* get back to harry about his swag
+* put together dec for Anelda next week Training sessions
 * community call publicity - tweets
 * emailed speakers for thursday call
 * fellows call prep
