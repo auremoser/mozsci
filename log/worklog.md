@@ -978,6 +978,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 4/12/16
 * meeting with [OLC - harry](https://public.etherpad-mozilla.org/p/wow-harry)
+* email about open news call to geojournews team
+* email to jason about GET feature on Community Call
+* [js conf medellin application](http://jsconf.co/#with-love)
+* [node conf ar application]()
 
 * community call publicity - tweets
 * emailed speakers for thursday call
