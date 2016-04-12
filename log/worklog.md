@@ -982,6 +982,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email to jason about GET feature on Community Call
 * [js conf medellin application](http://jsconf.co/#with-love)
 * [node conf ar application]()
+* tweet about community call
 
 * community call publicity - tweets
 * emailed speakers for thursday call
