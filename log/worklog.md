@@ -976,6 +976,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * changed speaker arrangements for [community call Jun 09](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016)
 * [space apps meeting](https://public.etherpad-mozilla.org/p/spaceapps2016)
 
+#### 4/12/16
+* meeting with [OLC - harry](https://public.etherpad-mozilla.org/p/wow-harry)
+
 * community call publicity - tweets
 * emailed speakers for thursday call
 * fellows call prep
