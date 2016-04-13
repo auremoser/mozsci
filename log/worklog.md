@@ -991,6 +991,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote up plan for [study group cameo](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit?usp=sharing) at Anelda's pan-african training session next week
 * 
 
+#### 4/13/16
+* met with Madeleine and Luke
+* met with [Anna Krystalli](https://public.etherpad-mozilla.org/p/wow-anna)
+
+* steph's open data stuff to anna krystalli
+
 * get back to harry about his swag
 * put together dec for Anelda next week Training sessions
 * community call publicity - tweets
