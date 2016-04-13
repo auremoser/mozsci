@@ -989,7 +989,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting olc with [amel et al]()
 * meeting with peter grabitz
 * wrote up plan for [study group cameo](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit?usp=sharing) at Anelda's pan-african training session next week
-* 
+
 
 #### 4/13/16
 * met with Madeleine and Luke
