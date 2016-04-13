@@ -997,6 +997,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with [Jon Tennant](https://public.etherpad-mozilla.org/p/wow-jon)
 * went over mln project review with KT
 * flyers to brooklyn public library people
+* wrote to Stuart about Community Call tomorrow
+* sent out fellows' etherpad for tomorrow's call
 
 * steph's open data stuff to anna krystalli
 
