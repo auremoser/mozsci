@@ -995,6 +995,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with Madeleine and Luke
 * met with [Anna Krystalli](https://public.etherpad-mozilla.org/p/wow-anna)
 * met with [Jon Tennant](https://public.etherpad-mozilla.org/p/wow-jon)
+* went over mln project review with KT
 
 * steph's open data stuff to anna krystalli
 
