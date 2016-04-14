@@ -1002,24 +1002,23 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 4/14/16
 * OLC call with [Christopher Kittel](https://public.etherpad-mozilla.org/p/wow-chris)
 * OLC call with [Tim + Igor](https://public.etherpad-mozilla.org/p/wow-tim)
+* community call publicity - tweets
+* fellows call prep
 * added some palettr details for [achintya](https://github.com/RaoOfPhysics/paletter/pull/2)
 * hosted [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr14-2016)
 * thanked community call speakers
 * intro'd zannah to sumana for leadership curriculum
 * wrote up [spaace apps promotional blog](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3538&action=edit)
+* tweets and flyers printing for space apps
 
 * video for anelda 
 * steph's open data stuff to anna krystalli
 * get back to harry about his swag
 * put together dec for Anelda next week Training sessions
-* community call publicity - tweets
-* emailed speakers for thursday call
-* fellows call prep
-* put together plan for fellows 3rd part for friday
 
+* put together plan for fellows 3rd part for friday
 * community call about geojournews
 * populate community call with updates
-
 * space apps tutorials and materials
 * primers framework layout
 * study group wrap up blog
@@ -1027,7 +1026,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * make a hacker conference website for science
 * agenda for nairobi
-* promote space apps
 * data management mood board
   * quick lesson with primer material
 * sketch schedule for fellows new workweek
