@@ -1013,6 +1013,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * mln run through [notes](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 * study group learning calls adjustment in wiki
 * posted [space apps blog](https://mozillascience.org/space-apps-2016)
+* wrote back to ;new study group lead](https://github.com/amitkumarj441/studyGroup/commit/01d6e157ea388913c3d7d2ece69f7af5058e83ef)
+* made etherpad for [study group call next month](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2016)
 
 * video for anelda 
 * steph's open data stuff to anna krystalli
