@@ -1008,8 +1008,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * intro'd zannah to sumana for leadership curriculum
 * wrote up [spaace apps promotional blog](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3538&action=edit)
 
+* video for anelda 
 * steph's open data stuff to anna krystalli
-
 * get back to harry about his swag
 * put together dec for Anelda next week Training sessions
 * community call publicity - tweets
