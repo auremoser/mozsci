@@ -990,7 +990,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with peter grabitz
 * wrote up plan for [study group cameo](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit?usp=sharing) at Anelda's pan-african training session next week
 
-
 #### 4/13/16
 * met with Madeleine and Luke
 * met with [Anna Krystalli](https://public.etherpad-mozilla.org/p/wow-anna)
@@ -999,6 +998,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * flyers to brooklyn public library people
 * wrote to Stuart about Community Call tomorrow
 * sent out fellows' etherpad for tomorrow's call
+
+#### 4/14/16
+* OLC call with [Christopher Kittel](https://public.etherpad-mozilla.org/p/wow-chris)
+* OLC call with [Tim + Igor](https://public.etherpad-mozilla.org/p/wow-tim)
+* added some palettr details for [achintya](https://github.com/RaoOfPhysics/paletter/pull/2)
+* hosted [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr14-2016)
+* thanked community call speakers
+* intro'd zannah to sumana for leadership curriculum
+* wrote up [spaace apps promotional blog](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3538&action=edit)
 
 * steph's open data stuff to anna krystalli
 
