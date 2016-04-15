@@ -1017,10 +1017,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made etherpad for [study group call next month](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2016)
 * applied for CSS Conf Argentina
 
+
+#### 4/15/16
 * video for anelda 
 * steph's open data stuff to anna krystalli
 * get back to harry about his swag
 * put together dec for Anelda next week Training sessions
+* foundation [demos](https://public.etherpad-mozilla.org/p/foundation-demos)
 
 * put together plan for fellows 3rd part for friday
 * community call about geojournews
