@@ -1019,16 +1019,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 
 #### 4/15/16
+
 * emails and catchup with csv and get people
 * early morning [mln overview](https://public.etherpad-mozilla.org/p/MLNQ1Review2016)
 * foundation [demos](https://public.etherpad-mozilla.org/p/foundation-demos)
+* working on space apps demo stuff
+* connecting with flukeout about event site for study groups
 
 * video for anelda 
 * steph's open data stuff to anna krystalli
 * get back to harry about his swag
 * put together dec for Anelda next week Training sessions
-
-
 * put together plan for fellows 3rd part for friday
 * community call about geojournews
 * populate community call with updates
