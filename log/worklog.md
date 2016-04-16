@@ -1027,6 +1027,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * connecting with flukeout about event site for study groups
 * team meeting for MSL
 * registered for GET labs
+* planned meeting for monday to meet
+* added a bunch of comments to the redpen
 
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
 * video for anelda 
