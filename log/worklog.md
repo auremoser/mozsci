@@ -1030,6 +1030,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * planned meeting for monday to meet
 * added a bunch of comments to the redpen
 
+#4/17/16
+* wrote back to lina + holger about documentary
+* judged defhacks() in manhattan
+
+
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
 * video for anelda 
 * steph's open data stuff to anna krystalli
