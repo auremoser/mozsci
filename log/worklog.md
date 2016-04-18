@@ -1033,7 +1033,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #4/17/16
 * wrote back to lina + holger about documentary
 * judged defhacks() in manhattan
-
+* wrote back to space apps
+* women in GIS online lecture for Doug Miskowiak's class at UW Steven's Point
 
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
 * video for anelda 
