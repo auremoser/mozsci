@@ -21,10 +21,10 @@
 * meeting with KT and Zannah about Cohort Brainstorm ([roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping) + [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * squared away some more things on my checklist for onboarding
 * community call brainstorm scheduled on open data collection opportunities after orlando 12/13
-	* elizabeth - metasub
-	* research stack (http://researchstack.org/)
-	* joey - data collection hardware
-	* andrew thayler - open hardware
+  * elizabeth - metasub
+  * research stack (http://researchstack.org/)
+  * joey - data collection hardware
+  * andrew thayler - open hardware
 * tasks for today's [onboarding assignment](http://commonspace.wordpress.com/2014/07/16/depthandscale/)
 * review for zannah's session of the [gdi curriculum site](http://girldevelopit.github.io/gdi-curriculum-site/)
 * made my first issue in the [github planning repo](https://github.com/mozillascience/plan/issues/33)
@@ -1037,20 +1037,69 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * women in GIS online lecture for Doug Miskowiak's class at UW Steven's Point
 * made video of MSL intro for Anelda's class (in projects/)
 
+#### 4/18/16
+* talk to Anelda + Aleksandra's group in South Africa
+* invite richard to biojulia study group call
+* 1:1 with [KT notes here](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* email doug about Steven's point stuff
+* work on space apps materials
+* MSL team standup
+* meeting with Arliss about swag (postponed)
+* worked on Science Hack Day materials
+* meeting with Flukebot about calendar data
 
+#### 4/19/16
+* olc calls in the morning
+* rescheduling of OLC calls in Abby's absence
+* email catchup and some hive catchup
+* eco data will be joining the community calls
+* meeting with KT on Fellows Round 2  
+* meeting with Robert for OLC
+* outreach to design about OLC call
+
+#### 4/20/16
+* rescheduled study group africa chat
+* pitched a session at SRCCON
+* met with some OLC folks
+* setup fellows call etherpad for [tomorrow](https://public.etherpad-mozilla.org/p/2015-science-fellows-apr21)
+* working on space apps website [here](https://github.com/sciencehackdayny/data-camp-16)
+* some data work for Luke
+* some fellows' exercise work for tomorrow
+* fellowship planning with KT
+* more work on the outlines for data-camp on Friday
+* emails loads of emails
+* sent email to mike caprio about Space apps
+* swag pack stuff with Erika for Global Spring
+* fellows email for april meetup
+
+#### 4/21/16
+* tech day setup
+* open news call to plug geojournews
+* fellows call (aborted)
+* worked on newsletter content
+* worked on setting up my badge for the get conference
+* signed up for pgp study
+* signed in with 23&me and jawbone data
+
+
+#### 4/22/16
+* newsletter dispatch to everyone
+* worked on science hack day resources
+* piles of emails queue'd and prepped
+
+
+* get data from _posts and match to Luke's json blog event report 
+
+
+* revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
-* video for anelda 
 * steph's open data stuff to anna krystalli
 * get back to harry about his swag
-* put together dec for Anelda next week Training sessions
 * put together plan for fellows 3rd part for friday
 * community call about geojournews
-* populate community call with updates
 * space apps tutorials and materials
 * primers framework layout
-* study group wrap up blog
 * setup logistics for next week's community call
-* revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * make a hacker conference website for science
 * agenda for nairobi
 * data management mood board
