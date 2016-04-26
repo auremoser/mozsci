@@ -1092,6 +1092,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * getLabs studies and attendance
 * sent out email reminder for tomorrow
 * invited fellows to evening thing
+* drafted space apps blog post for tomorrow
+* 
 
 * get data from _posts and match to Luke's json blog event report 
 
