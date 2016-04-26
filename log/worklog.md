@@ -1082,14 +1082,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * signed in with 23&me and jawbone data
 
 
-#### 4/22/16
+#### 4/22/16 4/25/16
 * newsletter dispatch to everyone
 * worked on science hack day resources
 * piles of emails queue'd and prepped
 * worked with teams to prep repos for Space Hack Day
 * monitored teams
 * filled out [NASA survey](https://docs.google.com/forms/d/1A6gvat6qZVTZ3qVerahiPr9YRN_ryzpifzHOaZcqgMg/formResponse)
-
+* getLabs studies and attendance
+* sent
 
 * get data from _posts and match to Luke's json blog event report 
 
