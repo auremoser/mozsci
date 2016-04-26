@@ -79,6 +79,7 @@ Here are some thoughts about what to address.
 		- to add the brand guidelines, a style/expectation guide, like 18F on how to contribute / participate / etc 
   * introduce play I like this, it seems fun, but lower priority
 		- mozlando map/mapchat
+  * add ["improve this content button"](http://ben.balter.com/2015/09/13/github-pages-edit-button/)
 
 ![mapchat](https://raw.githubusercontent.com/auremoser/mozsci/master/img/mapchat.png)
 
