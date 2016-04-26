@@ -1090,7 +1090,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * monitored teams
 * filled out [NASA survey](https://docs.google.com/forms/d/1A6gvat6qZVTZ3qVerahiPr9YRN_ryzpifzHOaZcqgMg/formResponse)
 * getLabs studies and attendance
-* sent
+* sent out email reminder for tomorrow
+* invited fellows to evening thing
 
 * get data from _posts and match to Luke's json blog event report 
 
