@@ -1095,6 +1095,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * drafted space apps blog post for tomorrow
 * email to nifras about Study Group project
 
+#### 4/27/16
+* olc meetings with madeleine, rescheduling with Ali and Anna
+* tweeted blog post for Sci Hack Day, posted sci hack day blog
+
+
 * get data from _posts and match to Luke's json blog event report 
 
 
