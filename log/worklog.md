@@ -1100,7 +1100,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * tweeted blog post for Sci Hack Day, posted sci hack day blog
 * added folks to the newsletter from GET labs
 * reached out to them in a welcome email
+* made survey for GET/Open Vis followup
+* olc meeting with Oliver
+* online checkin for MSL
 
+
+
+* csv conf outline
 
 * get data from _posts and match to Luke's json blog event report 
 
