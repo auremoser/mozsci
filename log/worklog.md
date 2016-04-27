@@ -1098,6 +1098,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 4/27/16
 * olc meetings with madeleine, rescheduling with Ali and Anna
 * tweeted blog post for Sci Hack Day, posted sci hack day blog
+* added folks to the newsletter from GET labs
+* reached out to them in a welcome email
 
 
 * get data from _posts and match to Luke's json blog event report 
