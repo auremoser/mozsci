@@ -1103,11 +1103,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made survey for GET/Open Vis followup
 * olc meeting with Oliver
 * online checkin for MSL
+* meeting with the Beautiful Rising folks
 
 #### 4/28/16
 * project call [notes here](https://public.etherpad-mozilla.org/p/sciencelab-project-call-apr28-2016)
 * fellows call [notes here](https://public.etherpad-mozilla.org/p/2015-science-fellows-apr28)
 * updated some [copy for the website I was tagged on](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
+* connect melissa to Beautiful Rising
+* meeting with the cross-fellowship folks
+* set new meeting for next month prior to workweek
+
 
 
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
@@ -1119,8 +1124,10 @@ https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/eve
 * make bitly
 
 * csv conf outline
-
+* write blog post for open vis/get conference
 * get data from _posts and match to Luke's json blog event report 
+
+
 
 
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
@@ -1128,10 +1135,7 @@ https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/eve
 * steph's open data stuff to anna krystalli
 * get back to harry about his swag
 * put together plan for fellows 3rd part for friday
-* community call about geojournews
-* space apps tutorials and materials
 * primers framework layout
-* setup logistics for next week's community call
 * make a hacker conference website for science
 * agenda for nairobi
 * data management mood board

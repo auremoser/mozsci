@@ -19,3 +19,8 @@
 * communication
 	* gitter/slack
 	* irc
+
+
+### REFERENCES
+
+* [Mozilla Fellow Handbook](http://mozillascience.github.io/mozilla-fellows/05-program-models.html)
