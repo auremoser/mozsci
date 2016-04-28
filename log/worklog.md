@@ -1110,7 +1110,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows call [notes here](https://public.etherpad-mozilla.org/p/2015-science-fellows-apr28)
 * updated some [copy for the website I was tagged on](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
 * connect melissa to Beautiful Rising
-* meeting with the cross-fellowship folks
+* meeting with the [cross-fellowship folks](https://public.etherpad-mozilla.org/p/mozfellowships)
 * set new meeting for next month prior to workweek
 * put together drive folder for [Global Sprint](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHMEl2NXdtdGFNNGs&usp=sharing)
 * put together swag folder for [Global Sprint](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHeXJ2ODQ4YmxSNGc)
