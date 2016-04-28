@@ -1107,6 +1107,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 4/28/16
 * project call [notes here](https://public.etherpad-mozilla.org/p/sciencelab-project-call-apr28-2016)
 * fellows call [notes here](https://public.etherpad-mozilla.org/p/2015-science-fellows-apr28)
+* updated some [copy for the website I was tagged on](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit)
 
 
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
