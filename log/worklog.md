@@ -1112,6 +1112,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * connect melissa to Beautiful Rising
 * meeting with the cross-fellowship folks
 * set new meeting for next month prior to workweek
+* put together drive folder for [Global Sprint](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHMEl2NXdtdGFNNGs&usp=sharing)
+* put together swag folder for [Global Sprint](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHeXJ2ODQ4YmxSNGc)
 
 
 
