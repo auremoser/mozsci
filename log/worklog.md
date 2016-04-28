@@ -1104,10 +1104,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * olc meeting with Oliver
 * online checkin for MSL
 
+#### 4/28/16
+* project call [notes here](https://public.etherpad-mozilla.org/p/sciencelab-project-call-apr28-2016)
+
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
 * templates for buttons
 
 * aurelia to bring stickers and tattlys
+* fix up postcard so ready to print
+* make bitly
 
 * csv conf outline
 
