@@ -1106,8 +1106,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 4/28/16
 * project call [notes here](https://public.etherpad-mozilla.org/p/sciencelab-project-call-apr28-2016)
+* fellows call [notes here](https://public.etherpad-mozilla.org/p/2015-science-fellows-apr28)
+
 
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
+https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade
 * templates for buttons
 
 * aurelia to bring stickers and tattlys
