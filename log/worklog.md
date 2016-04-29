@@ -1115,11 +1115,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * put together drive folder for [Global Sprint](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHMEl2NXdtdGFNNGs&usp=sharing)
 * put together swag folder for [Global Sprint](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHeXJ2ODQ4YmxSNGc)
 * made postcard for global sprint swag
+* setup a map for the global sprint site and made changes according to abby's needs
 
 
 
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
 https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade
+
+<iframe width="100%" height="520" frameborder="0" src="https://auremoser.cartodb.com/viz/ed575994-f063-11e5-a94e-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 * templates for buttons
 
 * aurelia to bring stickers and tattlys
