@@ -1116,6 +1116,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * put together swag folder for [Global Sprint](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHeXJ2ODQ4YmxSNGc)
 * made postcard for global sprint swag
 * setup a map for the global sprint site and made changes according to abby's needs
+* applied to write/speak/code as [a documentation fellow](https://docs.google.com/forms/d/1erpGglbRGTxT-nF_SIrg0WFiO8y87-v73BBNwRO4jIc/formResponse)
 
 
 
