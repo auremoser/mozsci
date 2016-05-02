@@ -1115,32 +1115,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * put together drive folder for [Global Sprint](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHMEl2NXdtdGFNNGs&usp=sharing)
 * put together swag folder for [Global Sprint](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHeXJ2ODQ4YmxSNGc)
 * made postcard for global sprint swag
-* setup a map for the global sprint site and made changes according to abby's needs
+* setup [a map for the global sprint site](https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade) and made changes according to abby's needs
 * applied to write/speak/code as [a documentation fellow](https://docs.google.com/forms/d/1erpGglbRGTxT-nF_SIrg0WFiO8y87-v73BBNwRO4jIc/formResponse)
 
-
-<<<<<<< HEAD
 #### 5/1/16 - 5/2/16
+* emailed some general request emails
+* emailed abby and arliss about tables in cartodb from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
 * traveled to Berlin
+
+#### 5/2/16
+* worked on [CSV Conf Presentation](https://docs.google.com/presentation/d/1_wUOUG0Piz2N5t2A9aEI_Ngg6OX6yRDSnFeoF2HAIXQ/edit#slide=id.g12efa73297_1_774)
 * email martyna about visit to berlin office
 * email arliss with resources for the kits
 * made site with map for global sprint [hopefully editable now](https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade)
-=======
-#### 4/29/16
-* emailed some general request emails
-* emailed abby and arliss about tables in cartodb
-
->>>>>>> f2b70e700fa363b6cd8bba49b62b85a0cff1fe02
-
-* work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
-https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade
-
-<iframe width="100%" height="520" frameborder="0" src="https://auremoser.cartodb.com/viz/ed575994-f063-11e5-a94e-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-* templates for buttons
-
-* aurelia to bring stickers and tattlys
-* fix up postcard so ready to print
-* make bitly
+* put together [talk for Rutgers on May 14th](https://docs.google.com/presentation/d/14l_N4RkJhRyuOqZCSrTVVLcpBC9QoqlBUH31No2z_LA/edit?usp=sharing)
 
 * csv conf outline
 * write blog post for open vis/get conference
