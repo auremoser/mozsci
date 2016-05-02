@@ -1119,8 +1119,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * applied to write/speak/code as [a documentation fellow](https://docs.google.com/forms/d/1erpGglbRGTxT-nF_SIrg0WFiO8y87-v73BBNwRO4jIc/formResponse)
 
 
-#### 5/1/16
+#### 5/1/16 - 5/2/16
+* traveled to Berlin
 * email martyna about visit to berlin office
+* email arliss with resources for the kits
+* made site with map for global sprint [hopefully editable now](https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade)
 
 * work on map for hosts from [arliss' spreadsheet](https://docs.google.com/spreadsheets/d/1KLuCktB62PNjJ5DHTTryvDLjHRqSqzxFwyBYaL6iqnA/edit?ts=57222be8#gid=0)
 https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade
