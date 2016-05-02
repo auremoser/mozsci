@@ -1129,6 +1129,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email arliss with resources for the kits
 * made site with map for global sprint [hopefully editable now](https://github.com/mozilla/science.mozilla.org/blob/mozillascience.org/views/events/globalsprint2016.jade)
 * put together [talk for Rutgers on May 14th](https://docs.google.com/presentation/d/14l_N4RkJhRyuOqZCSrTVVLcpBC9QoqlBUH31No2z_LA/edit?usp=sharing)
+* reached out to new study group lead [here](https://github.com/smcclatchy) + reached out to existing lead for Kristina
+* met with Leibniz documentarty people
+* met with Paula and Helene from OKF about Jungend Hackt
 
 * csv conf outline
 * write blog post for open vis/get conference
