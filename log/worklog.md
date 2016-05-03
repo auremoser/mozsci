@@ -1138,6 +1138,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * attending CSV Conf
 * OLC calls
 * invited Data proofer to Community call in June
+* emailed jugend hackt team about collaboration
 
 * csv conf outline
 * write blog post for open vis/get conference
