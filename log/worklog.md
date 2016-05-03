@@ -1133,6 +1133,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with Leibniz documentarty people
 * met with Paula and Helene from OKF about Jungend Hackt
 
+
+#### 5/3/16
+* attending CSV Conf
+* OLC calls
+* invited Data proofer to Community call in June
+
 * csv conf outline
 * write blog post for open vis/get conference
 * get data from _posts and match to Luke's json blog event report 
