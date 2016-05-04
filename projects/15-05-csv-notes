@@ -1,0 +1,41 @@
+#### [CSV Conf](http://csvconf.com/) Notes
+
+**Aurelia** : [talk](https://docs.google.com/presentation/d/1_wUOUG0Piz2N5t2A9aEI_Ngg6OX6yRDSnFeoF2HAIXQ/edit#slide=id.g12efa73297_0_0) + [refs](http://tinyurl.com/csv-maps)
+
+**Richard** 
+
+* talk on Science Fair + Content Mine/Get papers
+
+**K. Adam White** : 
+
+* wordpress api and csvs
+* a day of REST Boston October 28th
+
+**Ben Webb** 
+
+* flatten tool for converting between xlsx and csv
+* json schema defines standards
+* <github.com/OpenDataServices/flatten-tool/>
+
+**Zara Rahman** 
+
+* CCC speaker
+* activism + tech + humanitarian error/effort
+* <responsibledata.io/reflection stories>
+
+**Jeni T** CSV space for W3
+
+* really interesting stuff about specs for the W3 related to csv in wikidata
+* great quote about human readable / machine readable magic of csv
+
+**Jenny Bryan** 
+
+* Excel and spreachsheet work, doing stuff in excel, great talk, wonderful personality
+* working on a pile of tools for csv + R
+* <https://github.com/jennybc/2016-05_csvconf-spreadsheets>
+
+**Jeremy Freeman** 
+
+* <neurofinder.codeneuro.org>
+* <lightning-viz.org> - node project and server / electrol app
+<mybinder.org> -> everware

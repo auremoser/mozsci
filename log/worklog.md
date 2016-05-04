@@ -1147,6 +1147,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ##### Call Ideas
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+* Patchwork - Github: http://patchwork.github.io/
 
 
 
