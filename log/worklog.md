@@ -1145,6 +1145,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * get data from _posts and match to Luke's json blog event report 
 
 
+##### Call Ideas
+* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+
 
 
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
