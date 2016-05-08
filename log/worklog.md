@@ -1134,11 +1134,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with Paula and Helene from OKF about Jungend Hackt
 
 
-#### 5/3/16
+#### 5/3/16-5/5/16
 * attending CSV Conf
 * OLC calls
 * invited Data proofer to Community call in June
 * emailed jugend hackt team about collaboration
+* attended Open Tech Summit
+* filmed leibniz documentary
+* went to HKW exhibition on nervous systems
+* prepped all packet stuff and printouts for the fellows to put together swag kits
 
 * csv conf outline
 * write blog post for open vis/get conference
