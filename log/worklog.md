@@ -1148,6 +1148,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * world science festival call
 * sent ideas for geo-cli
 * fellows stuff with Abigail, the lawyer
+* join a study group issue [#314](https://github.com/mozilla/science.mozilla.org/issues/314)
 
 * write blog post for open vis/get conference
 * get data from _posts and match to Luke's json blog event report 
