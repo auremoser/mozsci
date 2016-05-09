@@ -1149,6 +1149,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent ideas for geo-cli
 * fellows stuff with Abigail, the lawyer
 * join a study group issue [#314](https://github.com/mozilla/science.mozilla.org/issues/314)
+* outreach to new study group lead abdelrahman1samy
+
 
 * write blog post for open vis/get conference
 * get data from _posts and match to Luke's json blog event report 
