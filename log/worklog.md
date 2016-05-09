@@ -1150,6 +1150,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows stuff with Abigail, the lawyer
 * join a study group issue [#314](https://github.com/mozilla/science.mozilla.org/issues/314)
 * outreach to new study group lead abdelrahman1samy
+* addition to site for new global sprint sites [PR here](https://github.com/mozilla/science.mozilla.org/pull/326)
+* receipts for berlin
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
