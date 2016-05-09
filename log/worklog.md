@@ -1152,6 +1152,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * outreach to new study group lead abdelrahman1samy
 * addition to site for new global sprint sites [PR here](https://github.com/mozilla/science.mozilla.org/pull/326)
 * receipts for berlin
+* reviewed ["Open Your Project"](https://docs.google.com/document/d/1S8Lje4pNMurkx9V-iLnsS7fUPZKe-Ha8pcIDhR9lLJY/edit#) curriculum for Zannah
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
