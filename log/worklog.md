@@ -1159,6 +1159,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emails about global sprint
 * updated website/map about global sprint - tunis [PR here](https://github.com/mozilla/science.mozilla.org/pull/332)
 * emailed site hosts in boston and arliss for e-troduction
+* bought ticket for rutgers this weekend
 
 
 * fellows materials for section 3
