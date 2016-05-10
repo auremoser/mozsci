@@ -1157,7 +1157,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 5/10/16
 * filled out sched for [London all-hands](http://mozillalondonallhands2016.sched.org/overview/type/MoFo)
 * emails about global sprint
-* updated website/map about global sprint - tunis
+* updated website/map about global sprint - tunis [PR here](https://github.com/mozilla/science.mozilla.org/pull/332)
 * emailed site hosts in boston and arliss for e-troduction
 
 
