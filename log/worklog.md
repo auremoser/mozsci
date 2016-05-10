@@ -1153,7 +1153,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * addition to site for new global sprint sites [PR here](https://github.com/mozilla/science.mozilla.org/pull/326)
 * receipts for berlin
 * reviewed ["Open Your Project"](https://docs.google.com/document/d/1S8Lje4pNMurkx9V-iLnsS7fUPZKe-Ha8pcIDhR9lLJY/edit#) curriculum for Zannah
+
+#### 5/10/16
 * filled out sched for [London all-hands](http://mozillalondonallhands2016.sched.org/overview/type/MoFo)
+* emails about global sprint
+* updated website/map about global sprint - tunis
+* emailed site hosts in boston and arliss for e-troduction
+
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
