@@ -1179,6 +1179,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
+* Open Data Barometer - http://opendatabarometer.org/
 
 
 
