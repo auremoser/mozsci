@@ -1166,6 +1166,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 5/11/16
 * review Chad's comments
 * OLC meetings with Madeleine and Anna
+* some prep for swag packs
+* talked with Anjuli about Nairobi, and meeting up
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
@@ -1175,6 +1177,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ##### Call Ideas
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
+* David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 
 
 
