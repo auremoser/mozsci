@@ -1163,6 +1163,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * gave feedback on [github curriculum](https://docs.google.com/document/d/1qB9JuJ3a2f-fsLX8s8m6uzhi1RHg-WkcstnUJ1UtP0c/edit)
 * gave feedback on [convenings curriculum](https://docs.google.com/document/d/17OsBDxSg2f5LURCmp3OSchVy0uLegC8pWVbZMcGpFk4/edit)
 
+#### 5/11/16
+* review Chad's comments
+* OLC meetings with Madeleine and Anna
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
