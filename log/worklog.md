@@ -1169,6 +1169,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * some prep for swag packs
 * talked with Anjuli about Nairobi, and meeting up
 * performance review for Zannah
+* meeting with Jon, hosting a mozsprint site and a mini-wow!
+* meeting with Kristie
+
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
