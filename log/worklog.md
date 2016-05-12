@@ -1182,11 +1182,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * blog post about GET [draft]()
 * outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * reached out to Chris from iHub to confirm dates, Esther from Ushahidi (skype), and Mark from iHub research (fbook)
+* logistics email planned and sent to Steph + KT
+* issue created for fellows curriculum
+* sent out email blast about global sprint for KT
+* connected with Aisha at IBM research
+* made calendar event for discussing Nairobi
 
 
-
+* geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
-
 * make [onboarding strategy documentation](https://old.etherpad-mozilla.org/opennews-2015-fellowships)
 
 ##### Call Ideas
