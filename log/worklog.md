@@ -1171,6 +1171,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * performance review for Zannah
 * meeting with Jon, hosting a mozsprint site and a mini-wow!
 * meeting with Kristie
+* added details to Study group site (website link and description)
+* meeting with Rosalind + D of consent
+* sent reminder for call tomorrow
 
 
 * fellows materials for section 3
