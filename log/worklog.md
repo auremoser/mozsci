@@ -1175,6 +1175,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with Rosalind + D of consent
 * sent reminder for call tomorrow
 
+#### 5/12/16
+* call with fellows [etherpad]()
+* blog post about GET [draft]()
+* outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
