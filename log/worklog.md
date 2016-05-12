@@ -1176,7 +1176,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent reminder for call tomorrow
 
 #### 5/12/16
+* moz fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
 * call with fellows [etherpad]()
+* finished fellow's tasks for [phase 3](https://github.com/mozillascience/fellows-class-2015/tree/master/test) + [roadmap](https://github.com/mozillascience/fellows-class-2015/blob/master/roadmap.md)
 * blog post about GET [draft]()
 * outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * reached out to Chris from iHub to confirm dates, Esther from Ushahidi (skype), and Mark from iHub research (fbook)
