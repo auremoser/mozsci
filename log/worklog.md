@@ -1179,6 +1179,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * call with fellows [etherpad]()
 * blog post about GET [draft]()
 * outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
+* reached out to Chris from iHub to confirm dates, Esther from Ushahidi (skype), and Mark from iHub research (fbook)
 
 * fellows materials for section 3
 * write blog post for open vis/get conference
