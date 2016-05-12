@@ -1179,7 +1179,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * moz fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
 * call with fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-may13)
 * finished fellow's tasks for [phase 3](https://github.com/mozillascience/fellows-class-2015/tree/master/test) + [roadmap](https://github.com/mozillascience/fellows-class-2015/blob/master/roadmap.md)
-* blog post about GET [draft]()
+
 * outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * reached out to Chris from iHub to confirm dates, Esther from Ushahidi (skype), and Mark from iHub research (fbook)
 * logistics email planned and sent to Steph + KT
@@ -1187,8 +1187,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent out email blast about global sprint for KT
 * connected with Aisha at IBM research
 * made calendar event for discussing Nairobi
+* emailed Jon Carpenter about webvr
+* emailed Alison from World Science Festival about Global Sprint
 
-
+* blog post about GET [draft]()
+* update [documentation](https://github.com/mozillascience/plan/issues/82) exercise to include reference to continuous documentation
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
 * make [onboarding strategy documentation](https://old.etherpad-mozilla.org/opennews-2015-fellowships)
