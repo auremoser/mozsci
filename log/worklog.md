@@ -1177,23 +1177,23 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 5/12/16
 * moz fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
-* call with fellows [etherpad]()
+* call with fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-may13)
 * finished fellow's tasks for [phase 3](https://github.com/mozillascience/fellows-class-2015/tree/master/test) + [roadmap](https://github.com/mozillascience/fellows-class-2015/blob/master/roadmap.md)
 * blog post about GET [draft]()
 * outline for Nairobi [etherpad here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * reached out to Chris from iHub to confirm dates, Esther from Ushahidi (skype), and Mark from iHub research (fbook)
 
-* fellows materials for section 3
-* write blog post for open vis/get conference
+
+
 * get data from _posts and match to Luke's json blog event report 
 
+* make [onboarding strategy documentation](https://old.etherpad-mozilla.org/opennews-2015-fellowships)
 
 ##### Call Ideas
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
-
 
 
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
@@ -1203,7 +1203,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * put together plan for fellows 3rd part for friday
 * primers framework layout
 * make a hacker conference website for science
-* agenda for nairobi
 * data management mood board
   * quick lesson with primer material
 * sketch schedule for fellows new workweek
@@ -1252,3 +1251,4 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * [aurelia's study group notes](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
 * [design dailies](http://desktopdailies.tumblr.com/)
+* [fellows' planning doc]
