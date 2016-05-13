@@ -1190,6 +1190,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed Alison from World Science Festival about Global Sprint
 * update [documentation](https://github.com/mozillascience/plan/issues/82) exercise to include reference to continuous documentation
 
+
+#### 5/13/16
+* picked tentative dates for Study Group reboot/onboarding in Africa
 * blog post about GET [draft]()
 
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
