@@ -1193,6 +1193,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 5/13/16
 * picked tentative dates for Study Group reboot/onboarding in Africa
+* made issue for this ^ [#83](https://github.com/mozillascience/plan/issues/83)
+* reach out to 2 more female speakers for geojournews
+* updated notes about [more resources for fellowships](https://public.etherpad-mozilla.org/p/mozfellowships)
+
 * blog post about GET [draft]()
 
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
