@@ -1196,12 +1196,24 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made issue for this ^ [#83](https://github.com/mozillascience/plan/issues/83)
 * reach out to 2 more female speakers for geojournews
 * updated notes about [more resources for fellowships](https://public.etherpad-mozilla.org/p/mozfellowships)
+* PR to add new [sites](https://github.com/mozilla/science.mozilla.org/pull/367)
+* made [onboarding strategy documentation for 2016 fellows]( https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
+* team call for [science lab](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may13-2016)
+
+#### 5/15/16
+* wrote back to Aisha about nairobi
+* started geo draft
+
+TODO
+* move copy to kristina's doc for fellowship application
+* checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
+* faq and landing page
+* make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
 
 * blog post about GET [draft]()
-
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
-* make [onboarding strategy documentation](https://old.etherpad-mozilla.org/opennews-2015-fellowships)
+
 
 ##### Call Ideas
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
