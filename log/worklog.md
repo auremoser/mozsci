@@ -1207,8 +1207,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 5/16/16
 * expenses for global sprint things
 * worked on geo draft
+* set date for performance review
 
 TODO
+* apply to js conf
 * move copy to kristina's doc for fellowship application
 * checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
 * faq and landing page
