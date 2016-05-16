@@ -1210,6 +1210,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked on geo draft
 * set date for performance review
 * reached out to Amira and Eva about Africa Recommendations, found some accommodation options in Nairobi
+* met with Ted of CUNY about opportunities to collaborate
+* filled out [network impact survey](https://www.surveygizmo.com/s3/2684160/Network-Mapping-Mozilla-Science-Lab)
 
 TODO
 * apply to js conf
