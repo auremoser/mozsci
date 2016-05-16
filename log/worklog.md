@@ -1204,6 +1204,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote back to Aisha about nairobi
 * started geo draft
 
+#### 5/16/16
+* expenses for global sprint things
+* worked on geo draft
+
 TODO
 * move copy to kristina's doc for fellowship application
 * checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
