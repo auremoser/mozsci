@@ -1199,6 +1199,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * PR to add new [sites](https://github.com/mozilla/science.mozilla.org/pull/367)
 * made [onboarding strategy documentation for 2016 fellows]( https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
 * team call for [science lab](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may13-2016)
+* packed swag packs and shipped them to 7 folks
 
 #### 5/15/16
 * wrote back to Aisha about nairobi
