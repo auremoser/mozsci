@@ -1209,9 +1209,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * expenses for global sprint things
 * worked on geo draft
 * set date for performance review
-* reached out to Amira and Eva about Africa Recommendations, found some accommodation options in Nairobi
+* reached out to Amira and Eva about Africa Recommendations, found some [accommodation options in Nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * met with Ted of CUNY about opportunities to collaborate
-* filled out [network impact survey](https://www.surveygizmo.com/s3/2684160/Network-Mapping-Mozilla-Science-Lab)
+* filled out [network impact survey](https://www.surveygizmo.com/s3/2684160/Network-Mapping-Mozilla-Science-Lab)]
 
 TODO
 * apply to js conf
