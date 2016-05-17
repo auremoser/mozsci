@@ -1214,6 +1214,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * filled out [network impact survey](https://www.surveygizmo.com/s3/2684160/Network-Mapping-Mozilla-Science-Lab)]
 * joey and jason blog post about get labs
 
+#### 5/17/16
+* olc calls, patricia, harry
+* posted GET labs blog [here](https://mozillascience.org/msl-in-boston)
+* meeting with Vanessa, Kaitlin,
+* olc calls, [brian](https://public.etherpad-mozilla.org/p/wow-brian), [amel](https://public.etherpad-mozilla.org/p/olc-africa), [peter](https://public.etherpad-mozilla.org/p/wow-peter)
+* correspondence with Anjuli and Sebastian about Nairobi plan
+
 TODO
 * apply to js conf
 * move copy to kristina's doc for fellowship application
@@ -1221,7 +1228,6 @@ TODO
 * faq and landing page
 * make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
 
-* blog post about GET [draft]()
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
 
@@ -1232,6 +1238,7 @@ TODO
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
+* Open Knowledge Maps - https://public.etherpad-mozilla.org/p/wow-brian
 
 
 * revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
