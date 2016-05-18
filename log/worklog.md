@@ -1220,6 +1220,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with Vanessa, Kaitlin,
 * olc calls, [brian](https://public.etherpad-mozilla.org/p/wow-brian), [amel](https://public.etherpad-mozilla.org/p/olc-africa), [peter](https://public.etherpad-mozilla.org/p/wow-peter)
 * correspondence with Anjuli and Sebastian about Nairobi plan
+* olc call [with Demetri](https://public.etherpad-mozilla.org/p/wow-demitri)
+* spruced up some things for [next month's learning call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016)
 
 TODO
 * apply to js conf
@@ -1227,6 +1229,9 @@ TODO
 * checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
 * faq and landing page
 * make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
+* [issues town hall](https://mana.mozilla.org/wiki/display/IC/Town+Halls)
+* moved nairobi meeting to accomodate team meeting on thursday
+
 
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
