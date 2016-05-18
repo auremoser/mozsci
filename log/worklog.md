@@ -1232,11 +1232,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * resolved some documentation conflicts
 * sent materials to fellows for [tomorrow's call](https://github.com/mozillascience/fellows-class-2015/blob/master/roadmap.md#testshare-may-june-2016)
 * updated our tito site and tweeted abou tthe global sprint
+* emailed [fellows with their updata for tomorrow's call](https://public.etherpad-mozilla.org/p/2015-science-fellows-may19)
+* longer call with MLN network!
+* call with Abigail to go over legal implications of fellowship
+* received approvals for screendoor, proceeding with applicaiton flesh out
 
-* update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
+
 
 TODO
 * apply to js conf
+* update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * move copy to kristina's doc for fellowship application
 * checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
 * faq and landing page
