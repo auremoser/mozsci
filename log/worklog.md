@@ -1229,6 +1229,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fixed stuff for Amel's Tunis site [issue 2](https://github.com/amelgh/IPT_Tunisia/issues/2)
 * OLC with Amel
 * emailed KT and arliss about updates
+* resolved some documentation conflicts
+
+* update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 
 TODO
 * apply to js conf
