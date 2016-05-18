@@ -1225,6 +1225,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * post-town hall gizmodo survey
 * email to abigail about tomorrow's meeting
 
+#### 5/18/16
+* fixed stuff for Amel's Tunis site [issue 2](https://github.com/amelgh/IPT_Tunisia/issues/2)
+* OLC with Amel
+* emailed KT and arliss about updates
 
 TODO
 * apply to js conf
