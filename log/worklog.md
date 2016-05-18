@@ -1230,6 +1230,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * OLC with Amel
 * emailed KT and arliss about updates
 * resolved some documentation conflicts
+* sent materials to fellows for [tomorrow's call](https://github.com/mozillascience/fellows-class-2015/blob/master/roadmap.md#testshare-may-june-2016)
+* updated our tito site and tweeted abou tthe global sprint
 
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 
