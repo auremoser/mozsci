@@ -1222,6 +1222,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * correspondence with Anjuli and Sebastian about Nairobi plan
 * olc call [with Demetri](https://public.etherpad-mozilla.org/p/wow-demitri)
 * spruced up some things for [next month's learning call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016)
+* post-town hall gizmodo survey
+* email to abigail about tomorrow's meeting
+
 
 TODO
 * apply to js conf
