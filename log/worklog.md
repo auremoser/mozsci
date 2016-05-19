@@ -1251,6 +1251,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * met with Joe from [open con](https://public.etherpad-mozilla.org/p/opencon-mozsci) setup meetings every two weeks
 * newsletter copy inclusion over to Kristina Gorr for the MLN network meetings
 * updated contact for [science lab](https://github.com/mozilla/science.mozilla.org/issues/375)
+* staged [pr for new sites](https://github.com/mozilla/science.mozilla.org/pull/417)
 
 TODO
 * screendoor setup
