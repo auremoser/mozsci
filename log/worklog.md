@@ -1238,7 +1238,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * received approvals for screendoor, proceeding with applicaiton flesh out
 * reached out to Sarah for GeoJourNews speaker slot
 
-
+#### 5/19/16
+* reminder email about study group call
+* confirmation about mln network blurb for christina
+* confirmed with Richard + Rob about Friday's biojulia call
+* worked on [ether pad]() for biojulia materials
+* added madrid and another site to the global sprint page
+* added content to [science.mozilla.org site](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit#)
 
 TODO
 * screendoor setup
