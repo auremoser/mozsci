@@ -1248,6 +1248,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * went through FAQ text proofed by Abigail
 * started merging to screendoor application
 * some geojournews troubleshooting and planning
+* met with Joe from [open con](https://public.etherpad-mozilla.org/p/opencon-mozsci) setup meetings every two weeks
+* newsletter copy inclusion over to Kristina Gorr for the MLN network meetings
+* updated contact for [science lab](https://github.com/mozilla/science.mozilla.org/issues/375)
 
 TODO
 * screendoor setup
