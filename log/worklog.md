@@ -1245,6 +1245,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked on [ether pad]() for biojulia materials
 * added madrid and another site to the global sprint page
 * added content to [science.mozilla.org site](https://docs.google.com/document/d/1k2Ds-iw4B_Sh5ae1areW1qfuLPtSqmgohtXYBkOi7r4/edit#)
+* went through FAQ text proofed by Abigail
+* started merging to screendoor application
+* some geojournews troubleshooting and planning
 
 TODO
 * screendoor setup
