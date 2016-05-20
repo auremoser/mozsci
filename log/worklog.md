@@ -1253,16 +1253,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated contact for [science lab](https://github.com/mozilla/science.mozilla.org/issues/375)
 * staged [pr for new sites](https://github.com/mozilla/science.mozilla.org/pull/417)
 
+#### 5/20/16
+* [team call meeting](https://public.etherpad-mozilla.org/p/sciencelab-teamcall-may20-2016)
+
 TODO
 * screendoor setup
 * apply to js conf
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * move copy to kristina's doc for fellowship application
-* checkin with abigail early next week - need copy by may 20th, looking to launch on June 3rd, do we need additional sign off 
 * faq and landing page
 * make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
 * [issues town hall](https://mana.mozilla.org/wiki/display/IC/Town+Halls)
-* moved nairobi meeting to accomodate team meeting on thursday
 
 
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
