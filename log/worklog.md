@@ -1264,6 +1264,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * responded to some London planning stuff from Lainie
 * lucy's doc for meeting [here](https://docs.google.com/document/d/1il8hJZ-Bl1W5KS_m-rJLammJ3XbYhARz7cxJpJWfWGs/edit#)
 * asked Abby about website question
+* added two [MLN story tips](https://docs.google.com/a/mozillafoundation.org/forms/d/1JhujT4NpZRVcQQmDhG1Mc9sgzNC83eD4gXr-8ICZYLM/formResponse)
+* made a reservation to check in with steph every 2 weeks about nairobi
 
 
 TODO
