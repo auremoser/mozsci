@@ -1266,6 +1266,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * asked Abby about website question
 * added two [MLN story tips](https://docs.google.com/a/mozillafoundation.org/forms/d/1JhujT4NpZRVcQQmDhG1Mc9sgzNC83eD4gXr-8ICZYLM/formResponse)
 * made a reservation to check in with steph every 2 weeks about nairobi
+* added feedback to [MLN staff call](https://public.etherpad-mozilla.org/p/MLNstaffcall)
 
 
 TODO
