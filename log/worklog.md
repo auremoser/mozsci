@@ -1262,17 +1262,24 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked on debugging event stuff
 * made event for the community call: https://mozillascience.org/community-call-jun-09-11-et
 * responded to some London planning stuff from Lainie
+* lucy's doc for meeting [here](https://docs.google.com/document/d/1il8hJZ-Bl1W5KS_m-rJLammJ3XbYhARz7cxJpJWfWGs/edit#)
+* asked Abby about website question
+
 
 TODO
-
-
+* draft newsletter for next week
+* nairobi
+  * calendar invit for recurring checkins
+  * Aurelia to email fellows + team + steph about call, read through beforehand
+  * Aurelia reach out to Chris about iHub dates
+  * Buy a BRCK - reach out 
+  * Reach out to Grace house
+  * Confirm dates w/ Richard for food / transportation / lodging at Brackenhurst
+* send Lucy regional contact spreadsheet
+* get arliss the export for the science lab listserv
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
-* move copy to kristina's doc for fellowship application
-* faq and landing page
 * make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
 * [issues town hall](https://mana.mozilla.org/wiki/display/IC/Town+Halls)
-
-
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
 
