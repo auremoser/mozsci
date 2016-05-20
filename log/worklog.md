@@ -1258,7 +1258,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * study group call on BioJulia [notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2016)
 * applied to js conf (projects/16-10jsconf.md)
 * wrote "hello" to Joe from OpenCon plugging our CFP
-
+* responded to dude about his participation in global sprint from minsk/Estonia!!
+* worked on debugging event stuff
+* made event for the community call: https://mozillascience.org/community-call-jun-09-11-et
+* responded to some London planning stuff from Lainie
 
 TODO
 
