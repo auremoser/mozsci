@@ -1255,10 +1255,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 5/20/16
 * [team call meeting](https://public.etherpad-mozilla.org/p/sciencelab-teamcall-may20-2016)
+* study group call on BioJulia [notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2016)
+* applied to js conf (projects/16-10jsconf.md)
+* wrote "hello" to Joe from OpenCon plugging our CFP
+
 
 TODO
-* screendoor setup
-* apply to js conf
+
+
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * move copy to kristina's doc for fellowship application
 * faq and landing page
