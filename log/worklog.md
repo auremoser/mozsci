@@ -1278,6 +1278,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * logged expenses
 * flew to LA, settled, worked on book
 
+#### 5/23/16
+* ipams [notes here](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+
 TODO
 newsletter
 mon - blog for community call
