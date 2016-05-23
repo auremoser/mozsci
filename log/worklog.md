@@ -1275,8 +1275,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * queued autoresponder mail for team
 * queued fellows' call mail for fellows
   * Aurelia to email fellows + team + steph about call, read through beforehand
+* logged expenses
+* flew to LA, settled, worked on book
 
 TODO
+newsletter
+mon - blog for community call
+tues - blog for fellows
 * draft newsletter for next week
 * email jason about workweek and loop in zannah + steph + kaitlin (31st)
 * nairobi
