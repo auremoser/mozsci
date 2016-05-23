@@ -1,6 +1,6 @@
 ## worklogs
 
-### 12/1/15
+#### 12/1/15
 * meeting with KT about onboarding
 * read some onboarding documents ([reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom) and [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c))
 * 10:30am - Skype w/ Mandy
@@ -17,7 +17,7 @@
 * setup email, some snafus, working on reading docs mostly
 
 
-### 12/2/15
+#### 12/2/15
 * meeting with KT and Zannah about Cohort Brainstorm ([roadmapping](https://public.etherpad-mozilla.org/p/sciencelab-2016-roadmapping) + [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * squared away some more things on my checklist for onboarding
 * community call brainstorm scheduled on open data collection opportunities after orlando 12/13
@@ -32,7 +32,7 @@
 * scheduled 101s with the team :)
 * updated docs for Zannah
 
-### 12/3/15
+#### 12/3/15
 * got computer
 * updated contact information for fellows
 * meeting with the fellows [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-dec03)
@@ -41,7 +41,7 @@
 * added ssh github keys and walked through
 * met with mandy about trailing issues
 
-### 12/4/15
+#### 12/4/15
 * meeting with mandy 
 * business cards requested service now
 * created my [mozillians account](https://mozillians.org/en-US/u/aurelia/)
@@ -55,7 +55,7 @@
 * made calendar invites to meet with all the fellows
 * checked out [design dailies](http://desktopdailies.tumblr.com/)
 
-### 12/7/15
+#### 12/7/15
 * downloaded more tools from other computer
 * started blog post
 * made appointments with Fellows to meet on skype
@@ -99,18 +99,18 @@
 La Société Anonyme is an artist’s collective born from the ashes of the Dutch 2013
 funding cuts to the arts. An avant-garde art collective with a corporate twist après la lettre, La Société Anonyme launches its first product in July 2012: The SKOR Codex, a book preserving the legacy of one of the Netherlands’ perishing art organisations for the distant future. Adopting an experimental model of artistic corporation, La Société Anonyme responds to the commodification of culture by searching for alternative ways to make, promote and sustain art. La Société Anonyme is represented by Dušan Barok, Danny van der Kleij, Aymeric Mansoux, and Marloes de Valk."
 
-### 12/8/15
+#### 12/8/15
 * met some mozillians
 * worked on a team/focus group about standardization
 
-### 12/9/15
+#### 12/9/15
 * worked in morning session on [cohort leadership planning](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * worked in afternoon with MoFos on strutured activities
 * worked with focus team on our ["think tank concept"](https://public.etherpad-mozilla.org/p/mozlandoteam)
 * [github learning session](https://public.etherpad-mozilla.org/p/teaching-learning-github) with Zannah
 * attended [curriculum meeting](https://public.etherpad-mozilla.org/p/teach.mozilla-curriculum-plan)
 
-### 12/10/15
+#### 12/10/15
 
 * fellowship meeting
 * mtg with Jason
@@ -140,13 +140,13 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
   * growing federation of research scientists engaged in decoding - *sharing atlas/design patterns/lookbook for sharing data as a researcher*
   * growing community of participants who can find out if they are resilient
 
-  ### 12/11/15
+#### 12/11/15
 
   * morning breakfast team meeting
   * met with working group on State of the web
   * [made presentation project](https://docs.google.com/presentation/d/1b2-cskfvzEXWpJBkMvbduKwLTBAe3aoefg9joUNdYAY/edit#slide=id.gdb09c04e3_0_65)
 
-  ### 12/14/15
+#### 12/14/15
 
   * met with Kaitlin 1:1 [notes doc](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
   * meeting with Richard
@@ -178,7 +178,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * reached out to Annabel Church and Catt Small about research contacts
 * submitted non-profit application to the Eyeo Festival
 
-### 12/15/15
+#### 12/15/15
 
 * made an issue on keybase.io [repo](https://github.com/keybase/client/pull/1399)
 * read through some emails, worked on trying to update aspects of the site with Abi
@@ -195,7 +195,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * helped edit [science end of year report](https://public.etherpad-mozilla.org/p/2015-science-eoy-report)
 * gave feedback on Zannah's blogpost for the [WOW Summit](https://public.etherpad-mozilla.org/p/wow-blogpost)
 
-### 12/17/15
+#### 12/17/15
 * reviewed fellows repo pull requests
 * reviewed some blog changes for KT's blog
 * added Zannah's collected interview materials
@@ -203,7 +203,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * ran weekly fellows meeting
 * went over fellows' homework assignments in their repo
 
-### 12/18/15
+#### 12/18/15
 * formatted [EOY blog post with images](https://www.mozillascience.org/looking-back-on-2015)
 * sent out fellow followup emails for activities/writing exercises
 * met with Zannah and Abby about Prototype Phase materials
@@ -214,7 +214,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * response to SE Daily podcast interview request
 * started working  information inventory of the current website (aurelia 4 hours) - <https://public.etherpad-mozilla.org/p/sciencelab-website-redesign> 
 
-### 12/21/15
+#### 12/21/15
 * emailed about email protocol
 * programmed 2 gdi courses, CS fundamentals and MeteorJS
 * reached out to 3 people for our community call 
@@ -227,13 +227,13 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * commented on Steph's [contributor issue](https://github.com/stephwright/Brain/issues/2)
 * worked on [content inventory](https://docs.google.com/a/mozilla.com/spreadsheets/d/1iiUwf_GTXMdV3vB7Tl0h-bCpm1QBumPExkkTL_ktgMQ/edit?usp=sharing), finished
 
-### 12/22/15
+#### 12/22/15
 * emailed out community call details to fellows via gcal 
 * created [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jan14-2015) with confirmed speakers
 * created [mood board on pinterest](https://www.pinterest.com/aure_moser/website/) for the website
 * sent out first wave of WOW invites according to the [spreadsheet](https://docs.google.com/spreadsheets/d/176QgQb2dkV6dQpScKU70Wv1EGxtNXwyQtrkJcTci5F4/edit#gid=0)
 
-### 12/23/15
+#### 12/23/15
 * pull request for [lab website](https://github.com/mozillascience/site/pull/61)
 * debugged running site locally whoohoo
 * added issue [#40](https://github.com/mozillascience/plan/issues/40) for community call
@@ -245,7 +245,7 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * reached out to transcriptionist for WOW summit
 * wrote [all invitations for jan 4-7](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit#gid=1724807992) in my onboarding checklist
 
-### 12/27/15
+#### 12/27/15
 * emailed claudia mueller birn (clmb@inf.fu-berlin.de)
 * started library of emails
 * invited Fatma from Amel's email to the Cohort Group
@@ -257,13 +257,13 @@ funding cuts to the arts. An avant-garde art collective with a corporate twist a
 * started draft of Prototype email to fellows
 * emailed fellows about blogs and prototype phase details
 
-### 1/2/16
+#### 1/2/16
 * responded to Bill about Africa community:
  * Amel currently co-organizes a Mozilla Study Group in Tunis: <http://amelgh.github.io/IPT_Tunisia/>
  * Anelda has been involved in the Cape R User Group (<https://caperuser.wordpress.com/>) as well as numerous other Software Carpentry and Mozilla Science Lab events.
  * Judit works for a Bioinformatics Knowledge Transfer Program based in SA: <http://ktp.cpgr.org.za/>
 
-### 1/4/16
+#### 1/4/16
 * meeting with KT
 * some planning emails and initial correspondence
 * wrote email draft to WOW summit members
@@ -282,7 +282,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * made agenda for next week's meeting with [bill](https://public.etherpad-mozilla.org/p/bill%3C%3Eaurelia)
 * arranged for some more travel for transcriptionist
 
-### 1/5/16
+#### 1/5/16
 * setup chat with bill
 * setup meeting on wow summit schedule [#41](https://github.com/mozillascience/plan/issues/41)
 * send out fellows calls : https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07
@@ -301,7 +301,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * drafted [Nifras' blog with track changes for approval](https://docs.google.com/document/d/1R8va3EdWSpLz3D1roY-Ek8bF3NfkN3eryOURfn186NU/edit)
 * closed this issue for fellow's [Prototype Phase](https://github.com/mozillascience/plan/issues/35)
 
-### 1/6/16
+#### 1/6/16
 * modifications on March 10th Community Call - Deborah Estrin is speaking
 * some logistics for visas, some more travel info sent
 * checked in with Pamela about reimbursements
@@ -310,7 +310,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * lots of wow summit emails and spreadsheet updates
 * attended teachers meeting for parsons
 
-### 1/7/16
+#### 1/7/16
 * more email for WOW
 * fellows call [notes](https://public.etherpad-mozilla.org/p/2015-science-fellows-jan07)
 * fellows blog add [PR 63](https://github.com/mozillascience/site/pull/63)
@@ -320,7 +320,7 @@ met with Amira about Accessibility and Mozilla Clubs [notes in the event](https:
 * email to speakers for comm call
 * blog post post (thanks kay)
 
-### 1/11/16
+#### 1/11/16
 * email draft to everyone for canned responses
 * darci meeting
 * standup
@@ -1268,13 +1268,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added two [MLN story tips](https://docs.google.com/a/mozillafoundation.org/forms/d/1JhujT4NpZRVcQQmDhG1Mc9sgzNC83eD4gXr-8ICZYLM/formResponse)
 * made a reservation to check in with steph every 2 weeks about nairobi
 * added feedback to [MLN staff call](https://public.etherpad-mozilla.org/p/MLNstaffcall)
+* nairobi
+  * calendar invite for recurring checkins sent
 
+#### 5/22/16
+* queued autoresponder mail for team
+* queued fellows' call mail for fellows
+  * Aurelia to email fellows + team + steph about call, read through beforehand
 
 TODO
 * draft newsletter for next week
+* email jason about workweek and loop in zannah + steph + kaitlin (31st)
 * nairobi
-  * calendar invit for recurring checkins
-  * Aurelia to email fellows + team + steph about call, read through beforehand
+  * ~calendar invite for recurring checkins~
+  * ~Aurelia to email fellows + team + steph about call, read through beforehand~
   * Aurelia reach out to Chris about iHub dates
   * Buy a BRCK - reach out 
   * Reach out to Grace house
