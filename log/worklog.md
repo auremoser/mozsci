@@ -1278,8 +1278,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * logged expenses
 * flew to LA, settled, worked on book
 
-#### 5/23/16
+#### 5/23/16-5/27/16
 * ipams [notes here](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+* rescheduled meeting with Amira
+* made recurring science hack day plans with stuart
+* wrote back to chris from ihub about ihub reservations
 
 TODO
 newsletter
