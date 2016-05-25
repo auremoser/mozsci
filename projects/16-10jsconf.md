@@ -8,7 +8,7 @@ Aurelia
 
 ####TITLE
 
-Small data slippy maps: clever methods + curious geometries in JS geo in JS geo
+Small data slippy maps: clever methods + curious geometries in JS geo
 
 ####SUMMARY
 
