@@ -1283,13 +1283,18 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * rescheduled meeting with Amira
 * made recurring science hack day plans with stuart
 * wrote back to chris from ihub about ihub reservations
+* responded to study group user experience issue [here](https://github.com/mozilla/science.mozilla.org/issues/443#issuecomment-221430436)
+* signed on to give a lightning talk at GeoJournews
+* open innovation town hall 5/25
+* meeting with Amira bout Afrida
 
 TODO
 newsletter
-mon - blog for community call
-tues - blog for fellows
-* draft newsletter for next week
+setu science hack day
+thurs - blog for community call
+wed - blog for fellows
 * email jason about workweek and loop in zannah + steph + kaitlin (31st)
+* lightning talk for GeoJourNews
 * nairobi
   * ~calendar invite for recurring checkins~
   * ~Aurelia to email fellows + team + steph about call, read through beforehand~
