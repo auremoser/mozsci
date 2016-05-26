@@ -1286,7 +1286,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * responded to study group user experience issue [here](https://github.com/mozilla/science.mozilla.org/issues/443#issuecomment-221430436)
 * signed on to give a lightning talk at GeoJournews
 * open innovation town hall 5/25
-* meeting with Amira bout Afrida
+* meeting with Amira bout Africa
+* submitted to Node Conf AR
 
 TODO
 newsletter
