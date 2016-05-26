@@ -1289,6 +1289,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with Amira bout Africa
 * submitted to Node Conf AR
 * setup website for [science hack sunday](https://sciencehacksunday.github.io/studyGroup/)
+* competitive technology town hall
+* asked rob about feature in the newsletter
 
 TODO
 newsletter
