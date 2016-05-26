@@ -1291,6 +1291,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * setup website for [science hack sunday](https://sciencehacksunday.github.io/studyGroup/)
 * competitive technology town hall
 * asked rob about feature in the newsletter
+* wrote up [newsletter draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) and sent to the team
+* get arliss the export for the science lab listserv
+* plugged scilab [newsletter on twitter](http://tinyletter.com/sciencelab)
 
 TODO
 newsletter
@@ -1307,7 +1310,6 @@ wed - blog for fellows
   * Reach out to Grace house
   * Confirm dates w/ Richard for food / transportation / lodging at Brackenhurst
 * send Lucy regional contact spreadsheet
-* get arliss the export for the science lab listserv
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
 * [issues town hall](https://mana.mozilla.org/wiki/display/IC/Town+Halls)
