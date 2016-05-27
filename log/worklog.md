@@ -1294,11 +1294,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote up [newsletter draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) and sent to the team
 * get arliss the export for the science lab listserv
 * plugged scilab [newsletter on twitter](http://tinyletter.com/sciencelab)
+* fellows call
 * composed and sent newsletter 
+* [team call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may27-2016)
 
 TODO
 newsletter
-setu science hack day
 thurs - blog for community call
 wed - blog for fellows
 * email jason about workweek and loop in zannah + steph + kaitlin (31st)
@@ -1312,8 +1313,6 @@ wed - blog for fellows
   * Confirm dates w/ Richard for food / transportation / lodging at Brackenhurst
 * send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
-* make [screendoor clone](https://screendoor.dobt.co/) for fellowship application + integrate [questions](https://docs.google.com/document/d/1_JAhRYZKYgHpvHJIVUKiWDuMMcLjHLuAvVmRqX8AaAc/edit?ts=57324cd1)
-* [issues town hall](https://mana.mozilla.org/wiki/display/IC/Town+Halls)
 * geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
 
