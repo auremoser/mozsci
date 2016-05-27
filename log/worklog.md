@@ -1294,6 +1294,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote up [newsletter draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) and sent to the team
 * get arliss the export for the science lab listserv
 * plugged scilab [newsletter on twitter](http://tinyletter.com/sciencelab)
+* composed and sent newsletter 
 
 TODO
 newsletter
