@@ -1297,6 +1297,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellows call
 * composed and sent newsletter 
 * [team call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may27-2016)
+* 
 
 TODO
 newsletter
