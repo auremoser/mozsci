@@ -1299,6 +1299,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [team call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may27-2016)
 * stats sent to arliss for the newsletter
 * reached out to this [study group fella](https://github.com/iandennismiller/studyGroup) to introduce him into a program
+* took care of a [workweek issue](https://github.com/MozillaFoundation/MoFoLondon/issues/8#issuecomment-222255448)
 
 TODO
 newsletter
