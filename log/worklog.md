@@ -1302,7 +1302,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * took care of a [workweek issue](https://github.com/MozillaFoundation/MoFoLondon/issues/8#issuecomment-222255448)
 
 TODO
-newsletter
+* ADD MORE STUDY GROUP LESSONS TO WEBSITE
 thurs - blog for community call
 wed - blog for fellows
 * email jason about workweek and loop in zannah + steph + kaitlin (31st)
