@@ -1302,6 +1302,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * took care of a [workweek issue](https://github.com/MozillaFoundation/MoFoLondon/issues/8#issuecomment-222255448)
 * add some bugs to website repo
 
+#### 5/28/16
+* added bug fixes to Anna Krystalli's [rmacroRDM ](https://github.com/annakrystalli/rmacroRDM/pull/11) repository 
+* emailed abby about converage after memorial day
+* emailed joe macarthur about global sprint and fellows' cfp updates
+
 TODO
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 thurs - blog for community call
