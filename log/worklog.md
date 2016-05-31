@@ -1305,7 +1305,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 5/28/16
 * added bug fixes to Anna Krystalli's [rmacroRDM ](https://github.com/annakrystalli/rmacroRDM/pull/11) repository 
 * emailed abby about converage after memorial day
-* emailed joe macarthur about global sprint and fellows' cfp updates
+* emailed joe macarthur about global sprint and fellows' cfp 
+
+#### 5/31/16
+* updated copy or the website
+* performance review
+* ipams [presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494), [sample code](https://github.com/auremoser/ipam-16/), [workshop](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
+* notes from [ipams](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+
 
 TODO
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
