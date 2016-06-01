@@ -1312,6 +1312,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * performance review
 * ipams [presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494), [sample code](https://github.com/auremoser/ipam-16/), [workshop](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * notes from [ipams](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+* email thank you to team
+* email about swag with Arliss
+* sent out [call reminder](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun02) for all fellows for Thursday
 
 
 TODO
