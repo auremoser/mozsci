@@ -1316,8 +1316,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email about swag with Arliss
 * sent out [call reminder](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun02) for all fellows for Thursday
 
+6/1/16
+* [mozfellowships meeting](https://public.etherpad-mozilla.org/p/mozfellowships)
+* [epic fellowship etherpad](https://public.etherpad-mozilla.org/p/fellows-resources)
+* added dates to [london schedule](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
+* sent out [doodle poll](http://doodle.com/poll/hf4ne2vck8i9bn39) for NYC dinner with Joey + Jason
+* scheduled Jason for next week's [workweek](https://public.etherpad-mozilla.org/p/workweek-2-mslparty)
+
 
 TODO
+* [apply for a kenyan visa]()
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 thurs - blog for community call
 wed - blog for fellows
