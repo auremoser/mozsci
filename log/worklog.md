@@ -1322,6 +1322,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added dates to [london schedule](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
 * sent out [doodle poll](http://doodle.com/poll/hf4ne2vck8i9bn39) for NYC dinner with Joey + Jason
 * scheduled Jason for next week's [workweek](https://public.etherpad-mozilla.org/p/workweek-2-mslparty)
+* judging for emoticon emails
+* put together [engagement plan for London session](https://public.etherpad-mozilla.org/p/mofo-communities)
 
 
 TODO
