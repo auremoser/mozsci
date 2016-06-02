@@ -1330,6 +1330,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 6/2/16
 * working on
 * global sprint NA checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-2016globalsprint-na-sa)
+* added suggestions to Open Science curriculum [#51](https://github.com/OKScienceDE/Open_Science_101/issues/51)
+* added PR suggestions for COC for Science Fair [#30](https://github.com/codeforscience/sciencefair/pull/30)
 
 
 TODO
