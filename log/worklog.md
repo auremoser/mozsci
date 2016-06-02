@@ -1323,7 +1323,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent out [doodle poll](http://doodle.com/poll/hf4ne2vck8i9bn39) for NYC dinner with Joey + Jason
 * scheduled Jason for next week's [workweek](https://public.etherpad-mozilla.org/p/workweek-2-mslparty)
 * judging for emoticon emails
-* put together [engagement plan for London session](https://public.etherpad-mozilla.org/p/mofo-communities)
+* put together [engagement plan for London session](https://public.etherpad-mozilla.org/p/mofo-communities) [#8](https://github.com/MozillaFoundation/MoFoLondon/issues/8#issuecomment-218856903)
+* put together [mofo wow for London session](https://public.etherpad-mozilla.org/p/mofo-wow) plan
+* email to obin and manuela in west africa about study groups
+
+6/2/16
+* working on
+* global sprint NA checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-2016globalsprint-na-sa)
 
 
 TODO
