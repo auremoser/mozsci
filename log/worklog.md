@@ -1334,7 +1334,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added suggestions to Open Science curriculum [#51](https://github.com/OKScienceDE/Open_Science_101/issues/51)
 * added PR suggestions for COC for Science Fair [#30](https://github.com/codeforscience/sciencefair/pull/30)
 * emoticon judging meeting for this weekend
-* some issues via alanmoo for the website
+* some issues [via alanmoo for the website](https://github.com/mozilla/science.mozilla.org/pull/484#issuecomment-223381494)
 * 
 
 
