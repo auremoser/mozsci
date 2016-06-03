@@ -1335,7 +1335,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added PR suggestions for COC for Science Fair [#30](https://github.com/codeforscience/sciencefair/pull/30)
 * emoticon judging meeting for this weekend
 * some issues [via alanmoo for the website](https://github.com/mozilla/science.mozilla.org/pull/484#issuecomment-223381494)
-* 
+* some more [issues](https://github.com/data-lessons/library-git/issues/6#issuecomment-223487059) for aussies
+* launched fellowship application
 
 
 TODO
