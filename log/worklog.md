@@ -1328,10 +1328,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email to obin and manuela in west africa about study groups
 
 6/2/16
-* working on
+* working on chatting and maintaining corrspondence for global sprint
+* made reservation for fellows dinner in NY on monday
 * global sprint NA checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-2016globalsprint-na-sa)
 * added suggestions to Open Science curriculum [#51](https://github.com/OKScienceDE/Open_Science_101/issues/51)
 * added PR suggestions for COC for Science Fair [#30](https://github.com/codeforscience/sciencefair/pull/30)
+* emoticon judging meeting for this weekend
+* some issues via alanmoo for the website
+* 
 
 
 TODO
