@@ -1339,11 +1339,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * launched fellowship application
 * tweets and feedback on various sprint site wrapups
 * started draft of blog for fellowship
-* welcomed some new study group leads
+* welcomed some new study group leads [1](https://github.com/drashti4/studyGroup/commit/20e779a13c64bc373bd3e458c8d00b520f6d29a8) + [2](https://github.com/colleenboodleman/Womens-GeoViz-StudyGroup/issues/3)
+* made next month's [study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-jun-2016) for june 17
 
 
 TODO
-* fellowship blog
+* [fellowship blog](https://science.mozilla.org/programs/fellowships)
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
