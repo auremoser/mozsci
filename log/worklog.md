@@ -1337,9 +1337,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * some issues [via alanmoo for the website](https://github.com/mozilla/science.mozilla.org/pull/484#issuecomment-223381494)
 * some more [issues](https://github.com/data-lessons/library-git/issues/6#issuecomment-223487059) for aussies
 * launched fellowship application
+* tweets and feedback on various sprint site wrapups
+* started draft of blog for fellowship
+* welcomed some new study group leads
 
 
 TODO
+* fellowship blog
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
