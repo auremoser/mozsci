@@ -1328,6 +1328,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email to obin and manuela in west africa about study groups
 
 6/2/16
+* held down the fork for [au and nz](https://gitter.im/weaverbel/LibraryCarpentry)
 * working on chatting and maintaining corrspondence for global sprint
 * made reservation for fellows dinner in NY on monday
 * global sprint NA checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-2016globalsprint-na-sa)
