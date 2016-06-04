@@ -1344,6 +1344,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made next month's [study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-jun-2016) for june 17
 * made the community call [announcement on the blog](https://science.mozilla.org/blog/community-call-jun-09-11et) + tweeted it
 * gave feedback on the [django interface to abby and gideon](https://github.com/mozilla/science.mozilla.org/issues/424)
+* updated [sg-events](https://github.com/auremoser/sg-events) with sample data
 
 
 TODO
