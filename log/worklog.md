@@ -1364,6 +1364,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * [Anna](https://public.etherpad-mozilla.org/p/wow-anna)
   * [Kirstie](https://public.etherpad-mozilla.org/p/wow-kirstie)
   * [Jon](https://public.etherpad-mozilla.org/p/wow-jon)
+* email reminder for OLC calls
 
 ALL MOFO ANNOUNCMENT
 
