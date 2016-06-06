@@ -1346,7 +1346,22 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * gave feedback on the [django interface to abby and gideon](https://github.com/mozilla/science.mozilla.org/issues/424)
 * updated [sg-events](https://github.com/auremoser/sg-events) with sample data
 
+#### 6/6/16
+* jason's workweek
+* mln call
+* 1:1 with KT
+* team call
+* canceled fellows' dinner
+* blog post for fellowship
+* reminder to fellows about call
+* reminder to speakers (gerald, alexander, sydette, shauna, ) about Community Call
+* emailed community members about all-hands (rob, christie, anna)
 
+ALL MOFO ANNOUNCMENT
+
+sending out update for community members today: https://public.etherpad-mozilla.org/p/2016-msl-london-jam
+mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
+mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
 TODO
 * [fellowship blog](https://science.mozilla.org/programs/fellowships)
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
@@ -1358,7 +1373,6 @@ TODO
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 thurs - blog for community call
 wed - blog for fellows
-* email jason about workweek and loop in zannah + steph + kaitlin (31st)
 * lightning talk for GeoJourNews
 * nairobi
   * ~calendar invite for recurring checkins~
