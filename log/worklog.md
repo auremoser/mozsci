@@ -1347,15 +1347,23 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated [sg-events](https://github.com/auremoser/sg-events) with sample data
 
 #### 6/6/16
-* jason's workweek
+* jason's workweek [notes here](https://public.etherpad-mozilla.org/p/workweek-2-mslparty)
 * mln call
 * 1:1 with KT
-* team call
+* [team call](https://public.etherpad-mozilla.org/p/sciencelab-team-standup-jun2016)
 * canceled fellows' dinner
 * blog post for fellowship
 * reminder to fellows about call
 * reminder to speakers (gerald, alexander, sydette, shauna, ) about Community Call
 * emailed community members about all-hands (rob, christie, anna)
+* emailed buddy groups with meeting details
+* posted blog on [fellowship application]()
+* updated etherpads for OLC calls
+  * [Peter](https://public.etherpad-mozilla.org/p/wow-peter)
+  * Madeleine(https://public.etherpad-mozilla.org/p/wow-madeleine)
+  * [Anna](https://public.etherpad-mozilla.org/p/wow-anna)
+  * [Kirstie](https://public.etherpad-mozilla.org/p/wow-kirstie)
+  * [Jon](https://public.etherpad-mozilla.org/p/wow-jon)
 
 ALL MOFO ANNOUNCMENT
 
