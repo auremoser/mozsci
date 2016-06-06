@@ -1365,6 +1365,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * [Kirstie](https://public.etherpad-mozilla.org/p/wow-kirstie)
   * [Jon](https://public.etherpad-mozilla.org/p/wow-jon)
 * email reminder for OLC calls
+* wrote back to Grace House about the annex
+
 
 ALL MOFO ANNOUNCMENT
 
