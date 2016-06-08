@@ -1382,6 +1382,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * Geojournews attendance and [talk on the fellowship](https://docs.google.com/presentation/d/1ZsLFJPjoZ9G6f84x6sUrE-tYMmzQsEq3QJx0tsm-m7k/edit#slide=id.g135eb03ade_0_14)
 * Meeting with Anna and Madeleine for wrap-up OLC
 * Suresh email about [science hack sunday](http://sciencehacksunday.nyc/)
+* emailed luke about baby photo upload for Buddy Group 11
+* MLN staff call [update pad](https://public.etherpad-mozilla.org/p/MLNstaffcall)
 
 
 
