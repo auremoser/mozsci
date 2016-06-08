@@ -1366,19 +1366,40 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * [Jon](https://public.etherpad-mozilla.org/p/wow-jon)
 * email reminder for OLC calls
 * wrote back to Grace House about the annex
+* scheduled Buddy time [with etherpad](https://docs.google.com/document/d/1fz3tZ2jyt5P8NiVdWE9pPSWh49sAaSQ8WwSR57IlZy0/edit#) for [group 11](https://docs.google.com/spreadsheets/d/1moMGCMr25T0XGp_PJILdTtbAT6fhujlG5Y60LupgSSk/edit#gid=1898186256)
+
+#### 6/7/16
+* checkin meeting with jason and zannah to set days' goals in etherpad 
+* lots of email catchup
+* network impact / cmu [survey](http://cmu.qualtrics.com/SE/?SID=SV_8vsyUaAX5vfctvf
+) for global sprint
+* feedback to chad about/kristina about potential contact
+* meeting with peter grabitz for OLC wrap
+* olc wrap [document assembled](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016), planned wrap up and cute certificate emails with Abby.
 
 
+#### 6/8/16
+* Geojournews attendance and talk on the fellowship
+* Meeting with Anna and Madeleine for wrap-up OLC
+*  
+
+
+
+lo
 ALL MOFO ANNOUNCMENT
 
 sending out update for community members today: https://public.etherpad-mozilla.org/p/2016-msl-london-jam
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
 mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
 TODO
+* chat roulette for science
 * [fellowship blog](https://science.mozilla.org/programs/fellowships)
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
+
+
 
 * [apply for a kenyan visa]()
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
