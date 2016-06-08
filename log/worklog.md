@@ -1375,13 +1375,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ) for global sprint
 * feedback to chad about/kristina about potential contact
 * meeting with peter grabitz for OLC wrap
-* olc wrap [document assembled](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016), planned wrap up and cute certificate emails with Abby.
+* olc wrap [document assembled](https://docs.google.com/document/d/1kn7nDXEqkQHQ0SuuOYp2-EoQHGi70cR8VQw4Ls9qXvE/edit), planned wrap up and cute certificate emails with Abby.
 
 
 #### 6/8/16
-* Geojournews attendance and talk on the fellowship
+* Geojournews attendance and [talk on the fellowship](https://docs.google.com/presentation/d/1ZsLFJPjoZ9G6f84x6sUrE-tYMmzQsEq3QJx0tsm-m7k/edit#slide=id.g135eb03ade_0_14)
 * Meeting with Anna and Madeleine for wrap-up OLC
-*  
+* Suresh email about [science hack sunday](http://sciencehacksunday.nyc/)
 
 
 
