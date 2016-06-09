@@ -1385,9 +1385,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed luke about baby photo upload for Buddy Group 11
 * MLN staff call [update pad](https://public.etherpad-mozilla.org/p/MLNstaffcall)
 
+#### 6/9/16
+* [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016) - 25 people
+* [fellows' call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun02)
+* book meeting with my editor for Geospatial data book
+* sent thank you to speakers for community call
+* t
 
-
-lo
 ALL MOFO ANNOUNCMENT
 
 sending out update for community members today: https://public.etherpad-mozilla.org/p/2016-msl-london-jam
@@ -1395,7 +1399,7 @@ mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
 mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
 TODO
 * chat roulette for science
-* [fellowship blog](https://science.mozilla.org/programs/fellowships)
+
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
@@ -1417,7 +1421,6 @@ wed - blog for fellows
   * Confirm dates w/ Richard for food / transportation / lodging at Brackenhurst
 * send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
-* geo bootcamp named  : https://github.com/joeyklee/geo-commandline-bootcamp 
 * get data from _posts and match to Luke's json blog event report 
 
 
