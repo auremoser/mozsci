@@ -1390,7 +1390,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [fellows' call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun02)
 * book meeting with my editor for Geospatial data book
 * sent thank you to speakers for community call
-* t
+* tweeted about call
 
 ALL MOFO ANNOUNCMENT
 
