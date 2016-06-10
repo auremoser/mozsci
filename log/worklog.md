@@ -1395,6 +1395,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with zannah about study groups
 * filled out chad's [predicaments](https://public.etherpad-mozilla.org/p/pop-culture-predicaments)
 
+#### 6/10/16
+* meeting with KT about nairobi
+* meeting with Jason for checkin
+* job description checkin with KT
+
 ALL MOFO ANNOUNCMENT
 
 sending out update for community members today: https://public.etherpad-mozilla.org/p/2016-msl-london-jam
