@@ -1388,9 +1388,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 6/9/16
 * [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun09-2016) - 25 people
 * [fellows' call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun02)
+* [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * book meeting with my editor for Geospatial data book
 * sent thank you to speakers for community call
 * tweeted about call
+* meeting with zannah about study groups
+* filled out chad's [predicaments](https://public.etherpad-mozilla.org/p/pop-culture-predicaments)
 
 ALL MOFO ANNOUNCMENT
 
