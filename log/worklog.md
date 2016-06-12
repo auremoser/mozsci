@@ -1408,6 +1408,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * judged at Emoticon hackathon with Hana + Rafi + Julia
 * sent out reminder for story of selfies
 * abby's feedback from [sg-events](https://github.com/auremoser/sg-events)
+* hello to [new study group](https://github.com/Ladeia/studyGroup/) in Brazil
 
 sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
