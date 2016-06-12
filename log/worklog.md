@@ -1399,10 +1399,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with KT about nairobi
 * meeting with Jason for checkin
 * job description checkin with KT
+* worked on prep for [community members in london doc](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
+* printed passes for heathrow and took along some patches for lainie
+* chatted with jason
+* chatted with StoryEngine developer, emailed 2 story engine devs
 
-ALL MOFO ANNOUNCMENT
+#### 6/11/16
+* judged at Emoticon hackathon with Hana + Rafi + Julia
 
-sending out update for community members today: https://public.etherpad-mozilla.org/p/2016-msl-london-jam
+sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
 mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
 TODO
