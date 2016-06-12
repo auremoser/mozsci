@@ -1406,6 +1406,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 #### 6/11/16
 * judged at Emoticon hackathon with Hana + Rafi + Julia
+* sent out reminder for story of selfies
 
 sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
