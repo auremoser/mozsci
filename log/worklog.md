@@ -1417,6 +1417,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updates to the [london schedule](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
 * added questions to the london mofo [sciencelab doc](https://public.etherpad-mozilla.org/p/sciencelab-london-prep)
 * dine around sheet sent to Christie
+* signed up for [internet freedom festival](https://internetfreedomfestival.org/internet-freedom-festival-2017-registration/)
 
 sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
