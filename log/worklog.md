@@ -1415,6 +1415,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * welcome reception
 * some followup with Joel for Fellowship
 * updates to the [london schedule](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
+* added questions to the london mofo [sciencelab doc](https://public.etherpad-mozilla.org/p/sciencelab-london-prep)
 
 sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
