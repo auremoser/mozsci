@@ -1410,6 +1410,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * abby's feedback from [sg-events](https://github.com/auremoser/sg-events)
 * hello to [new study group](https://github.com/Ladeia/studyGroup/) in Brazil
 
+#### 6/12/16
+* arrived in London
+* welcome reception
+* some followup with Joel for Fellowship
+* updates to the [london schedule](https://public.etherpad-mozilla.org/p/2016-msl-london-jam)
+
 sending out update for community members today: 
 mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
 mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
