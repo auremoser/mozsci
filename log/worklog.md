@@ -1419,9 +1419,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * dine around sheet sent to Christie
 * signed up for [internet freedom festival](https://internetfreedomfestival.org/internet-freedom-festival-2017-registration/)
 
-sending out update for community members today: 
-mofo communities session: https://public.etherpad-mozilla.org/p/mofo-communities
-mofo wow session: https://public.etherpad-mozilla.org/p/mofo-wow
+
+* need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
+
+
 TODO
 * chat roulette for science
 
