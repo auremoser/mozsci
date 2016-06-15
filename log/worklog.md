@@ -1418,12 +1418,21 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added questions to the london mofo [sciencelab doc](https://public.etherpad-mozilla.org/p/sciencelab-london-prep)
 * dine around sheet sent to Christie
 * signed up for [internet freedom festival](https://internetfreedomfestival.org/internet-freedom-festival-2017-registration/)
+* fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
+* mofo communities - study groups meeting [notes here](https://public.etherpad-mozilla.org/p/mofo-communities)
+* mofo wow - [notes here](https://public.etherpad-mozilla.org/p/mofo-wow)
 
 
+FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
+* need to make an onboarding agenda
+* make a shared stipend document
 
 
 TODO
+
+
+
 * chat roulette for science
 
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
