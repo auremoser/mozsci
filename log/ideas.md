@@ -14,3 +14,5 @@
 * inclusive language project with Lena
 * girl develop it code/coffee code review sessions
 * phobia photo reference
+
+* open security curriculum - protect your medical data
