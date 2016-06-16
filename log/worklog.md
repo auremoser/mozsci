@@ -1410,7 +1410,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * abby's feedback from [sg-events](https://github.com/auremoser/sg-events)
 * hello to [new study group](https://github.com/Ladeia/studyGroup/) in Brazil
 
-#### 6/12/16
+#### 6/12/16-6/16/16
 * arrived in London
 * welcome reception
 * some followup with Joel for Fellowship
@@ -1421,7 +1421,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
 * mofo communities - study groups meeting [notes here](https://public.etherpad-mozilla.org/p/mofo-communities)
 * mofo wow - [notes here](https://public.etherpad-mozilla.org/p/mofo-wow)
-
+* [study gorup onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding-allhands)
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
