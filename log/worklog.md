@@ -1423,6 +1423,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * mofo wow - [notes here](https://public.etherpad-mozilla.org/p/mofo-wow)
 * [study gorup onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding-allhands)
 * asked fellows to write blog posts for
+* wrote to core inviting them to fellowship
+
+#### 6/17/16
+* mln meeting
+* [science h2 planning](https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning)
+* checkin with Luc to apply for fellowship
+* checkin with vanessa to plan
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
@@ -1430,9 +1437,16 @@ FELLOWS
 * make a shared stipend document
 
 
+
+MOZFEST 
+
+OLC cohort mentoring
+
+
+
 TODO
 
-
+* Name Email Twitter Github for arliss for OLC
 
 * chat roulette for science
 
