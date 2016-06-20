@@ -1421,7 +1421,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellowships meeting [notes here](https://public.etherpad-mozilla.org/p/mozfellowships)
 * mofo communities - study groups meeting [notes here](https://public.etherpad-mozilla.org/p/mofo-communities)
 * mofo wow - [notes here](https://public.etherpad-mozilla.org/p/mofo-wow)
-* [study gorup onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding-allhands)
+* [study group onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding-allhands)
 * asked fellows to write blog posts for
 * wrote to core inviting them to fellowship
 
@@ -1430,6 +1430,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [science h2 planning](https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning)
 * checkin with Luc to apply for fellowship
 * checkin with vanessa to plan
+* [mln metrics planning](https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings)
+* etherpad analysis:
+  * [wordcloud generator](https://github.com/jasondavies/d3-cloud)
+  * etherpads:
+    * science lab prep: https://public.etherpad-mozilla.org/p/sciencelab-london-prep
+    * moz fellowships: https://public.etherpad-mozilla.org/p/mozfellowships
+    * mofo communities: https://public.etherpad-mozilla.org/p/mofo-communities/
+    * study group onboarding: https://public.etherpad-mozilla.org/p/studygroup-onboarding-allhands
+
+#### 6/18/16
+* worked on etherpad script
+* some responses to gitter chats
+* cleaned inbox
+* submitted receipts for all hands to expensify
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
