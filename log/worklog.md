@@ -1444,6 +1444,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * some responses to gitter chats
 * cleaned inbox
 * submitted receipts for all hands to expensify
+* reached out to Anjali about Nairobi
+* booked tickets for nairobi
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
