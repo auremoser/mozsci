@@ -1447,6 +1447,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reached out to Anjali about Nairobi
 * booked tickets for nairobi
 
+
+#### 6/21/16
+* olc calls with 
+  * [patricia](https://public.etherpad-mozilla.org/p/wow-patricia)
+  * [harry](https://public.etherpad-mozilla.org/p/wow-harry)
+  * [kirstie](https://public.etherpad-mozilla.org/p/wow-kirstie)
+
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
 * need to make an onboarding agenda
