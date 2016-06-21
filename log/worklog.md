@@ -1459,6 +1459,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote to luke about sg-events repo
 * wrote to cade about privacy workshops
 * wrote to marketing at moco in response to moco email
+* sent a mattermost chat to all of mln on our cfp and joey's blog
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
