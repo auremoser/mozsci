@@ -1453,6 +1453,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * [patricia](https://public.etherpad-mozilla.org/p/wow-patricia)
   * [harry](https://public.etherpad-mozilla.org/p/wow-harry)
   * [kirstie](https://public.etherpad-mozilla.org/p/wow-kirstie)
+* issue comments for [etherpad hacks](https://github.com/mozilla/mofo-allhands/issues/41#issuecomment-226756648)
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
