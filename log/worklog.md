@@ -1463,6 +1463,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * filled out some visa application stuff for trip next month
 * [feedback survey](https://www.surveygizmo.com/s3/2869738/Q3-All-Hands-Survey-copy) for all hands
 * olc graduation email to kirstie, harry, patricia and tomorrow's folks
+* olc graduation emails to all cohort member meetings for this week
 
 for kenyan visa: 
 
