@@ -1456,6 +1456,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * issue comments for [etherpad hacks](https://github.com/mozilla/mofo-allhands/issues/41#issuecomment-226756648)
 * put together study group stats for KT
 * posted [joey's fellowship blog](https://science.mozilla.org/blog/ff-joey)
+* wrote to luke about sg-events repo
+* wrote to cade about privacy workshops
+* wrote to marketing at moco in response to moco email
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
