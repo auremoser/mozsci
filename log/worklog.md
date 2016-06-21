@@ -1460,6 +1460,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote to cade about privacy workshops
 * wrote to marketing at moco in response to moco email
 * sent a mattermost chat to all of mln on our cfp and joey's blog
+* filled out some visa application stuff for trip next month
+
+for kenyan visa: 
+
+* Passport( Not photocopy ) which is valid for at least six(6) months -To be submitted along with the application form.
+* Completed (Filled in) Application form duly signed.
+* Copy of flight Itinerary / Letter from travel agent on company letterhead confirming booking.
+* Two Passport size photos, 2 inches by 2 inches (NB: Computer generated pictures are not acceptable)
+* Visa Fees: (Money order / Cashier's Cheque Only Payable to Embassy of The Republic of Kenya)
+  * US$50.00 For Single Entry (Tourist/Visitor/Business),
+  * US$100.00 For Multiple Entries (Tourist/Visitor/Business),
+  * US$20.00 For Single Transit of not more than 3 days for travelers on stopovers in Kenya while proceeding to other destinations
+*   A self-addressed stamped return courier envelope for Fedex, Express Mail, Certified Mail or Priority Mail with delivery confirmation (NB: UPS, Metered stamps and Regular mail envelopes are not acceptable).
+
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
