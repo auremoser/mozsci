@@ -1461,6 +1461,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote to marketing at moco in response to moco email
 * sent a mattermost chat to all of mln on our cfp and joey's blog
 * filled out some visa application stuff for trip next month
+* [feedback survey](https://www.surveygizmo.com/s3/2869738/Q3-All-Hands-Survey-copy) for all hands
+* olc graduation email to kirstie, harry, patricia and tomorrow's folks
 
 for kenyan visa: 
 
