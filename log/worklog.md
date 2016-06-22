@@ -1465,6 +1465,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * olc graduation email to kirstie, harry, patricia and tomorrow's folks
 * olc graduation emails to all cohort member meetings for this week
 
+#### 6/22/16
+
+* made a [security primer outline](https://public.etherpad-mozilla.org/p/mofo-secu) and sent to christopher de cairos
+
 for kenyan visa: 
 
 * Passport( Not photocopy ) which is valid for at least six(6) months -To be submitted along with the application form.
