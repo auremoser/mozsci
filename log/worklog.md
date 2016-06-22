@@ -1468,6 +1468,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 6/22/16
 
 * made a [security primer outline](https://public.etherpad-mozilla.org/p/mofo-secu) and sent to christopher de cairos
+* nice comments on clubs [redpen](https://redpen.io/ya33ece89f1a0ec2ac)
+* mailed kenya visa package
 
 for kenyan visa: 
 
