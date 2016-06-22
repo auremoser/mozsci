@@ -1474,6 +1474,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * rescheduled study groups africa meeting
 * emailed joey about study group guest speaker
 * emailed amel about newsletter interview and africa trip
+* planned for [june newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
