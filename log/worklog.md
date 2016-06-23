@@ -1476,6 +1476,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed amel about newsletter interview and africa trip
 * planned for [june newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
 
+#### 6/23/16
+* invited joey to study group chat
+* getting christie's blog ready for cross posting
+* note taking on the [project call](https://public.etherpad-mozilla.org/p/sciencelab-project-call-june23-2016)
+* fellows call [notes here]()
+* filled out open news survey [here](http://s-d4726b-i.sgizmo.com/s3/i-yAkMQncJbArFGGPrj-1373682/?sguid=yAkMQncJbArFGGPrj)
+
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
 * need to make an onboarding agenda
@@ -1487,6 +1494,7 @@ MOZFEST
 
 OLC cohort mentoring
 
+* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
 
 
 TODO
