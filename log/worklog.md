@@ -1480,7 +1480,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * invited joey to study group chat
 * getting christie's blog ready for cross posting
 * note taking on the [project call](https://public.etherpad-mozilla.org/p/sciencelab-project-call-june23-2016)
-* fellows call [notes here]()
+* fellows call [notes here](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun23)
 * filled out open news survey [here](http://s-d4726b-i.sgizmo.com/s3/i-yAkMQncJbArFGGPrj-1373682/?sguid=yAkMQncJbArFGGPrj)
 * sent prizes to fellows who won the notetaking challenge
 
@@ -1488,6 +1488,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * posted christie's fellows' blog
 * tweeted the blog
 * sent out newsletter!
+* abortive meeting with ali
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
