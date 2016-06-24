@@ -1482,6 +1482,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * note taking on the [project call](https://public.etherpad-mozilla.org/p/sciencelab-project-call-june23-2016)
 * fellows call [notes here]()
 * filled out open news survey [here](http://s-d4726b-i.sgizmo.com/s3/i-yAkMQncJbArFGGPrj-1373682/?sguid=yAkMQncJbArFGGPrj)
+* sent prizes to fellows who won the notetaking challenge
+
+#### 6/24/16
+* posted christie's fellows' blog
+* tweeted the blog
+* sent out newsletter!
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
@@ -1509,8 +1515,6 @@ TODO
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
 
 
-
-* [apply for a kenyan visa]()
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 thurs - blog for community call
 wed - blog for fellows
@@ -1520,8 +1524,6 @@ wed - blog for fellows
   * ~Aurelia to email fellows + team + steph about call, read through beforehand~
   * Aurelia reach out to Chris about iHub dates
   * Buy a BRCK - reach out 
-  * Reach out to Grace house
-  * Confirm dates w/ Richard for food / transportation / lodging at Brackenhurst
 * send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * get data from _posts and match to Luke's json blog event report 
@@ -1536,13 +1538,11 @@ wed - blog for fellows
 * Open Knowledge Maps - https://public.etherpad-mozilla.org/p/wow-brian
 
 
-* revist [swag budget](https://docs.google.com/spreadsheets/d/1VvhROb0ya1kaZZAdISr_2EkRsxG9bO8TjLmy2KhV4kk/edit#gid=0)
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
-* steph's open data stuff to anna krystalli
 * get back to harry about his swag
 * put together plan for fellows 3rd part for friday
 * primers framework layout
-* make a hacker conference website for science
+* make a [hacker conference website](https://hacker-conferences-database.silk.co/) for science
 * data management mood board
   * quick lesson with primer material
 * sketch schedule for fellows new workweek
