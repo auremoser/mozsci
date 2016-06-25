@@ -1476,6 +1476,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed amel about newsletter interview and africa trip
 * planned for [june newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
 
+
 #### 6/23/16
 * invited joey to study group chat
 * getting christie's blog ready for cross posting
@@ -1489,6 +1490,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * tweeted the blog
 * sent out newsletter!
 * abortive meeting with ali
+* reached out to nick doiron about community call
+* reached out to two other mapping speakers about our community call
+  * Open Knowledge Maps
+  * ~~Deep sea Dawn~~ Charmel Menzel, esri
+  * Martin O'Leary
+  * Stuart + Andy
+  * Nick Doiron
+  * uncharted atlas
+  * women in cartography http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
+  * more women in carto: http://www.citylab.com/design/2016/03/meet-the-extraordinary-women-making-maps-today/475656/
+
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
@@ -1536,7 +1548,6 @@ wed - blog for fellows
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
-* Open Knowledge Maps - https://public.etherpad-mozilla.org/p/wow-brian
 
 
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
@@ -1560,10 +1571,7 @@ wed - blog for fellows
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 - biononymous
 - update website
-* map call: 
-  * uncharted atlas
-  * women in cartography http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
-  * more women in carto: http://www.citylab.com/design/2016/03/meet-the-extraordinary-women-making-maps-today/475656/
+
 
 
 #### STRATEGY
