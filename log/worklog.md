@@ -1500,6 +1500,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * uncharted atlas
   * women in cartography http://www.maproomblog.com/2016/03/women-in-cartography-part-4/
   * more women in carto: http://www.citylab.com/design/2016/03/meet-the-extraordinary-women-making-maps-today/475656/
+* arrangements for flights to buenos aires
 
 
 FELLOWS
