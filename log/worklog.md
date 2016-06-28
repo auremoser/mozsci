@@ -1513,10 +1513,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed harlo about encryption training
 * posted richard's blog, tweeted about it twice
 * emailed jason about blog
+* checkin with the [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
 
 * checkin with anelda
 * checkin about paris events for amel
-
+* think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
 
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
 * blog for Richard
