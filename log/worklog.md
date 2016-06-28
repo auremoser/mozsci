@@ -1516,11 +1516,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed jason about blog
 * checkin with the [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
 * made fellows call etherpad [here](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun30)
-
 * checkin with anelda
+* working through [hype plan](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
+
+
 * checkin about paris events for amel
 * think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
-
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
 * blog for Richard
 * make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
