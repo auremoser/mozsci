@@ -1502,10 +1502,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * more women in carto: http://www.citylab.com/design/2016/03/meet-the-extraordinary-women-making-maps-today/475656/
 * arrangements for flights to buenos aires
 
-#### 6/27/16
+#### 6/27/16 - 6/28/16
 * [standard email for fellowships](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit)
+* study group onboarding meeting
 * respond to participants in our all hands
 * talk on tuesday about 
+* long meeting with Zannah and Steph about roles!
+* meeting with [Chris about Encryption](https://public.etherpad-mozilla.org/p/mofo-secu)! Yay
+
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
