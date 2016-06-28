@@ -1510,6 +1510,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * long meeting with Zannah and Steph about roles!
 * meeting with [Chris about Encryption](https://public.etherpad-mozilla.org/p/mofo-secu)! Yay
 * booked stay in Buenos Aires
+* emailed harlo about encryption training
+* posted richard's blog, tweeted about it twice
+
+
+
+* work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
+* blog for Richard
+* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
 
 
 FELLOWS
@@ -1523,7 +1531,7 @@ MOZFEST
 
 OLC cohort mentoring
 
-* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
+
 
 
 TODO
@@ -1539,8 +1547,8 @@ TODO
 
 
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-thurs - blog for community call
-wed - blog for fellows
+
+
 * lightning talk for GeoJourNews
 * nairobi
   * ~calendar invite for recurring checkins~
