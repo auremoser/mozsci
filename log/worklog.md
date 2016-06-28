@@ -1514,6 +1514,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * posted richard's blog, tweeted about it twice
 * emailed jason about blog
 * checkin with the [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
+* made fellows call etherpad [here](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun30)
 
 * checkin with anelda
 * checkin about paris events for amel
