@@ -1512,7 +1512,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * booked stay in Buenos Aires
 * emailed harlo about encryption training
 * posted richard's blog, tweeted about it twice
+* emailed jason about blog
 
+* checkin with anelda
+* checkin about paris events for amel
 
 
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
