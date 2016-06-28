@@ -1509,6 +1509,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * talk on tuesday about 
 * long meeting with Zannah and Steph about roles!
 * meeting with [Chris about Encryption](https://public.etherpad-mozilla.org/p/mofo-secu)! Yay
+* booked stay in Buenos Aires
 
 
 FELLOWS
