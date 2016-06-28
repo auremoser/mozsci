@@ -1511,6 +1511,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with [Chris about Encryption](https://public.etherpad-mozilla.org/p/mofo-secu)! Yay
 * booked stay in Buenos Aires
 * emailed harlo about encryption training
+* checkin with Amel about study groups africa
 * posted richard's blog, tweeted about it twice
 * emailed jason about blog
 * checkin with the [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
