@@ -1528,7 +1528,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * Advocacy program review
 * chat about minigrants and [minigrants form](https://ti.to/mozilla-science/gs2016-tunis)
 * [learning call](https://public.etherpad-mozilla.org/p/mozcommunitycallJune16)
-* updates to the nairobi plan
+* updates to [the nairobi plan](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
   * wrote to anjali
   * wrote to kulsoom
 * more work on the hype plan
