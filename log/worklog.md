@@ -1533,6 +1533,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * wrote to kulsoom
 * more work on the hype plan
 * some work on the [mofo secu outline]()
+* helped colleen debug some [study group issues](https://github.com/colleenboodleman/Womens-GeoViz-StudyGroup/issues/3#issuecomment-224386909)
 
 * get anna a swag pack: 111 Cundy St, Sheffield, S6 2WJ
 * checkin about paris events for amel
