@@ -1518,6 +1518,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made fellows call etherpad [here](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun30)
 * checkin with anelda
 * working through [hype plan](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
+* fed demitri's cats
 
 
 
@@ -1527,6 +1528,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * Advocacy program review
 * chat about minigrants and [minigrants form](https://ti.to/mozilla-science/gs2016-tunis)
 * [learning call](https://public.etherpad-mozilla.org/p/mozcommunitycallJune16)
+* updates to the nairobi plan
+  * wrote to anjali
+  * wrote to kulsoom
+* more work on the hype plan
+* some work on the [mofo secu outline]()
 
 * get anna a swag pack: 111 Cundy St, Sheffield, S6 2WJ
 * checkin about paris events for amel
