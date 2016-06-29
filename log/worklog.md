@@ -1520,6 +1520,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * working through [hype plan](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
 
 
+#### 6/29/16
+* MLN program review
+* Advocacy program review
+* chat about minigrants and [minigrants form](https://ti.to/mozilla-science/gs2016-tunis)
+
 * checkin about paris events for amel
 * think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
