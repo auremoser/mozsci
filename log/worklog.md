@@ -1544,6 +1544,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with [jon tennant](https://public.etherpad-mozilla.org/p/wow-jon) for the end of the olc!
 * fellows call
 * tweeted about tomorrow's [ama session](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
+* packaged and sent swag kit to Anna Krystalli
+* added to [notes for team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016)
+
 
 * meet with 2 instructors from Kenya - 2 ladies for national museum
 
