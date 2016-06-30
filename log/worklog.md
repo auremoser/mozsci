@@ -1542,6 +1542,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * e-researcher, open access
 * meeting with sisi to go over visualizar
 * meeting with [jon tennant](https://public.etherpad-mozilla.org/p/wow-jon) for the end of the olc!
+* fellows call
+* tweeted about tomorrow's [ama session](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
 
 * meet with 2 instructors from Kenya - 2 ladies for national museum
 
