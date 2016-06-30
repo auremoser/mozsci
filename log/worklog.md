@@ -1520,8 +1520,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * working through [hype plan](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
 * fed demitri's cats
 
-
-
 #### 6/29/16
 * MLN program review
 * Advocacy program review
@@ -1532,9 +1530,23 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * wrote to anjali
   * wrote to kulsoom
 * more work on the hype plan
-* some work on the [mofo secu outline]()
+* some work on the [mofo secu outline](https://public.etherpad-mozilla.org/p/mofo-secu)
 * helped colleen debug some [study group issues](https://github.com/colleenboodleman/Womens-GeoViz-StudyGroup/issues/3#issuecomment-224386909)
 
+#### 6/30/16
+* chat with anelda on mozsprint (3 projects still ongoing)
+  * shared survey
+  * Nectar australian research cohort - proof of concept project - open source software for genomics researchers
+  * october during open access week doing another mozsprint
+  * developing an open science policy etcet - maybe ask for support
+  * e-researcher, open access
+* meeting with sisi to go over visualizar
+* meeting with [jon tennant](https://public.etherpad-mozilla.org/p/wow-jon) for the end of the olc!
+
+* meet with 2 instructors from Kenya - 2 ladies for national museum
+
+
+* propose a project for mozfest - bioart works
 * get anna a swag pack: 111 Cundy St, Sheffield, S6 2WJ
 * checkin about paris events for amel
 * think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
