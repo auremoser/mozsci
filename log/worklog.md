@@ -1548,6 +1548,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added to [notes for team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016)
 
 
+#### 7/1/16
+* fellowship [ama](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
 * meet with 2 instructors from Kenya - 2 ladies for national museum
 
 
