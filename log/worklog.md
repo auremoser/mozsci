@@ -1560,6 +1560,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
 * blog for Richard
 * make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
+* helped with pizzashops project
 
 
 FELLOWS
