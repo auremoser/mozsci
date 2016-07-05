@@ -1576,27 +1576,14 @@ FELLOWS
 * need to make an onboarding agenda
 * make a shared stipend document
 
-
-
-MOZFEST 
-
-OLC cohort mentoring
-
-
-
-
 TODO
 
 * Name Email Twitter Github for arliss for OLC
-
 * chat roulette for science
-
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
-
-
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 
 
@@ -1612,6 +1599,7 @@ TODO
 
 
 ##### Call Ideas
+* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
