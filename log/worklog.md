@@ -1557,10 +1557,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 7/5/16
 * put together list of get involved links: https://public.etherpad-mozilla.org/p/msl-get-involved
 * wrote to sara about mofo secu [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
-* added jason's post to our website
+* added [jason's post](https://science.mozilla.org/blog/ff-jason) to our website
 * tweeted about jason's post
 * answered some fellowship quesitons
 * sent along quesiton to pamela and alex about grace house funding
+* etherpad ready for [Friday's AMA](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
+* solo checkin [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
 
 
 
