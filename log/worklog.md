@@ -1565,6 +1565,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * solo checkin [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
 
 
+* give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
+
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
