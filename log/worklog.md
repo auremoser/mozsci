@@ -1551,16 +1551,24 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 #### 7/1/16
 * fellowship [ama](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
 * meet with 2 instructors from Kenya - 2 ladies for national museum
+* helped with pizzashops project
+
+
+#### 7/5/16
+* put together list of get involved links: https://public.etherpad-mozilla.org/p/msl-get-involved
+* wrote to sara about mofo secu [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
+* added jason's post to our website
+* tweeted about jason's post
+* answered some fellowship quesitons
+* worked on 
 
 
 * propose a project for mozfest - bioart works
-* get anna a swag pack: 111 Cundy St, Sheffield, S6 2WJ
 * checkin about paris events for amel
 * think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
-* blog for Richard
 * make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
-* helped with pizzashops project
+
 
 
 FELLOWS
