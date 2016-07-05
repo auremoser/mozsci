@@ -1560,14 +1560,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added jason's post to our website
 * tweeted about jason's post
 * answered some fellowship quesitons
-* worked on 
-
-
-* propose a project for mozfest - bioart works
-* checkin about paris events for amel
-* think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
-* work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
-* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
+* sent along quesiton to pamela and alex about grace house funding
 
 
 
@@ -1577,7 +1570,11 @@ FELLOWS
 * make a shared stipend document
 
 TODO
-
+* propose a project for mozfest - bioart works
+* checkin about paris events for amel
+* think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
+* work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
+* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
 * Name Email Twitter Github for arliss for OLC
 * chat roulette for science
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
@@ -1585,14 +1582,7 @@ TODO
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-
-
-* lightning talk for GeoJourNews
-* nairobi
-  * ~calendar invite for recurring checkins~
-  * ~Aurelia to email fellows + team + steph about call, read through beforehand~
-  * Aurelia reach out to Chris about iHub dates
-  * Buy a BRCK - reach out 
+* Buy a BRCK - reach out 
 * send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * get data from _posts and match to Luke's json blog event report 
