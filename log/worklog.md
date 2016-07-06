@@ -1568,10 +1568,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * tried to figure out what's taking so long with my kenyan visa
 * signed up for context browsing/ greg lind project
 * created [content calendar for MSL](https://public.etherpad-mozilla.org/p/msl-reflections)
+* created [fellows' call etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul07)
 
 IMMEDIATES
 
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
+* update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
+* get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
+
 
 
 FELLOWS
