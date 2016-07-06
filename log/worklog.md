@@ -1573,7 +1573,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 7/6/16
 * worked on visa stuff for kenya
 * emails and wrangling contacts for kenya and plans with Richard
-
+* added to arliss' [space wrangler calls]
+(https://public.etherpad-mozilla.org/p/SpaceWranglercalls2016)
+* publicized [mozilla twitter](https://twitter.com/mozilla/status/750754876922167297) and [fbook]() shout outs
+* added Azza to monthly meeting with
+* put together [msl_internal](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHWmpScWx6dzhTS00&usp=sharing) and [readme](https://docs.google.com/document/d/1Gmdme1UwrfxbjbG-MeYx4023aq7O5MiydkgXA_S-d_k/edit)
 
 IMMEDIATES
 
