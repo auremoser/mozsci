@@ -1567,6 +1567,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * responded to a few more fellowship questions
 * tried to figure out what's taking so long with my kenyan visa
 * signed up for context browsing/ greg lind project
+* created [content calendar for MSL](https://public.etherpad-mozilla.org/p/msl-reflections)
 
 IMMEDIATES
 
