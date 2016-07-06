@@ -1563,7 +1563,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent along quesiton to pamela and alex about grace house funding
 * etherpad ready for [Friday's AMA](https://public.etherpad-mozilla.org/p/2016-fellowship-ama)
 * solo checkin [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2016)
+* notified grace house of wire transfer friday
+* responded to a few more fellowship questions
+* tried to figure out what's taking so long with my kenyan visa
+* signed up for context browsing/ greg lind project
 
+IMMEDIATES
 
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 
