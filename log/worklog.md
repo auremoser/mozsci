@@ -1570,8 +1570,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created [content calendar for MSL](https://public.etherpad-mozilla.org/p/msl-reflections)
 * created [fellows' call etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul07)
 
+### 7/6/16
+* worked on visa stuff for kenya
+* emails and wrangling contacts for kenya and plans with Richard
+
+
 IMMEDIATES
 
+* put together drive folder of organized MSL materials: https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
