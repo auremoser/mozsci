@@ -1579,6 +1579,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added Azza to monthly meeting with
 * put together [msl_internal](https://drive.google.com/a/mozilla.com/folderview?id=0B6_ZVUFx2WHHWmpScWx6dzhTS00&usp=sharing) and [readme](https://docs.google.com/document/d/1Gmdme1UwrfxbjbG-MeYx4023aq7O5MiydkgXA_S-d_k/edit)
 
+
+### 7/7/16
+* met with vanessa, sara, melissa to discuss [fellowship checkin](https://public.etherpad-mozilla.org/p/mozfellowships)
+* [fellows's call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul07)
+* promoted tomorrow's AMA on twitter
+* got back to folks about their fellowship questions
+
 IMMEDIATES
 
 * put together drive folder of organized MSL materials: https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016
