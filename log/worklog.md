@@ -1585,10 +1585,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [fellows's call](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul07)
 * promoted tomorrow's AMA on twitter
 * got back to folks about their fellowship questions
+* put together drive folder of organized MSL materials: https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016
+
+### 7/8/16
+* fellows' ama
+* nexmap chat with chad + team [notes](https://docs.google.com/document/d/1Otf9phL4ktkhMZi_yV9OELSR9-trh4oZb6bEokCKYT8/edit)
+* 
+
 
 IMMEDIATES
 
-* put together drive folder of organized MSL materials: https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul01-2016
+
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
