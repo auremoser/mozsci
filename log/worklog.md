@@ -1592,6 +1592,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * nexmap chat with chad + team [notes](https://docs.google.com/document/d/1Otf9phL4ktkhMZi_yV9OELSR9-trh4oZb6bEokCKYT8/edit)
 * meeting with ali for [olc](https://public.etherpad-mozilla.org/p/wow-ali)
 * updated newsletter [issues](https://github.com/mozillascience/plan/issues/86#issuecomment-231422655)
+* team call
+* meeting about [MIT / Ada Lovelace day](https://public.etherpad-mozilla.org/p/MLN-librelearnlab-2016)
 
 
 IMMEDIATES
