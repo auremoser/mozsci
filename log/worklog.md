@@ -1590,6 +1590,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 7/8/16
 * fellows' ama
 * nexmap chat with chad + team [notes](https://docs.google.com/document/d/1Otf9phL4ktkhMZi_yV9OELSR9-trh4oZb6bEokCKYT8/edit)
+* meeting with ali for [olc](https://public.etherpad-mozilla.org/p/wow-ali)
 * 
 
 
