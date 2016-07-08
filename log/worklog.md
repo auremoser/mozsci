@@ -1595,8 +1595,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 
 IMMEDIATES
-
-
+* put something on calendar about good/bad of fellowship
+* clean this up for feedback criteria: https://public.etherpad-mozilla.org/p/sciencelab-2016-fellowships
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
