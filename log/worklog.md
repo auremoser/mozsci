@@ -1594,6 +1594,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated newsletter [issues](https://github.com/mozillascience/plan/issues/86#issuecomment-231422655)
 * team call
 * meeting about [MIT / Ada Lovelace day](https://public.etherpad-mozilla.org/p/MLN-librelearnlab-2016)
+* sent along [msl updates to kristina gorr](https://public.etherpad-mozilla.org/p/msl-reflections)
 
 
 IMMEDIATES
@@ -1602,7 +1603,9 @@ IMMEDIATES
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
+* get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com
 
+For the Open Innovation publication, please contact pfinch@mozilla.com.
 
 
 FELLOWS
