@@ -1600,6 +1600,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * made fellowships stipend [doc](https://public.etherpad-mozilla.org/p/fellowships-stipend) and planning calendar invite for august
   * made fellowships onboarding [agenda](https://public.etherpad-mozilla.org/p/fellowships-onboarding) + [sketched fellows agenda](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
 * wrote blog post for [study group learning call](https://science.mozilla.org/blog/sg-learning-calls-github) - tweeted it too
+* added [issue about the fellowship](https://github.com/mozilla/science.mozilla.org/issues/528)
 
 
 IMMEDIATES
