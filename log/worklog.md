@@ -1595,6 +1595,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * team call
 * meeting about [MIT / Ada Lovelace day](https://public.etherpad-mozilla.org/p/MLN-librelearnlab-2016)
 * sent along [msl updates to kristina gorr](https://public.etherpad-mozilla.org/p/msl-reflections)
+* nexmap intro to steph, staged for next week
+* fellowships x-org
+  * made fellowships stipend [doc](https://public.etherpad-mozilla.org/p/fellowships-stipend) and planning calendar invite for august
+  * made fellowships onboarding [agenda](https://public.etherpad-mozilla.org/p/fellowships-onboarding) + [sketched fellows agenda](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
+* wrote blog post for [study group learning call](https://science.mozilla.org/blog/sg-learning-calls-github) - tweeted it too
 
 
 IMMEDIATES
