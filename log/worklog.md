@@ -1608,7 +1608,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * event for [community call](https://github.com/mozillascience/plan/issues/87)
 * put something on calendar about good/bad of fellowship
 * clean this up for feedback criteria: https://public.etherpad-mozilla.org/p/sciencelab-2016-fellowships
-* created fellows [call agenda for thursday]()
+* created fellows [call agenda for thursday](https://public.etherpad-mozilla.org/p/2015-science-fellows-jun30)
 * answered community questions about Fellowship
 * got FAQ link from abby [yay](https://science.mozilla.org/programs/fellowships/faq)
 * wrote to Shauna about extending her gues hosting to next community call
@@ -1617,8 +1617,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fixed up fellowhsip AMA for tomorrow: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
 
 
-* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
-* THURSDAY Aurelia to add [chibitronics](https://chibitronics.com/)/nextmap to Mozfest
+* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
 
 IMMEDIATES
 * setup [study group call issue](https://github.com/mozillascience/plan/issues/88)
