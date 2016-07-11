@@ -1620,15 +1620,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reached out to all of zannah's contacts for fellowship followup and inclusion
 * created a [study group learning call](https://science.mozilla.org/programs/events/studygroup-call-july-15)
 * created a [community call for august](https://science.mozilla.org/programs/events/community-call-aug-11-11-et)
+* setup [study group call issue](https://github.com/mozillascience/plan/issues/88)
+  * make event for study group call
+  * email study group list
+  * remind Joey + Jeff
+* updated [hype plan according to today's outreach](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
 
 
 * TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
 
 IMMEDIATES
-* setup [study group call issue](https://github.com/mozillascience/plan/issues/88)
-  * make event for study group call
-  * email study group list
-  * remind Joey + Jeff
+
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
