@@ -1611,13 +1611,19 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created fellows [call agenda for thursday]()
 * answered community questions about Fellowship
 * got FAQ link from abby [yay](https://science.mozilla.org/programs/fellowships/faq)
-
+* wrote to Shauna about extending her gues hosting to next community call
+* reached out to [tdwg network](http://www.tdwg.org/), this year in Costa Rica
 * 1:1 meeting with Steph: https://public.etherpad-mozilla.org/p/1_1_Aurelia
+* fixed up fellowhsip AMA for tomorrow: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
+
 
 * TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
 * THURSDAY Aurelia to add [chibitronics](https://chibitronics.com/)/nextmap to Mozfest
 
 IMMEDIATES
+* make event for study group call
+* email study group list
+* add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
