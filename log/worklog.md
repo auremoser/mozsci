@@ -1622,20 +1622,18 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created a [community call for august](https://science.mozilla.org/programs/events/community-call-aug-11-11-et)
 * setup [study group call issue](https://github.com/mozillascience/plan/issues/88)
   * make event for study group call
-  * email study group list
+  * email study group list with reminder
   * remind Joey + Jeff
+  * tweeted about it
 * updated [hype plan according to today's outreach](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
-
-
-* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
+* reach out to brett rose at esri for the community call in august
 
 IMMEDIATES
-
+* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
-
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
-* get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
+* tweet the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
 
