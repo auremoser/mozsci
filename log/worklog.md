@@ -1621,8 +1621,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * THURSDAY Aurelia to add [chibitronics](https://chibitronics.com/)/nextmap to Mozfest
 
 IMMEDIATES
-* make event for study group call
-* email study group list
+* setup [study group call issue](https://github.com/mozillascience/plan/issues/88)
+  * make event for study group call
+  * email study group list
+  * remind Joey + Jeff
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
