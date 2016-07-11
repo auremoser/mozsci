@@ -1599,22 +1599,30 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellowships x-org
   * made fellowships stipend [doc](https://public.etherpad-mozilla.org/p/fellowships-stipend) and planning calendar invite for august
   * made fellowships onboarding [agenda](https://public.etherpad-mozilla.org/p/fellowships-onboarding) + [sketched fellows agenda](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
-  * made fellowships [design agenda]()
+  * made fellowships [design agenda](https://public.etherpad-mozilla.org/p/2016-fellowship-design)
   * made team fellowships [retrospective agenda](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
 * wrote blog post for [study group learning call](https://science.mozilla.org/blog/sg-learning-calls-github) - tweeted it too
 * added [issue about the fellowship](https://github.com/mozilla/science.mozilla.org/issues/528)
 
-
-
-IMMEDIATES
+### 7/11/16
+* event for [community call](https://github.com/mozillascience/plan/issues/87)
 * put something on calendar about good/bad of fellowship
 * clean this up for feedback criteria: https://public.etherpad-mozilla.org/p/sciencelab-2016-fellowships
+* created fellows [call agenda for thursday]()
+* answered community questions about Fellowship
+* got FAQ link from abby [yay](https://science.mozilla.org/programs/fellowships/faq)
+
+* 1:1 meeting with Steph: https://public.etherpad-mozilla.org/p/1_1_Aurelia
+
+* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
+* THURSDAY Aurelia to add [chibitronics](https://chibitronics.com/)/nextmap to Mozfest
+
+IMMEDIATES
+
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get out the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
-* get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com
-
-For the Open Innovation publication, please contact pfinch@mozilla.com.
+* get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
 
 FELLOWS
