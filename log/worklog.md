@@ -1615,6 +1615,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reached out to [tdwg network](http://www.tdwg.org/), this year in Costa Rica
 * 1:1 meeting with Steph: https://public.etherpad-mozilla.org/p/1_1_Aurelia
 * fixed up fellowhsip AMA for tomorrow: https://public.etherpad-mozilla.org/p/2016-fellowship-ama
+* [study group orientation](https://docs.google.com/document/d/1bn_qNfDLH6lfGqsSyz3QXCSvxW7crjDg33Z7nY7x_NU/edit?ts=5783d976) with zannah
 
 
 * TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
