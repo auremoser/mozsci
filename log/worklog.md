@@ -1635,6 +1635,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * exported contacts from last year's fellowship class drafts and wrote them to encourage re-application
 * tweeted abby's [blog post about why oss matters](https://science.mozilla.org/blog/why-developing-oss-matters)
 * reached out to 160+ applicants who didn't finish drafts last year and encouraged them to re-apply
+* MSL checkin: https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2016
+* draft of [all mofo email](https://public.etherpad-mozilla.org/p/2016-fellowship-allmofo)
 
 
 IMMEDIATES
@@ -1721,7 +1723,7 @@ TODO
 
 
 ### RESOURCES
-
+* [msl get involved](https://public.etherpad-mozilla.org/p/msl-get-involved)
 * [planning repo](https://github.com/mozillascience/plan/issues/33)
 * [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
 * [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c)
