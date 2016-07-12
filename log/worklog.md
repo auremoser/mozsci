@@ -1629,7 +1629,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reach out to brett rose at esri for the community call in august
 
 ### 7/12/16
-* TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
+* Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
 * [learning call](https://public.etherpad-mozilla.org/p/curriculum-workshop-july-12-2016)
 * integrated abigail's changes into [canned emails](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit?disco=AAAAAqFKO7w)
 * exported contacts from last year's fellowship class drafts and wrote them to encourage re-application
@@ -1639,6 +1639,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 IMMEDIATES
 
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
+* add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * tweet the word about study group call next week: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016
