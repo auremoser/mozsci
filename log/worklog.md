@@ -1637,7 +1637,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reached out to 160+ applicants who didn't finish drafts last year and encouraged them to re-apply
 * MSL checkin: https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2016
 * draft of [all mofo email](https://public.etherpad-mozilla.org/p/2016-fellowship-allmofo)
+* sent lynn cv
+* emailed a pile of study group attendees with updates
 
+
+Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
 IMMEDIATES
 
