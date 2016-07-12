@@ -1628,8 +1628,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated [hype plan according to today's outreach](https://public.etherpad-mozilla.org/p/msl-2016-fellowships)
 * reach out to brett rose at esri for the community call in august
 
-IMMEDIATES
+### 7/12/16
 * TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
+* learning call
+* integrated abigail's changes into [canned emails](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit?disco=AAAAAqFKO7w)
+
+
+IMMEDIATES
+
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 * give feedback on contextual feature recommender: https://people.mozilla.org/~kardekani/cfr/
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
