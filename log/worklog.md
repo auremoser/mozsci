@@ -1634,6 +1634,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * integrated abigail's changes into [canned emails](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit?disco=AAAAAqFKO7w)
 * exported contacts from last year's fellowship class drafts and wrote them to encourage re-application
 * tweeted abby's [blog post about why oss matters](https://science.mozilla.org/blog/why-developing-oss-matters)
+* reached out to 160+ applicants who didn't finish drafts last year and encouraged them to re-apply
 
 
 IMMEDIATES
