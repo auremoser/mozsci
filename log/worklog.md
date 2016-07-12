@@ -1632,6 +1632,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * TUESDAY Aurelia to tweet etherpad for ama on Tuesday: https://public.etherpad-mozilla.org/p/2016-fellowship-ama 
 * learning call
 * integrated abigail's changes into [canned emails](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit?disco=AAAAAqFKO7w)
+* exported contacts from last year's fellowship class drafts and wrote them to encourage re-application
 
 
 IMMEDIATES
