@@ -1644,6 +1644,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ###7/13/16
 * meeting with [azza about study group](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * meeting with [Vanessa 1:1](https://public.etherpad-mozilla.org/p/mozfellowships-1_1)
+* emailed all study groups individually about [upcoming Friday call](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
