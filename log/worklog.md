@@ -1656,6 +1656,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * [fellows' process timeline](https://public.etherpad-mozilla.org/p/sciencelab-fellows-eval-2016)
 * lots of followup emails
 * [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-july14)
+* sent [survey to richard](https://docs.google.com/forms/d/1V4wjxUo6Dca9vTcLUxaZen-iNRAW43Bjdev0fBsZIFU/edit?c=0&w=1#responses)
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
