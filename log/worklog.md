@@ -1657,6 +1657,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * lots of followup emails
 * [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-july14)
 * sent [survey to richard](https://docs.google.com/forms/d/1V4wjxUo6Dca9vTcLUxaZen-iNRAW43Bjdev0fBsZIFU/edit?c=0&w=1#responses)
+* created some criteria [sheets](https://docs.google.com/a/mozilla.com/spreadsheets/d/1Fici6y-9XkQfnZ9aAJWuFD_eb-2qoMHTYhTwYqAukg0/edit?usp=sharing)
+* added kulsoom to [nairobi plan](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
