@@ -1645,6 +1645,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with [azza about study group](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * meeting with [Vanessa 1:1](https://public.etherpad-mozilla.org/p/mozfellowships-1_1)
 * emailed all study groups individually about [upcoming Friday call](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* [all mofo message sent](https://public.etherpad-mozilla.org/p/2016-fellowship-allmofo)
+* email to fellowship applicants in answer to some of their questions
+* started prepping the newsletter for tomorrow!
+* planning for October joint community call with Mozilla Learning with Kristina Gorr
+* put together monthly newsletter content for science: 
+
+####7/14/16
+* [fellows' retrospective call](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
+* [fellows' process timeline](https://public.etherpad-mozilla.org/p/sciencelab-fellows-eval-2016)
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
