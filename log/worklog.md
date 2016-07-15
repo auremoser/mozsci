@@ -1662,6 +1662,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent Kristina updates for the [timeline]() from the [msl reflections doc](https://public.etherpad-mozilla.org/p/msl-reflections)
 * updated [msl h2 plan](https://docs.google.com/spreadsheets/d/1KA8OKRPyaBd__obKmmnUNTuZagmcge9lGB4FQodXcGA/edit?ts=578660a0#gid=0)
 
+### 7/15/16
+* wrote to joe macarthur with update from our end
+* took care of some cash advancing stuff with steph
+* started prepping [study group call stuff](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2016)
+* wrote up the newsletter for 
+* slides for [css conf](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit?usp=sharing)
+* made [webcast here](https://www.youtube.com/watch?v=G7wk88VeQlo)
+
+
+* sent out to harry - swag
+
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
