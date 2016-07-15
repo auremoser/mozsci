@@ -1678,6 +1678,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * sent intra template to team
   * send out stats sheet
   * grade and vote
+  * watch out for Anna, Michael C. Kristie, Peter
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
