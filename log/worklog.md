@@ -1671,6 +1671,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made [webcast here](https://www.youtube.com/watch?v=G7wk88VeQlo)
 * created [intra template](https://public.etherpad-mozilla.org/p/sciencelab-fellows-inter-2016)
 * went through all fellowship stuff from the retrospective
+* gave feedback on the [build site](https://public.etherpad-mozilla.org/p/build_feedback)
 
 
 * sent out to harry - swag
