@@ -1673,6 +1673,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * went through all fellowship stuff from the retrospective
 * gave feedback on the [build site](https://public.etherpad-mozilla.org/p/build_feedback)
 
+### 7/17/16
+* brunch with vanessa
+* answered some email for applicants
+* some study group followup email
+
 
 * sent out to harry - swag
 * fellows checkin
