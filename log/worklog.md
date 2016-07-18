@@ -1678,6 +1678,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * answered some email for applicants
 * some study group followup email
 
+### 7/18/16
+* Nairobi
+  * wrote to Mark Kamau about BRCK stuff
+  * wrote to Kulsoom about meeting next week
+  * wrote to Aisha
+  * wrote to Chris Orwa
+
 
 * sent out to harry - swag
 * fellows checkin
