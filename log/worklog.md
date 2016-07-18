@@ -1684,6 +1684,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * wrote to Kulsoom about meeting next week
   * wrote to Aisha
   * wrote to Chris Orwa
+  * wrote to Esther/Ann
+  * wrote to Amel
 
 
 * sent out to harry - swag
