@@ -1691,6 +1691,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 7/19/16
 * read applications
+* made study group call [issue](https://github.com/mozillascience/plan/issues/90) and [etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-august-2016)
 
 * sent out to harry - swag
 * fellows checkin
