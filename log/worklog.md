@@ -1699,6 +1699,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 7/201/6
 * ordered $ for Kenya
 * gave feedback to piggy back on abby's for the [github module](https://docs.google.com/document/d/1qB9JuJ3a2f-fsLX8s8m6uzhi1RHg-WkcstnUJ1UtP0c/edit#)
+* bought fellows' parting gifts
+
+###7/21/16
+* wrote invitation letter for amel, sent
+* 
 
 * sent out to harry - swag
 * fellows checkin
