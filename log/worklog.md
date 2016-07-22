@@ -1696,14 +1696,18 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * put together etherpad for fellows [here](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul21)
 * updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=1784802524) and did some prelim stats
 
-### 7/201/6
+### 7/20/16
 * ordered $ for Kenya
 * gave feedback to piggy back on abby's for the [github module](https://docs.google.com/document/d/1qB9JuJ3a2f-fsLX8s8m6uzhi1RHg-WkcstnUJ1UtP0c/edit#)
 * bought fellows' parting gifts
 
-###7/21/16
+### 7/21/16
 * wrote invitation letter for amel, sent
-* 
+* [mln team call](https://public.etherpad-mozilla.org/p/mlnteamcallQ3)
+* [fellows' call + email]()
+
+### 7/22/16
+* [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul22-2016)
 
 * sent out to harry - swag
 * fellows checkin
