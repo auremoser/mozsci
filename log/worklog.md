@@ -1704,7 +1704,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 7/21/16
 * wrote invitation letter for amel, sent
 * [mln team call](https://public.etherpad-mozilla.org/p/mlnteamcallQ3)
-* [fellows' call + email]()
+* [fellows' call + email](https://public.etherpad-mozilla.org/p/2015-science-fellows-jul21)
 
 ### 7/22/16
 * [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul22-2016)
