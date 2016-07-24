@@ -1708,6 +1708,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 7/22/16
 * [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul22-2016)
+* application things! announced and shared with team
+* sent out email to fellows about Day 1 Activities
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
