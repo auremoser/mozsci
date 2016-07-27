@@ -1712,6 +1712,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent out email to fellows about Day 1 Activities
 * updated everyone from email before flight
 
+### 7/23/16
+* nairobi trip
+* schedule [here]()
+* slides for ibm research [here](https://docs.google.com/presentation/d/1dWGtezfBWuJMeAQoG10ZNjrabOgiZHNnG-fRPg6VHU4/edit#slide=id.g1163715671_0_179)
+
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
 * revisit [fellows intra](https://public.etherpad-mozilla.org/p/sciencelab-fellows-inter-2016)
