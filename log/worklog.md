@@ -1716,6 +1716,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * nairobi trip
 * schedule [here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * slides for ibm research [here](https://docs.google.com/presentation/d/1dWGtezfBWuJMeAQoG10ZNjrabOgiZHNnG-fRPg6VHU4/edit#slide=id.g1163715671_0_179)
+* thank you email to aisha
+* email about 10k days of the web
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
