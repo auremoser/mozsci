@@ -1720,6 +1720,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email about 10k days of the web
 * tweeted about firefox os release
 * assigned to Rebecca Garcia's mozfest stuff [#279](https://github.com/MozillaFoundation/mozfest-program-2016/issues/279#event-737157387)
+* feedback on the [meeting](https://docs.google.com/document/d/1Q-eln2pLXq_AjsghpYQXtCyX99c4tKfXWAcKoc_gzUE/edit#)
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
