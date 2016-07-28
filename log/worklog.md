@@ -1718,6 +1718,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * slides for ibm research [here](https://docs.google.com/presentation/d/1dWGtezfBWuJMeAQoG10ZNjrabOgiZHNnG-fRPg6VHU4/edit#slide=id.g1163715671_0_179)
 * thank you email to aisha
 * email about 10k days of the web
+* tweeted about firefox os release
+* assigned to Rebecca Garcia's mozfest stuff [#279](https://github.com/MozillaFoundation/mozfest-program-2016/issues/279#event-737157387)
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
