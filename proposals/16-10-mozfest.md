@@ -5,6 +5,8 @@ https://mozillafestival.org/proposals
 
 ####FACILITATOR:
 Aurelia
+Heather
+Fei
 
 ####TITLE
 
@@ -22,6 +24,6 @@ Aurelia is a developer and curious cartographer building communities around code
 
 ####EXAMPLES
 
-<http://biononymous.me/>
-
-<http://www.genomemaps.org/>
+* http://biononymous.me/
+* https://github.com/adamhrv/SKYLIFT-research
+* http://www.genomemaps.org/
