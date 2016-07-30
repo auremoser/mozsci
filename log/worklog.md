@@ -1738,7 +1738,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
 IMMEDIATES
-* apply http://www.frenchtechticket.com/
+* apply http://www.frenchtechticket.com/ - august 24th
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
