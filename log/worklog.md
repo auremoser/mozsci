@@ -1712,7 +1712,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent out email to fellows about Day 1 Activities
 * updated everyone from email before flight
 
-### 7/23/16
+### 7/23/16 - 8/1/16
 * nairobi trip
 * schedule [here](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * slides for ibm research [here](https://docs.google.com/presentation/d/1dWGtezfBWuJMeAQoG10ZNjrabOgiZHNnG-fRPg6VHU4/edit#slide=id.g1163715671_0_179)
@@ -1722,6 +1722,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * assigned to Rebecca Garcia's mozfest stuff [#279](https://github.com/MozillaFoundation/mozfest-program-2016/issues/279#event-737157387)
 * feedback on the [meeting](https://docs.google.com/document/d/1Q-eln2pLXq_AjsghpYQXtCyX99c4tKfXWAcKoc_gzUE/edit#)
 * updated [etherpad for friday](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul29-2016)
+* added more things to [nairobi jam](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
+* session with Amel + Session with Bastian
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
