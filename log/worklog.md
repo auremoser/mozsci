@@ -1724,6 +1724,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated [etherpad for friday](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul29-2016)
 * added more things to [nairobi jam](https://public.etherpad-mozilla.org/p/nairobi-fellows-jam)
 * session with Amel + Session with Bastian
+* worked on some wrapup materials
 
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
