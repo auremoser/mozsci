@@ -1726,15 +1726,18 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * session with Amel + Session with Bastian
 * worked on some wrapup materials
 
+### 8/2/16
+
+* filled out checkin for Tuesday [here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
+* rescheduled some meetings
+* emailed fellows' closing email
 
 * revist [fellows' retrospective](https://public.etherpad-mozilla.org/p/2015-fellowship-retro)
 * revisit [fellows intra](https://public.etherpad-mozilla.org/p/sciencelab-fellows-inter-2016)
 * complete [study group narrative](https://public.etherpad-mozilla.org/p/2016-study-groups)
 * sent out to harry - swag
+* send fellows' swag
 * fellows checkin
-  * sent intra template to team
-  * send out stats sheet
-  * grade and vote
   * watch out for Anna, Michael C. Kristie, Peter
 
 
