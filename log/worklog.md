@@ -1747,11 +1747,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * solicited resumes from the fellows
 * packed for buenos aires
 * worked on slides for CSS conf
-* 
 
-* invite sara + chris to session for internal opsec
+* invite sara + chris to session for internal Open_Science_101
 * trinet elections
-* work on
+* work on blog post for community call
 * agenda for x-org fellows call tomorrow
 
 
