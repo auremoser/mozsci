@@ -1747,6 +1747,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * solicited resumes from the fellows
 * packed for buenos aires
 * worked on slides for CSS conf
+* responded to a [mozfest post](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639#issuecomment-237295625)
 
 * invite sara + chris to session for internal Open_Science_101
 * trinet elections
