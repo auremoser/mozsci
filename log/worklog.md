@@ -1741,6 +1741,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * watch out for Anna, Michael C. Kristie, Peter
 
 
+### 8/3/16
+* feedback on kaitlin's fellows doc
+* wrote a post-nairobi blog post: https://public.etherpad-mozilla.org/p/nairobi-fellows-blog
+* solicited resumes from the fellows
+* packed for buenos aires
+* worked on slides for CSS conf
+* 
+
+* invite sara + chris to session for internal opsec
+* trinet elections
+* work on
+* agenda for x-org fellows call tomorrow
+
+
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
 IMMEDIATES
