@@ -1750,10 +1750,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * responded to a [mozfest post](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639#issuecomment-237295625)
 
 * invite sara + chris to session for internal Open_Science_101
-* trinet elections
+* fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
+
 * work on blog post for community call
 * agenda for x-org fellows call tomorrow
 
+### 8/4/15
+* post blog about [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-blog)
+* trinet elections
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
