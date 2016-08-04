@@ -1758,12 +1758,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting scheduled for onboarding next week
 * agreed to host harlo as a guest speaker in toronto
 * practice css conf slides
+* work on [blog post for community call](https://science.mozilla.org/blog/community-call-aug-11-11et)
+* canceled next week's study group call
 * 
 
 * invite sara + chris to session for internal Open_Science_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 
-* work on blog post for community call
+
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
