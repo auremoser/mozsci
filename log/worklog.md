@@ -1748,16 +1748,22 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * packed for buenos aires
 * worked on slides for CSS conf
 * responded to a [mozfest post](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639#issuecomment-237295625)
+* agenda for x-org fellows call tomorrow
+
+
+### 8/4/15
+* post blog about [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-blog)
+* trinet elections
+* x-org [fellows call](https://public.etherpad-mozilla.org/p/mozfellowships)
+* meeting scheduled for onboarding next week
+* agreed to host harlo as a guest speaker in toronto
+* practice css conf slides
+* 
 
 * invite sara + chris to session for internal Open_Science_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 
 * work on blog post for community call
-* agenda for x-org fellows call tomorrow
-
-### 8/4/15
-* post blog about [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-blog)
-* trinet elections
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
