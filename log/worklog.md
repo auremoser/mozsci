@@ -1767,7 +1767,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 
 * meeting with Kristina on [October Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016)
-* make github issue for call kgorr
+* make [github issue #91](https://github.com/mozillascience/plan/issues/91) for call kgorr
 
 * make issue with Krisina 
 * invite sara + chris to session for internal Open_Science_101
