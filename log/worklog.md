@@ -1751,7 +1751,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * agenda for x-org fellows call tomorrow
 
 
-### 8/4/15
+### 8/4/16
 * post blog about [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-blog)
 * trinet elections
 * x-org [fellows call](https://public.etherpad-mozilla.org/p/mozfellowships)
@@ -1762,6 +1762,14 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * canceled next week's study group call
 * 
 
+
+### 8/5/16
+
+
+* meeting with Kristina on [October Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016)
+* make github issue for call kgorr
+
+* make issue with Krisina 
 * invite sara + chris to session for internal Open_Science_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 
