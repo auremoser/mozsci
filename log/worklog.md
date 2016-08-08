@@ -1763,8 +1763,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 *
 
 
-### 8/5/16
-
+### 8/8/16
+* meeting with 5 of the fellow candidates, summary authorship
 
 * meeting with Kristina on [October Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016)
 * make [github issue #91](https://github.com/mozillascience/plan/issues/91) for call kgorr
@@ -1773,6 +1773,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote [blog up in wp](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3675&action=edit) - need to post
 * invite sara + chris to session for internal Open_Science_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
+
+
 
 
 
