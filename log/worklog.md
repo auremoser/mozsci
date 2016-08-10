@@ -1771,12 +1771,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * gave talk at [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)
 
 ###8/10/16
-* met with Vanessa about onboarding
+* met with Vanessa about [onboarding](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * emails
 * vouched for Study group lead [here](https://github.com/mozillascience/studyGroup/pull/54#issuecomment-238208282)
 * INDA network connections for Amel
 * fellows' call [etherpad](https://public.etherpad-mozilla.org/p/2015-science-fellows-aug11)
 * tweets about [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug11-2016)
+* filled out team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-aug12-2016) for Friday
 
 
 
