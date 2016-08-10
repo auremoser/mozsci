@@ -1770,7 +1770,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * updated [team call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016) for tomorrow
 * gave talk at [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)
 
+###810/16
+* met with Vanessa about onboarding
+* emails
+* vouched for Study group lead [here](https://github.com/mozillascience/studyGroup/pull/54#issuecomment-238208282)
 
+
+* make a calendar for MSL : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 * write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
 * invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
