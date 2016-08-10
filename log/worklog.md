@@ -1750,7 +1750,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * responded to a [mozfest post](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639#issuecomment-237295625)
 * agenda for x-org fellows call tomorrow
 
-
 ### 8/4/16
 * post blog about [nairobi](https://public.etherpad-mozilla.org/p/nairobi-fellows-blog)
 * trinet elections
@@ -1760,18 +1759,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * practice css conf slides
 * work on [blog post for community call](https://science.mozilla.org/blog/community-call-aug-11-11et)
 * canceled next week's study group call
-*
 
-
-### 8/8/16
+### 8/5-8/8/16
 * meeting with 5 of the fellow candidates, summary authorship
-
+* wrote about [Fellows' Trip to Nairobi on blog](https://science.mozilla.org/blog/msl-on-the-road-nairobi)
+* sent out email reminders to ocmmunity call speakers
 * meeting with Kristina on [October Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016)
 * make [github issue #91](https://github.com/mozillascience/plan/issues/91) for call kgorr
-
 * email speakers monday
-* wrote [blog up in wp](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3675&action=edit) - need to post
-* invite sara + chris to session for internal Open_Science_101
+* updated [team call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016) for tomorrow
+* gave talk at [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)
+
+
+* write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
+* invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 
 
@@ -1781,7 +1782,6 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
 IMMEDIATES
-* apply http://www.frenchtechticket.com/ - august 24th
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
@@ -1794,11 +1794,9 @@ FELLOWS
 * make a shared stipend document
 
 TODO
-* propose a project for mozfest - bioart works
-* checkin about paris events for amel
+
 * think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
-* make templates for OLC emails https://public.etherpad-mozilla.org/p/template-end
 * Name Email Twitter Github for arliss for OLC
 * chat roulette for science
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
