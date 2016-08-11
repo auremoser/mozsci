@@ -1802,7 +1802,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 
-
+SPEAKERS
+* Bill Mills on Docker for Study Group Call
 
 
 
