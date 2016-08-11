@@ -1785,10 +1785,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * thank you to community call speakers sent
 * tweets for Community call
 * [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-aug11)
-
-
-
 * make a calendar for MSL : https://public.etherpad-mozilla.org/p/fellowships-onboarding
+* fellowship call onboarding meeting
+* meeting with Bill to talk about Study Groups evolution
+
+
+* write all fellows about individual retrospective meetings
+  * write them about fellowship decisions
+  * send them their gifts
+* add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
+
 * write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
 * invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
