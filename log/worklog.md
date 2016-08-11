@@ -1781,7 +1781,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * got tagged on this [mozfest pitch](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639) working on it here
 
 ### 8/11/16
-* hosted community call
+* hosted [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug11-2016) on maps
 * thank you to community call speakers sent
 * tweets for Community call
 * [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-aug11)
@@ -1789,7 +1789,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * fellowship call onboarding meeting
 * meeting with Bill to talk about Study Groups evolution
 * some logistics and placeholder calendar invites for the Libre Learning Lab in October - Boston
-* worked with Kristina on logistics for our October Community call together
+* worked with Kristina on logistics for our [October Community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016) together
 * met with diane tate about hosting Harlo as a speaker in October
 
 
