@@ -1780,7 +1780,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * filled out team call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-aug12-2016) for Friday
 * got tagged on this [mozfest pitch](https://github.com/MozillaFoundation/mozfest-program-2016/issues/639) working on it here
 
-
+### 8/11/16
+* hosted community call
+* thank you to community call speakers sent
+* tweets for Community call
+* [fellows call](https://public.etherpad-mozilla.org/p/2015-science-fellows-aug11)
 
 
 
