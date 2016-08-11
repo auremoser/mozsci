@@ -1788,6 +1788,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * make a calendar for MSL : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 * fellowship call onboarding meeting
 * meeting with Bill to talk about Study Groups evolution
+* some logistics and placeholder calendar invites for the Libre Learning Lab in October - Boston
+* worked with Kristina on logistics for our October Community call together
+* met with diane tate about hosting Harlo as a speaker in October
 
 
 * write all fellows about individual retrospective meetings
