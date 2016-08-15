@@ -1802,6 +1802,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made candidate matrix for our meeting
 * air mozilla attempt for all-hands call
 * setup blog meeting with [anna for thursday](https://public.etherpad-mozilla.org/p/ISBE-blog)
+* filled out [checkin spreadsheet](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
 
 
 * write all fellows about individual retrospective meetings
