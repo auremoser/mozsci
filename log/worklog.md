@@ -1801,6 +1801,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting 1:1 with Steph, exciting news about Mexico study groups
 * made candidate matrix for our meeting
 * air mozilla attempt for all-hands call
+* setup blog meeting with [anna for thursday](https://public.etherpad-mozilla.org/p/ISBE-blog)
 
 
 * write all fellows about individual retrospective meetings
