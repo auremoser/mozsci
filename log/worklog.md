@@ -1792,10 +1792,20 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * worked with Kristina on logistics for our [October Community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016) together
 * met with diane tate about hosting Harlo as a speaker in October
 * wrote fellows about their retrospective meeting dates
+* booked flights for Mozfest
+
+
+### 8/18/16
+* meeting about fellowship candidates
+* meeting about [onboarding logistics](https://public.etherpad-mozilla.org/p/fellowships-onboarding) with colin and vanessa
+* meeting 1:1 with Steph, exciting news about Mexico study groups
+* made candidate matrix for our meeting
+* air mozilla attempt for all-hands call
 
 
 * write all fellows about individual retrospective meetings
   * write them about fellowship decisions
+  * record calls for funders
   * send them their gifts
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
