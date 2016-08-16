@@ -1795,7 +1795,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * booked flights for Mozfest
 
 
-### 8/18/16
+### 8/15/16
 * meeting about fellowship candidates
 * meeting about [onboarding logistics](https://public.etherpad-mozilla.org/p/fellowships-onboarding) with colin and vanessa
 * meeting 1:1 with Steph, exciting news about Mexico study groups
@@ -1803,6 +1803,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * air mozilla attempt for all-hands call
 * setup blog meeting with [anna for thursday](https://public.etherpad-mozilla.org/p/ISBE-blog)
 * filled out [checkin spreadsheet](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
+
+### 8/16/16
+* team meeting to pick finals
+* team email draft sent and prepared
 
 
 * write all fellows about individual retrospective meetings
