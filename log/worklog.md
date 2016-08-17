@@ -1812,6 +1812,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with study groups [africa](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * meeting with anna about [blog post](https://public.etherpad-mozilla.org/p/ISBE-blog) + [repo](https://github.com/mikecroucher/ISBE_Symposium)
 * meeting with Vanessa - monthly salon
+* email to melissa about artists for Mozfest
 
 
 * write all fellows about individual retrospective meetings
