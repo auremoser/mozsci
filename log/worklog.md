@@ -1808,6 +1808,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * team meeting to pick finals
 * team email draft sent and prepared
 
+###8/17/16
+* meeting with study groups [africa](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* meeting with anna about [blog post](https://public.etherpad-mozilla.org/p/ISBE-blog)
+
 
 * write all fellows about individual retrospective meetings
   * write them about fellowship decisions
