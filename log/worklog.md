@@ -1823,6 +1823,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting about onboarding
 * gave [design feedback on logos](https://blog.mozilla.org/opendesign/now-for-the-fun-part/#comment-387)
 * MLN call
+* fellows onboarding call
+* flight arrangements for toronto
+* planning logistics with colin and phia
+* filled out [friday checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-aug19-2016)
 
 
 * write all fellows about individual retrospective meetings
