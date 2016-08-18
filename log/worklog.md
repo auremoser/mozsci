@@ -1821,6 +1821,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * newsletter
 * temmplate emails setup
 * meeting about onboarding
+* gave [design feedback on logos](https://blog.mozilla.org/opendesign/now-for-the-fun-part/#comment-387)
+* MLN call
 
 
 * write all fellows about individual retrospective meetings
