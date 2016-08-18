@@ -1533,6 +1533,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * some work on the [mofo secu outline](https://public.etherpad-mozilla.org/p/mofo-secu)
 * helped colleen debug some [study group issues](https://github.com/colleenboodleman/Womens-GeoViz-StudyGroup/issues/3#issuecomment-224386909)
 * [fellowship design program](https://public.etherpad-mozilla.org/p/2016-fellowship-design)
+* david's [farewell](https://public.etherpad-mozilla.org/p/ttfn-david)
 
 #### 6/30/16
 * chat with anelda on mozsprint (3 projects still ongoing)
@@ -1815,6 +1816,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * meeting with Vanessa - monthly salon
 * email to melissa about artists for Mozfest
 * sent abby a mentor bio and details
+
+### 8/17/16
+* newsletter
+* temmplate emails setup
+* meeting about onboarding
 
 
 * write all fellows about individual retrospective meetings
