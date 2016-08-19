@@ -1830,6 +1830,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 8/18/19
 * worked on contacts for abby
+* onboarded [new study groupers](https://github.com/brandonnodnarb/studyGroup/commit/00355c0f5c1886407b42daa5f89a090ea2ee056d)
 
 
 * write all fellows about individual retrospective meetings
