@@ -1828,6 +1828,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * planning logistics with colin and phia
 * filled out [friday checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-aug19-2016)
 
+### 8/18/19
+* worked on contacts for abby
+
 
 * write all fellows about individual retrospective meetings
   * write them about fellowship decisions
