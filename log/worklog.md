@@ -1838,6 +1838,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added [data to funder report](https://public.etherpad-mozilla.org/p/sciencelab-midyear-report-2016s)
 * Attended Carto supercamp to get familiar with new APIS this week, looking slick, glad we had Stuart speak on last week's community call [notes here](https://docs.google.com/document/d/1h1lSbjGmbK4XsXNHPqfWG318rOZBBQv1pjYKTRVdrGc/edit)
 * logistics for fellows' onbording
+* emailed azza about newsletter feature
 
 
 
