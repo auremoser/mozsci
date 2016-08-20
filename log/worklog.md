@@ -1830,22 +1830,24 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 8/18/19
 * worked on contacts for abby
-* onboarded [new study groupers](https://github.com/brandonnodnarb/studyGroup/commit/00355c0f5c1886407b42daa5f89a090ea2ee056d)
-
-
+* onboarded [new study grouper in NZ](https://github.com/brandonnodnarb/studyGroup/commit/00355c0f5c1886407b42daa5f89a090ea2ee056d)
+* onboarded [new study grouper]
+* email study group Africa team
+* setup nairobi flickr
+* worked on science foxes for fellows
 * write all fellows about individual retrospective meetings
-  * write them about fellowship decisions
   * record calls for funders
   * send them their gifts
+
+
+
+  * write them about fellowship decisions
+  
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
 * write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
 * invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
-
-SPEAKERS
-* Bill Mills on Docker for Study Group Call
-
 
 
 Brazil wikimedia: http://ccbwiki.wikimedia.org.br
@@ -1873,13 +1875,13 @@ TODO
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-* Buy a BRCK - reach out 
 * send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * get data from _posts and match to Luke's json blog event report 
 
 
 ##### Call Ideas
+* Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
