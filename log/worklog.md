@@ -1835,6 +1835,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * email study group Africa team
 * setup nairobi flickr
 * worked on science foxes for fellows
+* added [data to funder report](https://public.etherpad-mozilla.org/p/sciencelab-midyear-report-2016)
+
+
+
 * write all fellows about individual retrospective meetings
   * record calls for funders
   * send them their gifts
