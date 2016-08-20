@@ -1831,14 +1831,17 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 8/18/19
 * worked on contacts for abby
 * onboarded [new study grouper in NZ](https://github.com/brandonnodnarb/studyGroup/commit/00355c0f5c1886407b42daa5f89a090ea2ee056d)
-* onboarded [new study grouper]
+* onboarded [new study grouper](https://github.com/brandonnodnarb/studyGroup/commit/00355c0f5c1886407b42daa5f89a090ea2ee056d)
 * email study group Africa team
-* setup nairobi flickr
+* setup [nairobi flickr](https://flic.kr/s/aHskC42WZD)
 * worked on science foxes for fellows
-* added [data to funder report](https://public.etherpad-mozilla.org/p/sciencelab-midyear-report-2016)
+* added [data to funder report](https://public.etherpad-mozilla.org/p/sciencelab-midyear-report-2016s)
+* Attended Carto supercamp to get familiar with new APIS this week, looking slick, glad we had Stuart speak on last week's community call [notes here](https://docs.google.com/document/d/1h1lSbjGmbK4XsXNHPqfWG318rOZBBQv1pjYKTRVdrGc/edit)
+* logistics for fellows' onbording
 
 
 
+* Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 * write all fellows about individual retrospective meetings
   * record calls for funders
   * send them their gifts
