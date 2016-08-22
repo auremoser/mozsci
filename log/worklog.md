@@ -1842,6 +1842,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added a lot of ideas to the [appreciation program list](https://docs.google.com/document/d/1MnFcPHapQdzc7lOxKRYoxNNYkA3otT8skMKa1m-RmAE/edit)
 * prepped some emails for monday
 
+###8/22/16
+* helped christie with rqm stuff
 
 
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
