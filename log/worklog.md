@@ -1844,6 +1844,24 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ###8/22/16
 * helped christie with rqm stuff
+* followed up on ISBE blog
+* need to post newsletter
+* science foxes: https://www.dropbox.com/home/fellow-foxes/science_fox(es)_png
+* fellow's retro mtgs: https://public.etherpad-mozilla.org/p/2015-fellow-review
+* setup templates for onboarding
+* repo
+* fellows' handbook
+* presentations
+* onboarding logistics
+  * [x] happy hour plans
+  * [x] sunday dinner/drinks plans
+  * [x] steph made reservations for fellows' airbnbs
+  * [x] fobs/access
+  * [x] lunches ordered
+* review drafts for emails to applicants - send to top 4 and bottom 108 - thanks all who gave me proofreading tips, specially Zannah
+* host retro meetings with all fellows videos here: https://www.dropbox.com/home/fellow-foxes/ < - making a supercut
+* mail fellows car packages
+* canceled on node conf :( maybe next year
 
 
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
