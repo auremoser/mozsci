@@ -1864,6 +1864,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * canceled on node conf :( maybe next year
 * updated [team chat for tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
 
+### 8/23/16
+* lots of logistics for onboarding
+* emails back and forth with Vanessa and Colin
 
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 * write all fellows about individual retrospective meetings
