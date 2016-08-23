@@ -1868,6 +1868,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * lots of logistics for onboarding
 * emails back and forth with Vanessa and Colin
 * supported Jon and Bastian to Open Con
+* made postcards for fellows' packages
+* worked on fellows' videos
 
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 * write all fellows about individual retrospective meetings
