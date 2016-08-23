@@ -1873,6 +1873,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * finished non-verbal checkin [here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
 * mailed newsletter for august
 * sent out science foxes to luke and team
+* mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 * write all fellows about individual retrospective meetings
