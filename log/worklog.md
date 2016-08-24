@@ -1884,7 +1884,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * posted october [community call](https://science.mozilla.org/programs/events/community-call-oct-13-11-et)
 * submitted bugzilla to legal
 * drafted response emails for mslf
-
+* wrote to Becca about shipping stickers
+* posted [study group call](https://science.mozilla.org/programs/events/studygroup-call-september-02) - 9/2
+* wrote intros to azza + sarah for zannah's onboarding curriculum
+* posted [community call](https://science.mozilla.org/programs/events/community-call-oct-13-11-et) - 10/13
+* cross posted community call to learning call page
+* schemed about book chat leading up to study group call
 
 
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
