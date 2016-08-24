@@ -1890,6 +1890,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * posted [community call](https://science.mozilla.org/programs/events/community-call-oct-13-11-et) - 10/13
 * cross posted community call to learning call page [here](https://github.com/mozilla/learning.mozilla.org/pull/2124/files/c19fe727adad9ca5fa8a864d388a05e525c6a120#r75954962)
 * schemed about book chat leading up to study group call
+* made slots to meet with fellows next wednesday
+* emailed tops
 
 
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
