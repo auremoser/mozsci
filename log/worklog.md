@@ -1893,6 +1893,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * made slots to meet with fellows next wednesday
 * emailed tops
 * sent stickers to Rebecca for Fellows' onboarding
+* added stickers to onboarding budget
 
 
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
