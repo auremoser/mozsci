@@ -1875,6 +1875,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * sent out science foxes to luke and team
 * mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
+### 8/24/16
+* meeting with Vanessa for OWF checkin
+* send vanessa job description
+* put together survey for fellows
+* split out the etherpads
+
+
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 * write all fellows about individual retrospective meetings
   * record calls for funders
