@@ -1894,18 +1894,21 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * emailed tops
 * sent stickers to Rebecca for Fellows' onboarding
 * added stickers to onboarding budget
+* Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 
 
+ONBOARDING TO MAKE
+* monday afternoon goal setting - whiteboard in osgood
+* make dine around
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
 
-* Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
+
 * write all fellows about individual retrospective meetings
   * record calls for funders
   * send them their gifts
 
-
-
-  * write them about fellowship decisions
+* write them about fellowship decisions
+* male fellows' care packages
   
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
