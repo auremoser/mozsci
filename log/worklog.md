@@ -1896,6 +1896,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added stickers to onboarding budget
 * Met with Anna and brainstormed blog for Monday on ISBE symposium (https://github.com/mikecroucher/ISBE_Symposium ) : https://public.etherpad-mozilla.org/p/ISBE-blog
 
+### 8/25/16
+* added gujarati study group, helped her with errors
+* spoke with Anna bout ISBE blog for Monday
+* gave her detailed notes for Monday's blog
+* wrote recommendations for TH appreciations
+
+
 
 ONBOARDING TO MAKE
 * monday afternoon goal setting - whiteboard in osgood
