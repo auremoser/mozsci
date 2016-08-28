@@ -1906,7 +1906,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 
 ONBOARDING TO MAKE
-* make frame for 
+* make quiz based on eyeo for fellows 
 * monday afternoon goal setting - whiteboard in osgood
 * make dine around
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
