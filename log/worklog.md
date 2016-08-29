@@ -1903,6 +1903,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote recommendations for TH appreciations
 * mailed fellows' packages :)
 
+### 8/29/16
+* submitted requests for fellows' egencia accounts
+
 * post anna's blog
 * get back to applicants
 
@@ -1918,7 +1921,6 @@ ONBOARDING TO MAKE
   * send them their gifts
 
 * write them about fellowship decisions
-* male fellows' care packages
   
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
