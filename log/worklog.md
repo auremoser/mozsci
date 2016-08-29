@@ -1903,7 +1903,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * wrote recommendations for TH appreciations
 * mailed fellows' packages :)
 
-
+* post anna's blog
+* get back to applicants
 
 ONBOARDING TO MAKE
 * make quiz based on eyeo for fellows 
