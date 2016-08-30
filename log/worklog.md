@@ -1909,6 +1909,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * reminded zannah about study group call
 * wrote to all study groupers
 
+### 8/30/16
+* agreed to speak to SA study groups on Wednesday
+* prepped fellows' survey for tomorrow
+* updated all the [team checkin materials](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
+* mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+
 * post anna's blog
 * get back to applicants
 
