@@ -1906,6 +1906,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 8/29/16
 * submitted requests for fellows' egencia accounts
 * filled out goal issues [here](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-243250837)
+* reminded zannah about study group call
+* wrote to all study groupers
 
 * post anna's blog
 * get back to applicants
