@@ -1982,6 +1982,7 @@ TODO
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
+* science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
 
 
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
