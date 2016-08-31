@@ -1920,6 +1920,16 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created gitter chat
 * reviewed [contracts](https://bugzilla.mozilla.org/show_bug.cgi?id=1297762)
 * sent feedback on api for the science site
+* going away party for Caro
+* contracts feedback
+* writing back to all fellows
+
+### 8/31/16
+* feedback on vanessa's materials
+* feedback on events django site
+* meeting weekly with Vanessa
+* meeting weekly with Steph
+*
 
 * post anna's blog
 * get back to applicants
@@ -1983,6 +1993,7 @@ TODO
 * Open Data Barometer - http://opendatabarometer.org/
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
 * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
+* Luke Thompson - EMP
 
 
 * blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
