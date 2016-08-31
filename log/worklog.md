@@ -1919,6 +1919,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created fellows' 2016 repo
 * created gitter chat
 * reviewed [contracts](https://bugzilla.mozilla.org/show_bug.cgi?id=1297762)
+* sent feedback on api for the science site
 
 * post anna's blog
 * get back to applicants
