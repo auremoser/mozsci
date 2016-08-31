@@ -1914,6 +1914,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * prepped fellows' survey for tomorrow
 * updated all the [team checkin materials](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2016)
 * mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+* farewell with caro
+* lots of fellow emails
+* created fellows' 2016 repo
+* created gitter chat
+* reviewed [contracts](https://bugzilla.mozilla.org/show_bug.cgi?id=1297762)
 
 * post anna's blog
 * get back to applicants
