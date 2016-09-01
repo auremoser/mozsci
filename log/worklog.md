@@ -1935,6 +1935,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * feedback on mid-year report
 * feedback about code review for zannah
 * productive meeting with zannah about [study group onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding)
+* joint onboarding meeting with Lainie and Vanessa profisciencies, expertise + interest
 
 * post anna's blog
 * get back to applicants
