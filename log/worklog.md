@@ -1929,7 +1929,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * feedback on events django site
 * meeting weekly with Vanessa
 * meeting weekly with Steph
-*
+* meeting with all NF
+* logistics with contracts
+* feedback on events django admin
+* feedback on mid-year report
+* feedback about code review for zannah
 
 * post anna's blog
 * get back to applicants
@@ -1943,7 +1947,6 @@ ONBOARDING TO MAKE
 
 * write all fellows about individual retrospective meetings
   * record calls for funders
-  * send them their gifts
 
 * write them about fellowship decisions
   
