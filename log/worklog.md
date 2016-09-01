@@ -1942,6 +1942,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * invited fellows to gitter chat
   * wrote back to d about logistics 
   * added to contacts spreadsheet
+* community call
+  * meeting with kristina gorr
+    * invite to amira, zannah, kirstie about speaking on the call
 
 * post anna's blog
 * get back to applicants
