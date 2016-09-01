@@ -1937,6 +1937,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * productive meeting with zannah about [study group onboarding](https://public.etherpad-mozilla.org/p/studygroup-onboarding)
 * joint onboarding meeting with Lainie and Vanessa profisciencies, expertise + interest
 * wrote to all study group leads for "Fall Study Group checkin" and call reminder
+* fellows
+  * created group contact list
+  * invited fellows to gitter chat
+  * wrote back to d about logistics 
+  * added to contacts spreadsheet
 
 * post anna's blog
 * get back to applicants
