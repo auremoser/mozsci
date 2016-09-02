@@ -1945,9 +1945,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * community call
   * meeting with kristina gorr
     * invite to amira, zannah, kirstie about speaking on the call
+* new study group fork from [SABI](https://github.com/SANBI-SA) (south africa bioinformatics institute)
 
 * post anna's blog
 * get back to applicants
+* fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
+* flesh out [onboarding schedule](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
+* check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
 
 ONBOARDING TO MAKE
 * make quiz based on eyeo for fellows 
