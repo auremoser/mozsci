@@ -1947,7 +1947,13 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
     * invite to amira, zannah, kirstie about speaking on the call
 * new study group fork from [SABI](https://github.com/SANBI-SA) (south africa bioinformatics institute)
 
-* post anna's blog
+### 9/2/16
+* Study Group learning call - September
+  * etherpad: https://public.etherpad-mozilla.org/p/mozilla-*studygroup-leads-september-2016
+  * recording: https://www.youtube.com/watch?v=U-TYJoliYjo
+* posted anna's blog
+
+* followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * flesh out [onboarding schedule](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
