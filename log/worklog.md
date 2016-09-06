@@ -1953,6 +1953,11 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
   * recording: https://www.youtube.com/watch?v=U-TYJoliYjo
 * posted anna's blog
 
+### 9/6/16
+* wrote to [brain post](https://github.com/mozillascience/plan/issues/92)
+* response to fellows about documentation
+
+
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
