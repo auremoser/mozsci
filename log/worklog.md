@@ -1956,7 +1956,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 ### 9/6/16
 * wrote to [brain post](https://github.com/mozillascience/plan/issues/92)
 * response to fellows about documentation
-
+* rachel nabors info about the fellowship
+* processed contracts and uploaded to bugzilla
+* sent accommodation request to steph and fellow
+* created [new schedule etherpad]()
 
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
