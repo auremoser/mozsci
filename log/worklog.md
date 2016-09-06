@@ -1959,7 +1959,8 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * rachel nabors info about the fellowship
 * processed contracts and uploaded to bugzilla
 * sent accommodation request to steph and fellow
-* created [new schedule etherpad]()
+* created [new schedule etherpad](https://public.etherpad-mozilla.org/p/2016-mslfellows-onboarding#lineNumber=118)
+* updated [checking etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
 
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
