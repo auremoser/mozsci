@@ -1964,6 +1964,15 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 9 /7/16
 * worked on dine around doc: https://public.etherpad-mozilla.org/p/2016-toronto-dine-around
+* meeting with steph
+* meeting with vanessa
+* dine around etherpad to arliss
+* emails to fellows about booking travel for mozfest (2015)
+* emails to fellows about onboarding/announcement (2016)
+* draft for fellows for science recap: https://public.etherpad-mozilla.org/p/sciencelab-2015fellows-recap
+* D&I session
+* [fellowship recap draft for steph](https://public.etherpad-mozilla.org/p/sciencelab-2015fellows-recap)
+* added more [study groups](https://science.mozilla.org/programs/studygroups) to the website
 
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
