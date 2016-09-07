@@ -1973,6 +1973,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * D&I session
 * [fellowship recap draft for steph](https://public.etherpad-mozilla.org/p/sciencelab-2015fellows-recap)
 * added more [study groups](https://science.mozilla.org/programs/studygroups) to the website
+* django training with gideon
+* onboarding overview
+
 
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
