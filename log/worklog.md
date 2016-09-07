@@ -1962,6 +1962,9 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * created [new schedule etherpad](https://public.etherpad-mozilla.org/p/2016-mslfellows-onboarding#lineNumber=118)
 * updated [checking etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
 
+### 9 /7/16
+* worked on dine around doc: https://public.etherpad-mozilla.org/p/2016-toronto-dine-around
+
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * get back to applicants
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
