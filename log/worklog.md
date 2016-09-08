@@ -1979,6 +1979,12 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 
 ### 9/8/16
 * added [issue to update fellows page](https://github.com/mozilla/science.mozilla.org/issues/537)
+* [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+* lots and lots of email
+* putting together fellows' repo and exercises
+* games with arliss for mozfest like dna match but maybe brains
+putting together some visualizations of fellows' surveys
+
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
