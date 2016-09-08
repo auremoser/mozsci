@@ -53,3 +53,21 @@ I usually change base directory to `app` by convention, holds all contents
 Define your requirements (packag.json), `requirements.txt` in python
 
 `pip install -r requirements.txt` for other people to install dependencies
+Typically you put this in your app folder.
+
+**APPLICATIONS VS PROJECT**
+
+project is a full application
+(science site)
+
+application is a small entity in that project
+
+apps/mofo/ - manage employees
+
+`python ../manage.py startapp employees`
+- this creates a scaffolding
+- inside mofo project it creates a directory called employees
+- manually add a reference to this in your settings.py file: INSTALLED_APPS= ['mofo.employees'; ]
+- create empty initial migrations: `makemigrations` tells database how to do the migration but doesn't apply it
+
+This structure will allow you to dockerize this folder very easily
