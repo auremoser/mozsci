@@ -1977,6 +1977,7 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * onboarding overview
 
 
+
 ### 9/8/16
 * added [issue to update fellows page](https://github.com/mozilla/science.mozilla.org/issues/537)
 * [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
@@ -1996,6 +1997,8 @@ putting together some visualizations of fellows' surveys
 * update to jon from opencon
 * updated project call [script with bios](https://docs.google.com/document/d/1S8OwRwusQIucp3sOiSH65RsI_gJucEXVcxDk-vhC1gk/edit?ts=57d1b2d6)
 * met with copenhagen space apps interviewer
+* submitted [PR to website for integration of new fellows](https://github.com/mozilla/science.mozilla.org/pull/538)
+* community member accolades
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
