@@ -1985,6 +1985,10 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * games with arliss for mozfest like dna match but maybe brains
 putting together some visualizations of fellows' surveys
 
+### 9/9/16
+* community call stuff with Christina
+* updated [fellowship template mails for recent outreach to advisors](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit#)
+
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
@@ -1994,18 +1998,16 @@ putting together some visualizations of fellows' surveys
 * check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
 
 ONBOARDING TO MAKE
-* make quiz based on eyeo for fellows 
+
 * monday afternoon goal setting - whiteboard in osgood
 * make dine around
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
-
-
-* write all fellows about individual retrospective meetings
-  * record calls for funders
-
-* write them about fellowship decisions
-  
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
+* make repo for github
+* update [stipend doc](https://docs.google.com/document/d/1nwKffrSnk7OSzTDRHK-sMVYw0lG0SDvdCW8jSGBiGTw/edit#heading=h.97owyzbz01en)
+* use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
+* figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
+
 
 * write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
 * invite sara + chris to session for internal Open_Secu_101
