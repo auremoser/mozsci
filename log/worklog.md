@@ -1993,7 +1993,7 @@ putting together some visualizations of fellows' surveys
 * updated [fellowship template mails for recent outreach to advisors](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit#)
 * study group chat with brandon
 * reminder to fellows for bios
-* 
+* update to jon from opencon
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
