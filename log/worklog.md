@@ -1994,6 +1994,7 @@ putting together some visualizations of fellows' surveys
 * study group chat with brandon
 * reminder to fellows for bios
 * update to jon from opencon
+* updated project call [script with bios](https://docs.google.com/document/d/1S8OwRwusQIucp3sOiSH65RsI_gJucEXVcxDk-vhC1gk/edit?ts=57d1b2d6)
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
