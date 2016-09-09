@@ -1981,13 +1981,19 @@ community call: martin o leary uncharted atlas: https://twitter.com/mewo2
 * added [issue to update fellows page](https://github.com/mozilla/science.mozilla.org/issues/537)
 * [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 * lots and lots of email
+* chat with Ann at Parsons
 * putting together fellows' repo and exercises
 * games with arliss for mozfest like dna match but maybe brains
 putting together some visualizations of fellows' surveys
+* engineering call
+* worked on fellows' repo
 
 ### 9/9/16
-* community call stuff with Christina
+* [community call stuff](https://github.com/mozilla/learning-networks/issues/426) with Christina
 * updated [fellowship template mails for recent outreach to advisors](https://docs.google.com/document/d/12Mm0idjPftJ0ocJIuXsB5xQzaV5zLWzsWmf8fZYNoGk/edit#)
+* study group chat with brandon
+* reminder to fellows for bios
+* 
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
