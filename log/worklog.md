@@ -2000,6 +2000,8 @@ putting together some visualizations of fellows' surveys
 * submitted [PR to website for integration of new fellows](https://github.com/mozilla/science.mozilla.org/pull/538)
 * community member accolades
 * .net feedback
+* onboarding 0-1 set
+* dine-around set
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
