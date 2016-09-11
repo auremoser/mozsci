@@ -1999,6 +1999,7 @@ putting together some visualizations of fellows' surveys
 * met with copenhagen space apps interviewer
 * submitted [PR to website for integration of new fellows](https://github.com/mozilla/science.mozilla.org/pull/538)
 * community member accolades
+* .net feedback
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
