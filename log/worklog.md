@@ -2010,6 +2010,7 @@ putting together some visualizations of fellows' surveys
 * lots of planning and email updates for community members
 * added documentation section
 * fixed stipend doc
+* [study groups africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) intro to bianca
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
