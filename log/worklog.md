@@ -2003,11 +2003,13 @@ putting together some visualizations of fellows' surveys
 * onboarding 0-1 set
 * dine-around set
 
-### 9/11/16
+### 9/11/16 - 9/13/16
 * onboarding, lots of it
 * abby's [interview thing](https://docs.google.com/document/d/154ZQOVQelH0-Z938UpmmSk3S2yQRCFEWV6uGVHch0Ko/edit?ts=57cc36a9)
 * connected Berhan to Ushahidians
 * lots of planning and email updates for community members
+* added documentation section
+* fixed stipend doc
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
