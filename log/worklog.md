@@ -2019,15 +2019,14 @@ putting together some visualizations of fellows' surveys
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * flesh out [onboarding schedule](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding)
 * check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
-
-ONBOARDING TO MAKE
-
 * monday afternoon goal setting - whiteboard in osgood
 * make dine around
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 * make repo for github
 * update [stipend doc](https://docs.google.com/document/d/1nwKffrSnk7OSzTDRHK-sMVYw0lG0SDvdCW8jSGBiGTw/edit#heading=h.97owyzbz01en)
+
+ONBOARDING FOLLOWUP
 * use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
 
