@@ -2012,6 +2012,7 @@ putting together some visualizations of fellows' surveys
 * fixed stipend doc
 * [study groups africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) intro to bianca
 * updated [mln call intro](https://public.etherpad-mozilla.org/p/mlnteamcallQ3)
+* rqm template fix [christie's class](https://github.com/cbahlai/rqm-template)
 
 
 
