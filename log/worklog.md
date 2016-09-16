@@ -2011,6 +2011,8 @@ putting together some visualizations of fellows' surveys
 * added documentation section
 * fixed stipend doc
 * [study groups africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) intro to bianca
+* updated [mln call intro](https://public.etherpad-mozilla.org/p/mlnteamcallQ3)
+
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
@@ -2023,7 +2025,6 @@ putting together some visualizations of fellows' surveys
 * make dine around
 * get in touch with fellows re:onboardign survey/travel, re: checkin next week wednesday
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
-* make repo for github
 * update [stipend doc](https://docs.google.com/document/d/1nwKffrSnk7OSzTDRHK-sMVYw0lG0SDvdCW8jSGBiGTw/edit#heading=h.97owyzbz01en)
 
 ONBOARDING FOLLOWUP
