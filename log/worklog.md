@@ -2003,7 +2003,7 @@ putting together some visualizations of fellows' surveys
 * onboarding 0-1 set
 * dine-around set
 
-### 9/11/16 - 9/13/16
+### 9/11/16 - 9/16/16
 * onboarding, lots of it
 * abby's [interview thing](https://docs.google.com/document/d/154ZQOVQelH0-Z938UpmmSk3S2yQRCFEWV6uGVHch0Ko/edit?ts=57cc36a9)
 * connected Berhan to Ushahidians
@@ -2013,7 +2013,7 @@ putting together some visualizations of fellows' surveys
 * [study groups africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) intro to bianca
 * updated [mln call intro](https://public.etherpad-mozilla.org/p/mlnteamcallQ3)
 * rqm template fix [christie's class](https://github.com/cbahlai/rqm-template)
-
+* updated Study Groups [6 new forks!](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
