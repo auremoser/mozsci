@@ -2020,6 +2020,7 @@ putting together some visualizations of fellows' surveys
 * appreciation nominations
 * emails to fellows and 
 * updated fellows call starting on the 28th
+* appreciation for Amel submitted
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
