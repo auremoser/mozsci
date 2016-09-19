@@ -2021,6 +2021,7 @@ putting together some visualizations of fellows' surveys
 * emails to fellows and 
 * updated fellows call starting on the 28th
 * appreciation for Amel submitted
+* [made survey](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit?usp=sharing), emailed survey team about it
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
