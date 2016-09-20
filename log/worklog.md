@@ -2030,6 +2030,7 @@ putting together some visualizations of fellows' surveys
 * followup with vanessa and others
 * moved date for the zine review on monday 
 * team checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
+* mln [presentation work](https://docs.google.com/presentation/d/1vj3g9AzLy2ZLhDK-dOt5W693eXb1Gugf8P9HLQCieCU/edit?ts=57e18294#slide=id.g172e8a1e27_0_36)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
