@@ -2023,6 +2023,7 @@ putting together some visualizations of fellows' surveys
 * appreciation for Amel submitted
 * [made survey](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit?usp=sharing), emailed survey team about it
 
+
 ###9/20/16
 * Django training with Gideon
 * taught coding class in the evenings.
@@ -2032,6 +2033,7 @@ putting together some visualizations of fellows' surveys
 * team checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
 * mln [presentation work](https://docs.google.com/presentation/d/1vj3g9AzLy2ZLhDK-dOt5W693eXb1Gugf8P9HLQCieCU/edit?ts=57e18294#slide=id.g172e8a1e27_0_36)
 * appreciations [forms for steph](https://docs.google.com/spreadsheets/d/1OAGV4EIgc2qe_-HPy3S0hiQTwG19DVxgalleVbIln3k/edit#gid=475353825)
+* engineering [standup here](https://public.etherpad-mozilla.org/p/mofo-eng)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
