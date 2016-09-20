@@ -2023,6 +2023,13 @@ putting together some visualizations of fellows' surveys
 * appreciation for Amel submitted
 * [made survey](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit?usp=sharing), emailed survey team about it
 
+###9/20/16
+* Django training with Gideon
+* taught coding class in the evenings.
+* wrote back to vigneshwer about his involvement in mozfest
+* followup with vanessa and others
+* moved date for the zine review on monday 
+
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
