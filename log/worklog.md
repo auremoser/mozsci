@@ -2029,6 +2029,7 @@ putting together some visualizations of fellows' surveys
 * wrote back to vigneshwer about his involvement in mozfest
 * followup with vanessa and others
 * moved date for the zine review on monday 
+* team checkin [notes here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
