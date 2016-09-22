@@ -2035,6 +2035,15 @@ putting together some visualizations of fellows' surveys
 * appreciations [forms for steph](https://docs.google.com/spreadsheets/d/1OAGV4EIgc2qe_-HPy3S0hiQTwG19DVxgalleVbIln3k/edit#gid=475353825)
 * engineering [standup here](https://public.etherpad-mozilla.org/p/mofo-eng)
 
+
+### 9 /21/16
+* update on fellows' travel to mozfest
+* vanessa - meeting to go over mln call
+* meeting to triage website
+* onboard outreach to two study group leads @gautamkrishnar + @vigneshwer
+* email to lainie about local contacts 
+* created next Study Group Call - October
+
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
@@ -2049,6 +2058,7 @@ ONBOARDING FOLLOWUP
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
 
 
+* write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
 * write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
 * invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
