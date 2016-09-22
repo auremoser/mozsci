@@ -2039,7 +2039,7 @@ putting together some visualizations of fellows' surveys
 ### 9 /21/16
 * update on fellows' travel to mozfest
 * vanessa - meeting to go over mln call
-* meeting to triage website
+* meeting to [triage website](https://public.etherpad-mozilla.org/p/science-triage)
 * onboard outreach to two study group leads @gautamkrishnar + @vigneshwer
 * email to [lainie about local contacts ](https://docs.google.com/spreadsheets/d/1RYIq9P0tMKJOXDcpkHs0iBlDTnydyeiIM5zZFqQyOQ8/edit#gid=0)
 * created next [Study Group Call - October](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
