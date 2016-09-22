@@ -2041,8 +2041,9 @@ putting together some visualizations of fellows' surveys
 * vanessa - meeting to go over mln call
 * meeting to triage website
 * onboard outreach to two study group leads @gautamkrishnar + @vigneshwer
-* email to lainie about local contacts 
-* created next Study Group Call - October
+* email to [lainie about local contacts ](https://docs.google.com/spreadsheets/d/1RYIq9P0tMKJOXDcpkHs0iBlDTnydyeiIM5zZFqQyOQ8/edit#gid=0)
+* created next [Study Group Call - October](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
+* edited template for MLN call
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
