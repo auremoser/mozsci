@@ -2045,6 +2045,12 @@ putting together some visualizations of fellows' surveys
 * created next [Study Group Call - October](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
 * edited template for MLN call
 
+### 9/22/16
+* [mln call](https://public.etherpad-mozilla.org/p/mlnteamcallQ3) + guest speaking spot about the [fellows onboarding](https://docs.google.com/presentation/d/1vj3g9AzLy2ZLhDK-dOt5W693eXb1Gugf8P9HLQCieCU/edit?ts=57e18294#slide=id.g172e8a1e27_3_21)
+* [fellows onboarding blog](https://science.mozilla.org/blog/2016-fellows-onboarding-recap)
+* [fellows' flickr stuff](https://www.flickr.com/photos/139954518@N06/albums/72157673065689371)
+* https://science.mozilla.org/blog/2016-fellows-onboarding-recap
+
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
