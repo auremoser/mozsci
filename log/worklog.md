@@ -2067,6 +2067,7 @@ putting together some visualizations of fellows' surveys
 * fixed data path with the fellows for [pathways activity](http://joeyklee.github.io/mozmap2015/)
 * nice feedback for [FoxIOT](https://github.com/FoxIOT/studyGroup/issues/9#issuecomment-249147563)
 * updated all calls [here](https://github.com/mozillascience/plan/issues/54)
+* new issue for [Study Group call](https://github.com/mozillascience/plan/issues/95)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
