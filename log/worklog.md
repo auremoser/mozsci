@@ -2063,6 +2063,8 @@ putting together some visualizations of fellows' surveys
 * working on emails for open con and the fellows' proposal
 * some bio information and resources for KGorr for the community call upcoming
 * some details about the book chat
+* fixed data path with the fellows for [pathways activity](http://joeyklee.github.io/mozmap2015/)
+* nice feedback for [FoxIOT](https://github.com/FoxIOT/studyGroup/issues/9#issuecomment-249147563)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
