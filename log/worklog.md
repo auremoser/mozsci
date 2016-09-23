@@ -2053,6 +2053,7 @@ putting together some visualizations of fellows' surveys
 * meeting with NSF Meghan Murphy tech policy fellow
 * invited her to speak on community call
 
+
 * connect Meghan with Danielle re: open con policy panel
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
@@ -2065,6 +2066,7 @@ putting together some visualizations of fellows' surveys
 * some details about the book chat
 * fixed data path with the fellows for [pathways activity](http://joeyklee.github.io/mozmap2015/)
 * nice feedback for [FoxIOT](https://github.com/FoxIOT/studyGroup/issues/9#issuecomment-249147563)
+* updated all calls [here](https://github.com/mozillascience/plan/issues/54)
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
