@@ -2050,6 +2050,19 @@ putting together some visualizations of fellows' surveys
 * [fellows onboarding blog](https://science.mozilla.org/blog/2016-fellows-onboarding-recap)
 * [fellows' flickr stuff](https://www.flickr.com/photos/139954518@N06/albums/72157673065689371)
 * https://science.mozilla.org/blog/2016-fellows-onboarding-recap
+* meeting with NSF Meghan Murphy tech policy fellow
+* invited her to speak on community call
+
+* connect Meghan with Danielle re: open con policy panel
+* followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
+* followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
+* dinner with fellows
+
+### 9/23/16
+* mozfest schedule app updates
+* working on emails for open con and the fellows' proposal
+* some bio information and resources for KGorr for the community call upcoming
+* some details about the book chat
 
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
