@@ -2064,6 +2064,14 @@ putting together some visualizations of fellows' surveys
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
+**Drafts**
+
+* Bruno: Open Science https://www.dropbox.com/s/yb7q3g2eesuggvp/bmpvieira-zine.pdf?dl=0
+* Kirstie: Brains!
+* Eireann?
+* Matt
+* Suchana
+
 ### 9/23/16
 * mozfest schedule app updates
 * working on emails for open con and the fellows' proposal
