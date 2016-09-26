@@ -2053,11 +2053,15 @@ putting together some visualizations of fellows' surveys
 * meeting with NSF Meghan Murphy tech policy fellow
 * invited her to speak on community call
 
+### 9/23/16
+* meeting with SW
+* review of appreciations and filled out forms
+
 
 * connect Meghan with Danielle re: open con policy panel
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
-* dinner with fellows
+* follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
 ### 9/23/16
 * mozfest schedule app updates
@@ -2069,6 +2073,7 @@ putting together some visualizations of fellows' surveys
 * updated all calls [here](https://github.com/mozillascience/plan/issues/54)
 * new issue for [Study Group call](https://github.com/mozillascience/plan/issues/95)
 
+* conferences stuff today
 * email fellows invite for weekly meetings
 * add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
