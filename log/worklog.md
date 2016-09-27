@@ -2079,6 +2079,7 @@ putting together some visualizations of fellows' surveys
 * [MSL strategy agenda](https://public.etherpad-mozilla.org/p/2016-msl-strategy)
 * Some responses to Eireann and other fellows
 * [Engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+* added some feedback for [anna on her rpackage](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
