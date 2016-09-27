@@ -2053,10 +2053,12 @@ putting together some visualizations of fellows' surveys
 * meeting with NSF Meghan Murphy tech policy fellow
 * invited her to speak on community call
 
-### 9/25/16
+### 9/25/16 - 9/27/16
 * meeting with SW
 * review of appreciations and filled out forms (7 in total)
 * fellows' call sent out
+* worked on edits to website apparently [#549](https://github.com/mozilla/science.mozilla.org/issues/549) [#550](https://github.com/mozilla/science.mozilla.org/issues/550#issuecomment-249722732)
+
 
 
 * connect Meghan with Danielle re: open con policy panel
