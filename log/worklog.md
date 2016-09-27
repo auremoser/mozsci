@@ -2053,6 +2053,21 @@ putting together some visualizations of fellows' surveys
 * meeting with NSF Meghan Murphy tech policy fellow
 * invited her to speak on community call
 
+
+### 9/23/16
+* mozfest schedule app updates
+* working on emails for open con and the fellows' proposal
+* some bio information and resources for KGorr for the community call upcoming
+* some details about the book chat
+* fixed data path with the fellows for [pathways activity](http://joeyklee.github.io/mozmap2015/)
+* nice feedback for [FoxIOT](https://github.com/FoxIOT/studyGroup/issues/9#issuecomment-249147563)
+* updated all calls [here](https://github.com/mozillascience/plan/issues/54)
+* new issue for [Study Group call](https://github.com/mozillascience/plan/issues/95)
+* conferences stuff today
+* email fellows invite for weekly meetings
+* add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
+
+
 ### 9/25/16 - 9/27/16
 * meeting with SW
 * review of appreciations and filled out forms (7 in total)
@@ -2060,9 +2075,11 @@ putting together some visualizations of fellows' surveys
 * worked on edits to website apparently [#549](https://github.com/mozilla/science.mozilla.org/issues/549) [#550](https://github.com/mozilla/science.mozilla.org/issues/550#issuecomment-249722732) [#535](https://github.com/mozilla/science.mozilla.org/issues/535)
 * created event for October 7th Study Group call [on site](https://science.mozilla.org/programs/events/studygroup-call-october-07)
 * emailed SStevens about emceeing
+* [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
 
 
-
+* review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
+* send harlo intro email to chris
 * connect Meghan with Danielle re: open con policy panel
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
@@ -2076,38 +2093,19 @@ putting together some visualizations of fellows' surveys
 * Matt
 * Suchana
 
-### 9/23/16
-* mozfest schedule app updates
-* working on emails for open con and the fellows' proposal
-* some bio information and resources for KGorr for the community call upcoming
-* some details about the book chat
-* fixed data path with the fellows for [pathways activity](http://joeyklee.github.io/mozmap2015/)
-* nice feedback for [FoxIOT](https://github.com/FoxIOT/studyGroup/issues/9#issuecomment-249147563)
-* updated all calls [here](https://github.com/mozillascience/plan/issues/54)
-* new issue for [Study Group call](https://github.com/mozillascience/plan/issues/95)
-
-* conferences stuff today
-* email fellows invite for weekly meetings
-* add line [70](https://public.etherpad-mozilla.org/p/fellowships-onboarding)
+FOLLOWUP
+* use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
+* figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
+* write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
+* write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
+* invite sara + chris to session for internal Open_Secu_101
+* fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
 * put together post-fellowship survey
 * add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
-
-ONBOARDING FOLLOWUP
-* use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
-* figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
-
-
-* write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
-* write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
-* invite sara + chris to session for internal Open_Secu_101
-* fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
-
-
-Brazil wikimedia: http://ccbwiki.wikimedia.org.br
 
 IMMEDIATES
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
@@ -2118,23 +2116,27 @@ IMMEDIATES
 
 FELLOWS
 * need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
-* need to make an onboarding agenda
-* make a shared stipend document
 
 TODO
 
-* think about logistics for Libre Learn Lab http://www.librelearnlab.org/call-proposals (closes July 15)
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
 * Name Email Twitter Github for arliss for OLC
-* chat roulette for science
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-* send Lucy regional contact spreadsheet
 * update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * get data from _posts and match to Luke's json blog event report 
+* blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
+* get back to harry about his swag
+* make a [hacker conference website](https://hacker-conferences-database.silk.co/) for science
+* data management mood board
+  * quick lesson with primer material
+* sketch schedule for fellows new workweek
+* learn new CMS
+  * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
+  * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
 
 ##### Call Ideas
@@ -2147,19 +2149,6 @@ TODO
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
 * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
 * Luke Thompson - EMP
-
-
-* blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
-* get back to harry about his swag
-* put together plan for fellows 3rd part for friday
-* primers framework layout
-* make a [hacker conference website](https://hacker-conferences-database.silk.co/) for science
-* data management mood board
-  * quick lesson with primer material
-* sketch schedule for fellows new workweek
-* learn new CMS
-  * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
-  * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
 
 
 #### SIDE PROJECTS
