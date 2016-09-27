@@ -2076,6 +2076,8 @@ putting together some visualizations of fellows' surveys
 * created event for October 7th Study Group call [on site](https://science.mozilla.org/programs/events/studygroup-call-october-07)
 * emailed SStevens about emceeing
 * [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-september-2016)
+* [MSL strategy agenda](https://public.etherpad-mozilla.org/p/2016-msl-strategy)
+* Some responses to Eireann and other fellows
 
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
