@@ -2058,6 +2058,8 @@ putting together some visualizations of fellows' surveys
 * review of appreciations and filled out forms (7 in total)
 * fellows' call sent out
 * worked on edits to website apparently [#549](https://github.com/mozilla/science.mozilla.org/issues/549) [#550](https://github.com/mozilla/science.mozilla.org/issues/550#issuecomment-249722732)
+* created event for October 7th Study Group call [on site](https://science.mozilla.org/programs/events/studygroup-call-october-07)
+* emailed SStevens about emceeing
 
 
 
