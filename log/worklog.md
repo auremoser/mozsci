@@ -2082,7 +2082,15 @@ putting together some visualizations of fellows' surveys
 * added some feedback for [anna on her rpackage](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 
 
+### 9/28/16
+* meeting with vanessa
+* meeting with IBM research Africa
+* meeting with Zannah for Study Group Orientation
+
+* mozfest science fair - tear sheets, activities, cryptoparty
+
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
+  * make one page bullets for feedback
 * send harlo intro email to chris
 * connect Meghan with Danielle re: open con policy panel
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
