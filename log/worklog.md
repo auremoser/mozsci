@@ -2091,6 +2091,7 @@ putting together some visualizations of fellows' surveys
 * first [fellows' call]()
 * [Libre Learning Call](https://docs.google.com/document/d/1MmCc4a38F7aGR5N16l654MyAb7MZ2N7wbrM-t_lnazg/edit?ts=57e2fa81) feedback session 
 * asked audrey eschright to include safety first pdx in the newsletter
+* sent out 6 new [swag mail packs](https://docs.google.com/spreadsheets/d/1pDH-MzNbWeeWSefV8P5JC3d8AwIH2nJTBR_ZfvR9-Yk/edit#gid=2048228497)
 
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
