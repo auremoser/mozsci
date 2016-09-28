@@ -2087,6 +2087,7 @@ putting together some visualizations of fellows' surveys
 * meeting with IBM research Africa
 * meeting with Zannah for Study Group Orientation
 * anna's [rmd package issue 1](https://github.com/annakrystalli/rmacroRDM/issues/10#issuecomment-247836964), [issue 2](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
+* reached out to Luke about Gitbook template
 
 * mozfest science fair - tear sheets, activities, cryptoparty
 
