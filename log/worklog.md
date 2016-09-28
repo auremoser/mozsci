@@ -2088,8 +2088,11 @@ putting together some visualizations of fellows' surveys
 * meeting with Zannah for Study Group Orientation
 * anna's [rmd package issue 1](https://github.com/annakrystalli/rmacroRDM/issues/10#issuecomment-247836964), [issue 2](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 * reached out to Luke about Gitbook template
+* first [fellows' call]()
+* [Libre Learning Call](https://docs.google.com/document/d/1MmCc4a38F7aGR5N16l654MyAb7MZ2N7wbrM-t_lnazg/edit?ts=57e2fa81) feedback session 
 
 * mozfest science fair - tear sheets, activities, cryptoparty
+* finalize dates for workweek + update roadmap
 
 * gitbook for study group onboarding materials with [content](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) [start with this one](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) - get it up next week for zannah's boston week
 * blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
@@ -2104,6 +2107,9 @@ putting together some visualizations of fellows' surveys
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
+
+What is the format that they will get
+Intro to Ada Lovelace?
 
 **Drafts**
 
