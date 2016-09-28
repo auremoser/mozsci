@@ -2086,11 +2086,18 @@ putting together some visualizations of fellows' surveys
 * meeting with vanessa
 * meeting with IBM research Africa
 * meeting with Zannah for Study Group Orientation
+* anna's [rmd package issue 1](https://github.com/annakrystalli/rmacroRDM/issues/10#issuecomment-247836964), [issue 2](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 
 * mozfest science fair - tear sheets, activities, cryptoparty
 
+* gitbook for study group onboarding materials with [content](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) [start with this one](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) - get it up next week for zannah's boston week
+* blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
+
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
   * make one page bullets for feedback
+  * resources :
+    * [learn statistics on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+    * [scraping software](http://www.octoparse.com/blog/top-30-free-web-scraping-software/)
 * send harlo intro email to chris
 * connect Meghan with Danielle re: open con policy panel
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
