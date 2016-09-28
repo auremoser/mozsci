@@ -2090,6 +2090,7 @@ putting together some visualizations of fellows' surveys
 * reached out to Luke about Gitbook template
 * first [fellows' call]()
 * [Libre Learning Call](https://docs.google.com/document/d/1MmCc4a38F7aGR5N16l654MyAb7MZ2N7wbrM-t_lnazg/edit?ts=57e2fa81) feedback session 
+* asked audrey eschright to include safety first pdx in the newsletter
 
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
