@@ -2099,6 +2099,7 @@ putting together some visualizations of fellows' surveys
 * Joined Strategy meeting with Lotta + Sam
 * feedback on [hannah's doc](https://docs.google.com/document/d/1KSEIm8edoCrSvL-OMrmqDWhCqblqsZwmb6n2NReai6w/edit?ts=57eaf49f)
 * wire transfer receipt from alex to richard for brackenhurst
+* 4 invites for community call speakers sent
 
 * sent out speaker invites for kgorr
 * resize blog post images for Alan
