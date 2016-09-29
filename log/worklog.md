@@ -2098,6 +2098,7 @@ putting together some visualizations of fellows' surveys
 * Mozilla Learning Curriculum Workshop with Christie
 * Joined Strategy meeting with Lotta + Sam
 * feedback on [hannah's doc](https://docs.google.com/document/d/1KSEIm8edoCrSvL-OMrmqDWhCqblqsZwmb6n2NReai6w/edit?ts=57eaf49f)
+* wire transfer receipt from alex to richard for brackenhurst
 
 * sent out speaker invites for kgorr
 * resize blog post images for Alan
