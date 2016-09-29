@@ -2088,7 +2088,7 @@ putting together some visualizations of fellows' surveys
 * meeting with Zannah for Study Group Orientation
 * anna's [rmd package issue 1](https://github.com/annakrystalli/rmacroRDM/issues/10#issuecomment-247836964), [issue 2](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 * reached out to Luke about Gitbook template
-* first [fellows' call]()
+* first [fellows' call](https://public.etherpad-mozilla.org/p/2015-science-fellows-sep28)
 * [Libre Learning Call](https://docs.google.com/document/d/1MmCc4a38F7aGR5N16l654MyAb7MZ2N7wbrM-t_lnazg/edit?ts=57e2fa81) feedback session 
 * asked audrey eschright to include safety first pdx in the newsletter
 * sent out 6 new [swag mail packs](https://docs.google.com/spreadsheets/d/1pDH-MzNbWeeWSefV8P5JC3d8AwIH2nJTBR_ZfvR9-Yk/edit#gid=2048228497)
@@ -2097,6 +2097,10 @@ putting together some visualizations of fellows' surveys
 * added vigneshwer to Study Group Map
 * Mozilla Learning Curriculum Workshop with Christie
 * Joined Strategy meeting with Lotta + Sam
+* feedback on [hannah's doc](https://docs.google.com/document/d/1KSEIm8edoCrSvL-OMrmqDWhCqblqsZwmb6n2NReai6w/edit?ts=57eaf49f)
+
+* sent out speaker invites for kgorr
+* resize blog post images for Alan
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
