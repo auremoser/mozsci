@@ -2096,6 +2096,7 @@ putting together some visualizations of fellows' surveys
 ### 9/29/16
 * added vigneshwer to Study Group Map
 * Mozilla Learning Curriculum Workshop with Christie
+* Joined Strategy meeting with Lotta + Sam
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
