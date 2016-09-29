@@ -2093,6 +2093,14 @@ putting together some visualizations of fellows' surveys
 * asked audrey eschright to include safety first pdx in the newsletter
 * sent out 6 new [swag mail packs](https://docs.google.com/spreadsheets/d/1pDH-MzNbWeeWSefV8P5JC3d8AwIH2nJTBR_ZfvR9-Yk/edit#gid=2048228497)
 
+### 9/29/16
+* added vigneshwer to Study Group Map
+* Mozilla Learning Curriculum Workshop with Christie
+
+
+* add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
+Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
+
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
 * invite speakers for Community Call
