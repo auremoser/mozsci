@@ -2100,6 +2100,7 @@ putting together some visualizations of fellows' surveys
 * feedback on [hannah's doc](https://docs.google.com/document/d/1KSEIm8edoCrSvL-OMrmqDWhCqblqsZwmb6n2NReai6w/edit?ts=57eaf49f)
 * wire transfer receipt from alex to richard for brackenhurst
 * 4 invites for community call speakers sent
+* job talk on [description](https://docs.google.com/document/d/10SYowRzuw5X95vjgQ8atFp3iekBwfJp39dQAJ4ckrPc/edit) with steph
 
 * sent out speaker invites for kgorr
 * resize blog post images for Alan
