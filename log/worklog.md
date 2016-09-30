@@ -2112,15 +2112,17 @@ putting together some visualizations of fellows' surveys
 * fellowship [design session with Chad and Vanessa](https://public.etherpad-mozilla.org/p/fellowship-chat)
 * IBM research followup email cc'd Steph
 * team call - [sciencelab](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-sep30-2016)
+* Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
+* started draft of Harlo's email blast for next week
 
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
 
+* harlo's email blast for next week
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
-* invite speakers for Community Call
 * newsletter
 * ada lovelace day blog post on [women in science book](https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=6SB1PHMQXHNZSX471EBJ#reader_1607749769)
 
@@ -2138,8 +2140,6 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
-What is the format that they will get
-Intro to Ada Lovelace?
 
 **Drafts**
 
@@ -2147,7 +2147,7 @@ Intro to Ada Lovelace?
 * Kirstie: Brains!
 * Eireann?
 * Matt
-* Suchana
+* Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
 
 FOLLOWUP
 * use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
