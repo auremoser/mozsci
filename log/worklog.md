@@ -2085,6 +2085,7 @@ putting together some visualizations of fellows' surveys
 ### 9/28/16
 * meeting with vanessa
 * meeting with IBM research Africa
+* added dvish to study group map
 * meeting with Zannah for Study Group Orientation
 * anna's [rmd package issue 1](https://github.com/annakrystalli/rmacroRDM/issues/10#issuecomment-247836964), [issue 2](https://github.com/annakrystalli/rmacroRDM/issues/9#issuecomment-247835145)
 * reached out to Luke about Gitbook template
@@ -2101,8 +2102,10 @@ putting together some visualizations of fellows' surveys
 * wire transfer receipt from alex to richard for brackenhurst
 * 4 invites for community call speakers sent
 * job talk on [description](https://docs.google.com/document/d/10SYowRzuw5X95vjgQ8atFp3iekBwfJp39dQAJ4ckrPc/edit) with steph
-
 * sent out speaker invites for kgorr
+
+### 9/30/16
+* got test tubes, bought nerds
 * resize blog post images for Alan
 
 
