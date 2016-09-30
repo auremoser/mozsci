@@ -2104,11 +2104,15 @@ putting together some visualizations of fellows' surveys
 * job talk on [description](https://docs.google.com/document/d/10SYowRzuw5X95vjgQ8atFp3iekBwfJp39dQAJ4ckrPc/edit) with steph
 * sent out speaker invites for kgorr
 
+
 ### 9/30/16
 * got test tubes, bought nerds
 * resize blog post images for Alan
 * drafted blog on Twitter book chat
 * fellowship [design session with Chad and Vanessa](https://public.etherpad-mozilla.org/p/fellowship-chat)
+* IBM research followup email cc'd Steph
+* team call - [sciencelab](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-sep30-2016)
+
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
