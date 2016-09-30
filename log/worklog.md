@@ -2107,6 +2107,8 @@ putting together some visualizations of fellows' surveys
 ### 9/30/16
 * got test tubes, bought nerds
 * resize blog post images for Alan
+* drafted blog on Twitter book chat
+* fellowship [design session with Chad and Vanessa](https://public.etherpad-mozilla.org/p/fellowship-chat)
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
