@@ -2115,6 +2115,13 @@ putting together some visualizations of fellows' surveys
 * Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
 * started draft of Harlo's email blast for next week
 
+### 10/1/16
+
+* graded student homework
+* put together repo for Zannah's github curriculum
+* responded to [anna's r package notes](https://gist.github.com/annakrystalli/25d58384f691b6b91df143337bd5ed4c)
+
+
 * Made prototype: https://auremoser.gitbooks.io/sg-test/content/
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
