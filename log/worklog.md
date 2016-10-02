@@ -2115,7 +2115,7 @@ putting together some visualizations of fellows' surveys
 * Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
 * started draft of Harlo's email blast for next week
 
-
+* Made prototype: https://auremoser.gitbooks.io/sg-test/content/
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
