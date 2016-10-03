@@ -2127,6 +2127,7 @@ putting together some visualizations of fellows' surveys
 * zannah and abby emailed about onboarding site logistics
 * luke chatted about onboarding site theming
 * session planning with Bastian for Mozfest
+* study group call [update etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) and reminder mail sent
 
 
 
