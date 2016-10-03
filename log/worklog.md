@@ -2123,9 +2123,11 @@ putting together some visualizations of fellows' surveys
 * gitbook for study group onboarding materials with [content](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) [start with this one](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) - get it up next week for zannah's boston week
 * study group [onboarding site](https://mozillascience.github.io/study-group-onboarding/) [github setup](https://github.com/mozillascience/study-group-onboarding)
   * Made prototype to test in gitbook gui: https://auremoser.gitbooks.io/sg-test/content/, also looked at prose.io and jekyll cms
+  * Submitted [dev ops issue for google analytics token](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * zannah and abby emailed about onboarding site logistics
 * luke chatted about onboarding site theming
-* session planning with Bastian
+* session planning with Bastian for Mozfest
+
 
 
 
