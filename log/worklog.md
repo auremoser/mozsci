@@ -2129,6 +2129,8 @@ putting together some visualizations of fellows' surveys
 * session planning with Bastian for Mozfest
 * study group africa call [update etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) and reminder mail sent
 * emailed Tim + Anna about Study Group Call Guest speaking on R lessons
+* speaking to Abby's mentors on monday
+* met with Vanessa to go over [fellowships repo](https://github.com/MozillaFoundation/mozilla-fellowships), [mozfest notes](https://docs.google.com/document/d/12vRM6litKY_CtubzH0on1BDQWhSqkeunNXMDUzYMKzA/edit) + her epic [blogpost](https://docs.google.com/document/d/12ULC0dyRO1IAkzwl4YOCVZCvvXyBT9OC7f432Y47WTk/edit#heading=h.wsbu2n54fxue)
 
 
 
