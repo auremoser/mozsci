@@ -2120,21 +2120,26 @@ putting together some visualizations of fellows' surveys
 * graded student homework
 * put together repo for Zannah's github curriculum
 * responded to [anna's r package notes](https://gist.github.com/annakrystalli/25d58384f691b6b91df143337bd5ed4c)
+* gitbook for study group onboarding materials with [content](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) [start with this one](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) - get it up next week for zannah's boston week
+* study group [onboarding site](https://mozillascience.github.io/study-group-onboarding/) [github setup](https://github.com/mozillascience/study-group-onboarding)
+  * Made prototype to test in gitbook gui: https://auremoser.gitbooks.io/sg-test/content/, also looked at prose.io and jekyll cms
+* zannah and abby emailed about onboarding site logistics
+* luke chatted about onboarding site theming
+* session planning with Bastian
 
 
-* Made prototype: https://auremoser.gitbooks.io/sg-test/content/
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
-
 * harlo's email blast for next week
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
 * newsletter
 * ada lovelace day blog post on [women in science book](https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=6SB1PHMQXHNZSX471EBJ#reader_1607749769)
 
-* gitbook for study group onboarding materials with [content](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) [start with this one](https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE) - get it up next week for zannah's boston week
+
 * blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
+* study group theming and blast to all
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
   * make one page bullets for feedback
