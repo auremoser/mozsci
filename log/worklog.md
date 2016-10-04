@@ -2140,6 +2140,7 @@ putting together some visualizations of fellows' surveys
 * posted ada lovelace [tweet chat blog](https://science.mozilla.org/blog/book-club-october), made form for tweet submissions [of book recommendations](https://mzl.la/mozBookClub)
 * team checkin [etherpad with Steph](https://public.etherpad-mozilla.org/p/sciencelab-checkins-october-2016)
 * nerdcator mozfest planning with Bastian
+* [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
