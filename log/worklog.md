@@ -2137,6 +2137,8 @@ putting together some visualizations of fellows' surveys
 * lots of email parsing
 * coordinated ticket to visualized
 * feedback on [science site tweets](https://github.com/mozilla/science.mozilla.org/issues/531#issuecomment-247735291)
+* posted ada lovelace [tweet chat blog](https://science.mozilla.org/blog/book-club-october), made form for tweet submissions [of book recommendations]()
+* nerdcator mozfest planning with Bastian
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
