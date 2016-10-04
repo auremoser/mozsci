@@ -2137,7 +2137,8 @@ putting together some visualizations of fellows' surveys
 * lots of email parsing
 * coordinated ticket to visualized
 * feedback on [science site tweets](https://github.com/mozilla/science.mozilla.org/issues/531#issuecomment-247735291)
-* posted ada lovelace [tweet chat blog](https://science.mozilla.org/blog/book-club-october), made form for tweet submissions [of book recommendations]()
+* posted ada lovelace [tweet chat blog](https://science.mozilla.org/blog/book-club-october), made form for tweet submissions [of book recommendations](https://mzl.la/mozBookClub)
+* team checkin [etherpad with Steph](https://public.etherpad-mozilla.org/p/sciencelab-checkins-october-2016)
 * nerdcator mozfest planning with Bastian
 
 
