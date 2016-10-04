@@ -2115,7 +2115,7 @@ putting together some visualizations of fellows' surveys
 * Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
 * started draft of Harlo's email blast for next week
 
-### 10/1/16
+### 10/3/16
 
 * graded student homework
 * put together repo for Zannah's github curriculum
@@ -2132,7 +2132,10 @@ putting together some visualizations of fellows' surveys
 * speaking to Abby's mentors on monday
 * met with Vanessa to go over [fellowships repo](https://github.com/MozillaFoundation/mozilla-fellowships), [mozfest notes](https://docs.google.com/document/d/12vRM6litKY_CtubzH0on1BDQWhSqkeunNXMDUzYMKzA/edit) + her epic [blogpost](https://docs.google.com/document/d/12ULC0dyRO1IAkzwl4YOCVZCvvXyBT9OC7f432Y47WTk/edit#heading=h.wsbu2n54fxue)
 
-
+### 10/4/16
+* reminded fellows of intro blogs, sent out logins
+* lots of email parsing
+* coordinated ticket to visualized
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
