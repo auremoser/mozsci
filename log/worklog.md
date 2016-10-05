@@ -2143,7 +2143,7 @@ putting together some visualizations of fellows' surveys
 * [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
 ### 10/5/16
-* sent draft email for harlo's visit to Chis and Diane
+* sent [draft email](https://docs.google.com/document/d/1K4NO5bLRIImnzj8eA-yLFxXUaecL8P7XSS4TDj4K44g/edit) for harlo's visit to Chis and Diane
 * met with Study group Africa leads [notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 
 
