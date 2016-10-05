@@ -2142,6 +2142,10 @@ putting together some visualizations of fellows' surveys
 * nerdcator mozfest planning with Bastian
 * [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
+### 10/5/16
+* sent draft email for harlo's visit to Chis and Diane
+* met with Study group Africa leads [notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
