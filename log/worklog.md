@@ -2145,7 +2145,9 @@ putting together some visualizations of fellows' surveys
 ### 10/5/16
 * sent [draft email](https://docs.google.com/document/d/1K4NO5bLRIImnzj8eA-yLFxXUaecL8P7XSS4TDj4K44g/edit) for harlo's visit to Chis and Diane
 * met with Study group Africa leads [notes](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
-
+* updated fellowships [checkin document](https://public.etherpad-mozilla.org/p/mozfellowships)
+* sent email reminders about zines
+  * created [mozfest idea list](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=42) + [dropbox for zines](https://www.dropbox.com/sh/bsyuhul93b28nm0/AAB5s6Rgqqech-NmlZ6BoqKXa?dl=0)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
