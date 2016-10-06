@@ -2149,8 +2149,13 @@ putting together some visualizations of fellows' surveys
 * updated fellowships [checkin document](https://public.etherpad-mozilla.org/p/mozfellowships)
 * sent email reminders about zines
   * created [mozfest idea list](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=42) + [dropbox for zines](https://www.dropbox.com/sh/bsyuhul93b28nm0/AAB5s6Rgqqech-NmlZ6BoqKXa?dl=0)
-  * sent invite to all fellows for harlo's talk
-  * submitted wellness report for Q3
+* sent invite to all fellows for harlo's talk
+* submitted wellness report for Q3
+* sent email reminder to 8 study groups about updates on Friday's [call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
+  * staged email reminder to listserv tomorrow
+  * drafted intro tweet
+  * added some R lessons
+
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
