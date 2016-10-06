@@ -2153,7 +2153,7 @@ putting together some visualizations of fellows' surveys
 * submitted wellness report for Q3
 * sent email reminder to 8 study groups about updates on Friday's [call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
   * staged email reminder to listserv tomorrow
-  * drafted intro tweet
+  * drafted intro tweet: `excited about friday's #mozstudy leaRning call themed around R, join us to leaRn moRe, 10/7 11:00 est #openscience: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016`
   * added some R lessons
 
 
