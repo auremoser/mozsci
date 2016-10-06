@@ -2164,12 +2164,16 @@ putting together some visualizations of fellows' surveys
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
-* harlo's email blast for next week
 * mozfest science fair - tear sheets, activities, cryptoparty
-* finalize dates for workweek + update roadmap
+* finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
 * newsletter
 
-
+Monthly fellows reflection survey 
+https://goo.gl/forms/tpHYKYTykaY7QH5n2 
+Cool, I'd love to do this too!
+September reflection survey sent on Tuesday Oct 4th
+Next step: scheduling 30 minute 1:1 with host orgs (required)
+Next step: scheduling 30 minute 1:1 with fellows (required)
 
 * blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
 * study group theming and blast to all
