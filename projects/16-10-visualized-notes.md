@@ -77,8 +77,14 @@ http://bio-tracking.org/biotrackpack/
 * submarine cable landing station
 
 
-#### Holobiont Urbanism
+## R. Flores Mir Holobiont Urbanism
 
 * biomolecular network composed of the host plus it's associated microbes, collective genomes form a hologenome
 * bees as citizen scientists and urban apiaries
 * microbiome.nyc
+
+## Tom Druscher
+
+* sci com lab - excellent science needs excellent design
+* future ocean, keil research center
+* 3D scientific papers
