@@ -68,3 +68,17 @@ The story of a single block.
 http://bio-tracking.org/biotrackpack/
 
 * kmeans clustering and pendulums, unstable equailibrium
+
+### I. Burrington (@lifewinning), self-
+#### Networked systems
+
+* everything looks like typing, how do you see the internet
+* inhabited the computational space 
+* submarine cable landing station
+
+
+#### Holobiont Urbanism
+
+* biomolecular network composed of the host plus it's associated microbes, collective genomes form a hologenome
+* bees as citizen scientists and urban apiaries
+* microbiome.nyc
