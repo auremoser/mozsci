@@ -2156,6 +2156,10 @@ putting together some visualizations of fellows' surveys
   * drafted intro tweet: `excited about friday's #mozstudy leaRning call themed around R, join us to leaRn moRe, 10/7 11:00 est #openscience: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016`
   * added some R lessons
 
+### 10/6/16
+* Visualized Conference, notes 
+* [Data primer stuff](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit?ts=57f5d003)
+
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
