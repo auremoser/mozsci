@@ -5,6 +5,8 @@
 
 Talk about how photos aren't just memory markers but "web browser bookmarks for our lives."
 
+photoviz.tumblr.com
+
 
 **Ranking: Automated Curation**
 
@@ -46,3 +48,23 @@ Talk about how photos aren't just memory markers but "web browser bookmarks for 
 
 * not trying to preserve underlying scene, multiple faces collaged together, like childhood
 * LAX by Mike Kelly - lots of plains, Whoa Airplanes by Brian Snider, lots of artists builing on the same principles
+
+**Metadata**
+
+* aggregating context - annual report
+* 6 month solargraph by Boris Phohristov
+
+### A. Jenkins, Framestore Labs
+#### Framestore Labs
+
+* field trip to mars...magic schoool bus
+* Lockheed mars fieldtriptomars.com
+
+### B. Migliozzi (@BlakiLi), Bloomberg
+#### Ants & Uncertain research
+
+The story of a single block.
+
+http://bio-tracking.org/biotrackpack/
+
+* kmeans clustering and pendulums, unstable equailibrium
