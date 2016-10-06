@@ -88,3 +88,30 @@ http://bio-tracking.org/biotrackpack/
 * sci com lab - excellent science needs excellent design
 * future ocean, keil research center
 * 3D scientific papers
+* most scientific visualizations are farely heterogeneous and design can bring some consistency, especially in time series maps
+
+### Eric Rodenbeck (@stamen)
+#### Maps of Emotion & Emotional Maps
+
+* american panorama - university of richmond in virginia
+* vision - wisdom - knowledge - data (abstraction to fact spectrum)
+
+> metagenomic mapping!
+
+* atlasofemotions.com
+* 5 emotions universal to humans: anger, fear, disgust, sadness, enjoyment
+
+###Alexander Chen
+##### Google Creative Lab
+
+Deeper connections with music
+
+
+###Kim Ambrecht
+##### Designer in Physics lab and phd in philosophy
+The network behind the cosmic web
+Center for Complex NEtwork Research
+Illustris simulation - assumptions about the universe + physics, experiments in a box
+
+From big bang to today, 19 million CPU hours 2 super computers
+
