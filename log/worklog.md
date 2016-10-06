@@ -2159,6 +2159,7 @@ putting together some visualizations of fellows' surveys
 ### 10/6/16
 * Visualized Conference, notes 
 * [Data primer stuff](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit?ts=57f5d003)
+* responded to [lainie's request for data on onboarding](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-243250837)
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
