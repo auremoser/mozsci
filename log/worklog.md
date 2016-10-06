@@ -2141,6 +2141,7 @@ putting together some visualizations of fellows' surveys
 * team checkin [etherpad with Steph](https://public.etherpad-mozilla.org/p/sciencelab-checkins-october-2016)
 * nerdcator mozfest planning with Bastian
 * [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+* ada lovelace day blog post on [women in science book](https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=6SB1PHMQXHNZSX471EBJ#reader_1607749769)
 
 ### 10/5/16
 * sent [draft email](https://docs.google.com/document/d/1K4NO5bLRIImnzj8eA-yLFxXUaecL8P7XSS4TDj4K44g/edit) for harlo's visit to Chis and Diane
@@ -2148,6 +2149,8 @@ putting together some visualizations of fellows' surveys
 * updated fellowships [checkin document](https://public.etherpad-mozilla.org/p/mozfellowships)
 * sent email reminders about zines
   * created [mozfest idea list](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=42) + [dropbox for zines](https://www.dropbox.com/sh/bsyuhul93b28nm0/AAB5s6Rgqqech-NmlZ6BoqKXa?dl=0)
+  * sent invite to all fellows for harlo's talk
+  * submitted wellness report for Q3
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
@@ -2155,7 +2158,7 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize dates for workweek + update roadmap
 * newsletter
-* ada lovelace day blog post on [women in science book](https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=6SB1PHMQXHNZSX471EBJ#reader_1607749769)
+
 
 
 * blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
