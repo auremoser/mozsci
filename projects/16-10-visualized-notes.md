@@ -117,3 +117,17 @@ From big bang to today, 19 million CPU hours 2 super computers
 
 cosmicweb.barabasilab.com
 
+### Giorgia Lupi
+#### Accurate
+
+Dear data and data humanism 
+Design driven data
+worldwide potus with google trends data
+
+### Wesley Grubbs
+#### Pitch Interactive
+
+* 2016 - room burning this is fine
+
+* cbiftrumpwins. cape breton
+
