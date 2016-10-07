@@ -2156,11 +2156,18 @@ putting together some visualizations of fellows' surveys
   * drafted intro tweet: `excited about friday's #mozstudy leaRning call themed around R, join us to leaRn moRe, 10/7 11:00 est #openscience: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016`
   * added some R lessons
 
-### 10/6/16
+### 10/6/16 - 10/7/16
 * Visualized Conference, notes 
 * [Data primer stuff](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit?ts=57f5d003)
 * responded to [lainie's request for data on onboarding](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-243250837)
-
+* sent review of visualized
+* responded to mozfest planning emails
+* fellowship meeting with Vanessa and others
+* nerdcator meeting [for mozfest](https://gedankenstuecke.piratenpad.de/nerdcator)
+* Study Group promot tweets and [call pad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-october-2016)
+* Monthly speaker series arrangements
+* hivenyc tactical tech tweet
+* workshop collaboration for the upcoming CSCW conference (https://cscw.acm.org/2017/)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
@@ -2175,16 +2182,15 @@ September reflection survey sent on Tuesday Oct 4th
 Next step: scheduling 30 minute 1:1 with host orgs (required)
 Next step: scheduling 30 minute 1:1 with fellows (required)
 
-* blog post on book club [10 of most influencial women in data](https://www.datawerq.com/10-most-influential-women-in-data)
-* study group theming and blast to all
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
   * make one page bullets for feedback
   * resources :
     * [learn statistics on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
     * [scraping software](http://www.octoparse.com/blog/top-30-free-web-scraping-software/)
-* send harlo intro email to chris
 * connect Meghan with Danielle re: open con policy panel
+* make open data primer [gitbook](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
+* make pilot map for [Bastian's project](https://gedankenstuecke.piratenpad.de/nerdcator)
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
