@@ -2169,6 +2169,10 @@ putting together some visualizations of fellows' surveys
 * hivenyc tactical tech tweet
 * workshop collaboration for the upcoming CSCW conference (https://cscw.acm.org/2017/)
 * farewell to [lynn](https://public.etherpad-mozilla.org/p/Lynn's_Farewell)
+* science lab [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-oct07-2016)
+* new study group leads
+* kirstie's feedback on her blogpost
+* kirstie feedback on zine
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
@@ -2182,6 +2186,13 @@ Cool, I'd love to do this too!
 September reflection survey sent on Tuesday Oct 4th
 Next step: scheduling 30 minute 1:1 with host orgs (required)
 Next step: scheduling 30 minute 1:1 with fellows (required)
+
+Tasks 
+- setup take down
+- 8am start
+- spreadsheet with sessions and tasks
+- zine put together
+- nerds put together
 
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
