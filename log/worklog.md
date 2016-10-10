@@ -2181,8 +2181,12 @@ putting together some visualizations of fellows' surveys
 * assembled details for [Project Call today](https://wiki.mozilla.org/WeeklyUpdates/2016-10-10#Speakers)
 * posted [Kirstie's blog](https://twitter.com/MozillaScience/status/785480977103589376)
 * responded to [Bruno's Blog post](https://docs.google.com/document/d/1cXhH7Z0ir6P7Bjn7TgVqjAhss_H_zoJTlHo2IewV64o/edit?ts=57fbb1fd#)
+* spoke on project call about [harlo](https://docs.google.com/presentation/d/1hRq7GYcRbUSsC_yKMpnl6q2f3bOvk3t5kLIauYy88h8/edit#slide=id.gfeea38387_0_118)
+* fixed image in Zannah's [Study Group Materials](https://mozillascience.github.io/study-group-onboarding/3.1-collab-vers-github.html)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
+I'm on holiday from 21st to 29th January
+No problems in early February - brainhack is looking to take place at the end of the month...
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
