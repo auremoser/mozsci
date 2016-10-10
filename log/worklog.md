@@ -2177,6 +2177,9 @@ putting together some visualizations of fellows' surveys
 * updated accomplishments [for lainie](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-243250837)
 * made mozfest presentation for [abby's mentees](https://docs.google.com/a/mozilla.com/presentation/d/1oVx2USeiDbH3Kz1pe_6FnL9KZYa7iRZO78aSdNNPTic/edit?usp=sharing) + [updated etherpad](https://public.etherpad-mozilla.org/p/project-mentorship-fall2016#lineNumber=152)
 
+### 10/10/16
+* assembled details for [Project Call today](https://wiki.mozilla.org/WeeklyUpdates/2016-10-10#Speakers)
+
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
 * mozfest science fair - tear sheets, activities, cryptoparty
