@@ -2175,6 +2175,7 @@ putting together some visualizations of fellows' surveys
 * kirstie feedback on zine
 * geocaching [event creation for october 20th](https://public.etherpad-mozilla.org/p/mozfest-geocaching)
 * updated accomplishments [for lainie](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-243250837)
+* made mozfest presentation for [abby's mentees](https://docs.google.com/a/mozilla.com/presentation/d/1oVx2USeiDbH3Kz1pe_6FnL9KZYa7iRZO78aSdNNPTic/edit?usp=sharing)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
