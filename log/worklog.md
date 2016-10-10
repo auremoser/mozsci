@@ -2180,6 +2180,7 @@ putting together some visualizations of fellows' surveys
 ### 10/10/16
 * assembled details for [Project Call today](https://wiki.mozilla.org/WeeklyUpdates/2016-10-10#Speakers)
 * posted [Kirstie's blog](https://twitter.com/MozillaScience/status/785480977103589376)
+* responded to [Bruno's Blog post](https://docs.google.com/document/d/1cXhH7Z0ir6P7Bjn7TgVqjAhss_H_zoJTlHo2IewV64o/edit?ts=57fbb1fd#)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
