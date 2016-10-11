@@ -2189,6 +2189,8 @@ putting together some visualizations of fellows' surveys
 * tweeted about danielle's learning [feature](https://learning.mozilla.org/blog/community-spotlight-danielle-robinson)
 * tweeted about bruno's blog
 * worked on [strategic planning](https://public.etherpad-mozilla.org/p/2016-msl-strategy)
+* reached out to Jonah in berlin 
+* reached out to Amel's contacts in Senegal (Dakar) and Tangier (Morocco)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
