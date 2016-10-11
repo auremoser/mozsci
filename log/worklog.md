@@ -2184,6 +2184,12 @@ putting together some visualizations of fellows' surveys
 * spoke on project call about [harlo](https://docs.google.com/presentation/d/1hRq7GYcRbUSsC_yKMpnl6q2f3bOvk3t5kLIauYy88h8/edit#slide=id.gfeea38387_0_118)
 * fixed image in Zannah's [Study Group Materials](https://mozillascience.github.io/study-group-onboarding/3.1-collab-vers-github.html)
 
+### 10/11/16
+* posted Bruno's [blog](https://science.mozilla.org/blog/intro-to-bruno)
+* tweeted about danielle's learning [feature](https://learning.mozilla.org/blog/community-spotlight-danielle-robinson)
+* tweeted about bruno's blog
+* worked on [strategic planning](https://public.etherpad-mozilla.org/p/2016-msl-strategy)
+
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
 No problems in early February - brainhack is looking to take place at the end of the month...
