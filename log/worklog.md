@@ -2191,6 +2191,8 @@ putting together some visualizations of fellows' surveys
 * worked on [strategic planning](https://public.etherpad-mozilla.org/p/2016-msl-strategy)
 * reached out to Jonah in berlin 
 * reached out to Amel's contacts in Senegal (Dakar) and Tangier (Morocco)
+* made [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
+* mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
@@ -2199,6 +2201,7 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * mozfest science fair - tear sheets, activities, cryptoparty
 * finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
 * newsletter
+* update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 
 Monthly fellows reflection survey 
 https://goo.gl/forms/tpHYKYTykaY7QH5n2 
