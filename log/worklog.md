@@ -2183,6 +2183,7 @@ putting together some visualizations of fellows' surveys
 * responded to [Bruno's Blog post](https://docs.google.com/document/d/1cXhH7Z0ir6P7Bjn7TgVqjAhss_H_zoJTlHo2IewV64o/edit?ts=57fbb1fd#)
 * spoke on project call about [harlo](https://docs.google.com/presentation/d/1hRq7GYcRbUSsC_yKMpnl6q2f3bOvk3t5kLIauYy88h8/edit#slide=id.gfeea38387_0_118)
 * fixed image in Zannah's [Study Group Materials](https://mozillascience.github.io/study-group-onboarding/3.1-collab-vers-github.html)
+* updated planning etherpad for Fellows trip to 
 
 ### 10/11/16
 * posted Bruno's [blog](https://science.mozilla.org/blog/intro-to-bruno)
@@ -2193,6 +2194,14 @@ putting together some visualizations of fellows' surveys
 * reached out to Amel's contacts in Senegal (Dakar) and Tangier (Morocco)
 * made [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
+* added new study group lead
+
+### 10/12/16
+* flew to Toronto
+* [nerdcator meeting with Bastian](https://gedankenstuecke.piratenpad.de/nerdcator)
+* made carto form with sync dataset to a map
+* email to suchana about her AI ethics book
+
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
