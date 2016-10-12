@@ -2194,13 +2194,18 @@ putting together some visualizations of fellows' surveys
 * reached out to Amel's contacts in Senegal (Dakar) and Tangier (Morocco)
 * made [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * mofo [engineering call](https://public.etherpad-mozilla.org/p/mofo-eng)
-* added new study group lead
+* added new study group lead to targets and leads
+
 
 ### 10/12/16
 * flew to Toronto
 * [nerdcator meeting with Bastian](https://gedankenstuecke.piratenpad.de/nerdcator)
 * made carto form with sync dataset to a map
 * email to suchana about her AI ethics book
+* added new study group lead [here](https://github.com/TOSDG/studyGroup/issues/1)
+* reminded danielle about her blogpost
+* added [danielle's blog post](https://science.mozilla.org/blog/intro-to-danielle) + tweets
+* [fellows call 10/12](https://public.etherpad-mozilla.org/p/2016-science-fellows-oct12) - updates on zines/mozfest/workweek
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
