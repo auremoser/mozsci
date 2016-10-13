@@ -2235,7 +2235,6 @@ https://goo.gl/forms/tpHYKYTykaY7QH5n2
 Cool, I'd love to do this too!
 September reflection survey sent on Tuesday Oct 4th
 Next step: scheduling 30 minute 1:1 with host orgs (required)
-Next step: scheduling 30 minute 1:1 with fellows (required)
 
 Tasks 
 - setup take down
@@ -2293,15 +2292,12 @@ FELLOWS
 TODO
 
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
-* Name Email Twitter Github for arliss for OLC
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
 *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
 * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
 * [Code + Templates](https://github.com/auremoser/ipam-16/)
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-* update [vanessa's spreadsheets](https://docs.google.com/document/d/14xywj8mbSeCPfrpfT4BzdNBeTGEDukgTUNGrb0U9IcA/edit?ts=573c6e3a)
 * get data from _posts and match to Luke's json blog event report 
-* blog about [extra olc work](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-apr15-2016)
 * get back to harry about his swag
 * make a [hacker conference website](https://hacker-conferences-database.silk.co/) for science
 * data management mood board
@@ -2322,12 +2318,12 @@ TODO
 * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
 * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
 * Luke Thompson - EMP
+* all people from visualized for Citizen science projects
 
 
 #### SIDE PROJECTS
 
 * issues to [open snp stuff](https://github.com/openSNP/snpr)
-* help kristie [with website](http://stemmrolemodels.com/)
 * write blog post on jenks [algorithm]
 >@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
 - biononymous
