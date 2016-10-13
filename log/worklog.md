@@ -2209,7 +2209,13 @@ putting together some visualizations of fellows' surveys
 * made bookclub [event](https://science.mozilla.org/programs/events/)
 * finised [newsletter copy](https://science.mozilla.org/programs/events/)
 
+### 10/13/16
+* [debiasing hiring session](https://docs.google.com/document/d/1is6ynubDImJswaQRTAgHHznTlzgGh1fgeyN15lZUIJs/edit)
+* [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016#lineNumber=90)
 
+* [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
+* [add some stemm role models](http://stemmrolemodels.com/site/add.html)
+* [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
 No problems in early February - brainhack is looking to take place at the end of the month...
