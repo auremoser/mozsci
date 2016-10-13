@@ -2206,6 +2206,8 @@ putting together some visualizations of fellows' surveys
 * reminded danielle about her blogpost
 * added [danielle's blog post](https://science.mozilla.org/blog/intro-to-danielle) + tweets
 * [fellows call 10/12](https://public.etherpad-mozilla.org/p/2016-science-fellows-oct12) - updates on zines/mozfest/workweek
+* made bookclub [event](https://science.mozilla.org/programs/events/)
+* finised [newsletter copy](https://science.mozilla.org/programs/events/)
 
 
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
@@ -2216,6 +2218,8 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
 * newsletter
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
+* get [od primers done](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
+* prep [tweet chat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit?ts=57e9685c#heading=h.kwncos7fbjwa)
 
 Monthly fellows reflection survey 
 https://goo.gl/forms/tpHYKYTykaY7QH5n2 
