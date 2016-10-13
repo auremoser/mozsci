@@ -2212,7 +2212,10 @@ putting together some visualizations of fellows' surveys
 ### 10/13/16
 * [debiasing hiring session](https://docs.google.com/document/d/1is6ynubDImJswaQRTAgHHznTlzgGh1fgeyN15lZUIJs/edit)
 * [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct13-2016#lineNumber=90)
+* made [open data primer template](https://github.com/mozillascience/open-data-primers/) + [site](https://mozillascience.github.io/open-data-primers/)
 
+
+* [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
 * [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
