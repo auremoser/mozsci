@@ -2215,6 +2215,10 @@ putting together some visualizations of fellows' surveys
 * made [open data primer template](https://github.com/mozillascience/open-data-primers/) + [site](https://mozillascience.github.io/open-data-primers/)
 
 
+### 10/14/16
+* study group 
+
+
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
