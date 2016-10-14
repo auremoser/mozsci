@@ -2216,10 +2216,13 @@ putting together some visualizations of fellows' surveys
 
 
 ### 10/14/16
-* [study group spotlight](https://science.mozilla.org/blog/sgs-azza-ahmed)
+* [study group spotlight blog post](https://science.mozilla.org/blog/sgs-azza-ahmed)
 * some call speaker thank yous with Kristina Gorr
+* tweeted Azza's blog post
+* sent out [october newsletter](http://tinyletter.com/sciencelab/letters/mozilla-science-newsletter-october-2016)
+* tweeted reminder about newsletter
 
-
+* reminder post to alumni fellows about mozfest
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
@@ -2234,6 +2237,7 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * get [od primers done](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
 * prep [tweet chat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit?ts=57e9685c#heading=h.kwncos7fbjwa)
+* added two [new study group leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 Monthly fellows reflection survey 
 https://goo.gl/forms/tpHYKYTykaY7QH5n2 
@@ -2324,6 +2328,8 @@ TODO
 * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
 * Luke Thompson - EMP
 * all people from visualized for Citizen science projects
+ * Tom Duscher
+ * Regina Flores Mir
 
 
 #### SIDE PROJECTS
