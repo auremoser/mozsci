@@ -2216,7 +2216,8 @@ putting together some visualizations of fellows' surveys
 
 
 ### 10/14/16
-* study group 
+* [study group spotlight](https://science.mozilla.org/blog/sgs-azza-ahmed)
+* some call speaker thank yous with Kristina Gorr
 
 
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
