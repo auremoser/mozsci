@@ -2224,6 +2224,14 @@ putting together some visualizations of fellows' surveys
 * responded to some emaails
 * sent alumni fellows mozfest reminder
 
+### 10/17/16
+* researched gitbook pdf stuff per the study group community chat
+* responded to some tweets
+* posted [science hack day blog](https://science.mozilla.org/blog/science-hack-day-pdx) on behalf of danielle
+* setup [mozfest etherpad](https://public.etherpad-mozilla.org/p/2016-mozfest-fellows)
+* internal call for october [in air mo](https://air.mozilla.org/monthly-internal-call-october-2016/)
+* zine followup with the fellows for this week's printing
+
 
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
 * reminder post to alumni fellows about mozfest
