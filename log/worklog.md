@@ -2230,7 +2230,8 @@ putting together some visualizations of fellows' surveys
 * posted [science hack day blog](https://science.mozilla.org/blog/science-hack-day-pdx) on behalf of danielle
 * setup [mozfest etherpad](https://public.etherpad-mozilla.org/p/2016-mozfest-fellows)
 * internal call for october [in air mo](https://air.mozilla.org/monthly-internal-call-october-2016/)
-* zine followup with the fellows for this week's printing
+* [zine followup with the fellows](https://www.dropbox.com/home/fellows-2016/2016-zines) for this week's printing
+* email to Vanessa about zines and checkin wednesday
 
 
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
