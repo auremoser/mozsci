@@ -2221,7 +2221,11 @@ putting together some visualizations of fellows' surveys
 * tweeted Azza's blog post
 * sent out [october newsletter](http://tinyletter.com/sciencelab/letters/mozilla-science-newsletter-october-2016)
 * tweeted reminder about newsletter
+* responded to some emaails
+* sent alumni fellows mozfest reminder
 
+
+* prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
 * reminder post to alumni fellows about mozfest
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
@@ -2238,6 +2242,7 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * get [od primers done](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
 * prep [tweet chat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit?ts=57e9685c#heading=h.kwncos7fbjwa)
 * added two [new study group leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+
 
 Monthly fellows reflection survey 
 https://goo.gl/forms/tpHYKYTykaY7QH5n2 
