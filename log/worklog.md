@@ -2233,7 +2233,14 @@ putting together some visualizations of fellows' surveys
 * [zine followup with the fellows](https://www.dropbox.com/home/fellows-2016/2016-zines) for this week's printing
 * email to Vanessa about zines and checkin wednesday
 * [twitter chat discussion](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#) with Kristina
+* [open data primers gitbook](https://github.com/mozillascience/open-data-primers/) + [live site]() + [travis build site](https://travis-ci.org/mozillascience/open-data-primers)
 
+### 10/18/15
+* fixed [open data primers errors](https://mozillascience.github.io/open-data-primers/index.html)
+* compiled [tweets for #TTWchat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#)
+* posted call recap [here](https://docs.google.com/document/d/1yiJRqSNErXnQbKJA9kIvYADdZ_vWTa86FJWYl0arCf4/edit?ts=58050fc9#)
+* Mozfest [brownbag](https://public.etherpad-mozilla.org/p/festival.MozFest.brownbag)
+* 
 
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
 * reminder post to alumni fellows about mozfest
