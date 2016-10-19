@@ -2252,7 +2252,8 @@ putting together some visualizations of fellows' surveys
   * [tweet stream](https://twitter.com/search?q=%23Ttwchat&src=typd)
   * [test worksheet](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#)
 * made book club chat debrief invite with Kristina
-* worked on fleshing out [Mozfest Schedule]()
+* worked on fleshing out [Mozfest Schedule](https://public.etherpad-mozilla.org/p/2016-mozfest-fellows)
+* wrote to Joey + Jason about our sessions
 
 
 Mozfest Sessions:
