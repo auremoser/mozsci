@@ -2248,6 +2248,11 @@ putting together some visualizations of fellows' surveys
 * met with Vanessa about [mozfest](https://docs.google.com/document/d/12vRM6litKY_CtubzH0on1BDQWhSqkeunNXMDUzYMKzA/edit)
 * emailed fellows about zines
 * [#TTWchat](https://twitter.com/search?q=%23Ttwchat&src=typd)
+  * [assets](https://www.dropbox.com/home/TTWChat-WomenInScience)
+  * [tweet stream](https://twitter.com/search?q=%23Ttwchat&src=typd)
+  * [test worksheet](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#)
+* made book club chat debrief invite with Kristina
+* worked on fleshing out [Mozfest Schedule]()
 
 
 Mozfest Sessions:
