@@ -2244,7 +2244,7 @@ putting together some visualizations of fellows' surveys
 * updated the [team call checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-october-2016#lineNumber=18)
 
 ### 10/19/15
-* made [nerdcator repo](https://github.com/auremoser/nerdcator) for mozfest and had
+* made and fleshed [nerdcator repo](https://github.com/auremoser/nerdcator) for mozfest and had meeting with facilitators
 * met with Vanessa about [mozfest](https://docs.google.com/document/d/12vRM6litKY_CtubzH0on1BDQWhSqkeunNXMDUzYMKzA/edit)
 * emailed fellows about zines
 * [#TTWchat](https://twitter.com/search?q=%23Ttwchat&src=typd)
