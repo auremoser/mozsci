@@ -2260,7 +2260,7 @@ putting together some visualizations of fellows' surveys
 * make card with brain and labels (name/x)
 * make info card
 * followup on [study group materials](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16)
-  * updated name for study group orientation project
+  * updated name for [study group orientation](https://mozillascience.github.io/study-group-orientation/) project
   * sent zannah a [draft email](https://public.etherpad-mozilla.org/p/2016-studygroup-outreach) for interest groups
 * ordered cardstock for the brain cards
 * wrote back to Anne Luther about Center for Data Arts fellows
