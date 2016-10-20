@@ -2266,6 +2266,7 @@ putting together some visualizations of fellows' surveys
 * wrote back to Anne Luther about Center for Data Arts fellows
 * made study group learning call [november 4th](https://science.mozilla.org/programs/events/studygroup-call-november-04)
 * planning meeting with steph for [mozfest geocaching project]()
+* started working on brain lobe design
 
 
 * send draft email to zannah for outreach to study groups
