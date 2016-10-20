@@ -2235,7 +2235,7 @@ putting together some visualizations of fellows' surveys
 * [twitter chat discussion](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#) with Kristina
 * [open data primers gitbook](https://github.com/mozillascience/open-data-primers/) + [live site]() + [travis build site](https://travis-ci.org/mozillascience/open-data-primers)
 
-### 10/18/15
+### 10/18/16
 * fixed [open data primers errors](https://mozillascience.github.io/open-data-primers/index.html)
 * compiled [tweets for #TTWchat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit#)
 * posted call recap [here](https://docs.google.com/document/d/1yiJRqSNErXnQbKJA9kIvYADdZ_vWTa86FJWYl0arCf4/edit?ts=58050fc9#)
@@ -2243,7 +2243,7 @@ putting together some visualizations of fellows' surveys
 * Zine work with the [fellows](https://www.dropbox.com/sh/bsyuhul93b28nm0/AAB5s6Rgqqech-NmlZ6BoqKXa?dl=0)
 * updated the [team call checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-october-2016#lineNumber=18)
 
-### 10/19/15
+### 10/19/16
 * made and fleshed [nerdcator repo](https://github.com/auremoser/nerdcator) for mozfest and had meeting with facilitators
 * met with Vanessa about [mozfest](https://docs.google.com/document/d/12vRM6litKY_CtubzH0on1BDQWhSqkeunNXMDUzYMKzA/edit)
 * emailed fellows about zines
@@ -2255,6 +2255,13 @@ putting together some visualizations of fellows' surveys
 * worked on fleshing out [Mozfest Schedule](https://public.etherpad-mozilla.org/p/2016-mozfest-fellows)
 * wrote to Joey + Jason about our sessions
 
+### 10/20/16
+* 1 on 1 meeting with [step](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* make card with brain and labels (name/x)
+* make info card
+* followup on [study group materials](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16)
+
+* send draft email to zannah for outreach to study groups
 
 Mozfest Sessions:
 
