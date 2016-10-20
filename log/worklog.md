@@ -2260,6 +2260,13 @@ putting together some visualizations of fellows' surveys
 * make card with brain and labels (name/x)
 * make info card
 * followup on [study group materials](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16)
+  * updated name for study group orientation project
+  * sent zannah a [draft email](https://public.etherpad-mozilla.org/p/2016-studygroup-outreach) for interest groups
+* ordered cardstock for the brain cards
+* wrote back to Anne Luther about Center for Data Arts fellows
+* made study group learning call [november 4th](https://science.mozilla.org/programs/events/studygroup-call-november-04)
+* planning meeting with steph for [mozfest geocaching project]()
+
 
 * send draft email to zannah for outreach to study groups
 
@@ -2271,7 +2278,6 @@ Mozfest Sessions:
 * BioPrivacy w/ Jason: https://app.mozillafestival.org/#_session-326
 
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
-* reminder post to alumni fellows about mozfest
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
