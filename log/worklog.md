@@ -2266,7 +2266,18 @@ putting together some visualizations of fellows' surveys
 * wrote back to Anne Luther about Center for Data Arts fellows
 * made study group learning call [november 4th](https://science.mozilla.org/programs/events/studygroup-call-november-04)
 * planning meeting with steph for [mozfest geocaching project]()
+
+### 10/21/16
+* fleshed out and emailed [mozfest schedule](https://public.etherpad-mozilla.org/p/2016-mozfest-fellows)
+* office hours
+* tweetchat review with Kristina Gorr
 * started working on brain lobe design
+* team staff meeting 
+* emailed intro to suchana about book deal
+* study group planning [fall 16](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16) with Zannah
+
+* Followup blog post for tweet chat
+* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
 
 
 * send draft email to zannah for outreach to study groups
