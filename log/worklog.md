@@ -2272,9 +2272,13 @@ putting together some visualizations of fellows' surveys
 * office hours
 * tweetchat review with Kristina Gorr
 * started working on brain lobe design
-* team staff meeting 
+* [team staff meeting](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-oct21-2016)
 * emailed intro to suchana about book deal
 * study group planning [fall 16](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16) with Zannah
+
+### 10/23/16
+* made postcard for Brain Project
+
 
 * Followup blog post for tweet chat
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
