@@ -2285,7 +2285,7 @@ putting together some visualizations of fellows' surveys
 * [met with bastian]()
 * wrote amel about African study group contacts
 * filled out [data vis form](https://docs.google.com/forms/d/e/1FAIpQLScISFfSju3zFRozNljfTB_v6W5cZmqziRfCF0qukbXFlifcVQ/formResponse)
-* airmo [call](https://air.mozilla.org/mofo-staff-call-october-24-2016/)
+* airmo [call](https://air.mozilla.org/mofo-staff-call-october-24-2016/) + [staff call notes](https://docs.google.com/document/d/1qW8MXzf0CQ0YJtrRwKCOce_MhnmOT4uWazSPxRVELuI/edit#)
 
 * Followup blog post for tweet chat
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
