@@ -2284,6 +2284,7 @@ putting together some visualizations of fellows' surveys
 * [met with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * [met with bastian]()
 * wrote amel about African study group contacts
+* filled out [data vis form](https://docs.google.com/forms/d/e/1FAIpQLScISFfSju3zFRozNljfTB_v6W5cZmqziRfCF0qukbXFlifcVQ/formResponse)
 
 
 * Followup blog post for tweet chat
