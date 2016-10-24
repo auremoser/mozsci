@@ -2276,10 +2276,14 @@ putting together some visualizations of fellows' surveys
 * emailed intro to suchana about book deal
 * study group planning [fall 16](https://public.etherpad-mozilla.org/p/studygroup-planning-fall16) with Zannah
 
-### 10/23/16
+### 10/23/16 - 10/24/16
 * made postcard for Brain Project
 * voted all-hands electives
 * made appointment with Amel
+* [met with amel]()
+* [met with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* [met with bastian]()
+* wrote amel about African study group contacts
 
 
 * Followup blog post for tweet chat
