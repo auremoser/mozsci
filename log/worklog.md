@@ -2280,7 +2280,7 @@ putting together some visualizations of fellows' surveys
 * made postcard for Brain Project
 * voted all-hands electives
 * made appointment with Amel
-* [met with amel]()
+* [met with amel](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * [met with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * [met with bastian]()
 * wrote amel about African study group contacts
@@ -2288,6 +2288,8 @@ putting together some visualizations of fellows' surveys
 * airmo [call](https://air.mozilla.org/mofo-staff-call-october-24-2016/) + [staff call notes](https://docs.google.com/document/d/1qW8MXzf0CQ0YJtrRwKCOce_MhnmOT4uWazSPxRVELuI/edit#)
 * added two [new study group leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * submitted session to [Hawaii All Hands](https://docs.google.com/forms/d/e/1FAIpQLSdwXuvbu4s_8Pdx6cpKxT-SIu3omsZQEOX_tykSJwYDEHhHLA/formResponse)
+* emailed bruno about expenses
+* setup nerdcator site
 
 * Followup blog post for tweet chat
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
