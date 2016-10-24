@@ -2290,6 +2290,7 @@ putting together some visualizations of fellows' surveys
 * submitted session to [Hawaii All Hands](https://docs.google.com/forms/d/e/1FAIpQLSdwXuvbu4s_8Pdx6cpKxT-SIu3omsZQEOX_tykSJwYDEHhHLA/formResponse)
 * emailed bruno about expenses
 * setup nerdcator site
+* commented on [zannah's study group email doc](https://docs.google.com/document/d/11_tFNiZBrZdZnA4ne0UaiunFm6UwOij88JBSds4BI2o/edit)
 
 * Followup blog post for tweet chat
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
