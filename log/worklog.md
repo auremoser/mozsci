@@ -2278,6 +2278,8 @@ putting together some visualizations of fellows' surveys
 
 ### 10/23/16
 * made postcard for Brain Project
+* voted all-hands electives
+* made appointment with Amel
 
 
 * Followup blog post for tweet chat
