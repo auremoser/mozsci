@@ -2286,11 +2286,11 @@ putting together some visualizations of fellows' surveys
 * wrote amel about African study group contacts
 * filled out [data vis form](https://docs.google.com/forms/d/e/1FAIpQLScISFfSju3zFRozNljfTB_v6W5cZmqziRfCF0qukbXFlifcVQ/formResponse)
 * airmo [call](https://air.mozilla.org/mofo-staff-call-october-24-2016/) + [staff call notes](https://docs.google.com/document/d/1qW8MXzf0CQ0YJtrRwKCOce_MhnmOT4uWazSPxRVELuI/edit#)
+* added two [new study group leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* submitted session to [Hawaii All Hands](https://docs.google.com/forms/d/e/1FAIpQLSdwXuvbu4s_8Pdx6cpKxT-SIu3omsZQEOX_tykSJwYDEHhHLA/formResponse)
 
 * Followup blog post for tweet chat
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
-
-
 * send draft email to zannah for outreach to study groups
 
 Mozfest Sessions:
@@ -2313,9 +2313,7 @@ Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd -
 * finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
 * newsletter
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
-* get [od primers done](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
-* prep [tweet chat](https://docs.google.com/document/d/1P0jG94pgTp9dhxt7QRl5Q1x48yBtCle44zFmHYBwm4Q/edit?ts=57e9685c#heading=h.kwncos7fbjwa)
-* added two [new study group leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+
 
 
 Monthly fellows reflection survey 
@@ -2323,13 +2321,6 @@ https://goo.gl/forms/tpHYKYTykaY7QH5n2
 Cool, I'd love to do this too!
 September reflection survey sent on Tuesday Oct 4th
 Next step: scheduling 30 minute 1:1 with host orgs (required)
-
-Tasks 
-- setup take down
-- 8am start
-- spreadsheet with sessions and tasks
-- zine put together
-- nerds put together
 
 
 * review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
