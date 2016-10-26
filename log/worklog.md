@@ -2301,6 +2301,11 @@ putting together some visualizations of fellows' surveys
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
 * send draft email to zannah for outreach to study groups
 
+### 10/25/16
+* email update to fellows
+* landed in London
+* caught up on emails
+
 Mozfest Sessions:
 
 * Geo-mapping stuff w/ Joey: https://app.mozillafestival.org/#_session-325
