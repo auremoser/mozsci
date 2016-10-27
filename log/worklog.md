@@ -2305,6 +2305,7 @@ putting together some visualizations of fellows' surveys
 * email update to fellows
 * landed in London
 * caught up on emails
+* added new [NWU Study Group](https://github.com/NWU-eResearch/NWUResearchEnablers/issues/1)
 
 Mozfest Sessions:
 
