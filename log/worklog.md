@@ -2306,6 +2306,7 @@ putting together some visualizations of fellows' surveys
 * landed in London
 * caught up on emails
 * added new [NWU Study Group](https://github.com/NWU-eResearch/NWUResearchEnablers/issues/1)
+* made session outline for [bioprivacy session](https://public.etherpad-mozilla.org/p/mozfest-2016-navigating-privacy-and-sharing-in-bio)
 
 Mozfest Sessions:
 
