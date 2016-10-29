@@ -2309,6 +2309,7 @@ putting together some visualizations of fellows' surveys
 * made session outline for [bioprivacy session](https://public.etherpad-mozilla.org/p/mozfest-2016-navigating-privacy-and-sharing-in-bio)
 * wrote a bunch of [tweets for Mozfest](https://public.etherpad-mozilla.org/p/sciencelab-mozfest-2016-session-tweets)
 * setup science floor
+* all tweet deck tweets posted
 
 Mozfest Sessions:
 
