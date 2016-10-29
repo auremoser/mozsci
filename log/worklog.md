@@ -2310,15 +2310,9 @@ putting together some visualizations of fellows' surveys
 * wrote a bunch of [tweets for Mozfest](https://public.etherpad-mozilla.org/p/sciencelab-mozfest-2016-session-tweets)
 * setup science floor
 * all tweet deck tweets posted
-
-Mozfest Sessions:
-
-* Geo-mapping stuff w/ Joey: https://app.mozillafestival.org/#_session-325
-* Biosurveillance: https://app.mozillafestival.org/#_session-328
-* Nerdcator w/ Bastian: https://app.mozillafestival.org/#_session-443
-* BioPrivacy w/ Jason: https://app.mozillafestival.org/#_session-326
-
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
+
+
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
