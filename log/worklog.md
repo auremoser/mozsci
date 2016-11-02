@@ -2313,6 +2313,10 @@ putting together some visualizations of fellows' surveys
 * prototype [zines](https://www.dropbox.com/scl/fo/2dxh8nm6fuz1jhtj2qjhp/AABm7ABTVKvZQgjLuJxVI7WCa?oref=e&r=AANE4zI9LwA6W2Zx2UtUvtUHAgekvX82HvH1nd7Vho8oOIvzT48EINYJLdHk-Aji4RhQc9rdFBJqSvPEemNbD4wuvryfBRtvjAvOK99coydUt1Nv2YQVNJGSHX86IThW9iOd4pxN08PiTjnBu0KOez0IK6-gwyljGtX8BpZ-Oby-Iw&sm=1)
 * sent out goal exercise followups to Open Web fellows
 
+### 11/1/16
+* first day back from Mozfest, taught class
+* started prepping Friday Study Group call 
+
 
 * send out goal exercise followups to our fellows
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
