@@ -2314,6 +2314,7 @@ putting together some visualizations of fellows' surveys
 * sent out goal exercise followups to Open Web fellows
 
 ### 11/1/16 - 11/3/16
+* reviewed [all the tweets](https://public.etherpad-mozilla.org/p/sciencelab-mozfest-2016-session-tweets)
 * first day back from Mozfest, taught class
 * started prepping Friday Study Group call 
 * followup with Anne in a meeting about Center for Data Arts collaborations
@@ -2325,6 +2326,7 @@ putting together some visualizations of fellows' surveys
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
 * [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
+* probably the 6th-10th February
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
 No problems in early February - brainhack is looking to take place at the end of the month...
