@@ -2324,6 +2324,9 @@ putting together some visualizations of fellows' surveys
 * tweets for Study Groups
 * post blog post for Mozfest
 * filled out [checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-nov04-2016)
+* staff survey
+* open con recap email
+* tweets about Mozfest blog, call outs to facilitators
 
 
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
