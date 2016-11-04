@@ -2296,9 +2296,7 @@ putting together some visualizations of fellows' surveys
 * checked in to flight
 * last minute scheduling issues
 * nerdcator prep
-
 * Followup blog post for tweet chat
-* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap
 * send draft email to zannah for outreach to study groups
 
 ### 10/25/16
@@ -2319,14 +2317,24 @@ putting together some visualizations of fellows' surveys
 * started prepping Friday Study Group call 
 * followup with Anne in a meeting about Center for Data Arts collaborations
 * working on Mozfest blog post
+* sent out updates to all Study Group Leads in the pad
+
+### 11/4/16
+* closed Study Group Gitbook [issue](https://github.com/mozillascience/study-group-orientation/issues/25#issuecomment-256657271)
+* tweets for Study Groups
+* post blog post for Mozfest
+* filled out [checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-nov04-2016)
 
 
+* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
 * send out goal exercise followups to our fellows
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [add some stemm role models](http://stemmrolemodels.com/site/add.html)
 * [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
 * probably the 6th-10th February
+* BrainHack is tentatively scheduled for the first weekend in March
+2nd to 4th March
 * add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
 I'm on holiday from 21st to 29th January
 No problems in early February - brainhack is looking to take place at the end of the month...
