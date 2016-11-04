@@ -2327,6 +2327,10 @@ putting together some visualizations of fellows' surveys
 * staff survey
 * open con recap email
 * tweets about Mozfest blog, call outs to facilitators
+* newsletter stats to the team
+* gitter chat permissions issues for fellows
+* feedback on Danielles' arguments for open data stuff
+* uploaded Study Group call
 
 
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
