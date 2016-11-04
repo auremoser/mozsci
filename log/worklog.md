@@ -2332,7 +2332,13 @@ putting together some visualizations of fellows' surveys
 * feedback on Danielles' arguments for open data stuff
 * uploaded Study Group call
 * work on [etherpads from Mozfest](https://gist.github.com/auremoser/5678d3c60b1bf8a2af3571c37eec0ac5)
+* updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 
+* work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
+Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
+Add stuff for activity form
+* Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
+https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
 
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
 * send out goal exercise followups to our fellows
