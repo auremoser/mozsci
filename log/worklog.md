@@ -2331,6 +2331,7 @@ putting together some visualizations of fellows' surveys
 * gitter chat permissions issues for fellows
 * feedback on Danielles' arguments for open data stuff
 * uploaded Study Group call
+* work on [etherpads from Mozfest](https://gist.github.com/auremoser/5678d3c60b1bf8a2af3571c37eec0ac5)
 
 
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
