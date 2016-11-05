@@ -2333,6 +2333,7 @@ putting together some visualizations of fellows' surveys
 * uploaded Study Group call
 * work on [etherpads from Mozfest](https://gist.github.com/auremoser/5678d3c60b1bf8a2af3571c37eec0ac5)
 * updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+* etherpads project
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
