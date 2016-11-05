@@ -2335,6 +2335,9 @@ putting together some visualizations of fellows' surveys
 * updated blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * etherpads project
 
+### 11/7/16
+* updated [events](https://science.mozilla.org/programs/events)
+
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
 Add stuff for activity form
