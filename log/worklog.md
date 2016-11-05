@@ -2337,6 +2337,8 @@ putting together some visualizations of fellows' surveys
 
 ### 11/7/16
 * updated [events](https://science.mozilla.org/programs/events)
+* sent out some intro study group materials
+* made december study group and community calls
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
