@@ -2342,7 +2342,7 @@ putting together some visualizations of fellows' surveys
 * mozfest etherpad [stats repo](https://github.com/auremoser/mofolondon-ether) + [issue comment](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * meeting about Nerdcator, new tasks, issues
 * setup pad for wednesday's Study Group Africa [call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) sent reminder
-* 
+* sent welcome email to new [addition in study group interest form - Karachi!](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
