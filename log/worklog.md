@@ -2344,6 +2344,7 @@ putting together some visualizations of fellows' surveys
 * setup pad for wednesday's Study Group Africa [call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa) sent reminder
 * sent welcome email to new [addition in study group interest form - Karachi!](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit) + 2 others, logged in [leads](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * contributed to [currriculum recognition issue](https://github.com/mozilla/curriculum-localization/issues/2#issuecomment-258935182)
+* 1:1 meeting with [steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 Reach out to study group lead with zannah's new form: https://github.com/ejChathuranga/studyGroup
