@@ -2357,6 +2357,7 @@ putting together some visualizations of fellows' surveys
 * [science lab team checkins](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
 * beyond ska sent to steph
 * community call, invited jacob Metcafe of [Ethical Resolve](http://ethicalresolve.com/) to speak
+* updated [Science Lab Call Notes](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016)
 
 
 
