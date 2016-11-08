@@ -2352,6 +2352,8 @@ putting together some visualizations of fellows' surveys
 * setup sched account
 * some Hawaii all hands prep
 * session accepted at CMU's Hackathon workshop (end of February) !
+* filled out [lainie's membership pilot](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-258988210)
+
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
