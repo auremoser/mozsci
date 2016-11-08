@@ -2354,6 +2354,10 @@ putting together some visualizations of fellows' surveys
 * session accepted at CMU's Hackathon workshop (end of February) !
 * filled out [lainie's membership pilot](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-258988210)
 * they live blog post [yeah](https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/)
+* [science lab team checkins](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
+* beyond ska sent to steph
+* community call, invited jacob Metcafe of [Ethical Resolve](http://ethicalresolve.com/) to speak
+
 
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
@@ -2425,7 +2429,6 @@ FOLLOWUP
 IMMEDIATES
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
-* update blog content calendar: https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
 
@@ -2452,6 +2455,8 @@ TODO
 
 
 ##### Call Ideas
+
+* weapons of math destruction theme + data science
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
