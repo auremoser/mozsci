@@ -2353,6 +2353,7 @@ putting together some visualizations of fellows' surveys
 * some Hawaii all hands prep
 * session accepted at CMU's Hackathon workshop (end of February) !
 * filled out [lainie's membership pilot](https://github.com/MozillaFoundation/Goals/issues/15#issuecomment-258988210)
+* they live blog post [yeah](https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/)
 
 
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
