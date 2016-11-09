@@ -2361,6 +2361,11 @@ putting together some visualizations of fellows' surveys
 * engineering call [updates](https://public.etherpad-mozilla.org/p/mofo-eng)
 * posted open leadership training plug in gitter chat
 
+### 11/9/16
+* moved meeting for study groups africa
+* community call, invited Steve Guin of [Exversion](exversion.com) to speak
+* meeting with vanessa to go over fellowship plans
+* tweeted to invite Mimi Onuoha to our Community call on Ethics
 
 
 
