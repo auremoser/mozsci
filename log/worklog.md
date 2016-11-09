@@ -2363,9 +2363,10 @@ putting together some visualizations of fellows' surveys
 
 ### 11/9/16
 * moved meeting for study groups africa
-* community call, invited Steve Guin of [Exversion](exversion.com) to speak
+* community call, invited Steve Guin of [Exversion](exversion.com) to speak, as well as Grace DiRenzo of the University of Michagan
 * meeting with vanessa to go over fellowship plans
 * tweeted to invite Mimi Onuoha to our Community call on Ethics
+* [book club blog post](https://science.mozilla.org/blog/book-club-december)
 
 
 
