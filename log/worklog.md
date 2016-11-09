@@ -2367,6 +2367,8 @@ putting together some visualizations of fellows' surveys
 * meeting with vanessa to go over fellowship plans
 * tweeted to invite Mimi Onuoha to our Community call on Ethics
 * [book club blog post](https://science.mozilla.org/blog/book-club-december)
+* letter for anne for the [SFTC collaboration](https://public.etherpad-mozilla.org/p/support-research-consortium-2016)
+* fellows call [11/9](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov09)
 
 
 
