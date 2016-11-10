@@ -2369,9 +2369,11 @@ putting together some visualizations of fellows' surveys
 * [book club blog post](https://science.mozilla.org/blog/book-club-december)
 * letter for anne for the [SFTC collaboration](https://public.etherpad-mozilla.org/p/support-research-consortium-2016)
 * fellows call [11/9](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov09)
+* video youtube instructions sent to Zannah
+* agreed to meet on Monday about Study Groups
 
 
-
+* integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
 https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
