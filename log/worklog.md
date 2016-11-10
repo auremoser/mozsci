@@ -2361,7 +2361,7 @@ putting together some visualizations of fellows' surveys
 * engineering call [updates](https://public.etherpad-mozilla.org/p/mofo-eng)
 * posted open leadership training plug in gitter chat
 
-### 11/9/16
+### 11/9/16-11/10
 * moved meeting for study groups africa
 * community call, invited Steve Guin of [Exversion](exversion.com) to speak, as well as Grace DiRenzo of the University of Michagan
 * meeting with vanessa to go over fellowship plans
@@ -2371,6 +2371,8 @@ putting together some visualizations of fellows' surveys
 * fellows call [11/9](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov09)
 * video youtube instructions sent to Zannah
 * agreed to meet on Monday about Study Groups
+* tweeted a bunch of links and things for Open Con 
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
