@@ -2374,6 +2374,7 @@ putting together some visualizations of fellows' surveys
 * tweeted a bunch of links and things for Open Con 
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * work on fixing fans on my machine
+* catchup on missed correspondence with Kristina
 
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
