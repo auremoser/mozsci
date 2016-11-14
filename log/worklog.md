@@ -2378,7 +2378,7 @@ putting together some visualizations of fellows' surveys
 
 ### 11/4/16
 * updated [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
-* gave alan r+ on his page for our people section
+* gave alan r+ on his page for our [people](https://science.mozilla.org/people) section
 * met with Kristina about [mln comms plan](https://public.etherpad-mozilla.org/p/MLNcomms)
 * reached out to 2 [new study groupers](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * monthly internal call [november](https://air.mozilla.org/monthly-internal-call-november-2016/)
