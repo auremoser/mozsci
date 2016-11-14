@@ -2376,6 +2376,10 @@ putting together some visualizations of fellows' surveys
 * work on fixing fans on my machine
 * catchup on missed correspondence with Kristina
 
+### 11/4/16
+* updated [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
+* gave alan r+ on his page for our people section
+* met with Kristina about [mln comms plan](https://public.etherpad-mozilla.org/p/MLNcomms)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
