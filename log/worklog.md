@@ -2382,6 +2382,7 @@ putting together some visualizations of fellows' surveys
 * met with Kristina about [mln comms plan](https://public.etherpad-mozilla.org/p/MLNcomms)
 * reached out to 2 [new study groupers](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * monthly internal call [november](https://air.mozilla.org/monthly-internal-call-november-2016/)
+* updated the [website with all "active" forks](https://science.mozilla.org/programs/studygroups)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
