@@ -2376,13 +2376,16 @@ putting together some visualizations of fellows' surveys
 * work on fixing fans on my machine
 * catchup on missed correspondence with Kristina
 
-### 11/4/16
+### 11/14/16-11/15/16
 * updated [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
 * gave alan r+ on his page for our [people](https://science.mozilla.org/people) section
 * met with Kristina about [mln comms plan](https://public.etherpad-mozilla.org/p/MLNcomms)
 * reached out to 2 [new study groupers](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * monthly internal call [november](https://air.mozilla.org/monthly-internal-call-november-2016/)
 * updated the [website with all "active" forks](https://science.mozilla.org/programs/studygroups)
+* updated sched with new subscriptions
+* town hall
+* first standup + engineering call
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
