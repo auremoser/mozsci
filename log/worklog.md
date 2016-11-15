@@ -2360,6 +2360,7 @@ putting together some visualizations of fellows' surveys
 * updated [Science Lab Call Notes](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016)
 * engineering call [updates](https://public.etherpad-mozilla.org/p/mofo-eng)
 * posted open leadership training plug in gitter chat
+* november [checkin stuff](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
 
 ### 11/9/16-11/10
 * moved meeting for study groups africa
