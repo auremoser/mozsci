@@ -2386,6 +2386,7 @@ putting together some visualizations of fellows' surveys
 * updated sched with new subscriptions
 * town hall
 * first standup + engineering call
+* fellowship process [documented](https://public.etherpad-mozilla.org/p/fellowship-process)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
