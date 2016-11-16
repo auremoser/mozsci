@@ -2397,6 +2397,8 @@ putting together some visualizations of fellows' surveys
 * attended [program review](https://air.mozilla.org/mozilla-foundation-fuel-the-movement-program-review-2016-11-16/) + asked questions
 * arrangements for Hawaii
 * ran test for study group orientation meetings tomorrow and friday
+* added survey for fellows based on [kts suggestion](https://github.com/MozillaFoundation/plan/issues/840#issuecomment-260747808)
+* made fellowship [workweek plan](https://public.etherpad-mozilla.org/p/2016-fellows-workweek)
 
 
 
