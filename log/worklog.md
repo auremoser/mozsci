@@ -2395,6 +2395,8 @@ putting together some visualizations of fellows' surveys
 * [Meeting with Zannah about Study Group Sessions](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
 * submitted a bug for zannah on Study Group [Lessons](https://github.com/mozillascience/studyGroupLessons/issues/new) update
 * attended [program review](https://air.mozilla.org/mozilla-foundation-fuel-the-movement-program-review-2016-11-16/) + asked questions
+* arrangements for Hawaii
+* ran test for study group orientation meetings tomorrow and friday
 
 
 
