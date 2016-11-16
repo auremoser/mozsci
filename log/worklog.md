@@ -2389,6 +2389,14 @@ putting together some visualizations of fellows' surveys
 * first standup + engineering call
 * fellowship process [documented](https://public.etherpad-mozilla.org/p/fellowship-process)
 
+
+### 11/16/16
+* [Study Group Africa Meeting](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* [Meeting with Zannah about Study Group Sessions](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
+* submitted a bug for zannah on Study Group [Lessons](https://github.com/mozillascience/studyGroupLessons/issues/new) update
+
+
+
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
