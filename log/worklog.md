@@ -2394,6 +2394,7 @@ putting together some visualizations of fellows' surveys
 * [Study Group Africa Meeting](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * [Meeting with Zannah about Study Group Sessions](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
 * submitted a bug for zannah on Study Group [Lessons](https://github.com/mozillascience/studyGroupLessons/issues/new) update
+* attended [program review](https://air.mozilla.org/mozilla-foundation-fuel-the-movement-program-review-2016-11-16/) + asked questions
 
 
 
