@@ -2390,6 +2390,7 @@ putting together some visualizations of fellows' surveys
 * fellowship process [documented](https://public.etherpad-mozilla.org/p/fellowship-process)
 
 
+
 ### 11/16/16
 * [Study Group Africa Meeting](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * [Meeting with Zannah about Study Group Sessions](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
@@ -2399,6 +2400,10 @@ putting together some visualizations of fellows' surveys
 * ran test for study group orientation meetings tomorrow and friday
 * added survey for fellows based on [kts suggestion](https://github.com/MozillaFoundation/plan/issues/840#issuecomment-260747808)
 * made fellowship [workweek plan](https://public.etherpad-mozilla.org/p/2016-fellows-workweek)
+* meeting with vanessa
+* some discussion about the community call with our fellows
+* submitted a [pr to site for study group map](https://github.com/mozilla/science.mozilla.org/commit/bee10186c9a5633136168abcd9afd2331383f10f)
+* gave feedback on [network coordinator gig](https://docs.google.com/document/d/1wuujrJckdf5ViFhCX5Yd_MpuYgA4Wdy8-drJzKe050Y/edit)
 
 
 
