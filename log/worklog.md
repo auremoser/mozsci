@@ -2406,6 +2406,12 @@ putting together some visualizations of fellows' surveys
 * gave feedback on [network coordinator gig](https://docs.google.com/document/d/1wuujrJckdf5ViFhCX5Yd_MpuYgA4Wdy8-drJzKe050Y/edit)
 * made video for [study groups onboarding](https://youtu.be/vVXfx6NmbJE)
 
+### 11/17/16
+* ran Study Group [2 orientation with Zannah]()
+* corresponded with community members at nasa jpl
+* message to Van Tuyls study group fork and update of website
+* Town Hall on Emerging Technologies and servo
+
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
