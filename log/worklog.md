@@ -2404,7 +2404,7 @@ putting together some visualizations of fellows' surveys
 * some discussion about the community call with our fellows
 * submitted a [pr to site for study group map](https://github.com/mozilla/science.mozilla.org/commit/bee10186c9a5633136168abcd9afd2331383f10f)
 * gave feedback on [network coordinator gig](https://docs.google.com/document/d/1wuujrJckdf5ViFhCX5Yd_MpuYgA4Wdy8-drJzKe050Y/edit)
-
+* made video for [study groups onboarding](https://youtu.be/vVXfx6NmbJE)
 
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
