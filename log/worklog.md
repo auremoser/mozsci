@@ -2411,6 +2411,7 @@ putting together some visualizations of fellows' surveys
 * corresponded with community members at nasa jpl
 * message to Van Tuyls study group fork and update of website
 * Town Hall on Emerging Technologies and servo
+* continued [map test conversation](https://github.com/mozilla/science.mozilla.org/commit/bee10186c9a5633136168abcd9afd2331383f10f)
 
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
