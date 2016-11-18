@@ -2421,6 +2421,7 @@ putting together some visualizations of fellows' surveys
 * github issues with vanessa
 * email to joe macarthur
 * email to sara about ethics stuff
+* checkin with team [here](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-nov18-2016)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
