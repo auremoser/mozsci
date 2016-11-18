@@ -2420,6 +2420,7 @@ putting together some visualizations of fellows' surveys
 * co-ran Study Group [1 orientation with Zannah](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
 * github issues with vanessa
 * email to joe macarthur
+* email to sara about ethics stuff
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
