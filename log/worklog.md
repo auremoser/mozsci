@@ -2412,6 +2412,7 @@ putting together some visualizations of fellows' surveys
 * message to Van Tuyls study group fork and update of website
 * Town Hall on Emerging Technologies and servo
 * continued [map test conversation](https://github.com/mozilla/science.mozilla.org/commit/bee10186c9a5633136168abcd9afd2331383f10f)
+* created [biononymous slide deck](https://docs.google.com/presentation/d/1fRTDOI2ZCq6pUHkm6COwCAxRa8E8xcC825N2y1f3vI8/edit#slide=id.g1088c5b110_0_183)
 
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
