@@ -2407,13 +2407,17 @@ putting together some visualizations of fellows' surveys
 * made video for [study groups onboarding](https://youtu.be/vVXfx6NmbJE)
 
 ### 11/17/16
-* ran Study Group [2 orientation with Zannah]()
+* co-ran Study Group [2 orientation with Zannah](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-2)
 * corresponded with community members at nasa jpl
 * message to Van Tuyls study group fork and update of website
+* created map for study group website, updated hovers and wrote to alan about the changes
 * Town Hall on Emerging Technologies and servo
 * continued [map test conversation](https://github.com/mozilla/science.mozilla.org/commit/bee10186c9a5633136168abcd9afd2331383f10f)
+* net2 standup
 * created [biononymous slide deck](https://docs.google.com/presentation/d/1fRTDOI2ZCq6pUHkm6COwCAxRa8E8xcC825N2y1f3vI8/edit#slide=id.g1088c5b110_0_183)
 
+### 11/18/16
+* co-ran Study Group [1 orientation with Zannah](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-1)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
