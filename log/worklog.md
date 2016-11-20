@@ -2423,6 +2423,7 @@ putting together some visualizations of fellows' surveys
 * email to sara about ethics stuff
 * checkin with team [here](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-nov18-2016)
 * gave feedback on [this issue from steph about olts](https://github.com/mozillascience/plan/issues/98#event-864905109)
+* intro to react update [here](https://github.com/gdi-nyc/intro-to-react)
 
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
