@@ -2437,6 +2437,7 @@ putting together some visualizations of fellows' surveys
 * attended [membership town hall](https://air.mozilla.org/town-hall-2017-impact-drivers-membership-model-2016-11-21/)
 * created fellows' [etherpad for this week's call](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov23); sent it out to fellows
 * fellows [workweek etherpad](https://public.etherpad-mozilla.org/p/2016-fellows-workweek)
+* [feedback on exit survey for OLTS](https://github.com/mozillascience/plan/issues/98#issuecomment-261988720s)
 
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
