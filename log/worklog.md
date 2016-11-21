@@ -2434,6 +2434,7 @@ putting together some visualizations of fellows' surveys
 * answered to some nerdcator issues on the architecture for google forms to leaflet maps
 * response to a few community members on projects and study group inquiries
 * worked on transcription issue for fellows
+* attended [membership town hall](https://air.mozilla.org/town-hall-2017-impact-drivers-membership-model-2016-11-21/)
 
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 
