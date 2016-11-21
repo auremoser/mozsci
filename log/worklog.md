@@ -2427,6 +2427,16 @@ putting together some visualizations of fellows' surveys
 * cleaned out [fellows repo](https://github.com/mozillascience/fellows-class-2016)
 * updated [nerdcator issues](https://github.com/auremoser/nerdcator/issues/11#event-854790662)
 
+### 11/21/16
+* logged some study groups in Leads and Targets
+* responded to them directly in forks and worked with Zannah to define a comms plan
+* wrote to Zannah about transcription services for Fellows
+* answered to some nerdcator issues on the architecture for google forms to leaflet maps
+* response to a few community members on projects and study group inquiries
+* worked on transcription issue for fellows
+
+* Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
+
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
