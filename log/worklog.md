@@ -2441,6 +2441,7 @@ putting together some visualizations of fellows' surveys
 * working on the [november newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights)
 * started [transcription service](http://transprof.wufoo.com/forms/m7x3p9/) form for Fellows
 * made [dropbox of recordings for fellows'interviews](https://www.dropbox.com/sh/87z9rlre2o9cawj/AADTqRdvsV-SWGRjn8PHnjRsa?dl=0)
+* made [checkin pad for community members in Hawaii](https://public.etherpad-mozilla.org/p/2016-msl-hawaii)
 
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
