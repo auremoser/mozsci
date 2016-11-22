@@ -2446,6 +2446,8 @@ putting together some visualizations of fellows' surveys
 * updated [etherpad for tomorrow's checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
 
 ### 11/22/16
+* pathways [meeting](https://public.etherpad-mozilla.org/p/sciencelab-pathways-22nov2016)
+
 
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
