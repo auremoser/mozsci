@@ -2458,6 +2458,8 @@ putting together some visualizations of fellows' surveys
 * integrated it into the [newsletter text]()
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * looked at [note app stickies and added name a few times](https://noteapp.com/E7dplSNtxh)
+* fellows' [call](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov23)
+* code of conduct talk about open con
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
