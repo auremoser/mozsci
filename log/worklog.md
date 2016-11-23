@@ -2445,12 +2445,14 @@ putting together some visualizations of fellows' surveys
 * Wrote Gary McDow to invite him to community call
 * updated [etherpad for tomorrow's checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
 
-### 11/22/16
+### 11/22/16-11/23/16
 * pathways [meeting](https://public.etherpad-mozilla.org/p/sciencelab-pathways-22nov2016)
 * created book [club tweet chat event](https://science.mozilla.org/programs/events/bc-december-2016/about)
 * newsletter [draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=487)
-* filled out update [2:30]()
+* filled out update 2:30
 * internet health town hall
+* study group invite to january orientation
+* canceled meeting with Vanessa :(
 
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
@@ -2462,20 +2464,9 @@ https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5Ropjoa
 * send out goal exercise followups to our fellows
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
-* [add some stemm role models](http://stemmrolemodels.com/site/add.html)
 * [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
-* probably the 6th-10th February
-* BrainHack is tentatively scheduled for the first weekend in March
-2nd to 4th March
-* add Kirstie's dates: Bike ride SF to LA - June 3-10 (Sat - Sat)
-I'm on holiday from 21st to 29th January
-No problems in early February - brainhack is looking to take place at the end of the month...
-Human Brain Mapping conference in Vancouver - June 25-29 (Sun-Thurs), July 3rd - 7th is best
-* mozfest science fair - tear sheets, activities, cryptoparty
 * finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
-* newsletter
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
-
 
 
 Monthly fellows reflection survey 
@@ -2490,34 +2481,18 @@ Next step: scheduling 30 minute 1:1 with host orgs (required)
   * resources :
     * [learn statistics on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
     * [scraping software](http://www.octoparse.com/blog/top-30-free-web-scraping-software/)
-* connect Meghan with Danielle re: open con policy panel
-* make open data primer [gitbook](https://docs.google.com/document/d/1dplw2vUvsEwsuiIOxnxBokUlmsOdCXlXl7amfNuyuQI/edit)
-* make pilot map for [Bastian's project](https://gedankenstuecke.piratenpad.de/nerdcator)
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
 
-**Drafts**
 
-* Bruno: Open Science https://www.dropbox.com/s/yb7q3g2eesuggvp/bmpvieira-zine.pdf?dl=0
-* Kirstie: Brains!
-* Eireann?
-* Matt
-* Suchana: sent a pdf on Photography techniques and "guidelines", reviewed with feedback
-
-FOLLOWUP
-* use [slides template](https://docs.google.com/presentation/d/1zi8-vBEXlnzghdh0lwT4ACgMM6eeZ57TPtoQNOeDjOU/edit) for working at mozilla
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
-* write blog about CSS Conf talk , [CSS Conf AR](https://docs.google.com/presentation/d/1XFccqLY6wFSVZ_1mwo-ZHTmXwrKAq5mSXXwRfbGd8sU/edit#slide=id.g115e0b8024_0_860)li
-* invite sara + chris to session for internal Open_Secu_101
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
-* put together post-fellowship survey
-* add a calendar for MSL to regular calendar : https://public.etherpad-mozilla.org/p/fellowships-onboarding
 
 
 IMMEDIATES
@@ -2525,24 +2500,15 @@ IMMEDIATES
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
-
-FELLOWS
-* need to add forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
-
 TODO
-
+* need to add fellows forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
 * work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
 * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
-*  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
-* [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
-* [Code + Templates](https://github.com/auremoser/ipam-16/)
+  *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
+    * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
+  * [Code + Templates](https://github.com/auremoser/ipam-16/)
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 * get data from _posts and match to Luke's json blog event report 
-* get back to harry about his swag
-* make a [hacker conference website](https://hacker-conferences-database.silk.co/) for science
-* data management mood board
-  * quick lesson with primer material
-* sketch schedule for fellows new workweek
 * learn new CMS
   * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
   * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
@@ -2563,15 +2529,6 @@ TODO
 * all people from visualized for Citizen science projects
  * Tom Duscher
  * Regina Flores Mir
-
-
-#### SIDE PROJECTS
-
-* issues to [open snp stuff](https://github.com/openSNP/snpr)
-* write blog post on jenks [algorithm]
->@cbahlai jenks docs for cartodb, we should write that blog post at / after wow: https://github.com/CartoDB/cartodb-postgresql/wiki/CDB_JenksBins + http://blog.cartographica.com/blog/2010/8/16/gis-data-classifications-in-cartographica.html
-- biononymous
-- update website
 
 
 
