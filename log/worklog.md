@@ -2454,6 +2454,9 @@ putting together some visualizations of fellows' surveys
 * study group invite to january orientation
 * canceled meeting with Vanessa :(
 * skill share was [accepted at Hawaii all hands, need to plan it](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
+* wrote and published [tom's profile blog post](https://science.mozilla.org/blog/sgs-tom-hohenstein/)
+* integrated it into the [newsletter text]()
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
