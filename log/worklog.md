@@ -2461,7 +2461,8 @@ putting together some visualizations of fellows' surveys
 * fellows' [call](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov23)
 * code of conduct talk about open con
 * tweeted about [kirstie's hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2016/blob/master/Call-for-participation.md)
-* had meeting with open science contact from 
+* had meeting with open science contact, Alexei from the Civic Hall talk
+* made updates to [etherpads project](https://github.com/auremoser/mozfest-ether)
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
