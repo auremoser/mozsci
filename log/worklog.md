@@ -2449,7 +2449,7 @@ putting together some visualizations of fellows' surveys
 * pathways [meeting](https://public.etherpad-mozilla.org/p/sciencelab-pathways-22nov2016)
 * created book [club tweet chat event](https://science.mozilla.org/programs/events/bc-december-2016/about)
 * newsletter [draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=487)
-* filled out update 2:30
+* filled out [update 2:30](https://public.etherpad-mozilla.org/p/sciencelab-checkins-november-2016)
 * internet health town hall
 * study group invite to january orientation
 * canceled meeting with Vanessa :(
