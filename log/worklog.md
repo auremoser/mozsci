@@ -2460,6 +2460,7 @@ putting together some visualizations of fellows' surveys
 * looked at [note app stickies and added name a few times](https://noteapp.com/E7dplSNtxh)
 * fellows' [call](https://public.etherpad-mozilla.org/p/2016-science-fellows-nov23)
 * code of conduct talk about open con
+* tweeted about [kirstie's hackathon](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2016/blob/master/Call-for-participation.md)
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
