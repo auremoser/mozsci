@@ -2464,6 +2464,11 @@ putting together some visualizations of fellows' surveys
 * had meeting with open science contact, Alexei from the Civic Hall talk
 * made updates to [etherpads project](https://github.com/auremoser/mozfest-ether)
 
+### 11/24/16
+* newsletter sent out
+* tracked community call participants in [etherpad for arliss](https://public.etherpad-mozilla.org/p/2016-call-participants)
+* created new [issue for community call](https://github.com/mozillascience/plan/issues/101)
+
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
