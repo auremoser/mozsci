@@ -2469,6 +2469,7 @@ putting together some visualizations of fellows' surveys
 * tracked community call participants in [etherpad for arliss](https://public.etherpad-mozilla.org/p/2016-call-participants)
 * created new [issue for community call](https://github.com/mozillascience/plan/issues/101)
 * filled out [mln metrics list](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
+* updated the [Science Lab Calls Wiki Page](https://wiki.mozilla.org/index.php?title=ScienceLab/Calls&action=edit)
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
