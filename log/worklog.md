@@ -2470,6 +2470,7 @@ putting together some visualizations of fellows' surveys
 * created new [issue for community call](https://github.com/mozillascience/plan/issues/101)
 * filled out [mln metrics list](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * updated the [Science Lab Calls Wiki Page](https://wiki.mozilla.org/index.php?title=ScienceLab/Calls&action=edit)
+* made a [Mozilla Science Lab Metrics Folder](https://www.dropbox.com/home/MOZILLA/2016-Metrics)
 
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
