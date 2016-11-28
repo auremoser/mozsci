@@ -2483,6 +2483,7 @@ putting together some visualizations of fellows' surveys
 * aborted meeting for nerdcator :/
 * added [cfa summit photos](https://www.flickr.com/photos/139954518@N06/albums/72157677085654926) to dropbox
 
+* send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
