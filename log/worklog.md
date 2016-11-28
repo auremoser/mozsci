@@ -2474,6 +2474,15 @@ putting together some visualizations of fellows' surveys
 * responded to some gitter chatter!
 
 
+### 11/27/16
+* emailed bill about guest speaking on study group call
+* emailed community members about fellowship opportunities
+
+### 11/28/16
+* [1-1 Meeting with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* aborted meeting for nerdcator :/
+* added [cfa summit photos](https://www.flickr.com/photos/139954518@N06/albums/72157677085654926) to dropbox
+
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
 * Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
@@ -2508,9 +2517,7 @@ Next step: scheduling 30 minute 1:1 with host orgs (required)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
 
-### 11/27/16
-* emailed bill about guest speaking on study group call
-* emailed community members about fellowship opportunities
+
 
 
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
