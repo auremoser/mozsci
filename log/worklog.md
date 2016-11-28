@@ -2508,6 +2508,10 @@ Next step: scheduling 30 minute 1:1 with host orgs (required)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
 
+### 11/27/16
+* emailed bill about guest speaking on study group call
+* emailed community members about fellowship opportunities
+
 
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
