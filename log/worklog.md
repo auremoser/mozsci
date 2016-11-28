@@ -2491,7 +2491,11 @@ putting together some visualizations of fellows' surveys
 * reached out to Peter Grabitz about Montreal opportunities
 * sent betatim som [tweetcred suggestions](https://github.com/betatim/crisis-twitter-guidelines)
 * confirmed Gary McDowell as a [Community Call speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016#lineNumber=98)
+* attended Net2 standup with Matthew and friends
+* responded to some adjustments for our session on mofo secu at Mozfest
 
+
+* fork visulization repo and add etherpads
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
