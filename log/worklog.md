@@ -2484,9 +2484,11 @@ putting together some visualizations of fellows' surveys
 * added [cfa summit photos](https://www.flickr.com/photos/139954518@N06/albums/72157677085654926) to dropbox
 * emailed Bruno about speaking on Study Group Call
 * cleaned up [docker resources for Friday's Study Group Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=141)
-* wrote to study group leads about this community call meeting
+* wrote to study group leads listed in etherpad about this community call meeting
 * wrote to africa study group leads about community call on Friday
+* wrote to Achintya about emceeing the Study Group Call
 * town hall [open innovation](https://air.mozilla.org/town-hall-2017-impact-drivers-open-innovation-2016-11-28/)
+* reached out to Peter Grabitz about Montreal opportunities
 
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
