@@ -2489,6 +2489,8 @@ putting together some visualizations of fellows' surveys
 * wrote to Achintya about emceeing the Study Group Call
 * town hall [open innovation](https://air.mozilla.org/town-hall-2017-impact-drivers-open-innovation-2016-11-28/)
 * reached out to Peter Grabitz about Montreal opportunities
+* sent betatim som [tweetcred suggestions](https://github.com/betatim/crisis-twitter-guidelines)
+* confirmed Gary McDowell as a [Community Call speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016#lineNumber=98)
 
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
