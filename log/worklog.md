@@ -2493,6 +2493,8 @@ putting together some visualizations of fellows' surveys
 * confirmed Gary McDowell as a [Community Call speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016#lineNumber=98)
 * attended Net2 standup with Matthew and friends
 * responded to some adjustments for our session on mofo secu at Mozfest
+* suggested speakers for the [Open Access conference at CERN](https://indico.cern.ch/event/405949/)
+* maybe confirmed Alex as a guest speaker for our Study group learning call via Tim Head ! 
 
 
 * fork visulization repo and add etherpads
