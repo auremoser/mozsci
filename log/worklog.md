@@ -2502,6 +2502,7 @@ putting together some visualizations of fellows' surveys
 * some fellows' emails back and forth
 * study group call wrangling and speaker arrangements
 * [November Staff Call](https://air.mozilla.org/mofo-staff-call-november-2016-11-29/)
+* fixed a video issue for [zannah's orientation curriculum](https://mozillascience.github.io/study-group-orientation/4.2-open-pub.html)
 
 
 * fork visulization repo and add etherpads
