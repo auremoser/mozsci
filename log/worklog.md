@@ -2496,6 +2496,13 @@ putting together some visualizations of fellows' surveys
 * suggested speakers for the [Open Access conference at CERN](https://indico.cern.ch/event/405949/)
 * maybe confirmed Alex as a guest speaker for our Study group learning call via Tim Head ! 
 
+### 11/29/16
+* met with TW
+* met with Steph and Zannah about Data&Society, promoted it with our community
+* some fellows' emails back and forth
+* study group call wrangling and speaker arrangements
+* [November Staff Call](https://air.mozilla.org/mofo-staff-call-november-2016-11-29/)
+
 
 * fork visulization repo and add etherpads
 * send kartones swag
