@@ -2503,8 +2503,22 @@ putting together some visualizations of fellows' surveys
 * study group call wrangling and speaker arrangements
 * [November Staff Call](https://air.mozilla.org/mofo-staff-call-november-2016-11-29/)
 * fixed a video issue for [zannah's orientation curriculum](https://mozillascience.github.io/study-group-orientation/4.2-open-pub.html)
+* reminder email for study group call on friday
+* net pulse meeting
+* class
 
+### 11/30/16
+* lots of email debacles stuff
+* lots of emails with zannah and study group leads
+* [mofo secu meeting](https://public.etherpad-mozilla.org/p/mofo-secu)
+* meeting abotu fellows' workweek with vanessa
+* meeting about workweek futures
+* signed up for [skill share sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
+* reached out to Solon Barocas about speaking on community call
+* chat with steph about strat plan calendar for the fellows
 
+* book passport meeting
+* fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
 * fork visulization repo and add etherpads
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
@@ -2539,11 +2553,6 @@ Next step: scheduling 30 minute 1:1 with host orgs (required)
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
-
-
-
-
-
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
