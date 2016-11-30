@@ -2516,6 +2516,7 @@ putting together some visualizations of fellows' surveys
 * signed up for [skill share sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
 * reached out to Solon Barocas about speaking on community call
 * chat with steph about strat plan calendar for the fellows
+* reached out to nick and solon about guest speaking on our community call
 
 * book passport meeting
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
