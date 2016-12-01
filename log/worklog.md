@@ -2523,6 +2523,7 @@ putting together some visualizations of fellows' surveys
 * tweets about study group call tomorrow
 * email catch-up and strat plan input
 * call with Anne Luther about CDA fellow and possible collaborations
+* fellows' email and cancelation of meeting with updated tasks
 
 
 
