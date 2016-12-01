@@ -2524,6 +2524,7 @@ putting together some visualizations of fellows' surveys
 * email catch-up and strat plan input
 * call with Anne Luther about CDA fellow and possible collaborations
 * fellows' email and cancelation of meeting with updated tasks
+* added to Fluent Program Committee
 
 
 
