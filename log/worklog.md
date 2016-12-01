@@ -2525,6 +2525,7 @@ putting together some visualizations of fellows' surveys
 * call with Anne Luther about CDA fellow and possible collaborations
 * fellows' email and cancelation of meeting with updated tasks
 * added to Fluent Program Committee
+* asked Mavis about [github visualizer](https://github.com/mmmavis/docs-analyzer/) tool she built and data inputs for the [mofo-ether project](https://github.com/auremoser/mozfest-ether/tree/master/pads)
 
 
 
