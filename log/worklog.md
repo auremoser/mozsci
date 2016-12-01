@@ -2526,7 +2526,7 @@ putting together some visualizations of fellows' surveys
 * fellows' email and cancelation of meeting with updated tasks
 * added to Fluent Program Committee
 * asked Mavis about [github visualizer](https://github.com/mmmavis/docs-analyzer/) tool she built and data inputs for the [mofo-ether project](https://github.com/auremoser/mozfest-ether/tree/master/pads)
-
+* updated fellowship stipend records with Alexei
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
