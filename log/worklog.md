@@ -2517,8 +2517,14 @@ putting together some visualizations of fellows' surveys
 * reached out to Solon Barocas about speaking on community call
 * chat with steph about strat plan calendar for the fellows
 * reached out to nick and solon about guest speaking on our community call
-
 * book passport meeting
+
+### 12/1/16
+* tweets about study group call tomorrow
+* email catch-up and strat plan input
+
+
+
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
 * fork visulization repo and add etherpads
 * send kartones swag
