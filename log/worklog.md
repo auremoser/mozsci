@@ -2529,6 +2529,7 @@ putting together some visualizations of fellows' surveys
 * updated fellowship stipend records with Alexei
 * offered to help vanessa with tomorrow's white room performance.
 * responded to madeleine's mini-grant ask
+* filled out [update for tomorrow's checkin call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec02-2016)
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
