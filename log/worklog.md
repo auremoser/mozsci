@@ -2528,6 +2528,7 @@ putting together some visualizations of fellows' surveys
 * asked Mavis about [github visualizer](https://github.com/mmmavis/docs-analyzer/) tool she built and data inputs for the [mofo-ether project](https://github.com/auremoser/mozfest-ether/tree/master/pads)
 * updated fellowship stipend records with Alexei
 * offered to help vanessa with tomorrow's white room performance.
+* responded to madeleine's mini-grant ask
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
