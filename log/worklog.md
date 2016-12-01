@@ -2522,6 +2522,7 @@ putting together some visualizations of fellows' surveys
 ### 12/1/16
 * tweets about study group call tomorrow
 * email catch-up and strat plan input
+* call with Anne Luther about CDA fellow and possible collaborations
 
 
 
