@@ -2537,6 +2537,12 @@ putting together some visualizations of fellows' surveys
 * [Study Group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016) + recording
 * [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec02-2016)
 * net pulse standup
+* sent out thank yous for speaking on study group call
+* wrote recap for study group call, emailed to listserv
+* fleshed out etherpad for session on [global sprint](https://public.etherpad-mozilla.org/p/2016-hawaii-sprint)
+* closed [amit's commit](https://github.com/mozillascience/studyGroup/pull/68#issuecomment-264378370)
+* went to go run errands for session tonight.
+
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
