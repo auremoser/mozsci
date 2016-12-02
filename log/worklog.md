@@ -2530,6 +2530,8 @@ putting together some visualizations of fellows' surveys
 * offered to help vanessa with tomorrow's white room performance.
 * responded to madeleine's mini-grant ask
 * filled out [update for tomorrow's checkin call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec02-2016)
+* added inclusion events to [this repo](https://public.etherpad-mozilla.org/p/2016-msl-hawaii)
+
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
