@@ -2532,6 +2532,11 @@ putting together some visualizations of fellows' surveys
 * filled out [update for tomorrow's checkin call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec02-2016)
 * added inclusion events to [this repo](https://public.etherpad-mozilla.org/p/2016-msl-hawaii)
 
+### 12/2/16
+* Followup on lots of PRs for Study Groups
+* [Study Group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016) + recording
+* [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-dec02-2016)
+* net pulse standup
 
 
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
