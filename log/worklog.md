@@ -2541,7 +2541,8 @@ putting together some visualizations of fellows' surveys
 * wrote recap for study group call, emailed to listserv
 * fleshed out etherpad for session on [global sprint](https://public.etherpad-mozilla.org/p/2016-hawaii-sprint)
 * closed [amit's commit](https://github.com/mozillascience/studyGroup/pull/68#issuecomment-264378370)
-* went to go run errands for session tonight.
+* went to go run errands for session tonight
+* helped out with vanessa's event
 
 
 
