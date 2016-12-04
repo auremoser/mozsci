@@ -2543,6 +2543,8 @@ putting together some visualizations of fellows' surveys
 * closed [amit's commit](https://github.com/mozillascience/studyGroup/pull/68#issuecomment-264378370)
 * went to go run errands for session tonight
 * helped out with vanessa's event
+* made [secu draft](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
+* updated [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
 
 
 
