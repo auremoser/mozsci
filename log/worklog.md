@@ -2546,10 +2546,11 @@ putting together some visualizations of fellows' surveys
 * made [secu draft](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
 * updated [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
 * fixed mofo secu pad for updated resources
-
-
-
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
+
+
+
+* Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
@@ -2647,6 +2648,7 @@ TODO
 
 ### RESOURCES
 * [msl get involved](https://public.etherpad-mozilla.org/p/msl-get-involved)
+* [msl data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * [planning repo](https://github.com/mozillascience/plan/issues/33)
 * [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
 * [science lab getting started](https://docs.google.com/spreadsheets/d/1yt8NdwTdc_vrgWj3_VFtKKOoZiHEH9J_I0jNUKH4C1M/edit?usp=sharing_eid&ts=565dc35c)
