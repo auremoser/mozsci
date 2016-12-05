@@ -2545,6 +2545,7 @@ putting together some visualizations of fellows' surveys
 * helped out with vanessa's event
 * made [secu draft](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
 * updated [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu-draft)
+* fixed mofo secu pad for updated resources
 
 
 
