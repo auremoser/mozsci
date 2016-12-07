@@ -2549,7 +2549,7 @@ putting together some visualizations of fellows' surveys
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 ### 12/6/16
-* gave mofo-secu demo with chris
+* gave [mofo-secu](https://public.etherpad-mozilla.org/p/mofo-secu) demo with chris
 * updated [study group etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 * added [study group event](https://science.mozilla.org/programs/events/studygroup-call-january-06)
 * updated [outreach form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
