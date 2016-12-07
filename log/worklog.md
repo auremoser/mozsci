@@ -2548,7 +2548,9 @@ putting together some visualizations of fellows' surveys
 * fixed mofo secu pad for updated resources
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
 
-
+### 12/6/16
+* gave mofo-secu demo with chris
+* updated [study group etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
