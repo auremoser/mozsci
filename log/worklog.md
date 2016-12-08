@@ -2548,13 +2548,16 @@ putting together some visualizations of fellows' surveys
 * fixed mofo secu pad for updated resources
 * fix up [mofo secu pad](https://public.etherpad-mozilla.org/p/mofo-secu)
 
-### 12/6/16
+### 12/6/16-12/7/16
 * gave [mofo-secu](https://public.etherpad-mozilla.org/p/mofo-secu) demo with chris
 * updated [study group etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 * added [study group event](https://science.mozilla.org/programs/events/studygroup-call-january-06)
 * updated [outreach form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
-* attended another [skill share](https://public.etherpad-mozilla.org/p/sheetsskillshare)
 * lots of sessions
+  * [mofo-secu](https://public.etherpad-mozilla.org/p/mofo-secu)
+  * [sheet skill share](https://public.etherpad-mozilla.org/p/sheetsskillshare)
+  * [all-hands shared onboarding](https://public.etherpad-mozilla.org/p/allhands-shared-onboarding)
+* bunch of study group chats and conversations
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
