@@ -2558,6 +2558,7 @@ putting together some visualizations of fellows' surveys
   * [sheet skill share](https://public.etherpad-mozilla.org/p/sheetsskillshare)
   * [all-hands shared onboarding](https://public.etherpad-mozilla.org/p/allhands-shared-onboarding)
 * bunch of study group chats and conversations
+* [study group call](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-2)
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
