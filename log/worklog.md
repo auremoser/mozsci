@@ -2554,6 +2554,7 @@ putting together some visualizations of fellows' surveys
 * added [study group event](https://science.mozilla.org/programs/events/studygroup-call-january-06)
 * updated [outreach form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * attended another [skill share](https://public.etherpad-mozilla.org/p/sheetsskillshare)
+* lots of sessions
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
