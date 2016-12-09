@@ -2557,6 +2557,9 @@ putting together some visualizations of fellows' surveys
   * [mofo-secu](https://public.etherpad-mozilla.org/p/mofo-secu)
   * [sheet skill share](https://public.etherpad-mozilla.org/p/sheetsskillshare)
   * [all-hands shared onboarding](https://public.etherpad-mozilla.org/p/allhands-shared-onboarding)
+  * [hawaii models for all programs](https://public.etherpad-mozilla.org/p/hawaii-models)
+  * [summary for sprint session](https://docs.google.com/presentation/d/1fcf5N7HiGfZg198qT0lyQrr2HnhgEbRwZqI-wCpYj_M/edit#slide=id.g19bf88c948_27_1)
+  * attnded Programs, Projects, and Plan for OLTS lite
 * bunch of study group chats and conversations
 * [study group call](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-2)
 
