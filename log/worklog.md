@@ -2562,6 +2562,7 @@ putting together some visualizations of fellows' surveys
   * attnded Programs, Projects, and Plan for OLTS lite
 * bunch of study group chats and conversations
 * [study group call](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-2)
+* attended WebVR session
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
