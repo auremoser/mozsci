@@ -2565,6 +2565,7 @@ putting together some visualizations of fellows' surveys
 * attended WebVR session
 * updated the Aberdeen Study Group on the website
 * filled out culture amp survey
+* shared materials with Towaha for mini-Wow github
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
