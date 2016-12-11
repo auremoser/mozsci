@@ -2564,6 +2564,7 @@ putting together some visualizations of fellows' surveys
 * [study group call](https://public.etherpad-mozilla.org/p/scicencelab-nov-study-groups-2)
 * attended WebVR session
 * updated the Aberdeen Study Group on the website
+* filled out culture amp survey
 
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
