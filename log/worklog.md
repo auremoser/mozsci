@@ -2566,6 +2566,7 @@ putting together some visualizations of fellows' surveys
 * updated the Aberdeen Study Group on the website
 * filled out culture amp survey
 
+* get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
 * send kartones swag
