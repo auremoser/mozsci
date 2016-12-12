@@ -2573,6 +2573,9 @@ putting together some visualizations of fellows' surveys
 * reminded speakers about call
 * email about screendoor to emerging tech engineer
 * [updated intro to science lab slides](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1a4befe129_0_27)
+* responded to danielle about study group call and slide template
+* achintya reference email for funding opportunities
+* added new study group leads to the [sg spreadsheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
