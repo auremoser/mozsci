@@ -2567,6 +2567,11 @@ putting together some visualizations of fellows' surveys
 * filled out culture amp survey
 * shared materials with Towaha for mini-Wow github
 
+### 12/12/16
+
+* reminded fellows about blog post
+* reminded speakers about call
+
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
