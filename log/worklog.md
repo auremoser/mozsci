@@ -2571,6 +2571,8 @@ putting together some visualizations of fellows' surveys
 
 * reminded fellows about blog post
 * reminded speakers about call
+* email about screendoor to emerging tech engineer
+* [updated intro to science lab slides](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1a4befe129_0_27)
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
