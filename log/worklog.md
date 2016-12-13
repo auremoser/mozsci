@@ -2580,15 +2580,17 @@ putting together some visualizations of fellows' surveys
 
 ###12/13/16
 * added notes to [vaness'as working session on OLTS from All-Hands](https://docs.google.com/document/d/1xr63CLY3Qd4d3h01ZFu5YIBWYE5ZECNnuZqQ580-lkQ/edit?ts=5850021f)
+* thank you notes to our community invitees to Hawaii
+* community call updated [blog calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+* wrote [blog for 12/15 call](https://science.mozilla.org/blog/community-call-dec-15-11et)
+* drafted reminder for listserv
+* scheduled call tweets
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
 * send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
-* plan [skill share at hawaii all hands](https://public.etherpad-mozilla.org/p/mofo-secu)
-* Arliss' [data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
-* integrate [matthew's changes](https://github.com/MozillaFoundation/Mozfest2016_production/issues/218)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
 https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
