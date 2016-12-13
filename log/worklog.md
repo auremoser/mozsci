@@ -2579,12 +2579,13 @@ putting together some visualizations of fellows' surveys
 * submitted session to the CMU conference and chatted with them about funding opportunities
 
 ###12/13/16
-* added notes to [vaness'as working session on OLTS from All-Hands](https://docs.google.com/document/d/1xr63CLY3Qd4d3h01ZFu5YIBWYE5ZECNnuZqQ580-lkQ/edit?ts=5850021f)
+* added notes to [vanessa's working session on OLTS from All-Hands](https://docs.google.com/document/d/1xr63CLY3Qd4d3h01ZFu5YIBWYE5ZECNnuZqQ580-lkQ/edit?ts=5850021f)
 * thank you notes to our community invitees to Hawaii
 * community call updated [blog calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * wrote [blog for 12/15 call](https://science.mozilla.org/blog/community-call-dec-15-11et)
 * drafted reminder for listserv
 * scheduled call tweets
+* scheduled checkin on gitter
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
