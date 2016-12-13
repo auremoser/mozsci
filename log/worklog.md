@@ -2576,6 +2576,10 @@ putting together some visualizations of fellows' surveys
 * responded to danielle about study group call and slide template
 * achintya reference email for funding opportunities
 * added new study group leads to the [sg spreadsheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* submitted session to the CMU conference and chatted with them about funding opportunities
+
+###12/13/16
+* added notes to [vaness'as working session on OLTS from All-Hands](https://docs.google.com/document/d/1xr63CLY3Qd4d3h01ZFu5YIBWYE5ZECNnuZqQ580-lkQ/edit?ts=5850021f)
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
