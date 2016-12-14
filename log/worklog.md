@@ -2594,6 +2594,10 @@ putting together some visualizations of fellows' surveys
 * sent out reminder about book club tweet chat on Monday
 * emailed fellows about upcoming book chat
 * made script for [book chat monday](https://docs.google.com/document/d/1DfBl3y4SkA_xZhHJ9JXahNU89JYnxdX5QEOHwmkenYY/edit#)
+* meeting with Zannah about [AAAS](https://public.etherpad-mozilla.org/p/sciencelab-aaas-january)
+* updated book chat, promotted on community channel and on msl channel
+* shared openedx with zannah and simon
+* filled out survey for mofo closing
 
 
 * get stats for gitter chats
