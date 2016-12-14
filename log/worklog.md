@@ -2591,6 +2591,10 @@ putting together some visualizations of fellows' surveys
 * tweets for Community Call - all group email to mln
 * meeting with Institut Pasteur, notes in calendar invite
 * meeting with Vanessa
+* sent out reminder about book club tweet chat on Monday
+* emailed fellows about upcoming book chat
+* made script for [book chat monday](https://docs.google.com/document/d/1DfBl3y4SkA_xZhHJ9JXahNU89JYnxdX5QEOHwmkenYY/edit#)
+
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
