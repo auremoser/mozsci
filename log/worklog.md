@@ -2598,6 +2598,7 @@ putting together some visualizations of fellows' surveys
 * updated book chat, promotted on community channel and on msl channel
 * shared openedx with zannah and simon
 * filled out survey for mofo closing
+* joined trellis
 
 
 * get stats for gitter chats
