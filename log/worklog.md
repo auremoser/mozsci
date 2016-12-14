@@ -2590,6 +2590,7 @@ putting together some visualizations of fellows' surveys
 ### 12/14/16
 * tweets for Community Call - all group email to mln
 * meeting with Institut Pasteur, notes in calendar invite
+* meeting with Vanessa
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
