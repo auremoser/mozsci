@@ -2607,6 +2607,12 @@ putting together some visualizations of fellows' surveys
 * meeting with Lou and Zannah about AAAS in January
 * meeting with Corinne, checkin for gdi
 * [Science Lab Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016)
+* thank you to our community call speakers
+* updated the transcription request with files from our fellows.
+* net pulse call
+* closed some issues in [plan repo](https://github.com/mozillascience/plan/issues/101)
+* started one sheet and sum up for mini wows
+* archived study group call and community call
 
 
 * get stats for gitter chats
