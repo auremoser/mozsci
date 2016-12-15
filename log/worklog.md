@@ -2600,6 +2600,8 @@ putting together some visualizations of fellows' surveys
 * filled out survey for mofo closing
 * joined [trellis](https://www.trelliscience.com/#/betaRegistration/)
 * followed up with some study group members
+* submitted transcription order form for [fellows' interview](http://transprof.wufoo.com/confirm/order-form/)
+* queue'd tweets for tomorrow
 
 
 * get stats for gitter chats
