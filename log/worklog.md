@@ -2603,6 +2603,11 @@ putting together some visualizations of fellows' surveys
 * submitted transcription order form for [fellows' interview](http://transprof.wufoo.com/confirm/order-form/)
 * queue'd tweets for tomorrow
 
+### 12/15/16
+* meeting with Lou and Zannah about AAAS in January
+* meeting with Corinne, checkin for gdi
+* [Science Lab Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016)
+
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
