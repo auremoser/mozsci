@@ -2614,6 +2614,9 @@ putting together some visualizations of fellows' surveys
 * started one sheet and sum up for mini wows
 * archived study group call and community call
 * added to [Trellis Discussion on funding, with invite to Study Group Call](https://www.trelliscience.com/#/discussions-about/12923/)
+* holiday photo sent reservation
+* update to Joe from Open Con
+* [Pulse jam session](https://docs.google.com/document/d/1YDJTcIghcmFohFkjF3HddXGVqbT-71pPH86JH-JTLuY/edit#)
 
 
 * get stats for gitter chats
