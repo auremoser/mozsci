@@ -2603,7 +2603,7 @@ putting together some visualizations of fellows' surveys
 * submitted transcription order form for [fellows' interview](http://transprof.wufoo.com/confirm/order-form/)
 * queue'd tweets for tomorrow
 
-### 12/15/16
+### 12/15/16- 16
 * meeting with Lou and Zannah about AAAS in January
 * meeting with Corinne, checkin for gdi
 * [Science Lab Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-dec15-2016)
@@ -2613,6 +2613,7 @@ putting together some visualizations of fellows' surveys
 * closed some issues in [plan repo](https://github.com/mozillascience/plan/issues/101)
 * started one sheet and sum up for mini wows
 * archived study group call and community call
+* added to [Trellis Discussion on funding, with invite to Study Group Call](https://www.trelliscience.com/#/discussions-about/12923/)
 
 
 * get stats for gitter chats
