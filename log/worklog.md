@@ -2617,6 +2617,8 @@ putting together some visualizations of fellows' surveys
 * holiday photo sent reservation
 * update to Joe from Open Con
 * [Pulse jam session](https://docs.google.com/document/d/1YDJTcIghcmFohFkjF3HddXGVqbT-71pPH86JH-JTLuY/edit#)
+* added Nerdcator to Network pulse, created a contributing.md and code_of_conduct.md for Nerdcator
+* added [nerdcator gitter](https://gitter.im/nerdcator/Lobby?source=orgpage)
 
 
 * get stats for gitter chats
