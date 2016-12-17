@@ -2617,8 +2617,9 @@ putting together some visualizations of fellows' surveys
 * holiday photo sent reservation
 * update to Joe from Open Con
 * [Pulse jam session](https://docs.google.com/document/d/1YDJTcIghcmFohFkjF3HddXGVqbT-71pPH86JH-JTLuY/edit#)
-* added Nerdcator to Network pulse, created a contributing.md and code_of_conduct.md for Nerdcator
+* added [Nerdcator](https://github.com/auremoser/nerdcator) to Network pulse, created a contributing.md and code_of_conduct.md for Nerdcator
 * added [nerdcator gitter](https://gitter.im/nerdcator/Lobby?source=orgpage)
+* prepped the [fellows' blog](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 
 
 * get stats for gitter chats
