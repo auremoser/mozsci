@@ -2620,6 +2620,10 @@ putting together some visualizations of fellows' surveys
 * added [Nerdcator](https://github.com/auremoser/nerdcator) to Network pulse, created a contributing.md and code_of_conduct.md for Nerdcator
 * added [nerdcator gitter](https://gitter.im/nerdcator/Lobby?source=orgpage)
 * prepped the [fellows' blog](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
+* gdi checkin, maybe hosting a class at 45 main in ny
+
+### 12/19/16
+* 
 
 
 * get stats for gitter chats
