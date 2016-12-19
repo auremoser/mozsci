@@ -2628,6 +2628,8 @@ putting together some visualizations of fellows' surveys
 * Hosted [book club tweet chat](https://docs.google.com/document/d/1DfBl3y4SkA_xZhHJ9JXahNU89JYnxdX5QEOHwmkenYY/edit#), wrote up a summary doc [here](https://public.etherpad-mozilla.org/p/2016-dec-book-club)
 * tweeted summary and the call for new book recommendations
 * travel booked for AAAS
+* checkin with AAAs about goals
+* net pulse standup at 3
 
 
 * get stats for gitter chats
