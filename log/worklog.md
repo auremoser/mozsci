@@ -2626,7 +2626,8 @@ putting together some visualizations of fellows' surveys
 * comment on [sloan report](https://docs.google.com/document/d/11WnEucUIlPaOE9SfMfzNyQWId-eZfDsgym30EJeeRE0/edit)
 * 1:1 with Steph [notes](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * Hosted [book club tweet chat](https://docs.google.com/document/d/1DfBl3y4SkA_xZhHJ9JXahNU89JYnxdX5QEOHwmkenYY/edit#), wrote up a summary doc [here](https://public.etherpad-mozilla.org/p/2016-dec-book-club)
-* tweeted summary an
+* tweeted summary and the call for new book recommendations
+* travel booked for AAAS
 
 
 * get stats for gitter chats
