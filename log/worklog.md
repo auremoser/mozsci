@@ -2623,7 +2623,8 @@ putting together some visualizations of fellows' surveys
 * gdi checkin, maybe hosting a class at 45 main in ny
 
 ### 12/19/16
-* 
+* comment on [sloan report](https://docs.google.com/document/d/11WnEucUIlPaOE9SfMfzNyQWId-eZfDsgym30EJeeRE0/edit)
+* 1:1 with Steph [notes](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
 * get stats for gitter chats
