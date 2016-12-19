@@ -2630,6 +2630,10 @@ putting together some visualizations of fellows' surveys
 * travel booked for AAAS
 * checkin with AAAs about goals
 * net pulse standup at 3
+* Fellows workweek
+  * dates and plans sent
+  * [etherpad agenda](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
+  * [dine around](https://public.etherpad-mozilla.org/p/2017-sf-dine-around)
 
 
 * get stats for gitter chats
