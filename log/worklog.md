@@ -2634,6 +2634,7 @@ putting together some visualizations of fellows' surveys
   * dates and plans sent
   * [etherpad agenda](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
   * [dine around](https://public.etherpad-mozilla.org/p/2017-sf-dine-around)
+* added eric olson to study group call and updated [etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017 ) with details
 
 
 * get stats for gitter chats
