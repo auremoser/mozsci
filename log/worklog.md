@@ -2637,6 +2637,7 @@ putting together some visualizations of fellows' surveys
 * added eric olson to study group call and updated [etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017 ) with details
 * gave projects feedback to club member on [discourse](https://forum.learning.mozilla.org/t/project-group-club-mentorship/1359) and pointed him to abi
 * started [comms document](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
+* fixed this [blog post from 2015 for steph](https://science.mozilla.org/blog/you-did-this-mozilla-science-global-sprint-2015)
 
 
 * get stats for gitter chats
