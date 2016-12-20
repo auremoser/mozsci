@@ -2638,22 +2638,34 @@ putting together some visualizations of fellows' surveys
 * gave projects feedback to club member on [discourse](https://forum.learning.mozilla.org/t/project-group-club-mentorship/1359) and pointed him to abi
 * started [comms document](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
 * fixed this [blog post from 2015 for steph](https://science.mozilla.org/blog/you-did-this-mozilla-science-global-sprint-2015)
+* sent kartones swag as requested through swag form
 
 ### 12/20/16
 * followed up with etienne and fellows
+* filled out [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-december-2016) with all updates
+* created institute pasteur [outreach doc](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit?usp=sharing)
+* documented miniwows and migrated them to the resources page.
+* made February Community Call Announcement and etherpad
+* prepped [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
+* Prepping Jan 6 Study Group Learning call w/ Trellis guest speaker: 
+[etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
+[event](https://science.mozilla.org/programs/events/studygroup-call-january-06)
+* Book Club Tweet Chat [Review](https://public.etherpad-mozilla.org/p/2016-dec-book-club_
+* [Fellows Workweek planning](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
+* [Newsletter for Friday/Thursday](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb09-2016) and [event](https://science.mozilla.org/programs/events/community-call-feb-09-11-et) for feb call
 
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
 * need to update [canned email](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit)
-* send kartones swag
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
 https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
 
-* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit) to fellows' exercise and do tweet chat recap ALSO add 
+* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
 * send out goal exercise followups to our fellows
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
