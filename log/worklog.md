@@ -2639,6 +2639,9 @@ putting together some visualizations of fellows' surveys
 * started [comms document](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
 * fixed this [blog post from 2015 for steph](https://science.mozilla.org/blog/you-did-this-mozilla-science-global-sprint-2015)
 
+### 12/20/16
+* followed up with etienne and fellows
+
 
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
