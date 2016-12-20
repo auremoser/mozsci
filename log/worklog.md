@@ -2654,6 +2654,7 @@ putting together some visualizations of fellows' surveys
 * [Fellows Workweek planning](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * [Newsletter for Friday/Thursday](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
 * [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb09-2016) and [event](https://science.mozilla.org/programs/events/community-call-feb-09-11-et) for feb call
+* meeting with Zannah and steph for planning
 
 
 * get stats for gitter chats
