@@ -2662,6 +2662,7 @@ putting together some visualizations of fellows' surveys
 * posted [Danielle's Blog Post on Women in STEM professional development](https://science.mozilla.org/blog/reflections-on-women-in-stem)
 * sent out tweets
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+* [sg orientation meeting with zannah and steph](https://public.etherpad-mozilla.org/p/scicencelab-sgorientation-blog)
 
 * reach out to vanessa write speak code
 * get stats for gitter chats
