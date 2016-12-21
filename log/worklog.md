@@ -2663,6 +2663,10 @@ putting together some visualizations of fellows' surveys
 * sent out tweets
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
 * [sg orientation meeting with zannah and steph](https://public.etherpad-mozilla.org/p/scicencelab-sgorientation-blog)
+* meeting with Lou about AAAS
+* some work on tomorrow's newsletter
+* [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
+* call with Vanessa
 
 * reach out to vanessa write speak code
 * get stats for gitter chats
