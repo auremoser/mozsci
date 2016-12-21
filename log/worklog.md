@@ -2658,6 +2658,11 @@ putting together some visualizations of fellows' surveys
 * [draft MSL Calendar](https://docs.google.com/spreadsheets/d/1KA8OKRPyaBd__obKmmnUNTuZagmcge9lGB4FQodXcGA/edit#gid=1853756154)
 * sent Amel and Antonio the Pasteur Institut doc
 
+### 12/21/16
+* posted [Danielle's Blog Post on Women in STEM professional development](https://science.mozilla.org/blog/reflections-on-women-in-stem)
+* sent out tweets
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=0)
+
 * reach out to vanessa write speak code
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
