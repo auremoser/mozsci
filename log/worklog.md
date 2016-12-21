@@ -2655,8 +2655,10 @@ putting together some visualizations of fellows' surveys
 * [Newsletter for Friday/Thursday](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
 * [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb09-2016) and [event](https://science.mozilla.org/programs/events/community-call-feb-09-11-et) for feb call
 * meeting with Zannah and steph for planning
+* [draft MSL Calendar](https://docs.google.com/spreadsheets/d/1KA8OKRPyaBd__obKmmnUNTuZagmcge9lGB4FQodXcGA/edit#gid=1853756154)
+* sent Amel and Antonio the Pasteur Institut doc
 
-
+* reach out to vanessa write speak code
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
