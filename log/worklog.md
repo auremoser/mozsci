@@ -2668,6 +2668,9 @@ putting together some visualizations of fellows' surveys
 * [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 * call with Vanessa
 
+
+### 12/22/16
+* stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 * reach out to vanessa write speak code
 * get stats for gitter chats
 * Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
@@ -2677,6 +2680,8 @@ putting together some visualizations of fellows' surveys
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
 * Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
 https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
+
+
 
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
 * send out goal exercise followups to our fellows
