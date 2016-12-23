@@ -2670,49 +2670,55 @@ putting together some visualizations of fellows' surveys
 
 
 ### 12/22/16
+
+## FRIDAY 
+* stage tweets about Study Group Orientation - January
+* send email to bruno inviting to SG orientation call
+* send out newsletter
 * stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
+* book tickets for San Francisco 2/5-2/10
+* design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * reach out to vanessa write speak code
 * get stats for gitter chats
-* Archive [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-december-2016#lineNumber=225)
 * fork visulization repo and add etherpads
 * need to update [canned email](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit)
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
-* Steph / Enter Mozfest (& other) presentations in Activity Form / by 11/11 pleeeeease
-https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform
+* Steph / Enter Mozfest (& other) presentations in [Activity Form / by 11/11 pleeeeease](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform)
 
 
-
+## OVER BREAK
+* figure out
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
-* send out goal exercise followups to our fellows
+* write book club blog
+* write fellows' interview blog
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
 * [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
-* finalize [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69) + update roadmap
+* update roadmap with [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69)
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
+* create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
-
-Monthly fellows reflection survey 
-https://goo.gl/forms/tpHYKYTykaY7QH5n2 
-Cool, I'd love to do this too!
-September reflection survey sent on Tuesday Oct 4th
-Next step: scheduling 30 minute 1:1 with host orgs (required)
-
-
-* review onboarding survey: https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit
-  * make one page bullets for feedback
-  * resources :
-    * [learn statistics on youtube](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
-    * [scraping software](http://www.octoparse.com/blog/top-30-free-web-scraping-software/)
+### FELLOWSHIPS PRE-WORKWEEK
+* [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
 * followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 * figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
-* write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
-* fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
 * followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
 * check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
+
+### OTHER TECH
+* write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
+* fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
+* need to add fellows forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
+* work on [encryption outline](https://public.etherpad-mozilla.org/p/mofo-secu)
+* do something with curriculum:
+  * [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
+  *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
+    * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
+  * [Code + Templates](https://github.com/auremoser/ipam-16/)
 
 
 IMMEDIATES
@@ -2721,36 +2727,47 @@ IMMEDIATES
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
 TODO
-* need to add fellows forms under surveys to [assets](https://docs.google.com/spreadsheets/d/14yFNifdhBYlmp25ssc31cYtSUhEZZT7-CqZQCAVbcWY/edit?ts=57569b31#gid=0)
-* work on encryption outline:https://public.etherpad-mozilla.org/p/mofo-secu
-* [Notes from workshop week](https://public.etherpad-mozilla.org/p/ipams-aure-2016)
-  *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
-    * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
-  * [Code + Templates](https://github.com/auremoser/ipam-16/)
+
+
+
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 * get data from _posts and match to Luke's json blog event report 
 * learn new CMS
-  * Here's a link to a workflow diagram for Calypso: https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf
-  * Here's the GitHub repo for the project: https://github.com/mozilla/wp-calypso
+  * Here's a link to a workflow diagram for [Calypso](https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf)
+  * Here's the [GitHub repo](project https://github.com/mozilla/wp-calypso) for the 
 
 
 ##### Call Ideas
 
-* weapons of math destruction theme + data science
+* **December 2016** ~~weapons of math destruction theme + data science~~
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+* **February 2016** - Art Science
+  * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
+  * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
+  * all people from visualized for Citizen science projects
+    * Tom Duscher
+    * Regina Flores Mir
+    * CDA student: Paul
+
+
+#### WOW PLAN
+Mar 5-11: Full on MSL led WOW for Science
+Location: Chicago, Boston, or Montreal
+I can fund 10 of your mentees to attend.  If you don't have that many, let's talk.
+The rest of the participants will be local who can attend on their own dime
+
+Fellows lead mini-WOWs: early April
+
+June 11-17 Fellows & MSL lead full WOW for Science, possibly w/ Pasteur Institut
+Location: Cape Town / Stellenbosch, South Africa
+Do you want mentees for this one?  Or would you prefer a later one for them to attend, closer to Mozfest?
+
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
-* New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
-* science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
 * Luke Thompson - EMP
-* all people from visualized for Citizen science projects
- * Tom Duscher
- * Regina Flores Mir
-
-
 
 #### STRATEGY
 **MONTHLY**
@@ -2765,6 +2782,7 @@ TODO
 * something with [steph's user doc](https://docs.google.com/spreadsheets/d/1p7R8VG9zJU9bhqx3v6LcNH_vHez_JuJGp5sF4LDgfxo/edit#gid=0)
 * contacts and regional owners
 * followup and outreach schedule
+* [communication plan]()
 
 
 
