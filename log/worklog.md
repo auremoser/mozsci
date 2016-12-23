@@ -2676,6 +2676,7 @@ putting together some visualizations of fellows' surveys
 * send email to bruno inviting to SG orientation call
 * send out newsletter
 * stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
+* submit [GSoC Student Application](https://wiki.mozilla.org/Community:SummerOfCode17:Brainstorming#Suggestion_List)
 * book tickets for San Francisco 2/5-2/10
 * design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * reach out to vanessa write speak code
@@ -2688,7 +2689,8 @@ putting together some visualizations of fellows' surveys
 
 
 ## OVER BREAK
-* figure out
+* review hackworkshop and fluent conf submissions
+* figure out [communication plan](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
 * write book club blog
 * write fellows' interview blog
