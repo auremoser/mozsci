@@ -2699,6 +2699,7 @@ putting together some visualizations of fellows' surveys
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
+
 ### FELLOWSHIPS PRE-WORKWEEK
 * [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
 * followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
@@ -2719,16 +2720,15 @@ putting together some visualizations of fellows' surveys
   *  [Talk/Presentation](https://docs.google.com/presentation/d/1fYlEFTvv1vS1NB_FRX3vhb3ZG2dOSFbJuqdd-H433A8/edit#slide=id.g1437ee384a_0_494)
     * [Tutorial/Script](https://gist.github.com/auremoser/c720b36e445eebb357954c94724f76ba)
   * [Code + Templates](https://github.com/auremoser/ipam-16/)
+* fix study group leadership training format to match [open leadership training guide](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/)
 
 
-IMMEDIATES
+### IMMEDIATES
 * add Matthew Collins (mcollins@acis.ufl.edu), beef with SC about the training cycle
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
-TODO
-
-
+### TODO
 
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 * get data from _posts and match to Luke's json blog event report 
