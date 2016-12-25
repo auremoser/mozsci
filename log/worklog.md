@@ -2671,12 +2671,19 @@ putting together some visualizations of fellows' surveys
 
 ### 12/22/16
 
-## FRIDAY 
+* collaborated on "[looking back](https://public.etherpad-mozilla.org/p/2016-looking-back)" post
 * stage tweets about Study Group Orientation - January
-* send email to bruno inviting to SG orientation call
 * send out newsletter
+
+## FRIDAY 
+* feedback to students on homework
+* image permissions
+
+
+* send email to bruno inviting to SG orientation call
 * stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 * submit [GSoC Student Application](https://wiki.mozilla.org/Community:SummerOfCode17:Brainstorming#Suggestion_List)
+* apply for space apps
 * book tickets for San Francisco 2/5-2/10
 * design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * reach out to vanessa write speak code
