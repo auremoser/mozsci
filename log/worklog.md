@@ -2675,9 +2675,14 @@ putting together some visualizations of fellows' surveys
 * stage tweets about Study Group Orientation - January
 * send out newsletter
 
-## FRIDAY 
+## 12/26/16
+
+* [merged foxiot pull request](https://github.com/mozillascience/studyGroupLessons/pull/79)
+* responded to some gitter stuff
 * feedback to students on homework
 * image permissions
+
+
 
 
 * send email to bruno inviting to SG orientation call
