@@ -2679,7 +2679,7 @@ putting together some visualizations of fellows' surveys
 
 * [merged foxiot pull request](https://github.com/mozillascience/studyGroupLessons/pull/79)
 * responded to Joseph Spens about Space Apps collaboration
-* applied to host Space Apps in Brooklyn
+* [applied](https://spaceappschallenge.wufoo.com/confirm/space-apps-challenge-2017-host-application/) to host Space Apps in Brooklyn
 * wrote to Stuart and Santiago about CartoDB collab
 * wrote staged tweets for SG orientation in Jan
 * added event for [February Community Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2017)
