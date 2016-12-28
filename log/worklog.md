@@ -2684,6 +2684,7 @@ putting together some visualizations of fellows' surveys
 * wrote staged tweets for SG orientation in Jan
 * added event for [February Community Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2017)
 * wrote to Lou and Bruno about SG orientation guest speaking
+* wrote [welcome message](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit) to sg leads/forks/interest form
 
 
 * responded to some gitter stuff
@@ -2721,6 +2722,9 @@ putting together some visualizations of fellows' surveys
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
+
+## AFTER BREAK
+* ask about GDI and about Space Apps hosting
 
 ### FELLOWSHIPS PRE-WORKWEEK
 * [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
