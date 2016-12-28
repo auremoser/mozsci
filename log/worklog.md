@@ -2686,6 +2686,9 @@ putting together some visualizations of fellows' surveys
 * wrote to Lou and Bruno about SG orientation guest speaking
 * wrote [welcome message](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit) to sg leads/forks/interest form
 
+### 12/28/16
+* worked on [productivity post](https://superyesmore.com/fc694633ff57184fcf2cf635124617b4) for alex
+
 
 * responded to some gitter stuff
 * feedback to students on homework
