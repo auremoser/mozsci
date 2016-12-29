@@ -2690,7 +2690,7 @@ putting together some visualizations of fellows' surveys
 * worked on [productivity post](https://superyesmore.com/fc694633ff57184fcf2cf635124617b4) for alex
 * graphic hunters conversation with Goof for April
 * posted study group announcements to Trellis
-
+* logged service [now request for Kirstie's Badge](https://mozilla.service-now.com/sp?sys_id=f5d16429dbe922006c3fb1c0ef96193b&view=sp&id=ticket&table=facilities_request)
 
 * responded to some gitter stuff
 * feedback to students on homework
