@@ -2689,6 +2689,7 @@ putting together some visualizations of fellows' surveys
 ### 12/28/16
 * worked on [productivity post](https://superyesmore.com/fc694633ff57184fcf2cf635124617b4) for alex
 * graphic hunters conversation with Goof for April
+* posted study group announcements to Trellis
 
 
 * responded to some gitter stuff
