@@ -2686,11 +2686,12 @@ putting together some visualizations of fellows' surveys
 * wrote to Lou and Bruno about SG orientation guest speaking
 * wrote [welcome message](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit) to sg leads/forks/interest form
 
-### 12/28/16
+### 12/28/16-12/29/16
 * worked on [productivity post](https://superyesmore.com/fc694633ff57184fcf2cf635124617b4) for alex
 * graphic hunters conversation with Goof for April
 * posted study group announcements to Trellis
 * logged service [now request for Kirstie's Badge](https://mozilla.service-now.com/sp?sys_id=f5d16429dbe922006c3fb1c0ef96193b&view=sp&id=ticket&table=facilities_request)
+* invited Rachel Sussman to community call on 2/9
 
 * responded to some gitter stuff
 * feedback to students on homework
