@@ -2692,6 +2692,9 @@ putting together some visualizations of fellows' surveys
 * posted study group announcements to Trellis
 * logged service [now request for Kirstie's Badge](https://mozilla.service-now.com/sp?sys_id=f5d16429dbe922006c3fb1c0ef96193b&view=sp&id=ticket&table=facilities_request)
 * invited Rachel Sussman to community call on 2/9
+* made a contact for Space apps
+* working on book club picks
+
 
 * responded to some gitter stuff
 * feedback to students on homework
