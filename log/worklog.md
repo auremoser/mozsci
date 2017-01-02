@@ -3,6 +3,7 @@
 ### 1/2/16
 * fellows' call prep - sent email and started [etherpad](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 * sent reminder to Study Group Leads for [Friday Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
+* Fluent Conference Proposals for O'Reilly
 
 
 Switching for new year new worklog!
