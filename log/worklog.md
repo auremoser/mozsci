@@ -1,12 +1,15 @@
-## worklog 2016
+## worklog 2017
 
-### 1/2/16
+### 1/2/17
 * fellows' call prep - sent email and started [etherpad](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 * sent reminder to Study Group Leads for [Friday Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 * Fluent Conference Proposals for O'Reilly
 
+### 1/3/17
+* caught up on Gitter
+* sent Lou my Trellis questionnaire for the Community Lead symposium next week
+* confirmed Achintya as emcee for [Friday's Study Group Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 
-Switching for new year new worklog!
 
 
 
@@ -14,6 +17,7 @@ Switching for new year new worklog!
 * responded to some gitter stuff
 * feedback to students on homework
 * image permissions
+* study-up on documents that Zannah shared for the Trellis stuff
 
 
 
