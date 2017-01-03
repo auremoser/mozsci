@@ -15,6 +15,7 @@
 * wrote back to Jon and Stuart about Space Apps prep
 * check-in with Steph [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * plugged [newsletter on twitter](https://twitter.com/MozillaScience/status/816319671456645120)
+* wrote to peter about WOW in Montreal
 
 
 
