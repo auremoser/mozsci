@@ -4,12 +4,15 @@
 * fellows' call prep - sent email and started [etherpad](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 * sent reminder to Study Group Leads for [Friday Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
 * Fluent Conference Proposals for O'Reilly
+* sent email to bruno inviting to SG orientation call
 
 ### 1/3/17
 * caught up on Gitter
 * sent Lou my Trellis questionnaire for the Community Lead symposium next week
 * confirmed Achintya as emcee for [Friday's Study Group Call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017)
-
+* replied to some tweets
+* put together [space apps contacts](https://docs.google.com/spreadsheets/d/1fXLdorN9m9GufKfcL6MYBPr4wjVL5s-2thshhvJnC0Q/edit?usp=sharing)
+* wrote back to Jon and Stuart about Space Apps prep
 
 
 
@@ -22,7 +25,7 @@
 
 
 
-* send email to bruno inviting to SG orientation call
+
 * stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 * submit [GSoC Student Application](https://wiki.mozilla.org/Community:SummerOfCode17:Brainstorming#Suggestion_List)
 * apply for space apps
