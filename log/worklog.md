@@ -13,6 +13,7 @@
 * replied to some tweets
 * put together [space apps contacts](https://docs.google.com/spreadsheets/d/1fXLdorN9m9GufKfcL6MYBPr4wjVL5s-2thshhvJnC0Q/edit?usp=sharing)
 * wrote back to Jon and Stuart about Space Apps prep
+* check-in with Steph [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
 
