@@ -17,23 +17,18 @@
 * plugged [newsletter on twitter](https://twitter.com/MozillaScience/status/816319671456645120)
 * wrote to peter about WOW in Montreal
 * finished easy chair reviews for CMU hackworkshops
+* booked tickets for San Francisco 2/5-2/10
 
 
-
+* ask about GDI and about Space Apps hosting
 * book club picks prep
-* responded to some gitter stuff
 * feedback to students on homework
 * image permissions
 * study-up on documents that Zannah shared for the Trellis stuff
 
 
-
-
-
 * stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
 * submit [GSoC Student Application](https://wiki.mozilla.org/Community:SummerOfCode17:Brainstorming#Suggestion_List)
-* apply for space apps
-* book tickets for San Francisco 2/5-2/10
 * design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * reach out to vanessa write speak code
 * get stats for gitter chats
@@ -45,7 +40,6 @@
 
 
 ## OVER BREAK
-* review hackworkshop and fluent conf submissions
 * figure out [communication plan](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
 * add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
 * write book club blog
@@ -57,9 +51,6 @@
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
-
-## AFTER BREAK
-* ask about GDI and about Space Apps hosting
 
 ### FELLOWSHIPS PRE-WORKWEEK
 * [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
