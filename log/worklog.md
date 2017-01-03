@@ -18,6 +18,7 @@
 * wrote to peter about WOW in Montreal
 * finished easy chair reviews for CMU hackworkshops
 * booked tickets for San Francisco 2/5-2/10
+* edited [Graphic Hunters Submission text](https://docs.google.com/document/d/1SkvCQrRoJ_PK-W3sWXoSRcdTu8bmUGaIanqnEjSJCTY/edit)
 
 
 * ask about GDI and about Space Apps hosting
