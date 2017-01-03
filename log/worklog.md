@@ -16,6 +16,7 @@
 * check-in with Steph [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * plugged [newsletter on twitter](https://twitter.com/MozillaScience/status/816319671456645120)
 * wrote to peter about WOW in Montreal
+* finished easy chair reviews for CMU hackworkshops
 
 
 
@@ -157,4 +158,5 @@ Do you want mentees for this one?  Or would you prefer a later one for them to a
 * [open cohort notes](https://public.etherpad-mozilla.org/p/cohort-brainstorm-notes)
 * [aurelia's study group notes](https://docs.google.com/document/d/1e_ATJYtXwoWfHYLFwYSoodyc06oJQLJ_qqBxbakdtDc/edit?ts=5661810d)
 * [design dailies](http://desktopdailies.tumblr.com/)
-* [fellows' planning doc]
+* [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
+* [Fellowship Plan/Process](https://public.etherpad-mozilla.org/p/fellowship-process) also in a google doc
