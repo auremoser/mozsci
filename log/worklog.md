@@ -28,8 +28,9 @@
 * published book club survey tweet
 * met with Achintya about Study Group Community Call
 * individual updates to all study group call leads in the pad
+* design survey for [fellows' workweek](https://goo.gl/forms/d9J5QnqyluvSxo4r2)
+* hosted [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 
-* design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * reach out to vanessa write speak code
 
 	* squaring away hotels, squaring away space and service now request
@@ -42,7 +43,7 @@ IDEAS for COMMUNITY CALL
 * [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
-
+* checkin with updates
 * ask about GDI and about Space Apps hosting
 * book club picks prep
 * feedback to students on homework
