@@ -18,7 +18,29 @@
 * wrote to peter about WOW in Montreal
 * finished easy chair reviews for CMU hackworkshops
 * booked tickets for San Francisco 2/5-2/10
-* edited [Graphic Hunters Submission text](https://docs.google.com/document/d/1SkvCQrRoJ_PK-W3sWXoSRcdTu8bmUGaIanqnEjSJCTY/edit)
+* edited [Graphic Hunters Submission text](https://docs.google.com/document/d/1SkvCQrRoJ_PK-W3sWXoSRcdTu8bmUGaIanqnEjSJCTY/)
+* wrote up fellowship review for Hannah
+
+### 1/4/17
+* responded to some emails from trellis folks
+* e-troduction on Trellis
+* talked to Vanessa about fellowship [timeline](https://docs.google.com/spreadsheets/d/1FzD1X7IBbX6_vAAUpO1zfFabP3GZMNKJC_4U9iszD9c/edit?ts=586d11f3#gid=112930183)
+* published book club survey tweet
+* met with Achintya about Study Group Community Call
+* individual updates to all study group call leads in the pad
+
+* design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
+* reach out to vanessa write speak code
+
+	* squaring away hotels, squaring away space and service now request
+	* make short survey
+		* 1.5 - 3 hrs - skill shares and coworking
+		* anything you want to teach/learn/hear speak/coworking
+		* monday morning big breakfast /successes and challenges
+
+IDEAS for COMMUNITY CALL
+* [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
+* [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
 
 * ask about GDI and about Space Apps hosting
