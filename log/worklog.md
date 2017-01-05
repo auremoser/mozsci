@@ -45,6 +45,9 @@
 * danielle's travel approvals, updates to fellows' doc, dates discussion with Steph and Zannah
 * wrote to Deal Projekt about boycott of Elselvier
 * added diversity [exercise to shared drive](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHckFGWmxfY19yOE0)
+* made [girl develop it event](https://www.meetup.com/girldevelopit/events/236704335/)
+	* emailed brooklyn @ about it
+* printed Diversity/Inclusion exercise for AAAS next week
 
 
 
@@ -52,9 +55,7 @@ IDEAS for COMMUNITY CALL
 * [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
-* reach out to vanessa write speak code
 * fix SGO site
-* ask about GDI and about Space Apps hosting
 * book club picks prep
 * feedback to students on homework
 * image permissions
