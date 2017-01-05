@@ -50,11 +50,11 @@
 * printed Diversity/Inclusion exercise for AAAS next week
 * invited Paul Villoutreix to our community call as a speaker
 * invited Titus Woormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
+* invited Pasquale da Silva to Community Call in February to talk about [synaesthesia project](https://laughingsquid.com/a-fascinating-visualization-of-how-a-person-with-color-synesthesia-perceives-music/)
 
 
 
 IDEAS for COMMUNITY CALL
-* [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
 * get back to Peter about [WOW expectations](ttps://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
