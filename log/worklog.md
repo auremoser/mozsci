@@ -31,19 +31,28 @@
 * design survey for [fellows' workweek](https://goo.gl/forms/d9J5QnqyluvSxo4r2)
 * hosted [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 
-* reach out to vanessa write speak code
-
 	* squaring away hotels, squaring away space and service now request
 	* make short survey
 		* 1.5 - 3 hrs - skill shares and coworking
 		* anything you want to teach/learn/hear speak/coworking
 		* monday morning big breakfast /successes and challenges
 
+
+### 1/5/17
+* emails
+* kirstie's blog post read
+* [meeting on minigrants](https://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
+* danielle's travel approvals, updates to fellows' doc, dates discussion with Steph and Zannah
+* wrote to Deal Projekt about boycott of Elselvier
+
+
+
 IDEAS for COMMUNITY CALL
 * [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
-* checkin with updates
+* reach out to vanessa write speak code
+* fix SGO site
 * ask about GDI and about Space Apps hosting
 * book club picks prep
 * feedback to students on homework
