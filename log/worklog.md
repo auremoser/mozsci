@@ -55,17 +55,15 @@ IDEAS for COMMUNITY CALL
 * [Titus Woormer of the worm project](tituswormer@gmail.com) + [worm](https://github.com/wooorm/write-music#show-last-Point)
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 
+* get back to Peter about [WOW expectations](ttps://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
 * fix SGO site
 * book club picks prep
+	* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
+	*  stage tweets for book club + write blog post
 * feedback to students on homework
 * image permissions
 * study-up on documents that Zannah shared for the Trellis stuff
-
-
-* stage tweets for book club [suggestions](https://public.etherpad-mozilla.org/p/2016-science-fellows-dec21)
-* submit [GSoC Student Application](https://wiki.mozilla.org/Community:SummerOfCode17:Brainstorming#Suggestion_List)
-* design survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
-* reach out to vanessa write speak code
+* check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * get stats for gitter chats
 * fork visulization repo and add etherpads
 * need to update [canned email](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit)
@@ -76,8 +74,6 @@ IDEAS for COMMUNITY CALL
 
 ## OVER BREAK
 * figure out [communication plan](https://docs.google.com/document/d/1j2vaRCxoRIVxKj7O52lj5A8XVk0Qobo53fYy2rg6hUg/edit#)
-* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
-* write book club blog
 * write fellows' interview blog
 * [revisit fellows' exercises](https://github.com/mozillascience/plan/issues/94)
 * [ga issue](https://github.com/MozillaFoundation/mofo-devops/issues/418)
