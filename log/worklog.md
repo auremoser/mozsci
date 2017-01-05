@@ -44,6 +44,7 @@
 * [meeting on minigrants](https://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
 * danielle's travel approvals, updates to fellows' doc, dates discussion with Steph and Zannah
 * wrote to Deal Projekt about boycott of Elselvier
+* added diversity [exercise to shared drive](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHckFGWmxfY19yOE0)
 
 
 
