@@ -48,6 +48,8 @@
 * made [girl develop it event](https://www.meetup.com/girldevelopit/events/236704335/)
 	* emailed brooklyn @ about it
 * printed Diversity/Inclusion exercise for AAAS next week
+* invited Paul Villoutreix to our community call as a speaker
+* invited Titus Woormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
 
 
 
