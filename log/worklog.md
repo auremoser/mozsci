@@ -55,7 +55,7 @@
 ### 1/6/17
 * spent way to much time trying to decrypt something with Keybase
 * tweeted about the Study Group Call at 11
-
+* reviewed steph's [participation form](https://docs.google.com/a/mozillafoundation.org/forms/d/1UuWyuBlAPqYRGR5s3TyFzhbBpYPHxZIEp_v3swcG2yI/edit?ts=586ecf81)
 
 IDEAS for COMMUNITY CALL
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
