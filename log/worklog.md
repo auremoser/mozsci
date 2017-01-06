@@ -29,6 +29,7 @@
 * met with Achintya about Study Group Community Call
 * individual updates to all study group call leads in the pad
 * design survey for [fellows' workweek](https://goo.gl/forms/d9J5QnqyluvSxo4r2)
+* fellows [workweek prep](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * hosted [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan04)
 
 	* squaring away hotels, squaring away space and service now request
@@ -60,11 +61,18 @@
 * hosted [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017#lineNumber=105)
 * tweeted recap, uploaded video to youtube
 * speaker thank you sent
+* got back to Peter about [WOW expectations](ttps://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
+* posted kirstie's blog, how do [twitter book clubs work](https://science.mozilla.org/blog/how-do-twitter-book-clubs-work)
+* wrote back to Aman Jain, community member who wants to be involved
+* meetings
+* updated [OHSU Study Group on the Map](https://science.mozilla.org/programs/studygroups)
+
+* get stickers - mozilla science + foxes
+* start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
+* blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 
 IDEAS for COMMUNITY CALL
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
-
-* get back to Peter about [WOW expectations](ttps://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
 * fix SGO site
 * book club picks prep
 	* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
