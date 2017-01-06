@@ -52,6 +52,9 @@
 * invited Titus Woormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
 * invited Pasquale da Silva to Community Call in February to talk about [synaesthesia project](https://laughingsquid.com/a-fascinating-visualization-of-how-a-person-with-color-synesthesia-perceives-music/)
 
+### 1/6/17
+* spent way to much time trying to decrypt something with Keybase
+* tweeted about the Study Group Call at 11
 
 
 IDEAS for COMMUNITY CALL
