@@ -59,6 +59,7 @@
 * plugged study group orientation on open con forum
 * hosted [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017#lineNumber=105)
 * tweeted recap, uploaded video to youtube
+* speaker thank you sent
 
 IDEAS for COMMUNITY CALL
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
