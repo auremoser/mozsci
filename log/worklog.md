@@ -56,6 +56,9 @@
 * spent way to much time trying to decrypt something with Keybase
 * tweeted about the Study Group Call at 11
 * reviewed steph's [participation form](https://docs.google.com/a/mozillafoundation.org/forms/d/1UuWyuBlAPqYRGR5s3TyFzhbBpYPHxZIEp_v3swcG2yI/edit?ts=586ecf81)
+* plugged study group orientation on open con forum
+* hosted [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017#lineNumber=105)
+* tweeted recap, uploaded video to youtube
 
 IDEAS for COMMUNITY CALL
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
