@@ -69,6 +69,7 @@
 * grant maker meeting with Fluxx - anyone applying for a grant through mozilla can apply through fluxx
 * started filling out [newsletter links](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
 * really productive meeting about Science Hack day and Space Apps
+* [wrote proposal for data & society workshop](https://docs.google.com/document/d/1ptZYdEPnk5qSEDbckj1Z8BtggZn10hO4580mmaf4nY4/edit?usp=sharing) on May 19th
 
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
