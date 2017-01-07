@@ -66,6 +66,9 @@
 * wrote back to Aman Jain, community member who wants to be involved
 * meetings
 * updated [OHSU Study Group on the Map](https://science.mozilla.org/programs/studygroups)
+* grant maker meeting with Fluxx - anyone applying for a grant through mozilla can apply through fluxx
+* started filling out [newsletter links](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* really productive meeting about Science Hack day and Space Apps
 
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
