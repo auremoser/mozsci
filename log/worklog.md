@@ -86,7 +86,10 @@
 	* [monday](https://docs.google.com/document/d/1rWZdM-vPwVP5wXyZ6_Ih5s83PxmYzIFJ9PlSHt-IoZs/edit#heading=h.7i965w93umu7)
 	* [tuesday](https://docs.google.com/document/d/1MaBbjCsG4y88sc7QPPL4_tD5HFksHjmGBTHEpyjjkgo/edit#heading=h.7i965w93umu7)
 	* [wednesday](https://docs.google.com/document/d/1DKXxv4fpuI2SJIg7gbguN582YJNzo76jJxPQXSMeusY/edit#heading=h.7i965w93umu7)
-	* [thursday]()
+
+* wrote welcome message for [Middlebury Humanities Data in R Study group](https://rkclement.github.io/studyGroup/)
+* added to leads and targets list
+* updated website django and map
 
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
