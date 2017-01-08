@@ -72,6 +72,22 @@
 * [wrote proposal for data & society workshop](https://docs.google.com/document/d/1ptZYdEPnk5qSEDbckj1Z8BtggZn10hO4580mmaf4nY4/edit?usp=sharing) on May 19th
 * updated [space apps details here](https://docs.google.com/spreadsheets/d/1YQxuvptIlaqD3QN3zdyo_Gy7QDRHuVlijFDLlROd6FE/edit#gid=0)
 
+### 1/7/16
+* worked out [Outline for AAAS Workshop on Community Guidelines](https://docs.google.com/document/d/1O0Im0k-Ta8QUUw1v_HfmQTX1FAOa6uJeLWAcNC90BKQ/edit#)
+* created [repo of resources](https://github.com/auremoser/aaas-guides)
+* created [website](https://auremoser.github.io/aaas-guides/)
+* backgroud
+	* [aims for community managers](https://docs.google.com/document/d/1uQCkxToW7qz7hHrkfiP3YESsXoVuJdk5c2GBiwjNwVM/edit#heading=h.bk8qj3xht6wm)
+	* [curriculum workshop plan](https://drive.google.com/drive/u/0/folders/0By3mWB2Ntw0DZFNmYTNFb25PaEU)
+	* [program scope](https://docs.google.com/document/d/1ibWVWWUfAuZy-5JutGuWNtpVU7gC3QP2Wa3PD2BioYI/edit#heading=h.2jmhq5o0dc5d)
+	* [tone/experience](https://docs.google.com/document/d/177tH8tdM-vCulCUMfjWaOh9zPIN9ySfgUOQraZaDr9A/edit#heading=h.gwnrce3sqkij)
+* mentorship docs
+	* [sunday](https://docs.google.com/document/d/1ljuPK9EoWn0AayGRSJ9YiyKlNaqaSKPnPdYNqdHRXaA/edit#heading=h.7i965w93umu7)
+	* [monday](https://docs.google.com/document/d/1rWZdM-vPwVP5wXyZ6_Ih5s83PxmYzIFJ9PlSHt-IoZs/edit#heading=h.7i965w93umu7)
+	* [tuesday](https://docs.google.com/document/d/1MaBbjCsG4y88sc7QPPL4_tD5HFksHjmGBTHEpyjjkgo/edit#heading=h.7i965w93umu7)
+	* [wednesday](https://docs.google.com/document/d/1DKXxv4fpuI2SJIg7gbguN582YJNzo76jJxPQXSMeusY/edit#heading=h.7i965w93umu7)
+	* [thursday]()
+
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
