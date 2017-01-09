@@ -91,11 +91,10 @@
 * posted book club [tweet chat event](https://science.mozilla.org/programs/events/bc-february-2016)
 * wrote up book club [tweet chat blog](https://science.mozilla.org/blog/book-club-february)
 * scheduled [graphic hunters trip in the netherlands](https://public.etherpad-mozilla.org/p/1_1_Aurelia#lineNumber=5)
-
-
 * wrote welcome message for [Middlebury Humanities Data in R Study group](https://rkclement.github.io/studyGroup/)
 * added to leads and targets list
 * updated website django and map
+* updated [my checkin](https://public.etherpad-mozilla.org/p/1_1_Aurelia#lineNumber=5) for steph/zannah
 
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
