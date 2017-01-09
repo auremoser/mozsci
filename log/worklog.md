@@ -96,6 +96,10 @@
 * updated website django and map
 * updated [my checkin](https://public.etherpad-mozilla.org/p/1_1_Aurelia#lineNumber=5) for steph/zannah
 
+### 1/9/17
+* tweeted about open web fellows
+* emailed Geoffrey at IBM about WOW in June and Call for Open Web Fellows hosting
+
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
