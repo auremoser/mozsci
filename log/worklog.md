@@ -87,6 +87,11 @@
 	* [tuesday](https://docs.google.com/document/d/1MaBbjCsG4y88sc7QPPL4_tD5HFksHjmGBTHEpyjjkgo/edit#heading=h.7i965w93umu7)
 	* [wednesday](https://docs.google.com/document/d/1DKXxv4fpuI2SJIg7gbguN582YJNzo76jJxPQXSMeusY/edit#heading=h.7i965w93umu7)
 
+### 1/8/17
+* posted book club [tweet chat event](https://science.mozilla.org/programs/events/bc-february-2016)
+* wrote up book club [tweet chat blog]()
+
+
 * wrote welcome message for [Middlebury Humanities Data in R Study group](https://rkclement.github.io/studyGroup/)
 * added to leads and targets list
 * updated website django and map
