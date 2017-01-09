@@ -35,6 +35,10 @@ AAAS Notes
 	'''
 	* communities are networks of relationships not just content sharing - more like a graph, not a centralized network
 	* Management techniques: hierarchy, emergent community, community, networked
+	* 5 elements important to community members
+		* develop community programs ot increase connection, trust, and desired behaviors
+	* Share out loud model
+		* validate out loud, share out loud, ask and answers out loud, explore out loud
 
 * Profiling Community Members
 * Shared purpose and Shared Value
