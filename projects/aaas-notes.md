@@ -44,3 +44,26 @@ AAAS Notes
 * Shared purpose and Shared Value
 * Key Behaviors
 * Translating Strategy to Action
+
+
+## Tuesday
+### Content
+
+* building trust, allowing members to express themselves
+* AAAS intro
+	* AAAS = American Association for the Advancement of Sciences
+	* over 60 years of activity, now let by Rush Holt
+	* "being the force for science"
+		* defending science, 40+ years of budget analysis, NSF social sciences funding
+		* convening cross-sector, trans-disciplinary teams to identify opportunities for philanthropy
+		* guide program development in certain expertise
+		* strengthening grant review processes
+		* provide access to topics in all disciplines
+		* study areas of key importance in science policy
+	* AAAS S&T Policy Fellows
+	* AAAS Science and diplomacy
+
+* Lightning talks 
+	* Blogging - Malin
+	* Event facilitation - Amber
+	* Mentoring Program - Rosanna
