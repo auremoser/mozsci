@@ -102,6 +102,7 @@
 * created [WOW invite list](https://docs.google.com/a/mozilla.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit?usp=sharing)
 * responded to Peter and asked for listservs
 * made [space apps planning issue](https://github.com/sciencehackdayny/space-apps-17/issues/1) + repo with [gitter room](https://gitter.im/space-apps-17/Lobby#)
+* [service now request for bruno](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=c6113aacdb107e00be1b7d3ebf9619cd)
 
 ### 1/10/17
 * AAAS Day 3
