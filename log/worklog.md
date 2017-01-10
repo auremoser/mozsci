@@ -110,6 +110,7 @@
 * retweeted Kirstie's global thinkers blog
 * wrote to transcription professionals about invoice for Pamela
 * processed Madeleines' reimbursement, updated [mini-grants sheet](https://docs.google.com/spreadsheets/d/1sOYdt0euepHuBzwuIx_50GVl6kUHLEfTnJGqp-1PvFg/edit#gid=0)
+* created [teach/learn spreadsheet](https://docs.google.com/spreadsheets/d/1LcExppK58z9-9-8WKU_xIZlTyVJwZUl_9InW_CG_Px4/edit?usp=sharing)
 
 
 
