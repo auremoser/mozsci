@@ -99,12 +99,28 @@
 ### 1/9/17
 * tweeted about open web fellows
 * emailed Geoffrey at IBM about WOW in June and Call for Open Web Fellows hosting
+* created [WOW invite list](https://docs.google.com/a/mozilla.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit?usp=sharing)
+* responded to Peter and asked for listservs
+* made [space apps planning issue](https://github.com/sciencehackdayny/space-apps-17/issues/1) + repo with [gitter room](https://gitter.im/space-apps-17/Lobby#)
+
+### 1/10/17
+* AAAS Day 3
+* updated study groups [here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* retweeted Kirstie's global thinkers blog
+
+
+
+
+TO DOS
 
 * get stickers - mozilla science + foxes
 * start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 
 IDEAS for COMMUNITY CALL
+* Zach Lieberman projects [Land Lines](https://developers.google.com/web/showcase/2016/land-lines)
+* Robby Kraft origami science
+
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 * fix SGO site
 * book club picks prep
