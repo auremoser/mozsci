@@ -107,6 +107,8 @@
 * AAAS Day 3
 * updated study groups [here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * retweeted Kirstie's global thinkers blog
+* wrote to transcription professionals about invoice for Pamela
+* processed Madeleines' reimbursement, updated [mini-grants sheet](https://docs.google.com/spreadsheets/d/1sOYdt0euepHuBzwuIx_50GVl6kUHLEfTnJGqp-1PvFg/edit#gid=0)
 
 
 
