@@ -94,4 +94,15 @@ AAAS Notes
 	* tools and technical infrastructure
 	* time-commitment requirements
 * research: multidisciplinary projects are superior for innovation, more universities involved result in few coordination mechanisms and therefore less productivity
+* Tools for setting expectations
+	* investigation level: "welcome to my team letter"
+	* team level: "precollaboration agreement"
+	* initiative level: "operating manual"
+	* all levels: "collaboration plan"
 
+* 4 phases
+	* development phase: brainstorming goals and key processes
+	* conceptualization phase: scope is complete, figure out actual question
+	* implementation phase: launch conduct and refine the planned TD research
+	* translation phase: advance progress along the discovery-development-deliverable pathway
+* **TD-net's Toolbox** - Team Science Toolkit
