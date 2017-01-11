@@ -67,3 +67,31 @@ AAAS Notes
 	* Blogging - Malin
 	* Event facilitation - Amber
 	* Mentoring Program - Rosanna
+
+* TAKEAWAYS
+	* amplification of resources
+	* audit workflow for assets
+	* blog series: use this for sicence
+
+## Wednesday
+### Science of Team Science (SCITS)
+
+* Kara l. Hall, Team Science and Collaboration Planning
+* collaboration is complex : mulit-level, multi-factoial, interacting influences
+* continuum of disciplinary integration
+	* transdisciplinary - different disciplines work jointly 
+	* multidisciplinary - different disciplines work sequentially in own disciplines
+	* interdisciplinary - different disciplines work jointly 
+	* unidisciplinary - one discipline
+* developing translational tools - the toolbox
+* **dimensions of teams: diversity, integration, size, proximity**
+* collaboration plan
+	* defining roles
+	* defining mission
+	* timeline and dependencies
+	* deliverables, who has final say
+	* conflict resolution and how to best moderate
+	* tools and technical infrastructure
+	* time-commitment requirements
+* research: multidisciplinary projects are superior for innovation, more universities involved result in few coordination mechanisms and therefore less productivity
+
