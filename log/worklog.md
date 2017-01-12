@@ -116,6 +116,9 @@
 * updated [checkin for team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
 * invited Lauren Mack to our Community Call in February
 
+### 1/12/17
+* drafted [questions for the deal projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
+
 
 
 
