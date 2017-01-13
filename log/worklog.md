@@ -121,8 +121,10 @@
 
 ### 1/13/17
 * worked through Friday [Community Guidelines](https://docs.google.com/document/d/1O0Im0k-Ta8QUUw1v_HfmQTX1FAOa6uJeLWAcNC90BKQ/edit#) listing
+* filled out CEFP participation template
 
-
+* process receipts for Trellis
+* write blog post for sci lab
 
 TO DOS
 
