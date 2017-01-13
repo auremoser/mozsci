@@ -119,6 +119,8 @@
 ### 1/12/17
 * drafted [questions for the deal projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
 
+### 1/13/17
+* worked through Friday [Community Guidelines](https://docs.google.com/document/d/1O0Im0k-Ta8QUUw1v_HfmQTX1FAOa6uJeLWAcNC90BKQ/edit#) listing
 
 
 
