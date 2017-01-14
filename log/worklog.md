@@ -122,6 +122,8 @@
 ### 1/13/17
 * worked through Friday [Community Guidelines](https://docs.google.com/document/d/1O0Im0k-Ta8QUUw1v_HfmQTX1FAOa6uJeLWAcNC90BKQ/edit#) listing
 * filled out CEFP participation template
+* added [new study group](https://jepa.github.io/studyGroup/) at UBC to map/site/leads/welcome message
+* emailed questions for [DEAL Projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
 
 * process receipts for Trellis
 * write blog post for sci lab
