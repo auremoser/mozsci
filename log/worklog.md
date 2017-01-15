@@ -124,9 +124,8 @@
 * filled out CEFP participation template
 * added [new study group](https://jepa.github.io/studyGroup/) at UBC to map/site/leads/welcome message
 * emailed questions for [DEAL Projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
-
+* blog for AAAS
 * process receipts for Trellis
-* write blog post for sci lab
 
 TO DOS
 
