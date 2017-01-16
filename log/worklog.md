@@ -119,13 +119,14 @@
 ### 1/12/17
 * drafted [questions for the deal projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
 
-### 1/13/17
+### 1/13/17 - 1/16/17
 * worked through Friday [Community Guidelines](https://docs.google.com/document/d/1O0Im0k-Ta8QUUw1v_HfmQTX1FAOa6uJeLWAcNC90BKQ/edit#) listing
 * filled out CEFP participation template
 * added [new study group](https://jepa.github.io/studyGroup/) at UBC to map/site/leads/welcome message
 * emailed questions for [DEAL Projekt](https://public.etherpad-mozilla.org/p/deal-pub-questions)
 * blog for AAAS
 * process receipts for Trellis
+* updated a new study group welcome message [here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 TO DOS
 
