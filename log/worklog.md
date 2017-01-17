@@ -137,9 +137,17 @@
 * sent a video to vicki for his tamil nadu mozillians day
 * made internal [presentation for mozilla science lab 101](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1b940793bd_0_12)
 * met with Zannah about Study Group Call tomorrow
+* monthly internal call
+* meeting 1:1 with Steph
+* invited "[hey what's that](http://www.heywhatsthat.com/?view=VRQNN124)" to the community call
+* science lab [checkin form here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
+* closed a bunch of [study group issues](https://github.com/mozillascience/studyGroup/issues)
+* practiced talk for tomorrow with study groups
+
 
 * invite speakers to calendar event
 * make a template for #scignups hashtags
+* create Fluxx documentation for Kalpana
 
 
 
