@@ -61,7 +61,7 @@
 * hosted [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-january-2017#lineNumber=105)
 * tweeted recap, uploaded video to youtube
 * speaker thank you sent
-* got back to Peter about [WOW expectations](ttps://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
+* got back to Peter about [WOW expectations](https://public.etherpad-mozilla.org/p/sciencelab-work-201701-WOW)
 * posted kirstie's blog, how do [twitter book clubs work](https://science.mozilla.org/blog/how-do-twitter-book-clubs-work)
 * wrote back to Aman Jain, community member who wants to be involved
 * meetings
@@ -128,6 +128,10 @@
 * process receipts for Trellis
 * updated a new study group welcome message [here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * invited Bill Mills of [Geosprocket Art project](http://geosprocket.bigcartel.com/contact) of Mozilla Community Call
+* [meteor showers visualization project](http://www.ianww.com/meteor-showers/)
+
+### 1/17/17
+* ran a successful GDI meetup last night, filled out Steph's form for the [GDI Meetup](https://www.meetup.com/girldevelopit/events/236704335/)
 
 TO DOS
 
