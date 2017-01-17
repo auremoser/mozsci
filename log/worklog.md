@@ -133,7 +133,7 @@
 ### 1/17/17
 * ran a successful GDI meetup last night, filled out Steph's form for the [GDI Meetup](https://www.meetup.com/girldevelopit/events/236704335/)
 * added ian webster to our visualization call next month
-* invited Datatelling (Jen Lowe) to our community call
+* invited Datatelling (Jen Lowe) to our community call about [this project](https://www.instagram.com/p/BPLPvbnDydo/)
 
 
 * invite speakers to calendar event
