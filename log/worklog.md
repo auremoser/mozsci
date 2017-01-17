@@ -139,6 +139,7 @@
 * met with Zannah about Study Group Call tomorrow
 
 * invite speakers to calendar event
+* make a template for #scignups hashtags
 
 
 
