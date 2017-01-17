@@ -134,10 +134,12 @@
 * ran a successful GDI meetup last night, filled out Steph's form for the [GDI Meetup](https://www.meetup.com/girldevelopit/events/236704335/)
 * added ian webster to our visualization call next month
 * invited Datatelling (Jen Lowe) to our community call about [this project](https://www.instagram.com/p/BPLPvbnDydo/) and [framed](https://www.kickstarter.com/projects/1353046055/framed-a-revolutionary-platform-for-digital-art)
-
+* sent a video to vicki for his tamil nadu mozillians day
+* made internal [presentation for mozilla science lab 101](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1b940793bd_0_12)
+* met with Zannah about Study Group Call tomorrow
 
 * invite speakers to calendar event
-* record vicki a video about moz tamil nadu
+
 
 
 TO DOS
