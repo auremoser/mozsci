@@ -149,6 +149,9 @@
 ### 1/18/17
 * study group early chat [notes here](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
 * added 6 new study groups to [leads sheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* meeting with vanessa to prioritize [fellows' workweek]()
+* updated study group [spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* some chatter in gitter for study groups
 
 
 * invite speakers to calendar event
