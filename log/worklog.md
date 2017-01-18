@@ -143,6 +143,12 @@
 * science lab [checkin form here](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
 * closed a bunch of [study group issues](https://github.com/mozillascience/studyGroup/issues)
 * practiced talk for tomorrow with study groups
+* submitted [.NET article to survey]
+* fellows' planning meeting [workweek here](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan)
+
+### 1/18/17
+* study group early chat [notes here](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
+* added 6 new study groups to [leads sheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 * invite speakers to calendar event
