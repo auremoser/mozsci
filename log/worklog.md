@@ -152,6 +152,8 @@
 * meeting with vanessa to prioritize [fellows' workweek]()
 * updated study group [spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * some chatter in gitter for study groups
+* posted [AAAS Blog]() added to [content calendar]() + [tweeted](https://twitter.com/MozillaScience/status/821801715829710849)
+* bought tickets and booked flights for ACM conference in Portland
 
 
 * invite speakers to calendar event
