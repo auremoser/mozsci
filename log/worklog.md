@@ -149,10 +149,10 @@
 ### 1/18/17
 * study group early chat [notes here](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
 * added 6 new study groups to [leads sheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
-* meeting with vanessa to prioritize [fellows' workweek]()
+* meeting with vanessa to prioritize [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan)
 * updated study group [spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * some chatter in gitter for study groups
-* posted [AAAS Blog]() added to [content calendar]() + [tweeted](https://twitter.com/MozillaScience/status/821801715829710849)
+* posted [AAAS Blog](https://science.mozilla.org/blog/msl-aaas-cefp) added to [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605) + [tweeted](https://twitter.com/MozillaScience/status/821801715829710849)
 * bought tickets and booked flights for ACM conference in Portland
 
 ### 1/19/17
@@ -160,9 +160,11 @@
 * study group video upload for yesterday's call
 * updated [mexico city study group and welcome message](https://github.com/Heeled-Jim/studyGroup/issues/1)
 * best study group [learning call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-2)
-* uploaded video of study group learning orientation sessions [1]() and [2]()
+* uploaded video of study group learning orientation sessions [1](https://youtu.be/5ivUUybWXzA) and [2](https://youtu.be/SaIQLOlwNmQ)
 * reached out to contacts for the [internet health report hype plan from lainie](https://docs.google.com/spreadsheets/d/1RhGnRyfWcTGmpxPFwIgx4fLgwGAbykLuedaleoJOHF0/edit#gid=0)
-* blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/)
+* updated fellows [contact list](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0) for lainie
+
+* blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/) + tweeted
 
 
 * invite speakers to calendar event
