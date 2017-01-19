@@ -166,7 +166,7 @@
 * updated fellows [contact list](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0) for lainie
 * booked airbnb for ACM conference
 * sent receipts to Anna for ACM reimbursement
-
+* updated a bunch of study groups added to the site, leads list, and sent welcome messages
 * blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/) + tweeted
 
 
