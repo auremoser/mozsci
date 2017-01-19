@@ -159,6 +159,7 @@
 * super early morning meeting with Chris Whong at the city
 * study group video upload for yesterday's call
 * updated [mexico city study group and welcome message](https://github.com/Heeled-Jim/studyGroup/issues/1)
+* best study group [learning call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-2)
 
 
 * invite speakers to calendar event
