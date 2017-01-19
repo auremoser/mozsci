@@ -155,6 +155,11 @@
 * posted [AAAS Blog]() added to [content calendar]() + [tweeted](https://twitter.com/MozillaScience/status/821801715829710849)
 * bought tickets and booked flights for ACM conference in Portland
 
+### 1/19/17
+* super early morning meeting with Chris Whong at the city
+* study group video upload for yesterday's call
+* updated [mexico city study group and welcome message](https://github.com/Heeled-Jim/studyGroup/issues/1)
+
 
 * invite speakers to calendar event
 * make a template for #scignups hashtags
