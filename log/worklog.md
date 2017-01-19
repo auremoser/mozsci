@@ -164,6 +164,7 @@
 * reached out to contacts for the [internet health report hype plan from lainie](https://docs.google.com/spreadsheets/d/1RhGnRyfWcTGmpxPFwIgx4fLgwGAbykLuedaleoJOHF0/edit#gid=0)
 * updated fellows [contact list](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0) for lainie
 * booked airbnb for ACM conference
+* sent receipts to Anna for ACM reimbursement
 
 * blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/) + tweeted
 
