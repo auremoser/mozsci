@@ -154,6 +154,7 @@
 * some chatter in gitter for study groups
 * posted [AAAS Blog](https://science.mozilla.org/blog/msl-aaas-cefp) added to [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605) + [tweeted](https://twitter.com/MozillaScience/status/821801715829710849)
 * bought tickets and booked flights for ACM conference in Portland
+* [fellows bi-weekly call](https://public.etherpad-mozilla.org/p/2016-science-fellows-jan18), updated [github issue](https://github.com/mozillascience/plan/issues/96)
 
 ### 1/19/17
 * super early morning meeting with Chris Whong at the city
