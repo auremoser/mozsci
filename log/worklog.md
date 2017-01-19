@@ -160,6 +160,9 @@
 * study group video upload for yesterday's call
 * updated [mexico city study group and welcome message](https://github.com/Heeled-Jim/studyGroup/issues/1)
 * best study group [learning call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-2)
+* uploaded video of study group learning orientation sessions [1]() and [2]()
+* reached out to contacts for the [internet health report hype plan from lainie](https://docs.google.com/spreadsheets/d/1RhGnRyfWcTGmpxPFwIgx4fLgwGAbykLuedaleoJOHF0/edit#gid=0)
+* blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/)
 
 
 * invite speakers to calendar event
