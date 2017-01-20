@@ -180,21 +180,17 @@
 * approved Peter Kraker's excercise on [open knowledge maps](https://docs.google.com/document/d/1hl0dkuxR-KDTscdx4ozJ2LgSlxQdyl7POm1i2WZeIn4/edit#) for study groups
 * invite speakers to calendar event for Feb 16th
 * invited Robby Kraft to Community Call reppping Space Apps and origami science
+* fleshed out [call etherpad with some links](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017)
+* watch Kalpana's [Fluxx video](https://drive.google.com/drive/u/1/folders/0B7FKQQVpUabKTmYyZnNwZGFTdmc)
+* created [Fluxx Documentation Drive](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHczRPSHFHUTRRaUE) updated documents and emailed Kalpana
 
-
-* make a template for #scignups hashtags
-* create Fluxx documentation for Kalpana
 
 
 TO DOS
 
+* make a template for #scignups hashtags
+* create Fluxx documentation for Kalpana
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
-
-IDEAS for COMMUNITY CALL
-* Zach Lieberman projects [Land Lines](https://developers.google.com/web/showcase/2016/land-lines)
-
-
-* [shadow mapping project](https://twitter.com/qdbui?lang=en)
 * fix SGO site
 * feedback to students on homework
 * image permissions
@@ -216,7 +212,6 @@ IDEAS for COMMUNITY CALL
 * update roadmap with [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69)
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
-
 
 ### FELLOWSHIPS PRE-WORKWEEK
 * [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
@@ -246,7 +241,7 @@ IDEAS for COMMUNITY CALL
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
-### TODO
+### ALWAYS
 
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
 * get data from _posts and match to Luke's json blog event report 
@@ -254,16 +249,12 @@ IDEAS for COMMUNITY CALL
   * Here's a link to a workflow diagram for [Calypso](https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf)
   * Here's the [GitHub repo](project https://github.com/mozilla/wp-calypso) for the 
 
-
 ##### Call Ideas
 
-* **December 2016** ~~weapons of math destruction theme + data science~~
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * **February 2016** - Art Science
-  * New science of touch: http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us
-  * science or god/brain imaging: http://www.nytimes.com/2016/08/28/opinion/sunday/do-you-believe-in-god-or-is-that-a-software-glitch.html?_r=1
   * all people from visualized for Citizen science projects
     * Tom Duscher
     * Regina Flores Mir
