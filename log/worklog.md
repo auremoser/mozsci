@@ -171,6 +171,13 @@
 * wrote [FoxIOT blogpost]( https://science.mozilla.org/blog/sgs-viki-dhinakaran/)
 * started prepping newsletter
 
+### 1/20/17
+* sent out WOW reminder email, made attendance, made [etherpad for next week's meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* updated [aurelia checkin doc](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* worked on [newsletter for January](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=687)
+* [rsvp'd for Montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/236725798/)
+* [shared newsletter for January](http://tinyletter.com/sciencelab/letters/mozilla-science-newsletter-january-2017) + [tweeted](https://twitter.com/MozillaScience/status/822517321117798400)
+
 
 * invite speakers to calendar event
 * make a template for #scignups hashtags
