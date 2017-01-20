@@ -177,6 +177,7 @@
 * worked on [newsletter for January](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=687)
 * [rsvp'd for Montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/236725798/)
 * [shared newsletter for January](http://tinyletter.com/sciencelab/letters/mozilla-science-newsletter-january-2017) + [tweeted](https://twitter.com/MozillaScience/status/822517321117798400)
+* approved Peter Kraker's excercise on [open knowledge maps](https://docs.google.com/document/d/1hl0dkuxR-KDTscdx4ozJ2LgSlxQdyl7POm1i2WZeIn4/edit#) for study groups
 
 
 * invite speakers to calendar event
