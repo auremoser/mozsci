@@ -106,3 +106,28 @@ AAAS Notes
 	* implementation phase: launch conduct and refine the planned TD research
 	* translation phase: advance progress along the discovery-development-deliverable pathway
 * **TD-net's Toolbox** - Team Science Toolkit
+	* CEFP toolbox workshop, Stephen Crowley
+
+## Thursday
+### Blog stuff
+* literature review of social collaboration
+* content and programming
+* engagement and team-working
+* **project teams** - concetp of structured way to make progress on a work-related project
+* plans for next week
+* cohort coms plans
+* cohort's community guidelines
+
+### Culture - Maddie Grant
+* Aligning community management with workplace culture
+* **culture**: collection of words, actions, thoughts, and stuff that clarify and reinforce what is truly valued inside an organization
+* Trellis - culture->process-> behavior flow
+* **community managers** are essentially a single connection point through which we connect an organic dynamic, human system (the online communitiy) with a structured, hierarchical, and impersonal machine (the organization)
+
+## Self-care - Lou Woodley
+
+
+### Why project teams?
+
+
+* metrics measurement and evaluation, conflict resolution and go long topics
