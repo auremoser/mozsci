@@ -178,32 +178,26 @@
 * [rsvp'd for Montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/236725798/)
 * [shared newsletter for January](http://tinyletter.com/sciencelab/letters/mozilla-science-newsletter-january-2017) + [tweeted](https://twitter.com/MozillaScience/status/822517321117798400)
 * approved Peter Kraker's excercise on [open knowledge maps](https://docs.google.com/document/d/1hl0dkuxR-KDTscdx4ozJ2LgSlxQdyl7POm1i2WZeIn4/edit#) for study groups
+* invite speakers to calendar event for Feb 16th
+* invited Robby Kraft to Community Call reppping Space Apps and origami science
 
 
-* invite speakers to calendar event
 * make a template for #scignups hashtags
 * create Fluxx documentation for Kalpana
 
 
-
 TO DOS
 
-* get stickers - mozilla science + foxes
-* start a list of attendees for wow + add old or advisable mentors / Luke+Lindsay
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 
 IDEAS for COMMUNITY CALL
 * Zach Lieberman projects [Land Lines](https://developers.google.com/web/showcase/2016/land-lines)
-* Robby Kraft origami science
+
 
 * [shadow mapping project](https://twitter.com/qdbui?lang=en)
 * fix SGO site
-* book club picks prep
-	* add book club [survey](https://docs.google.com/a/mozillafoundation.org/forms/d/15n9lkAyND7cXgNaG5Vz6vd9CGVU191LztPkYTYkzDcs/edit)
-	*  stage tweets for book club + write blog post
 * feedback to students on homework
 * image permissions
-* study-up on documents that Zannah shared for the Trellis stuff
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * get stats for gitter chats
 * fork visulization repo and add etherpads
