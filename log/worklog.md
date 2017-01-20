@@ -168,6 +168,8 @@
 * sent receipts to Anna for ACM reimbursement
 * updated a bunch of study groups added to the site, leads list, and sent welcome messages
 * blogged about the [internet health report](https://science.mozilla.org/blog/internet-health-report/) + tweeted
+* wrote [FoxIOT blogpost]( https://science.mozilla.org/blog/sgs-viki-dhinakaran/)
+* started prepping newsletter
 
 
 * invite speakers to calendar event
