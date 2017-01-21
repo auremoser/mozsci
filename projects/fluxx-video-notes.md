@@ -25,4 +25,5 @@
 **Minuses**
 
 * seems like cards could get unwieldly, lots of potential to create cards and forget to manage them, or create dashboards...will need some restraint
+* functionality in fluxx is solid, but the interface feels a bit dated, is the public-facing UI more updated, and customizable to match our brand and website?
 * our goal for the unified fellowship was to make the application process more seemless, sync timelines for application launch, and allow for cross-org awareness and management of stats so that redundancy is minimal and we match our funds to the most eligible candidates for each fellowship. Thus far though, we have two fellowship applications and the cross-over between applicants is agreeable but maybe not so intense that it can't be manually arranged. Before we proceed with a process overhaul, we should probably decide if we will build capacity in the next few years to need this kind of specialized framework
