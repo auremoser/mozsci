@@ -188,6 +188,7 @@
 * emailed peter about logistics for today
 * meeting with steph for [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * finished fluent conference reviews
+* emailed about Study Groups Africa wednesday meeting
 * read through interview transcripts, marked good quotes for fellows
 * updated [msl canned email](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit) with new links and programs
 * created [hashtags doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit) for science lab, cross-linked with canned email
