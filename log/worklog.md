@@ -192,6 +192,7 @@
 * created [hashtags doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit) for science lab, cross-linked with canned email
 * posted hashtags on [trellis c4sci](https://www.trelliscience.com/#/discussions-about/13823/0/) to solicit more ideas
 * positive comments from [onboarded study group leads](https://github.com/rkclement/studyGroup/issues/1#issuecomment-274565874)
+* meeting with Zannah to discuss fellows' workweek curriculum plans on Wednesday, set etherpads
 
 
 
