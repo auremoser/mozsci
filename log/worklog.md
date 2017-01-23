@@ -190,6 +190,7 @@
 * read through interview transcripts, marked good quotes for fellows
 * updated [msl canned email](https://docs.google.com/document/d/19P_G3sJVoVv58YviHUlylMR3im18CJ0XblhXVRzjyW0/edit) with new links and programs
 * created [hashtags doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit) for science lab, cross-linked with canned email
+* posted hashtags on [trellis c4sci](https://www.trelliscience.com/#/discussions-about/13823/0/) to solicit more ideas
 
 
 
