@@ -184,10 +184,13 @@
 * watch Kalpana's [Fluxx video](https://drive.google.com/drive/u/1/folders/0B7FKQQVpUabKTmYyZnNwZGFTdmc)
 * created [Fluxx Documentation Drive](https://drive.google.com/drive/u/1/folders/0B6_ZVUFx2WHHczRPSHFHUTRRaUE) updated documents and emailed Kalpana
 
+### 1/23/16
+* emailed peter about logistics for today
+
 
 
 TO DOS
-
+* apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * make a template for #scignups hashtags
 * create Fluxx documentation for Kalpana
 * blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
