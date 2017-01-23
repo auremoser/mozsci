@@ -196,7 +196,9 @@
 * positive comments from [onboarded study group leads](https://github.com/rkclement/studyGroup/issues/1#issuecomment-274565874)
 * meeting with Zannah to discuss fellows' workweek curriculum plans on Wednesday, set etherpads
 * made interest form for [tonight's meetup](https://goo.gl/forms/oU6TYP2qSHcF85Qq1)
-* sent fellows choice quotes
+* sent fellows choice quotes from interviews
+* made overview of [fellows' workweek survey responses](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan#lineNumber=62)
+* sent workweek schedule to vanessa, compiled survey responses in planning pad
 
 
 
