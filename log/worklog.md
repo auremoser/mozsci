@@ -195,6 +195,8 @@
 * posted hashtags on [trellis c4sci](https://www.trelliscience.com/#/discussions-about/13823/0/) to solicit more ideas
 * positive comments from [onboarded study group leads](https://github.com/rkclement/studyGroup/issues/1#issuecomment-274565874)
 * meeting with Zannah to discuss fellows' workweek curriculum plans on Wednesday, set etherpads
+* made interest form for [tonight's meetup](https://goo.gl/forms/oU6TYP2qSHcF85Qq1)
+* sent fellows choice quotes
 
 
 
