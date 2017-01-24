@@ -199,6 +199,14 @@
 * sent fellows choice quotes from interviews
 * made overview of [fellows' workweek survey responses](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan#lineNumber=62)
 * sent workweek schedule to vanessa, compiled survey responses in planning pad
+* open science meetup montreal
+
+### 1/24/16
+* worked on fellows' schedule
+* stats on study groups for steph
+* followup on Montreal meetup, contacts for the Notman House
+
+
 
 
 
