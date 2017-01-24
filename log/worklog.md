@@ -205,6 +205,8 @@
 * worked on fellows' schedule
 * stats on study groups for steph
 * followup on Montreal meetup, contacts for the Notman House
+* rescheduled meeting with Zannah
+* reaffirmed schedule for fellows' workweek with Vanessa
 
 
 
