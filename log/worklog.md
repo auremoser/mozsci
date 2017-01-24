@@ -206,7 +206,11 @@
 * stats on study groups for steph
 * followup on Montreal meetup, contacts for the Notman House
 * rescheduled meeting with Zannah
-* reaffirmed schedule for fellows' workweek with Vanessa
+* reaffirmed [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-workweek) for fellows' workweek with Vanessa
+* send confirmation email to execs for fellows' workweek
+* created repo and site for [fellows workweek](https://github.com/MozillaFoundation/2017-fellows-sf)
+* updated [hashtag doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit#) with more hashtags
+
 
 
 
