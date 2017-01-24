@@ -210,6 +210,7 @@
 * send confirmation email to execs for fellows' workweek
 * created repo and site for [fellows workweek](https://github.com/MozillaFoundation/2017-fellows-sf)
 * updated [hashtag doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit#) with more hashtags
+* added topics to [Thursday checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
 
 
 
