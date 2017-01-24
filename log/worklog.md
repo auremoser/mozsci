@@ -212,6 +212,9 @@
 * updated [hashtag doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit#) with more hashtags
 * added topics to [Thursday checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
 * [updated doc for checkin today](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
+* meeting with zannah about feb 3rd call for study groups, invited lou woodley to guest speak
+* added new study groups to the leads and targets sheet
+
 
 
 
