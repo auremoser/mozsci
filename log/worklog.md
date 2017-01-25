@@ -225,6 +225,7 @@
 * met with Abby and Peter about WOW, setup regular WOW stands and meetings with everyone interested
 * hosted [meeting on WOW](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 * made [CSCW Presentation for ACM](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing)
+* filled out [abby's mentor registration form](https://docs.google.com/forms/d/e/1FAIpQLSeMT93CXs_X1Yf91ZYTkbDnyFg8AE_DerPj4eAu2-V_JsgdMg/formResponse)
 
 
 
