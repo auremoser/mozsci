@@ -221,6 +221,7 @@
 * started working on [slides for the CSCW](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1c2ccbea8a_0_68) conference
 * meeting with [bianca + study group leads](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * meeting with Zannah to go over [wow plans](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan#lineNumber=221)
+* sent bianca newsletter feature details for February
 
 
 
