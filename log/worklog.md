@@ -224,16 +224,19 @@
 * sent bianca newsletter feature details for February
 * met with Abby and Peter about WOW, setup regular WOW stands and meetings with everyone interested
 * hosted [meeting on WOW](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* made [CSCW Presentation for ACM](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing)
 
 
 
 
 TO DOS
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
+* start sending invites out and make invite template
 
 **WOW**
 	* [WOW] Curriculum plan
 	* check budget for fellows' wows
+	* start sending invites out and make invite template
 	* migrate outline to github repo
 	* make slidedeck for intro wow stuff
 	* print paper prototype exercise slips
