@@ -215,6 +215,11 @@
 * meeting with zannah about feb 3rd call for study groups, invited lou woodley to guest speak
 * added new study groups to the leads and targets sheet
 
+### 1/26/16
+* vouched for Vicki on Mozillians
+* woke up early for the [study group 2 orientation call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
+* started working on [slides for the CSCW](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1c2ccbea8a_0_68) conference
+
 
 
 
