@@ -220,15 +220,21 @@
 * woke up early for the [study group 2 orientation call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
 * started working on [slides for the CSCW](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1c2ccbea8a_0_68) conference
 * meeting with [bianca + study group leads](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
-
-
+* meeting with Zannah to go over [wow plans](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan#lineNumber=221)
 
 
 
 
 TO DOS
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
+
+**WOW**
+	* [WOW] Curriculum plan
+	* check budget for fellows' wows
+	* migrate outline to github repo
+	* make slidedeck for intro wow stuff
+	* print paper prototype exercise slips
+	* blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 * fix SGO site
 * feedback to students on homework
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
