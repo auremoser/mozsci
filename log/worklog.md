@@ -222,6 +222,8 @@
 * meeting with [bianca + study group leads](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * meeting with Zannah to go over [wow plans](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-plan#lineNumber=221)
 * sent bianca newsletter feature details for February
+* met with Abby and Peter about WOW, setup regular WOW stands and meetings with everyone interested
+* hosted [meeting on WOW](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 
 
 
