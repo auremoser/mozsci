@@ -215,7 +215,7 @@
 * meeting with zannah about feb 3rd call for study groups, invited lou woodley to guest speak
 * added new study groups to the leads and targets sheet
 
-### 1/26/16
+### 1/25/16
 * vouched for Vicki on Mozillians
 * woke up early for the [study group 2 orientation call](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-1)
 * started working on [slides for the CSCW](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1c2ccbea8a_0_68) conference
@@ -227,7 +227,17 @@
 * made [CSCW Presentation for ACM](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing)
 * filled out [abby's mentor registration form](https://docs.google.com/forms/d/e/1FAIpQLSeMT93CXs_X1Yf91ZYTkbDnyFg8AE_DerPj4eAu2-V_JsgdMg/formResponse)
 
-
+### 1/26/17
+* cleaned up study group spreadsheet
+* answered some interest questions for WOW
+* created [WOW Event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
+* filled out [Data Privacy Day Mozilla Survey](https://www.surveygizmo.com/s3/3317558/f870ff6d1d35)
+* attended and contributed to [Study Group Orientation Call 2](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-2)
+* added checkin items to [monday checkin pad](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* two hour [wow working meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* one hour[team checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
+* responded to Lou about agenda for Feb 3rd Study Group call
+* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 
 
 TO DOS
