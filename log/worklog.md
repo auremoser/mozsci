@@ -238,9 +238,12 @@
 * one hour[team checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
 * responded to Lou about agenda for Feb 3rd Study Group call
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
+* meeting with joey
+
 
 
 TO DOS
+* talk to alexei about expensify/travel bookings for mentors
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * start sending invites out and make invite template
 
