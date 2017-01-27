@@ -236,7 +236,9 @@
 * added checkin items to [monday checkin pad](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * two hour [wow working meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 * one hour[team checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
-* responded to Lou about agenda for Feb 3rd Study Group call
+* responded to Lou about agenda for Feb 3rd Study Group call  
+* created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow)
+
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 * meeting with joey
 
