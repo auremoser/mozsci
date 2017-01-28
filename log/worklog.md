@@ -239,6 +239,7 @@
 * responded to Lou about agenda for Feb 3rd Study Group call  
 * created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow) + [notes etherpad](https://public.etherpad-mozilla.org/p/mozwow-mar2017)
 * forwarded email and responded to some inbox things
+* email catchup
 
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 * meeting with joey
