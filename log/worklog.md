@@ -240,6 +240,7 @@
 * created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow) + [notes etherpad](https://public.etherpad-mozilla.org/p/mozwow-mar2017)
 * forwarded email and responded to some inbox things
 * email catchup
+* applied to [International Women's Day at Google](https://www.womentechmakers.com/iwd17)
 
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 * meeting with joey
