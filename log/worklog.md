@@ -249,6 +249,8 @@
 * copied code over from clubs events, working out code bugs
 * applied to [International Women's Day at Google](https://www.womentechmakers.com/iwd17)
 * talk to alexei about expensify/travel bookings for mentors
+* reached out to tega brain about mozilla community call
+* worked more on params for study group events repo
 
 
 
