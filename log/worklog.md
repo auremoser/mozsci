@@ -242,6 +242,11 @@
 * email catchup
 * applied to [International Women's Day at Google](https://www.womentechmakers.com/iwd17)
 
+### 1/27/16
+* created [Study Group Events Form](https://goo.gl/forms/ZTxdAx0jTxtefBfH3)
+* created [Study Group Events Repo](https://github.com/mozillascience/studyGroupEvents)
+* copied code over from clubs events
+
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 * meeting with joey
 
