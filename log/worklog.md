@@ -240,20 +240,22 @@
 * created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow) + [notes etherpad](https://public.etherpad-mozilla.org/p/mozwow-mar2017)
 * forwarded email and responded to some inbox things
 * email catchup
-* applied to [International Women's Day at Google](https://www.womentechmakers.com/iwd17)
+* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
+* meeting with joey
 
 ### 1/27/16
 * created [Study Group Events Form](https://goo.gl/forms/ZTxdAx0jTxtefBfH3)
 * created [Study Group Events Repo](https://github.com/mozillascience/studyGroupEvents)
-* copied code over from clubs events
+* copied code over from clubs events, working out code bugs
+* applied to [International Women's Day at Google](https://www.womentechmakers.com/iwd17)
+* talk to alexei about expensify/travel bookings for mentors
 
-* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
-* meeting with joey
+
 
 
 
 TO DOS
-* talk to alexei about expensify/travel bookings for mentors
+
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * start sending invites out and make invite template
 
