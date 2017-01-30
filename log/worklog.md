@@ -235,7 +235,7 @@
 * attended and contributed to [Study Group Orientation Call 2](https://public.etherpad-mozilla.org/p/scicencelab-jan17-study-groups-2)
 * added checkin items to [monday checkin pad](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * two hour [wow working meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
-* one hour[team checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
+* one hour [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan26-2017)
 * responded to Lou about agenda for Feb 3rd Study Group call  
 * created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow) + [notes etherpad](https://public.etherpad-mozilla.org/p/mozwow-mar2017)
 * forwarded email and responded to some inbox things
@@ -256,6 +256,9 @@
 * sent out [fellows call reminder](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb01)
 * updated issue [fellows call](https://github.com/mozillascience/plan/issues/96)
 * replied to Tega about speaking
+* wrote to Arliss about our [WOW](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* made [wow montreal](https://public.etherpad-mozilla.org/p/sciencelab-wow-montreal-accommodations) suggestion
+* emailed Arliss details for WOW accommodation and catering
 
 
 
@@ -264,7 +267,9 @@
 TO DOS
 
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* start sending invites out and make invite template
+* start sending invites out and make invite template for WOW
+* setup fellows' sessions emails for fellows workweek
+
 
 **WOW**
 	* [WOW] Curriculum plan
