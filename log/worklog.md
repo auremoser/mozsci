@@ -259,6 +259,8 @@
 * wrote to Arliss about our [WOW](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 * made [wow montreal](https://public.etherpad-mozilla.org/p/sciencelab-wow-montreal-accommodations) suggestion
 * emailed Arliss details for WOW accommodation and catering
+* sent out reminder for Friday's Study Group Call
+* added links to [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2017)
 
 
 
