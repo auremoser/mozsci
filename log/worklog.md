@@ -264,7 +264,9 @@
 * [1:1 meeting with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * made presentation [template for wow session](https://docs.google.com/presentation/d/1wuRl4exaT6wy7b_uZ66_qd6fPL1jaO2d5NN-lVbRC5w/edit#slide=id.g1088c5b110_0_149)
 * emailed all fellows about their sessions next week
-* fleshed out the [WOW Repo](https://github.com/mozillascience/WOW-2017) with the basic files
+* fleshed out the [WOW Repo](https://github.com/mozillascience/WOW-2017) with the basic files [this issue](https://github.com/mozillascience/WOW-2017/issues/3)
+* drafted new [email templates for participants](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit)
+* updated all forms in this [links list](https://docs.google.com/document/d/1Kagw1w_mxgs8BfYjh-ZErAaSueHIf7Tfw80SWsCeWlI/edit) for wow RSVP/Pre/Post Surveys
 
 
 
