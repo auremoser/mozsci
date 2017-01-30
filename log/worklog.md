@@ -267,6 +267,10 @@
 * fleshed out the [WOW Repo](https://github.com/mozillascience/WOW-2017) with the basic files [this issue](https://github.com/mozillascience/WOW-2017/issues/3)
 * drafted new [email templates for participants](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit)
 * updated all forms in this [links list](https://docs.google.com/document/d/1Kagw1w_mxgs8BfYjh-ZErAaSueHIf7Tfw80SWsCeWlI/edit) for wow RSVP/Pre/Post Surveys
+	* WOW RSVP 2017: https://goo.gl/forms/lnuB4ZYT7Irp7MWF2
+	* Pre-WOW Survey: https://goo.gl/forms/deDmu7ADS3RUkMn93
+	* Post-WOW Survey: https://goo.gl/forms/mmjb2s0dfzGY2Cwj2
+* setup [wow event with schedule](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
 
 
 
