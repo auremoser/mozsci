@@ -262,6 +262,7 @@
 * sent out reminder for Friday's Study Group Call
 * added links to [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2017)
 * [1:1 meeting with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* made presentation [template for wow session](https://docs.google.com/presentation/d/1wuRl4exaT6wy7b_uZ66_qd6fPL1jaO2d5NN-lVbRC5w/edit#slide=id.g1088c5b110_0_149)
 
 
 
