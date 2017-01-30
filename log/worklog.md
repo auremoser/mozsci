@@ -252,6 +252,11 @@
 * reached out to tega brain about mozilla community call
 * worked more on params for study group events repo
 
+### 1/30/16
+* sent out [fellows call reminder](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb01)
+* updated issue [fellows call](https://github.com/mozillascience/plan/issues/96)
+* replied to Tega about speaking
+
 
 
 
