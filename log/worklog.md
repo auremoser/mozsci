@@ -261,6 +261,7 @@
 * emailed Arliss details for WOW accommodation and catering
 * sent out reminder for Friday's Study Group Call
 * added links to [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-february-2017)
+* [1:1 meeting with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
 
