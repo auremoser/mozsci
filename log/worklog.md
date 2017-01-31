@@ -277,6 +277,7 @@
 * setup danielle's open con blog
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
 * emailed Alexei mentor names and started coordinating with Abby for the invites
+* reviewed [mentee applications](https://docs.google.com/forms/d/e/1FAIpQLSd9MZGRwbuvGH-bAgIjDaV3qk66ao85qEHrwcinIq5wV7POrw/formResponse) abby put together
 
 
 
