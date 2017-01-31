@@ -280,6 +280,7 @@
 * reviewed [mentee applications](https://docs.google.com/forms/d/e/1FAIpQLSd9MZGRwbuvGH-bAgIjDaV3qk66ao85qEHrwcinIq5wV7POrw/formResponse) abby put together
 * meeting with Berhan to discuss session for workweek
 * published and tweeted [danielle's blog about Open Con](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
+* signed up for [network site meeting](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#) with matthew
 
 
 
