@@ -240,7 +240,6 @@
 * created [wow repo](https://github.com/mozillascience/WOW-2017) + [site](https://mzl.la/2017wow) + [notes etherpad](https://public.etherpad-mozilla.org/p/mozwow-mar2017)
 * forwarded email and responded to some inbox things
 * email catchup
-* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017)
 * meeting with joey
 
 ### 1/27/16
@@ -280,14 +279,15 @@
 * reviewed [mentee applications](https://docs.google.com/forms/d/e/1FAIpQLSd9MZGRwbuvGH-bAgIjDaV3qk66ao85qEHrwcinIq5wV7POrw/formResponse) abby put together
 * meeting with Berhan to discuss session for workweek
 * published and tweeted [danielle's blog about Open Con](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
-* signed up for [network site meeting](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#) with matthew
+* signed up for [network site meeting](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#)
+* team [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
 
 
 
 
 
 TO DOS
-
+* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) add to events
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * start sending invites out and make invite template for WOW
 * setup fellows' sessions emails for fellows workweek
