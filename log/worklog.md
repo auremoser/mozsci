@@ -279,6 +279,7 @@
 * emailed Alexei mentor names and started coordinating with Abby for the invites
 * reviewed [mentee applications](https://docs.google.com/forms/d/e/1FAIpQLSd9MZGRwbuvGH-bAgIjDaV3qk66ao85qEHrwcinIq5wV7POrw/formResponse) abby put together
 * meeting with Berhan to discuss session for workweek
+* published and tweeted [danielle's blog about Open Con](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
 
 
 
