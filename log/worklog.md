@@ -272,6 +272,12 @@
 	* Post-WOW Survey: https://goo.gl/forms/mmjb2s0dfzGY2Cwj2
 * setup [wow event with schedule](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
 
+### 1/31/16
+* setup cal invite for Global sprint meeting
+* setup danielle's open con blog
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
+
+
 
 
 
