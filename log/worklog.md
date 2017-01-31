@@ -281,6 +281,7 @@
 * published and tweeted [danielle's blog about Open Con](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
 * signed up for [network site meeting](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#)
 * team [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
+* updated [wow agenda for checkin tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW#lineNumber=132)
 
 
 
