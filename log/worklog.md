@@ -276,7 +276,7 @@
 * setup cal invite for Global sprint meeting
 * setup danielle's open con blog
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
-
+* emailed Alexei mentor names and started coordinating with Abby for the invites
 
 
 
