@@ -242,7 +242,7 @@
 * email catchup
 * meeting with joey
 
-### 1/27/16
+### 1/27/17
 * created [Study Group Events Form](https://goo.gl/forms/ZTxdAx0jTxtefBfH3)
 * created [Study Group Events Repo](https://github.com/mozillascience/studyGroupEvents)
 * copied code over from clubs events, working out code bugs
@@ -251,7 +251,7 @@
 * reached out to tega brain about mozilla community call
 * worked more on params for study group events repo
 
-### 1/30/16
+### 1/30/17
 * sent out [fellows call reminder](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb01)
 * updated issue [fellows call](https://github.com/mozillascience/plan/issues/96)
 * replied to Tega about speaking
@@ -271,7 +271,7 @@
 	* Post-WOW Survey: https://goo.gl/forms/mmjb2s0dfzGY2Cwj2
 * setup [wow event with schedule](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
 
-### 1/31/16
+### 1/31/17
 * setup cal invite for Global sprint meeting
 * setup danielle's open con blog
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
@@ -282,6 +282,15 @@
 * signed up for [network site meeting](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#)
 * team [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-january-2017)
 * updated [wow agenda for checkin tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW#lineNumber=132)
+
+### 2/1/17
+* [OLTS Screening](https://docs.google.com/spreadsheets/d/1QqvUtQQsfTGJMi7DurCbqs8ewF8PowpXGd43fJmOSQs/edit?ts=5890d5b0#gid=995464259)
+* some logistics for the SF workweek plan
+* working on getting through post-it plan for Dear Data
+* promotions for the Study Group call
+* contacts list for [fellows workweek](https://docs.google.com/a/mozilla.com/spreadsheets/d/16uJYYe51sVxULcElg6FCnOMvYnZply9o1UBFN12yc-k/edit?usp=sharing)
+
+* update community call with speaker list and links
 
 
 
