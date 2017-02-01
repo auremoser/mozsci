@@ -289,6 +289,9 @@
 * working on getting through post-it plan for Dear Data
 * promotions for the Study Group call
 * contacts list for [fellows workweek](https://docs.google.com/a/mozilla.com/spreadsheets/d/16uJYYe51sVxULcElg6FCnOMvYnZply9o1UBFN12yc-k/edit?usp=sharing)
+* wrote back to Tanja from the Montreal meetup
+* wrote back to event hosts for Notman
+* updated [study group outreach list](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 * update community call with speaker list and links
 
