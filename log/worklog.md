@@ -294,6 +294,9 @@
 * updated [study group outreach list](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [wow meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW#lineNumber=133)
 * [fellows meeting](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb01)
+* adjustments to the WOW template emails
+* followup with Notman house on progress for venue booking
+
 
 * update community call with speaker list and links
 
