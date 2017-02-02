@@ -297,8 +297,14 @@
 * adjustments to the WOW template emails
 * followup with Notman house on progress for venue booking
 
+### 2/2/17
+* lots of logistical email updates for WOW
+* chat with flukeout about study group data
 
+
+* write travel details to mentors from [template](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit )
 * update community call with speaker list and links
+* ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
 
 
 
