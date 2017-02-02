@@ -300,6 +300,8 @@
 ### 2/2/17
 * lots of logistical email updates for WOW
 * chat with flukeout about study group data
+* went over fellows' workweek with steph and zannah
+* introduced steph to stef at rOpenSci
 
 
 * prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
