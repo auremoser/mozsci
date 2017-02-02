@@ -300,10 +300,13 @@
 ### 2/2/17
 * lots of logistical email updates for WOW
 * chat with flukeout about study group data
-* went over fellows' workweek with steph and zannah
+* went over fellows' workweek with steph and zannah in [work meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-20170202-minigrants-fellows)
 * introduced steph to stef at rOpenSci
 * wrote travel details to mentors from [template](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit)
 * met with zannah about WOW at fellows' workweek
+* met with Matthew about the [mln site](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#)
+	* what are they joining
+	* projects on our site--> projects on mln cytoscape?
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
