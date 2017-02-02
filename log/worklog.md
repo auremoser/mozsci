@@ -302,13 +302,16 @@
 * chat with flukeout about study group data
 * went over fellows' workweek with steph and zannah
 * introduced steph to stef at rOpenSci
+* wrote travel details to mentors from [template](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit)
+* met with zannah about WOW at fellows' workweek
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
 * prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
-* write travel details to mentors from [template](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit )
+
 * update community call with speaker list and links
 * ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
+* eyeo [nonprofit application](https://eyeo.wufoo.com/forms/eyeo-2017-nonprofit-fellowship-application/)
 
 
 
