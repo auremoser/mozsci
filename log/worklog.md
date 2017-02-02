@@ -302,6 +302,7 @@
 * chat with flukeout about study group data
 
 
+* prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
 * write travel details to mentors from [template](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit )
 * update community call with speaker list and links
 * ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
