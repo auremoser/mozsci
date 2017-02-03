@@ -322,7 +322,10 @@
 * processed Sarah's feedback on the study group google form
 * team meeting [here](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-feb03-2017)
 * checkin with marcia
+* followup email to marcia
 * flux documentation
+* sent invites to all [wow participants](https://docs.google.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit#gid=0)
+* sent recap to study group leads
 
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
