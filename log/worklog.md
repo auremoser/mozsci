@@ -326,37 +326,36 @@
 * flux documentation
 * sent invites to all [wow participants](https://docs.google.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit#gid=0)
 * sent recap to study group leads
+* ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
+* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) add to [events](https://science.mozilla.org/programs/events/studygroup-call-march-03)
+* updated community call with speakers list event and tweeted!
+
 
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
 * prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
-
 * update community call with speaker list and links
-* ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
 * eyeo [nonprofit application](https://eyeo.wufoo.com/forms/eyeo-2017-nonprofit-fellowship-application/)
 
 
 
 
 
+
 TO DOS
-* created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) add to events
+
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* start sending invites out and make invite template for WOW
 * setup fellows' sessions emails for fellows workweek
+* prepare intro sessions and recap presentation for monday fellows workweek
 
 
 **WOW**
 	* [WOW] Curriculum plan
-	* check budget for fellows' wows
-	* start sending invites out and make invite template
 	* migrate outline to github repo
 	* make slidedeck for intro wow stuff
-	* print paper prototype exercise slips
 	* blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 * fix SGO site
-* feedback to students on homework
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * get stats for gitter chats
 * fork visulization repo and add etherpads
