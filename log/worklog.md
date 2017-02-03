@@ -307,6 +307,14 @@
 * met with Matthew about the [mln site](https://docs.google.com/document/d/1TflhT4KhczJFIfFXcpr7QseGj52FkbF0Ahm0tHvFsnE/edit#)
 	* what are they joining
 	* projects on our site--> projects on mln cytoscape?
+* fixed [study group events](https://github.com/mozillascience/studyGroupEvents)
+* emailed study group leads individually about their portions of the etherpad for tomorrow's call
+* uploaded videos for zannah
+* finished copy edit adjustments on book
+
+### 2/3/17
+
+
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
