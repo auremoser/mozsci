@@ -319,6 +319,7 @@
 * updated [team checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-feb03-2017)
 * updated [fellowship workweek etherpad](https://public.etherpad-mozilla.org/p/2017-fellows-workweek) with session notes + restos
 * made developer roadshow posting for [March 16th](https://www.meetup.com/girldevelopit/events/237431725/)
+* processed Sarah's feedback on the study group google form
 
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
