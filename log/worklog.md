@@ -329,6 +329,7 @@
 * ask mcgill contacts about housing or travel booking rates: https://mcgill.ca/travelservices/
 * created [march study group call etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) add to [events](https://science.mozilla.org/programs/events/studygroup-call-march-03)
 * updated community call with speakers list event and tweeted!
+* sorted all slidedecks to the [shared drive](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHYkNobW9WRU1TVDA)
 
 
 
