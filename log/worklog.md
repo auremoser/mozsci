@@ -331,7 +331,7 @@
 * updated [community call](https://science.mozilla.org/programs/events/community-call-feb-16-11-et) with speakers list event and tweeted!
 * sorted all slidedecks to the [shared drive](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHYkNobW9WRU1TVDA)
 * uploaded another [study group video](https://youtu.be/LHTsWHhg68I)
-
+* updated social component of [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
