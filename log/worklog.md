@@ -337,6 +337,8 @@
 * Danielle sent invite to Karissa of Dat
 * met with Vanessa
 * emailed about Ritika's booking info for Notman
+* wrote to jofish about grants
+* wrote welcome email to new study group lead
 
 
 * send travel invites to wow attendees
