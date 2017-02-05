@@ -336,7 +336,10 @@
 ### 1/4/17
 * Danielle sent invite to Karissa of Dat
 * met with Vanessa
+* emailed about Ritika's booking info for Notman
 
+
+* send travel invites to wow attendees
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
