@@ -333,6 +333,10 @@
 * uploaded another [study group video](https://youtu.be/LHTsWHhg68I)
 * updated social component of [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 
+### 1/4/17
+* Danielle sent invite to Karissa of Dat
+* met with Vanessa
+
 
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
