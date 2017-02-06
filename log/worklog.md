@@ -348,6 +348,14 @@
 * put together a [presentation](https://docs.google.com/presentation/d/1mXMt4c-dF6dRr8iC2fc6mxOpKsNbY3V2Eb92sCVUg7E/edit#slide=id.g1c69f9d373_0_140)
 * put together [goals exercise](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c)
 
+### 1/6/17
+* kicked off fellows' workweek
+* project call
+* some email logistics for WOW
+* created [orchid ID](orcid.org/0000-0003-1496-7303)
+* registered for RDA
+
+
 * send travel invites to wow attendees
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
