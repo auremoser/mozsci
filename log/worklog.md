@@ -339,27 +339,24 @@
 * emailed about Ritika's booking info for Notman
 * wrote to jofish about grants
 * wrote welcome email to new study group lead
+* eyeo [nonprofit application](https://eyeo.wufoo.com/forms/eyeo-2017-nonprofit-fellowship-application/)
 
+### 1/5/17
+* made set of [workweek emails](https://docs.google.com/document/d/18XC9VRp2jm8a3TBodVvAU2eCoSDqY_g4zFE2kkH7sxQ/edit)
+* sent to vanessa for approval
+* added more resources to [newsletter doc](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* put together a [presentation](https://docs.google.com/presentation/d/1mXMt4c-dF6dRr8iC2fc6mxOpKsNbY3V2Eb92sCVUg7E/edit#slide=id.g1c69f9d373_0_140)
+* put together [goals exercise](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c)
 
 * send travel invites to wow attendees
-
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
 * print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
 * prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
-* update community call with speaker list and links
-* eyeo [nonprofit application](https://eyeo.wufoo.com/forms/eyeo-2017-nonprofit-fellowship-application/)
-
-
-
 
 
 
 TO DOS
-
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* setup fellows' sessions emails for fellows workweek
-* prepare intro sessions and recap presentation for monday fellows workweek
-
 
 **WOW**
 	* [WOW] Curriculum plan
