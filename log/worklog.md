@@ -354,6 +354,7 @@
 * some email logistics for WOW
 * created [orchid ID](orcid.org/0000-0003-1496-7303)
 * registered for RDA
+* booked travel for RDA
 
 
 * send travel invites to wow attendees
