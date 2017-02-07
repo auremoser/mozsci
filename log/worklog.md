@@ -360,6 +360,11 @@
 ### 1/7/17
 * booked travel for Montreal
 * reminded all invitees to reply for scholarships for WOW
+* emailed eduardo about wow
+* uploaded final presentation for hackworkshop
+* joined slack
+* tweeted bruno's blog
+* posted [mozwow](https://science.mozilla.org/blog/working-open-in-montreal) blog
 
 
 * send travel invites to wow attendees
