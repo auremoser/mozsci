@@ -357,6 +357,10 @@
 * booked travel for RDA
 * updated [leads and targets with new study group person](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
+### 1/7/17
+* booked travel for Montreal
+* reminded all invitees to reply for scholarships for WOW
+
 
 * send travel invites to wow attendees
 * flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
