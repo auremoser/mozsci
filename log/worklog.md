@@ -355,6 +355,7 @@
 * created [orchid ID](orcid.org/0000-0003-1496-7303)
 * registered for RDA
 * booked travel for RDA
+* updated [leads and targets with new study group person](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 * send travel invites to wow attendees
