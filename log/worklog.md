@@ -357,7 +357,7 @@
 * booked travel for RDA
 * updated [leads and targets with new study group person](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
-### 1/7/17
+### 1/7/17-1/9/17
 * booked travel for Montreal
 * reminded all invitees to reply for scholarships for WOW
 * emailed eduardo about wow
