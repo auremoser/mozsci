@@ -368,6 +368,7 @@
 * setup [WOW materials](https://mozillafoundation.github.io/2017-fellows-sf/wow/index.html) for tomorrow's exercise.
 * lots of emails and logistics
 * working with Amel on [h3abionet materials](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1c7d09b560_1_49)
+* updatd presentation for [amel's H3abionet series](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1c7d09b560_1_49)
 
 
 * send travel invites to wow attendees
