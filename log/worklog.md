@@ -369,6 +369,9 @@
 * lots of emails and logistics
 * working with Amel on [h3abionet materials](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1c7d09b560_1_49)
 * updatd presentation for [amel's H3abionet series](https://docs.google.com/presentation/d/1N3pkdKbMXBWTfRjeLOLHwJRl9UoxJ8qxSvEZaxfPPds/edit#slide=id.g1c7d09b560_1_49)
+* x org meeting
+* fellows sessions
+* posted [GDI event for March 16th](https://www.meetup.com/girldevelopit/events/237431725/)
 
 
 * send travel invites to wow attendees
