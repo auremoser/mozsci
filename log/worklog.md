@@ -373,6 +373,8 @@
 * fellows sessions
 * posted [GDI event for March 16th](https://www.meetup.com/girldevelopit/events/237431725/)
 * added [Hive NYC Fund celebration](https://www.paperlesspost.com/events/22624017-c64d5a30/replies/352673319-a2891c02/public?attending_with_guests=false&extended_rsvp=false&mkey=YXVyZWxpYUBtb3ppbGxhZm91bmRhdGlvbi5vcmc%3D&replied=true&scroll_to=additional_questions&skip_ios_takeover=true&utm_campaign=rsvp_nenv&utm_medium=email&utm_source=event) to agenda for feb 22nd.
+* emailed with Gary on his awesome [Future of Research post](http://www.ascb.org/compass/compass-points/who-should-be-training-trainees-on-reproducibility-and-ethics/) + [tweet](https://twitter.com/MozillaScience/status/830482195189882881)
+* 
 
 
 * send travel invites to wow attendees
