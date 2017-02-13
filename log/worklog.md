@@ -348,7 +348,7 @@
 * put together a [presentation](https://docs.google.com/presentation/d/1mXMt4c-dF6dRr8iC2fc6mxOpKsNbY3V2Eb92sCVUg7E/edit#slide=id.g1c69f9d373_0_140)
 * put together [goals exercise](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c)
 
-### 1/6/17
+### 2/6/17
 * kicked off fellows' workweek
 * project call
 * some email logistics for WOW
@@ -357,7 +357,7 @@
 * booked travel for RDA
 * updated [leads and targets with new study group person](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
-### 1/7/17-1/9/17
+### 2/7/17-2/9/17
 * booked travel for Montreal
 * reminded all invitees to reply for scholarships for WOW
 * emailed eduardo about wow
@@ -374,17 +374,25 @@
 * posted [GDI event for March 16th](https://www.meetup.com/girldevelopit/events/237431725/)
 * added [Hive NYC Fund celebration](https://www.paperlesspost.com/events/22624017-c64d5a30/replies/352673319-a2891c02/public?attending_with_guests=false&extended_rsvp=false&mkey=YXVyZWxpYUBtb3ppbGxhZm91bmRhdGlvbi5vcmc%3D&replied=true&scroll_to=additional_questions&skip_ios_takeover=true&utm_campaign=rsvp_nenv&utm_medium=email&utm_source=event) to agenda for feb 22nd.
 
-###1/11/17
+##2/11/17
 * emailed with Gary on his awesome [Future of Research post](http://www.ascb.org/compass/compass-points/who-should-be-training-trainees-on-reproducibility-and-ethics/) + [tweet](https://twitter.com/MozillaScience/status/830482195189882881)
 * published [blog post](https://science.mozilla.org/blog/community-call-feb-16-11et) on the community call
 * talk to jlin about air mozilla setup for community call
 * what they want wow to be - in fellows checkin
-
-
-* email kalpana - fluxx
 * checkin with teon - march for science blog
 
+### 2/13
+* chat with Vanessa about next steps
+* email kalpana - fluxx updates for new fellowship
+* email sandra about march mozilla developer event
+* created [fellows post-workweek survey](https://goo.gl/forms/un674Zk32DGfhIpp2)
+* submitted an AirMozilla request via JLIN for ocmmunity call [here](https://mozilla.service-now.com/sp?id=ticket&table=sc_req_item&sys_id=12855227133cf600472ed2f18144b01d)
+* call with kt
+* updated WOW invite with [open science meetup CFP](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
+
 * update repo for fellows workweek
+* workweek blog
+* reminder to thursday speakers after jlin confirmation
 
 
 
