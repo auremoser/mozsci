@@ -389,6 +389,7 @@
 * submitted an AirMozilla request via JLIN for ocmmunity call [here](https://mozilla.service-now.com/sp?id=ticket&table=sc_req_item&sys_id=12855227133cf600472ed2f18144b01d)
 * call with kt
 * updated WOW invite with [open science meetup CFP](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
+* updated [call archives](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 
 * update repo for fellows workweek
 * workweek blog
