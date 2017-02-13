@@ -377,17 +377,20 @@
 ###1/11/17
 * emailed with Gary on his awesome [Future of Research post](http://www.ascb.org/compass/compass-points/who-should-be-training-trainees-on-reproducibility-and-ethics/) + [tweet](https://twitter.com/MozillaScience/status/830482195189882881)
 * published [blog post](https://science.mozilla.org/blog/community-call-feb-16-11et) on the community call
+* talk to jlin about air mozilla setup for community call
+* what they want wow to be - in fellows checkin
 
 
-* send travel invites to wow attendees
-* flesh out WOW [exercises](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=34) in fellowship repo template
-* print slips for paper prototype [exercise](https://public.etherpad-mozilla.org/p/2017-sf-workweek-zannah#lineNumber=65)
-* prepare intro welcome session [stuff](https://public.etherpad-mozilla.org/p/2017-fellows-workweek#lineNumber=138)
+* email kalpana - fluxx
+* checkin with teon - march for science blog
+
+* update repo for fellows workweek
 
 
 
 TO DOS
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
+* send travel invites to wow attendees
 
 **WOW**
 	* [WOW] Curriculum plan
