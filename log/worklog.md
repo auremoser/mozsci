@@ -391,15 +391,16 @@
 * updated WOW invite with [open science meetup CFP](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
 * updated [call archives](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 
-* update repo for fellows workweek
-* workweek blog
-* reminder to thursday speakers after jlin confirmation
+
 
 
 
 TO DOS
+* update repo for fellows workweek
+* workweek blog
+* reminder to thursday speakers after jlin confirmation
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* send travel invites to wow attendees
+* send travel invites to extra wow attendees flagged by abby
 
 **WOW**
 	* [WOW] Curriculum plan
