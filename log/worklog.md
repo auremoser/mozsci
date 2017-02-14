@@ -396,6 +396,7 @@
 * posted teon's March for Science [blog](https://science.mozilla.org/blog/sciencemarch) via [tweet](https://science.mozilla.org/blog/sciencemarch)
 * created [open media ama](https://public.etherpad-mozilla.org/p/open-media-ama) etherpad for folks
 * reached out to Hong and Pietro
+* updated [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW#lineNumber=140) with notable updates
 
 
 
