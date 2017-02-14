@@ -404,6 +404,8 @@
 * checkin with Jofish about mini-grants vs research grants
 * checkin with [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-february-2017)
 * uploaded photos to [fellows' workweek dropbox](https://www.dropbox.com/home/MOZILLA/2017-Workweek-SF)
+* meeting with Azza about h3abionet stuff and checking sound for thursday
+* sent [presentation](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing) to ACM workshop collaborators
 
 
 
