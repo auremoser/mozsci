@@ -473,21 +473,19 @@ TO DOS
 ### ALWAYS
 
 * ADD MORE STUDY GROUP LESSONS TO WEBSITE
-* get data from _posts and match to Luke's json blog event report 
-* learn new CMS
-  * Here's a link to a workflow diagram for [Calypso](https://dl.dropboxusercontent.com/u/109902/cms-workflows.pdf)
-  * Here's the [GitHub repo](project https://github.com/mozilla/wp-calypso) for the 
 
 ##### Call Ideas
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
 * Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
-* **February 2016** - Art Science
+* **February 2017** - Art Science
   * all people from visualized for Citizen science projects
     * Tom Duscher
     * Regina Flores Mir
-    * CDA student: Paul
+* **April 2017** - Trust networks
+	* building trust between science and society with [Helen Czerski](https://www.theguardian.com/science/blog/2017/jan/27/a-crisis-of-trust-is-looming-between-scientists-and-society-its-time-to-talk)
+
 
 
 #### WOW PLAN
