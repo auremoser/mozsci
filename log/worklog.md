@@ -381,7 +381,7 @@
 * what they want wow to be - in fellows checkin
 * checkin with teon - march for science blog
 
-### 2/13
+### 2/13/17
 * chat with Vanessa about next steps
 * email kalpana - fluxx updates for new fellowship
 * email sandra about march mozilla developer event
@@ -391,7 +391,9 @@
 * updated WOW invite with [open science meetup CFP](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
 * updated [call archives](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 
-
+### 2/14/17
+* approved abby's [epic pull request](https://github.com/mozillascience/WOW-2017/pull/4)
+* 
 
 
 
