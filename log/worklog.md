@@ -394,6 +394,8 @@
 ### 2/14/17
 * approved abby's [epic pull request](https://github.com/mozillascience/WOW-2017/pull/4)
 * posted teon's March for Science [blog](https://science.mozilla.org/blog/sciencemarch) via [tweet](https://science.mozilla.org/blog/sciencemarch)
+* created [open media ama](https://public.etherpad-mozilla.org/p/open-media-ama) etherpad for folks
+* reached out to Hong and Pietro
 
 
 
