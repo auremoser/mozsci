@@ -407,6 +407,8 @@
 * meeting with Azza about h3abionet stuff and checking sound for thursday
 * sent [presentation](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing) to ACM workshop collaborators
 * tweeted and gdi newsletter'd Equal Ratings Conf for Amira
+* updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=772)
+* considering/brainstorming april community call on Trust networks
 
 
 
