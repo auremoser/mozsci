@@ -397,15 +397,22 @@
 * created [open media ama](https://public.etherpad-mozilla.org/p/open-media-ama) etherpad for folks
 * reached out to Hong and Pietro
 * updated [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW#lineNumber=140) with notable updates
+* reminder to thursday speakers for community call sent, tweeted all but michael since I'm not sure he will be able to join
+* send travel invites to extra wow attendees flagged by abby
+* updated arliss on catering situation for WOW, or help needed :)
+* updated etherpad with upcoming events and activities: https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017
+* checkin with Jofish about mini-grants vs research grants
+* checkin with [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-february-2017)
+
 
 
 
 TO DOS
 * update repo for fellows workweek
 * workweek blog
-* reminder to thursday speakers after jlin confirmation
+
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* send travel invites to extra wow attendees flagged by abby
+
 
 **WOW**
 	* [WOW] Curriculum plan
