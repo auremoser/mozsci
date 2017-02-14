@@ -406,6 +406,7 @@
 * uploaded photos to [fellows' workweek dropbox](https://www.dropbox.com/home/MOZILLA/2017-Workweek-SF)
 * meeting with Azza about h3abionet stuff and checking sound for thursday
 * sent [presentation](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit?usp=sharing) to ACM workshop collaborators
+* tweeted and gdi newsletter'd Equal Ratings Conf for Amira
 
 
 
@@ -415,6 +416,7 @@ TO DOS
 * update repo for fellows workweek
 * workweek blog
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
+* post community call in community chat: https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017
 
 
 **WOW**
