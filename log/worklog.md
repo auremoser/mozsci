@@ -403,14 +403,15 @@
 * updated etherpad with upcoming events and activities: https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017
 * checkin with Jofish about mini-grants vs research grants
 * checkin with [team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-february-2017)
+* uploaded photos to [fellows' workweek dropbox](https://www.dropbox.com/home/MOZILLA/2017-Workweek-SF)
 
 
 
 
 TO DOS
+
 * update repo for fellows workweek
 * workweek blog
-
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 
 
