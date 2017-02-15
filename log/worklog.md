@@ -419,6 +419,7 @@
 * attended all hands call
 * wrapped [draft blog post on fellows' workweek](https://docs.google.com/document/d/1JclU9ElFTR1sQvo8Spi_noxZ1SGgXcnumwjlUmjHXyc/edit)
 * sent email reminder to all community for community call, copied into gitter chat, tweeted
+* [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb15)
 
 
 
