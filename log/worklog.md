@@ -410,6 +410,14 @@
 * updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=772)
 * considering/brainstorming april community call on Trust networks
 
+### 2/15/17
+* meeting with Amel about Pasteu Collab
+* meeting with Kalpana, set new date for 4/417
+* meeting with Vanessa about blog post
+* merged abby's pr about jason on wow site
+* emailed amel and antonio about pasteur institute
+* attended all hands call
+* wrapped [draft blog post on fellows' workweek](https://docs.google.com/document/d/1JclU9ElFTR1sQvo8Spi_noxZ1SGgXcnumwjlUmjHXyc/edit)
 
 
 
@@ -487,6 +495,7 @@ TO DOS
     * Regina Flores Mir
 * **April 2017** - Trust networks
 	* building trust between science and society with [Helen Czerski](https://www.theguardian.com/science/blog/2017/jan/27/a-crisis-of-trust-is-looming-between-scientists-and-society-its-time-to-talk)
+	* border security with matt mitchell
 
 
 
