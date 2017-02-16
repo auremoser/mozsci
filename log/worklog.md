@@ -425,6 +425,7 @@
 
 ### 2/16/17
 * meeting about [MLN Global Sprint](https://public.etherpad-mozilla.org/p/MLNSprint-2017)
+* updated [sf workweek repo](https://github.com/mozillafoundation/2017-fellows-sf) with flagged items, emailed J
 * scheduled [pasteur institute meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#) updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
