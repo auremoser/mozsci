@@ -423,9 +423,22 @@
 * [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 * [wow meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 
+### 2/16/17
+* meeting about [MLN Global Sprint](https://public.etherpad-mozilla.org/p/MLNSprint-2017)
+* scheduled [pasteur institute meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#) updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+
+
+* Dates for Mozfest - 27th-29th October
+
 
 
 TO DOS
+* remove jen content from fellows' workweek
+* write up bios for tomorrow's community call
+* add links to community call
+* set blog to post
+* talk to steph about institut pasteur
+* review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
 
 * update repo for fellows workweek
 * workweek blog
