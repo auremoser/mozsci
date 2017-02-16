@@ -440,16 +440,20 @@
 	* presidents day
 * updated [leads and targets for amit's study group](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * started Book Club [Brainstorming document](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
+* review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
+* tweeted my book
+* updated [metrics etherpad](https://public.etherpad-mozilla.org/p/2016-call-participants) with calls
+* created a website event for the April 13th community call
+* closed some plan repo issues
 
 
 
 * Dates for Mozfest - 27th-29th October
 
 
-
 TO DOS
-* prep book club tweet questions
-* review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
+* website for Dev Roadshow
+* prep book club tweet questions [here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * update repo for fellows workweek
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 
