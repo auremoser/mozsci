@@ -422,6 +422,10 @@
 * [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-feb15)
 * [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 * [wow meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* add links to community call
+* set blog to post
+* talk to steph about institut pasteur
+* write up bios for tomorrow's community call
 
 ### 2/16/17
 * meeting about [MLN Global Sprint](https://public.etherpad-mozilla.org/p/MLNSprint-2017)
@@ -430,6 +434,13 @@
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605) with new blogs
 * updated [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) with new links
 * community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017)
+* tweeted call, sent thank you notes to speakers
+
+
+
+* Book Club - tweet chat invite
+	* email fellows
+	* presidents day
 
 @auremoser I gone through https://science.mozilla.org/programs/studygroups and haven't seen my Mozilla Uttar Pradesh Study Group : http://amitkumarj441.github.io/studyGroup and Please add our upcoming event on Rust which I shared earlier in this thread.
 Cheers,
@@ -441,11 +452,9 @@ Amit Kumar Jaiswal
 
 
 TO DOS
-* remove jen content from fellows' workweek
-* write up bios for tomorrow's community call
-* add links to community call
-* set blog to post
-* talk to steph about institut pasteur
+
+
+
 * review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
 
 * update repo for fellows workweek
