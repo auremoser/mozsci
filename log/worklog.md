@@ -427,6 +427,13 @@
 * meeting about [MLN Global Sprint](https://public.etherpad-mozilla.org/p/MLNSprint-2017)
 * updated [sf workweek repo](https://github.com/mozillafoundation/2017-fellows-sf) with flagged items, emailed J
 * scheduled [pasteur institute meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#) updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605) with new blogs
+* updated [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) with new links
+* community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017)
+
+@auremoser I gone through https://science.mozilla.org/programs/studygroups and haven't seen my Mozilla Uttar Pradesh Study Group : http://amitkumarj441.github.io/studyGroup and Please add our upcoming event on Rust which I shared earlier in this thread.
+Cheers,
+Amit Kumar Jaiswal
 
 
 * Dates for Mozfest - 27th-29th October
