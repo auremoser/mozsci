@@ -443,7 +443,7 @@
 * review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
 * tweeted my book
 * updated [metrics etherpad](https://public.etherpad-mozilla.org/p/2016-call-participants) with calls
-* created a website event for the April 13th community call
+* created a website event for the April 13th community call + [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017)
 * closed some plan repo issues
 
 
