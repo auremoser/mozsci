@@ -435,12 +435,10 @@
 * updated [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) with new links
 * community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017)
 * tweeted call, sent thank you notes to speakers
-
-
-
 * Book Club - tweet chat invite
 	* email fellows
 	* presidents day
+* updated [leads and targets for amit's study group](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 @auremoser I gone through https://science.mozilla.org/programs/studygroups and haven't seen my Mozilla Uttar Pradesh Study Group : http://amitkumarj441.github.io/studyGroup and Please add our upcoming event on Rust which I shared earlier in this thread.
 Cheers,
