@@ -439,10 +439,8 @@
 	* email fellows
 	* presidents day
 * updated [leads and targets for amit's study group](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* started Book Club [Brainstorming document](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 
-@auremoser I gone through https://science.mozilla.org/programs/studygroups and haven't seen my Mozilla Uttar Pradesh Study Group : http://amitkumarj441.github.io/studyGroup and Please add our upcoming event on Rust which I shared earlier in this thread.
-Cheers,
-Amit Kumar Jaiswal
 
 
 * Dates for Mozfest - 27th-29th October
@@ -450,15 +448,10 @@ Amit Kumar Jaiswal
 
 
 TO DOS
-
-
-
+* prep book club tweet questions
 * review kirstie's blog : https://github.com/KirstieJane/fellows-class-2016/blob/master/kirstie/blog/blog-mozillaforturing-KW.md
-
 * update repo for fellows workweek
-* workweek blog
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* post community call in community chat: https://public.etherpad-mozilla.org/p/sciencelab-calls-feb16-2017
 
 
 **WOW**
