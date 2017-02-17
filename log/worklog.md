@@ -458,13 +458,15 @@
 * meeting with Philip about Newsies [plan](https://docs.google.com/document/d/173IY-QNS3YhGZBaALBRi-B09lGXaS5M1FyxqEaZT0W8/edit?ts=58a7193e)
 * [team meeting](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-feb17-2017)
 * filled out team activity form for h3abionet
+* tell fellows their doing a 3 min lightning talk at the montreal meetup
+* scheduled fellowships [design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design) etherpad meeting 2/22
 
 
 * update interview template with philips' questions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
 * schedule debrief for fellows program
-* tell fellows their doing a 3 min lightning talk at the montreal meetup
+
 * Copy former survey and add to to template emails
 	* make sure dietary restriction question
 * If we communicate to all WOW attendees please mention:
