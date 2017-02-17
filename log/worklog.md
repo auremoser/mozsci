@@ -467,20 +467,15 @@
 	* all their names are on the WOW website. PR or email to make changes https://mozillascience.github.io/WOW-2017/
 * made new issue for [Study Group Call](https://github.com/mozillascience/plan/issues/105)
 * made new issue for [Community Call](https://github.com/mozillascience/plan/issues/106)
+* [metrics chat](../projects/17-02-metrics-ihr.md)* update interview template with philips' questions, pinged him in the doc
 
 
-
-* update interview template with philips' questions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
 
 
-
-
-
-
-
 TO DOS
+* interview blog post to hype for fellows applications
 * website for Dev Roadshow
 * prep book club tweet questions [here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * update repo for fellows workweek
