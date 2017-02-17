@@ -465,7 +465,8 @@
 	* If we communicate to all WOW attendees please mention:
 	* gitter chat room
 	* all their names are on the WOW website. PR or email to make changes https://mozillascience.github.io/WOW-2017/
-
+* made new issue for [Study Group Call](https://github.com/mozillascience/plan/issues/105)
+* made new issue for [Community Call](https://github.com/mozillascience/plan/issues/106)
 
 * update interview template with philips' questions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
