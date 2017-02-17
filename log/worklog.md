@@ -468,6 +468,8 @@
 * made new issue for [Study Group Call](https://github.com/mozillascience/plan/issues/105)
 * made new issue for [Community Call](https://github.com/mozillascience/plan/issues/106)
 
+
+
 * update interview template with philips' questions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
@@ -475,7 +477,7 @@
 
 
 
-* Dates for Mozfest - 27th-29th October
+
 
 
 TO DOS
@@ -483,7 +485,7 @@ TO DOS
 * prep book club tweet questions [here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * update repo for fellows workweek
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-
+* Dates for Mozfest - 27th-29th October
 
 **WOW**
 	* [WOW] Curriculum plan
@@ -510,7 +512,6 @@ TO DOS
 * update roadmap with [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
-
 ### OTHER TECH
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
 * fix up short links for [study groups like clubs](https://public.etherpad-mozilla.org/p/2016-study-groups)
@@ -535,9 +536,7 @@ TO DOS
 
 ##### Call Ideas
 
-* Bill Mills on Docker for Study Group Call
-* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
-* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+
 * **February 2017** - Art Science
   * all people from visualized for Citizen science projects
     * Tom Duscher
@@ -546,24 +545,14 @@ TO DOS
 	* building trust between science and society with [Helen Czerski](https://www.theguardian.com/science/blog/2017/jan/27/a-crisis-of-trust-is-looming-between-scientists-and-society-its-time-to-talk)
 	* border security with matt mitchell
 
-
-
-#### WOW PLAN
-Mar 5-11: Full on MSL led WOW for Science
-Location: Chicago, Boston, or Montreal
-I can fund 10 of your mentees to attend.  If you don't have that many, let's talk.
-The rest of the participants will be local who can attend on their own dime
-
-Fellows lead mini-WOWs: early April
-
-June 11-17 Fellows & MSL lead full WOW for Science, possibly w/ Pasteur Institut
-Location: Cape Town / Stellenbosch, South Africa
-Do you want mentees for this one?  Or would you prefer a later one for them to attend, closer to Mozfest?
-
+* Bill Mills on Docker for Study Group Call
+* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
+* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
 * Luke Thompson - EMP
+
 
 #### STRATEGY
 **MONTHLY**
@@ -579,7 +568,6 @@ Do you want mentees for this one?  Or would you prefer a later one for them to a
 * contacts and regional owners
 * followup and outreach schedule
 * [communication plan]()
-
 
 
 ### RESOURCES
