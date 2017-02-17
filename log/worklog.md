@@ -455,7 +455,21 @@
 * updated book chat time
 * emailed joe about open con location and times
 * forwarded space apps details to Stuart
+* meeting with Philip about Newsies [plan](https://docs.google.com/document/d/173IY-QNS3YhGZBaALBRi-B09lGXaS5M1FyxqEaZT0W8/edit?ts=58a7193e)
+* [team meeting](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-feb17-2017)
+* filled out team activity form for h3abionet
 
+
+* update interview template with philips' questions
+* transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
+* travel to Estonia for April 25-27th
+* schedule debrief for fellows program
+* tell fellows their doing a 3 min lightning talk at the montreal meetup
+* Copy former survey and add to to template emails
+	* make sure dietary restriction question
+* If we communicate to all WOW attendees please mention:
+* gitter chat room
+* all their names are on the WOW website. PR or email to make changes https://mozillascience.github.io/WOW-2017/
 
 
 * Dates for Mozfest - 27th-29th October
@@ -490,16 +504,9 @@ TO DOS
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
 ### FELLOWSHIPS PRE-WORKWEEK
-* [review onboarding survey](https://docs.google.com/forms/u/0/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit)
-* followup with fellows [on learn/teaching](https://docs.google.com/spreadsheets/d/1buQl8BHSvp3IRZFqh2sX9H8q6hsUcTQiX3hBKTT0mU8/edit#gid=946021173)
-* followup with [calendar dates](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=300756144)
-* [onboarding feedback](https://docs.google.com/forms/d/1bkBm9UtHd5liwntULaI7yjgAW0dmqmzrRZRE0aLomsU/edit#responses)
 * update roadmap with [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69)
 * follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
-* figure out [survey result stats](https://docs.google.com/forms/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit#responses)
-* followup on [summary video notes for fellows](https://public.etherpad-mozilla.org/p/2015-fellow-review)
-* fellow review materials [here](https://public.etherpad-mozilla.org/p/2015-fellow-review)
-* check out [fellows' surveys](https://docs.google.com/forms/u/0/d/1THlnzwuG1yKI52fTJPq0MCfKvaH96_-_11yz8uot0GM/edit)
+
 
 ### OTHER TECH
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
@@ -585,3 +592,5 @@ Do you want mentees for this one?  Or would you prefer a later one for them to a
 * [design dailies](http://desktopdailies.tumblr.com/)
 * [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
 * [Fellowship Plan/Process](https://public.etherpad-mozilla.org/p/fellowship-process) also in a google doc
+* [MSL participation form template](https://docs.google.com/a/mozillafoundation.org/forms/d/1UuWyuBlAPqYRGR5s3TyFzhbBpYPHxZIEp_v3swcG2yI/edit?ts=586ecf81)
+* [MSL Team participation form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform)
