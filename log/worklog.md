@@ -447,6 +447,15 @@
 * closed some plan repo issues
 * wrote hana back about a workshop
 
+### 2/17/17
+* reclosed issue [#551](https://github.com/mozilla/science.mozilla.org/issues/551#issuecomment-280558644) from contributor on science site
+* gave a guest talk to the h3a bionet community 
+	* 19 people attended
+	* thank you sent to azza and amel
+* updated book chat time
+* emailed joe about open con location and times
+* forwarded space apps details to Stuart
+
 
 
 * Dates for Mozfest - 27th-29th October
