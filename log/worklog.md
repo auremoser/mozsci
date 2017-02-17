@@ -460,18 +460,18 @@
 * filled out team activity form for h3abionet
 * tell fellows their doing a 3 min lightning talk at the montreal meetup
 * scheduled fellowships [design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design) etherpad meeting 2/22
+* Copied former survey and add to to template emails
+	* make sure dietary restriction question
+	* If we communicate to all WOW attendees please mention:
+	* gitter chat room
+	* all their names are on the WOW website. PR or email to make changes https://mozillascience.github.io/WOW-2017/
 
 
 * update interview template with philips' questions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
-* schedule debrief for fellows program
 
-* Copy former survey and add to to template emails
-	* make sure dietary restriction question
-* If we communicate to all WOW attendees please mention:
-* gitter chat room
-* all their names are on the WOW website. PR or email to make changes https://mozillascience.github.io/WOW-2017/
+
 
 
 * Dates for Mozfest - 27th-29th October
