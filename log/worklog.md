@@ -544,6 +544,7 @@ TO DOS
 * **April 2017** - Trust networks
 	* building trust between science and society with [Helen Czerski](https://www.theguardian.com/science/blog/2017/jan/27/a-crisis-of-trust-is-looming-between-scientists-and-society-its-time-to-talk)
 	* border security with matt mitchell
+	* [trust project](http://www.thetrustproject.org/)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
