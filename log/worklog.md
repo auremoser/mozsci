@@ -469,12 +469,18 @@
 * made new issue for [Community Call](https://github.com/mozillascience/plan/issues/106)
 * [metrics chat](../projects/17-02-metrics-ihr.md)* update interview template with philips' questions, pinged him in the doc
 
+### 2/19/17
+* interview with pietro for [on ama](https://public.etherpad-mozilla.org/p/open-media-ama)
+* book club tweet chat prep
+* [teon's pr](https://github.com/mozilla/science.mozilla.org/pull/573)
+
 
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
 
 
 TO DOS
+* call gma
 * interview blog post to hype for fellows applications
 * website for Dev Roadshow
 * prep book club tweet questions [here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
