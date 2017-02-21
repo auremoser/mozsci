@@ -485,6 +485,7 @@
 * sent hao and zannah survey email for WOW
 * side chat with [Maulik Soneji](https://gitter.im/Mastermaulik) about how study group repo works, very productive :)
 * updated [AMA doc with notes from Pietro's interview](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
+* made [spreadsheet](https://docs.google.com/spreadsheets/d/1Ka9uoSvx7xlK4z8N1Vkm5xDUFLQ90_u_ssMQ66LMByQ/edit#gid=85710639) for fellows tax/travel tracking
 
 
 
