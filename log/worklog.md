@@ -412,7 +412,7 @@
 
 ### 2/15/17
 * meeting with Amel about Pasteu Collab
-* meeting with Kalpana, set new date for 4/417
+* meeting with Kalpana, set new date for 4/4/17
 * meeting with Vanessa about blog post
 * merged abby's pr about jason on wow site
 * emailed amel and antonio about pasteur institute
@@ -486,6 +486,8 @@
 * side chat with [Maulik Soneji](https://gitter.im/Mastermaulik) about how study group repo works, very productive :)
 * updated [AMA doc with notes from Pietro's interview](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
 * made [spreadsheet](https://docs.google.com/spreadsheets/d/1Ka9uoSvx7xlK4z8N1Vkm5xDUFLQ90_u_ssMQ66LMByQ/edit#gid=85710639) for fellows tax/travel tracking
+* setup schedule for next week's [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar01)
+* updated [slides](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1b1bae65d2_0_351) with more details
 
 
 
