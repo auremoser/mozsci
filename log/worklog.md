@@ -477,7 +477,7 @@
 ### 2/20/17
 * email catchup
 * study group intro email [logged here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
-* 
+* made [study groups africa pad for tomorrow's checkin](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11)
 
 * [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
