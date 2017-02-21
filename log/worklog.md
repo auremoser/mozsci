@@ -481,6 +481,7 @@
 * RSVP for 'Open Data: the researcher perspective’ in Barcelona
 * logged new india [study group here](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * invited Zara + Seamus to our April 13th community call
+* added comment about [teon's march for science blog](https://www.trelliscience.com/#/discussions-about/14226/) to Trellis discussion on the march for science
 
 
 
