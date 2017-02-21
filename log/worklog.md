@@ -484,6 +484,7 @@
 * added comment about [teon's march for science blog](https://www.trelliscience.com/#/discussions-about/14226/) to Trellis discussion on the march for science
 * sent hao and zannah survey email for WOW
 * side chat with [Maulik Soneji](https://gitter.im/Mastermaulik) about how study group repo works, very productive :)
+* updated [AMA doc with notes from Pietro's interview](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
 
 
 
