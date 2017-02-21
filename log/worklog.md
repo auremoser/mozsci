@@ -483,6 +483,7 @@
 * invited Zara + Seamus to our April 13th community call
 * added comment about [teon's march for science blog](https://www.trelliscience.com/#/discussions-about/14226/) to Trellis discussion on the march for science
 * sent hao and zannah survey email for WOW
+* side chat with [Maulik Soneji](https://gitter.im/Mastermaulik) about how study group repo works, very productive :)
 
 
 
