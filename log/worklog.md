@@ -488,11 +488,16 @@
 * made [spreadsheet](https://docs.google.com/spreadsheets/d/1Ka9uoSvx7xlK4z8N1Vkm5xDUFLQ90_u_ssMQ66LMByQ/edit#gid=85710639) for fellows tax/travel tracking
 * setup schedule for next week's [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar01)
 * updated [slides](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1b1bae65d2_0_351) with more details
+* [1:1 with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* meeting with JPL
+* meeting with Lou
+* meeting with Space Apps
 
 
 
 TO DOS
 * call gma
+* pasteur meeting: https://public.etherpad-mozilla.org/p/1_1_Aurelia
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * recap from twitter chat
 * log notes for open news interviews
