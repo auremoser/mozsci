@@ -474,7 +474,13 @@
 * book club tweet chat prep
 * [teon's pr](https://github.com/mozilla/science.mozilla.org/pull/573)
 
+### 2/20/17
+* email catchup
+* study group intro email [logged here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
+* 
 
+* [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
+* look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
 * transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
 * travel to Estonia for April 25-27th
 
