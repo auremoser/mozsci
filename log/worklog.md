@@ -497,7 +497,10 @@
 * scheduled meeting with another news fellow interviewee
 * emailed some folks about restaurant recommendations for montreal
 * meeting on fellowship design
-* made some basic applicant stats for Arliss
+* made some basic [applicant stats](https://docs.google.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit#gid=1147769210) for Arliss
+* invited Lucy to our next WOW
+
+
 
 
 TO DOS
