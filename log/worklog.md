@@ -493,6 +493,11 @@
 * meeting with Lou
 * meeting with Space Apps
 
+### 2/21/17
+* scheduled meeting with another news fellow interviewee
+* emailed some folks about restaurant recommendations for montreal
+* meeting on fellowship design
+* made some basic applicant stats for Arliss
 
 
 TO DOS
