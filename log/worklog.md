@@ -500,8 +500,11 @@
 * made some basic [applicant stats](https://docs.google.com/spreadsheets/d/1uOthF71gvKpScQ12JGkUcQOrxETg-GsgYCtWV3rqKJw/edit#gid=1147769210) for Arliss
 * invited Lucy to our next WOW
 * emailed abigail philips about document overview
+* helped out with Hive event
 
-
+### 2/22/17
+* pasteur [mini-wow meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#)
+* updated Zannah about WOW
 
 
 TO DOS
