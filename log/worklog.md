@@ -381,7 +381,7 @@
 * what they want wow to be - in fellows checkin
 * checkin with teon - march for science blog
 
-### 2/13/17
+## 2/13/17
 * chat with Vanessa about next steps
 * email kalpana - fluxx updates for new fellowship
 * email sandra about march mozilla developer event
@@ -391,7 +391,7 @@
 * updated WOW invite with [open science meetup CFP](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
 * updated [call archives](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 
-### 2/14/17
+## 2/14/17
 * approved abby's [epic pull request](https://github.com/mozillascience/WOW-2017/pull/4)
 * posted teon's March for Science [blog](https://science.mozilla.org/blog/sciencemarch) via [tweet](https://science.mozilla.org/blog/sciencemarch)
 * created [open media ama](https://public.etherpad-mozilla.org/p/open-media-ama) etherpad for folks
@@ -410,7 +410,7 @@
 * updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=772)
 * considering/brainstorming april community call on Trust networks
 
-### 2/15/17
+## 2/15/17
 * meeting with Amel about Pasteu Collab
 * meeting with Kalpana, set new date for 4/4/17
 * meeting with Vanessa about blog post
@@ -427,7 +427,7 @@
 * talk to steph about institut pasteur
 * write up bios for tomorrow's community call
 
-### 2/16/17
+## 2/16/17
 * meeting about [MLN Global Sprint](https://public.etherpad-mozilla.org/p/MLNSprint-2017)
 * updated [sf workweek repo](https://github.com/mozillafoundation/2017-fellows-sf) with flagged items, emailed J
 * scheduled [pasteur institute meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#) updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
@@ -447,7 +447,7 @@
 * closed some plan repo issues
 * wrote hana back about a workshop
 
-### 2/17/17
+## 2/17/17
 * reclosed issue [#551](https://github.com/mozilla/science.mozilla.org/issues/551#issuecomment-280558644) from contributor on science site
 * gave a guest talk to the h3a bionet community 
 	* 19 people attended
@@ -469,12 +469,12 @@
 * made new issue for [Community Call](https://github.com/mozillascience/plan/issues/106)
 * [metrics chat](../projects/17-02-metrics-ihr.md)* update interview template with philips' questions, pinged him in the doc
 
-### 2/19/17
+## 2/19/17
 * prep book club tweet questions [here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview with pietro for [on ama](https://public.etherpad-mozilla.org/p/open-media-ama)
 * [teon's pr](https://github.com/mozilla/science.mozilla.org/pull/573)
 
-### 2/20/17
+## 2/20/17
 * email catchup
 * study group intro email [logged here](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
 * made [study groups africa pad for tomorrow's checkin](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11)
@@ -493,7 +493,7 @@
 * meeting with Lou
 * meeting with Space Apps
 
-### 2/21/17
+## 2/21/17
 * scheduled meeting with another news fellow interviewee
 * emailed some folks about restaurant recommendations for montreal
 * meeting on fellowship design
@@ -502,16 +502,34 @@
 * emailed abigail philips about document overview
 * helped out with Hive event
 
-### 2/22/17
+## 2/22/17
 * pasteur [mini-wow meeting](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#)
 * updated Zannah about WOW
+* invited Chrystian to WOW
+* accepted Open Media AMA - Andrea Nelson Mauro's interview request
+* updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia) with pasteur plan
+* booked travel for mozretreat
+* booked airbnb for RDA
+* work meeting with team on wow curriculum
+* Aurelia to setup website handout templates -> ping zannah to update templates
+* Aurelia to send emails to Birds of a Feather: https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW-curriculum#lineNumber=41
 
+## 2/23/17
+* meeting on open media interview with Hong
+* prepping the newsletter for february 2017
+* [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=772)
+* team [call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-feb24-2017)
+* getting ready for portland
+* created [bof pad for heather and hao](https://public.etherpad-mozilla.org/p/2017-wow-bof-software)
+* flights for Mozretreat booked
+* worked on notes for CSCW, prepped presentation
 
 TO DOS
+
+* transfer [WOW Schedule](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW-curriculum#lineNumber=41) to event page and site
 * call gma
-* pasteur meeting: https://public.etherpad-mozilla.org/p/1_1_Aurelia
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
-* recap from twitter chat
+* [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * log notes for open news interviews
 * interview blog post to hype for fellows applications
 * space apps website
@@ -519,7 +537,7 @@ TO DOS
 * update repo for fellows workweek
 * [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
-* transfer [WOW Schedule](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) to event page and site
+
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * Dates for Mozfest - 27th-29th October
 * travel to Estonia for April 25-27th
