@@ -522,7 +522,14 @@
 * getting ready for portland
 * created [bof pad for heather and hao](https://public.etherpad-mozilla.org/p/2017-wow-bof-software)
 * flights for Mozretreat booked
+
+### 2/25/17
 * worked on notes for CSCW, prepped presentation
+* attended [Hackworshop on Time-bounded events](https://hackathon-workshop.github.io/)
+* reconnected with Stefanie Butland of ROpenSci
+* wrote back to Sarah about recommendations for Mozfest Wranglers
+* filled out [team activities form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform) for cscw and for the [paper we wrote](http://dl.acm.org/citation.cfm?id=3022658)
+* updated schedule for [wow 2017](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
 
 TO DOS
 
