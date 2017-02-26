@@ -530,10 +530,10 @@
 * wrote back to Sarah about recommendations for Mozfest Wranglers
 * filled out [team activities form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform) for cscw and for the [paper we wrote](http://dl.acm.org/citation.cfm?id=3022658)
 * updated schedule for [wow 2017](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
+* [gdi nyc meeting](https://docs.google.com/document/u/2/d/1uGz-P1GQYTvVhYhU9qOxYFfhXEKP7l6cMfmquTwhkrU/edit)
 
 TO DOS
 
-* transfer [WOW Schedule](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW-curriculum#lineNumber=41) to event page and site
 * call gma
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
@@ -544,10 +544,8 @@ TO DOS
 * update repo for fellows workweek
 * [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
-
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * Dates for Mozfest - 27th-29th October
-* travel to Estonia for April 25-27th
 
 **WOW**
 	* [WOW] Curriculum plan
