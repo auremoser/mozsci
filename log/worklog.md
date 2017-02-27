@@ -531,10 +531,13 @@
 * filled out [team activities form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform) for cscw and for the [paper we wrote](http://dl.acm.org/citation.cfm?id=3022658)
 * updated schedule for [wow 2017](https://science.mozilla.org/programs/events/working-open-workshop-march-2017/schedule)
 * [gdi nyc meeting](https://docs.google.com/document/u/2/d/1uGz-P1GQYTvVhYhU9qOxYFfhXEKP7l6cMfmquTwhkrU/edit)
+* tensorflow notes in projects/
+* wrote to a new study group in manchaester
+* wrote to Open Media AMA 
 
 TO DOS
 
-* call gma
+* cmu hack workshop blog post
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * log notes for open news interviews
