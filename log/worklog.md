@@ -534,6 +534,9 @@
 * tensorflow notes in projects/
 * wrote to a new study group in manchaester
 * wrote to Open Media AMA 
+* watched town hall on acquisition
+* sent a bunch of emails
+* added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit)
 
 TO DOS
 
