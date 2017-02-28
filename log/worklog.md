@@ -536,14 +536,16 @@
 * wrote to Open Media AMA 
 * watched town hall on acquisition
 * sent a bunch of emails
-* added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit) + [w4w doc]()
+* added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit) + [w4w doc](https://public.etherpad-mozilla.org/p/w4w)
 * wrote recommendation for Suchana's research grant, Sucheta's, Lauren's
 
 ### 2/26/17
 * emailed speakers for Community panel for zannah
 * remind fellows of wednesday call
-* made doctor's appointment
+* made doctor's appointments
 * remind study groups of Friday call (listserv)
+* lunch with mentee
+* [filled out team checkin pad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-february-2017)
 
 
 
@@ -575,7 +577,6 @@ TO DOS
 * fork visulization repo and add etherpads
 * followup on this [nerdcator integration task](https://github.com/auremoser/nerdcator/issues/8#event-854736201)
 * work on [MSL gantt chart](https://github.com/mozillascience/plan/issues/80#issuecomment-258522001)
-* Steph / Enter Mozfest (& other) presentations in [Activity Form / by 11/11 pleeeeease](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform)
 
 
 ## OVER BREAK
