@@ -550,7 +550,7 @@
 * reviewed community building questions
 * added a new [study group fork](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0) to leads/targets
 * reimbursements for hackworkshop
-
+* updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) with links and toolsets for journal clubs
 
 
 TO DOS
