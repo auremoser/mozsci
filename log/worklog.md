@@ -523,7 +523,7 @@
 * created [bof pad for heather and hao](https://public.etherpad-mozilla.org/p/2017-wow-bof-software)
 * flights for Mozretreat booked
 
-### 2/25/17
+## 2/25/17
 * worked on notes for CSCW, prepped presentation
 * attended [Hackworshop on Time-bounded events](https://hackathon-workshop.github.io/)
 * reconnected with Stefanie Butland of ROpenSci
@@ -536,10 +536,21 @@
 * wrote to Open Media AMA 
 * watched town hall on acquisition
 * sent a bunch of emails
-* added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit)
+* added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit) + [w4w doc]()
+* wrote recommendation for Suchana's research grant, Sucheta's, Lauren's
+
+### 2/26/17
+* emailed speakers for Community panel for zannah
+* remind fellows of wednesday call
+* made doctor's appointment
+* remind study groups of Friday call (listserv)
+
+
 
 TO DOS
-
+* reimbursements for hackworkshop
+* remind study groups of Friday call (listserv/gitter)
+* fix up etherpad for friday study group call
 * cmu hack workshop blog post
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
