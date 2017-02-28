@@ -546,12 +546,16 @@
 * remind study groups of Friday call (listserv)
 * lunch with mentee
 * [filled out team checkin pad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-february-2017)
+* reviewed electives for Zannah
+* reviewed community building questions
+* added a new [study group fork](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0) to leads/targets
+* reimbursements for hackworkshop
 
 
 
 TO DOS
-* reimbursements for hackworkshop
-* remind study groups of Friday call (listserv/gitter)
+
+* remind study groups of Friday call (individual/gitter)
 * fix up etherpad for friday study group call
 * cmu hack workshop blog post
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
@@ -561,16 +565,13 @@ TO DOS
 * space apps website
 * website for Dev Roadshow
 * update repo for fellows workweek
+
+TO STUDY
+
 * [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
-* Dates for Mozfest - 27th-29th October
 
-**WOW**
-	* [WOW] Curriculum plan
-	* migrate outline to github repo
-	* make slidedeck for intro wow stuff
-	* blog post introducing wow [mentorship program](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jan06-2017#lineNumber=38)
 * fix SGO site
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * get stats for gitter chats
@@ -586,9 +587,6 @@ TO DOS
 * update [regional spreadsheet of contacts](https://docs.google.com/spreadsheets/d/1mV1D9EsHiyhsc2XrTKhEE2Sx8RZ9erV--_jMSCo31JA/edit#gid=0)
 * create quarterly [fellows' reflection survey](https://goo.gl/forms/tpHYKYTykaY7QH5n2) and send results to advisors to start dialog
 
-### FELLOWSHIPS PRE-WORKWEEK
-* update roadmap with [dates for workweek](https://public.etherpad-mozilla.org/p/mozfellowships#lineNumber=69)
-* follow up with debrief [asks](https://public.etherpad-mozilla.org/p/2016-fellows-onboarding-debrief)
 
 ### OTHER TECH
 * write [404 page](https://github.com/mozilla/science.mozilla.org/issues/182#issuecomment-248707447)
@@ -623,6 +621,7 @@ TO DOS
 	* building trust between science and society with [Helen Czerski](https://www.theguardian.com/science/blog/2017/jan/27/a-crisis-of-trust-is-looming-between-scientists-and-society-its-time-to-talk)
 	* border security with matt mitchell
 	* [trust project](http://www.thetrustproject.org/)
+	* [WCSFP](http://wcsfp.com/)
 	* Zara Rahman, research privacy/the engine room
 	* Seamus Tuohy, research ethics
 
