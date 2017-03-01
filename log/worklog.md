@@ -563,6 +563,7 @@
 	* Manuel
 	* Livia
 * [1:1 checkin with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* interview with Andrea for [Open Media Interviews](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
