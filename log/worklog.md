@@ -562,11 +562,12 @@
 	* Kavya
 	* Manuel
 	* Livia
-
+* [1:1 checkin with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 TO DOS
-
+* remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 * remind study groups of Friday call (individual/gitter)
+* docs for abigail, review
 * fix up etherpad for friday study group call
 * cmu hack workshop blog post
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
