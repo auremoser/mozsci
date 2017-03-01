@@ -552,6 +552,17 @@
 * reimbursements for hackworkshop
 * updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) with links and toolsets for journal clubs
 
+### 2/27/17
+
+* outreach to open news interview fellows
+	* Sonya
+	* Marcos
+	* Juan
+	* Nicola
+	* Kavya
+	* Manuel
+	* Livia
+
 
 TO DOS
 
