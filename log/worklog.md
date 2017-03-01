@@ -569,6 +569,7 @@
 * messaged V about fellows page on MLN site
 * tweeted about Study Group Learning call Friday!
 * [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar01)
+* [wow checkin meeting](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
