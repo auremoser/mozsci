@@ -582,6 +582,7 @@
 * rsvp'd to gsoc [as a mentor](https://summerofcode.withgoogle.com/dashboard/organization/6421332469219328/members/?sp-role=2)
 * trouble shot printer stuff for jlin
 * added seamus and sucheta to the [community call for april](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=99)
+* [mozilla culture survey](https://mozilla.cultureamp.com/responses/58b766c0db4d083864001aa4)
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
