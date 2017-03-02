@@ -579,7 +579,9 @@
 * community tweets
 * updated the newsletter
 *  invited [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html) to our community call
-
+* rsvp'd to gsoc [as a mentor](https://summerofcode.withgoogle.com/dashboard/organization/6421332469219328/members/?sp-role=2)
+* trouble shot printer stuff for jlin
+* added seamus and sucheta to the [community call for april](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=99)
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
