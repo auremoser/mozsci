@@ -574,8 +574,16 @@
 * lots of emails to JLIN and others for printer tests and stuff tomorrow
 * rsvp'd to [insights team checkin](https://docs.google.com/document/d/1Fnh7_OnZGhr5pknWkO9gPKT7gsir03QQZraRyiflxGs/edit#)
 
+### 3/2/17
+* [study grouper feedback](https://github.com/kajabfab/studyGroup/issues/1#issuecomment-283582064)
+* community tweets
+* updated the newsletter
+*  invited [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html) to our community call
+
+
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
+* prep tensor flow workshop
 * remind study groups of Friday call (individual/gitter)
 * docs for abigail, review
 * fix up etherpad for friday study group call
@@ -647,6 +655,7 @@ TO STUDY
 	* [WCSFP](http://wcsfp.com/)
 	* Zara Rahman, research privacy/the engine room
 	* Seamus Tuohy, research ethics
+	* [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
