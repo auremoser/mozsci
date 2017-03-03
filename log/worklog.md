@@ -611,6 +611,8 @@ TO DOS
 * website for Dev Roadshow
 * update repo for fellows workweek
 * uploaded Study Groups [video recording](https://youtu.be/nPmP5iqWlKw)
+* updated wow site for arliss' participation and some etherpads for the sessions
+* added an [issue for slides](https://github.com/mozillascience/WOW-2017/issues/12)
 
 
 TO STUDY
