@@ -604,6 +604,7 @@
 * added an [issue for slides](https://github.com/mozillascience/WOW-2017/issues/12)
 * updated [call participant metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
 * [new issue for study group call in april](https://github.com/mozillascience/plan/issues/107)
+* finished content mockup for [mln page](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit#heading=h.ei4fqde0qb2)
 
 
 TO DOS
