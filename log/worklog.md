@@ -598,23 +598,22 @@
 * uploaded Study Groups [video recording](https://youtu.be/nPmP5iqWlKw)
 * created [etherpad for april study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
 * added mgalland/studyGroup to study group list, reached out via issues, updated website and map
+* prepped prework for tensorflow workshop tomorrow
+* added [event for april 7th study group call](https://science.mozilla.org/programs/events/studygroup-call-april-07)
+* updated wow site for arliss' participation and some etherpads for the sessions
+* added an [issue for slides](https://github.com/mozillascience/WOW-2017/issues/12)
+
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
-* prep tensor flow workshop
 * docs for abigail, review
-* fix up etherpad for friday study group call
 * cmu hack workshop blog post
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
-* log notes for open news interviews
 * interview blog post to hype for fellows applications
 * space apps website
 * website for Dev Roadshow
-* update repo for fellows workweek
 
-* updated wow site for arliss' participation and some etherpads for the sessions
-* added an [issue for slides](https://github.com/mozillascience/WOW-2017/issues/12)
 
 
 TO STUDY
