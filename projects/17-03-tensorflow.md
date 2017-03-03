@@ -19,3 +19,6 @@
 * [Introduction to Python and TensorFlow](https://www.slideshare.net/bayual/introduction-to-python-and-tensorflow)
 * [Neural Networks](http://www.beyondthelines.net/machine-learning/neural-network/)
 * [Introduction to TensorFlow](http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/)
+
+### Installation
+* [completed installation instructions for Docker](https://github.com/random-forests/WTM/blob/master/markdown/install-local.md)
