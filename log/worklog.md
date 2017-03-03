@@ -594,6 +594,8 @@
 * made [wow twitter list](https://twitter.com/MozillaScience/lists/wow2017) and updated website accordingly
 * tweeted about study group call
 * reviewed [media hub senior leaders proposal](https://docs.google.com/document/d/1ssIRgk2Sui55a95Fv9isSdAb6b0rO3rGJV-4hYgLjFI/edit?ts=58b8f555)
+* sent marcos the newsletter invite
+* recorded [study group call]()
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
@@ -608,6 +610,7 @@ TO DOS
 * space apps website
 * website for Dev Roadshow
 * update repo for fellows workweek
+* uploaded Study Groups [video recording](https://youtu.be/nPmP5iqWlKw)
 
 
 TO STUDY
