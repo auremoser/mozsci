@@ -602,6 +602,8 @@
 * added [event for april 7th study group call](https://science.mozilla.org/programs/events/studygroup-call-april-07)
 * updated wow site for arliss' participation and some etherpads for the sessions
 * added an [issue for slides](https://github.com/mozillascience/WOW-2017/issues/12)
+* updated [call participant metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
+* [new issue for study group call in april](https://github.com/mozillascience/plan/issues/107)
 
 
 TO DOS
@@ -703,6 +705,7 @@ TO STUDY
 
 ### RESOURCES
 * [msl get involved](https://public.etherpad-mozilla.org/p/msl-get-involved)
+* [msl call metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
 * [msl data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
 * [planning repo](https://github.com/mozillascience/plan/issues/33)
 * [reading room](https://public.etherpad-mozilla.org/p/sciencelab-readingroom)
