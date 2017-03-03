@@ -583,11 +583,21 @@
 * trouble shot printer stuff for jlin
 * added seamus and sucheta to the [community call for april](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=99)
 * [mozilla culture survey](https://mozilla.cultureamp.com/responses/58b766c0db4d083864001aa4)
+* updated some study group listing in the leads/targets 
+* emailed all study groups about journal club call tomorrow
+* remind study groups of Friday call (individual/gitter)
+
+### 3/3/17
+* reached out to Grinder for restaurant booking
+* sent out 2 wow logistics emails for mentors/mentees
+* met with team for [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
+* made [wow twitter list](https://twitter.com/MozillaScience/lists/wow2017) and updated website accordingly
+* tweeted about study group call
+* reviewed [media hub senior leaders proposal](https://docs.google.com/document/d/1ssIRgk2Sui55a95Fv9isSdAb6b0rO3rGJV-4hYgLjFI/edit?ts=58b8f555)
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 * prep tensor flow workshop
-* remind study groups of Friday call (individual/gitter)
 * docs for abigail, review
 * fix up etherpad for friday study group call
 * cmu hack workshop blog post
