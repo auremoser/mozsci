@@ -597,6 +597,7 @@
 * sent marcos the newsletter invite
 * uploaded Study Groups [video recording](https://youtu.be/nPmP5iqWlKw)
 * created [etherpad for april study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
+* added mgalland/studyGroup to study group list, reached out via issues, updated website and map
 
 TO DOS
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
