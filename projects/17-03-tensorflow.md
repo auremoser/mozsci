@@ -22,3 +22,4 @@
 
 ### Installation
 * [completed installation instructions for Docker](https://github.com/random-forests/WTM/blob/master/markdown/install-local.md)
+* [checked out repo](https://github.com/random-forests/WTM#install)
