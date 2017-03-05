@@ -606,12 +606,17 @@
 * [new issue for study group call in april](https://github.com/mozillascience/plan/issues/107)
 * finished content mockup for [mln page](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit#heading=h.ei4fqde0qb2)
 
+### 3/4/17
+* [women tech makers](https://sites.google.com/site/iwd2017nyc/)
+* [tensor flow](https://github.com/random-forests/WTM) workshop
+* march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
+
 
 TO DOS
+* [field guide to open source](http://fieldguide.opennews.org/)
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 * docs for abigail, review
 * cmu hack workshop blog post
-* march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
 * space apps website
