@@ -610,6 +610,8 @@
 * [women tech makers](https://sites.google.com/site/iwd2017nyc/)
 * [tensor flow](https://github.com/random-forests/WTM) workshop
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
+* two more open media ama scheduling arrangements
+* submitted a [pr to Field guide to Open Source](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54)
 
 
 TO DOS
