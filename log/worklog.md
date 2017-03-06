@@ -614,6 +614,11 @@
 * submitted a [pr to Field guide to Open Source](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54)
 * filled out [cscw conference survey](https://docs.google.com/forms/d/e/1FAIpQLSe3E3DwQ5sgCjBC_l9LSgeytxylVdpGtPEEbOgyZYI9eWBr1w/viewform?c=0&w=1)
 
+### 3/6/17
+* posted twitter book club [tweet](https://twitter.com/MozillaScience/status/838777581063274498)
+* some wow logistics
+* open media interviews today, 5 of them!
+
 
 TO DOS
 * [field guide to open source](http://fieldguide.opennews.org/)
