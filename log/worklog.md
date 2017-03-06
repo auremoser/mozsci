@@ -624,6 +624,15 @@
 * feedback on [space apps survey](https://www.surveymonkey.com/r/Preview/?sm=lf9ogVGFhPAHlVIBGglUUSJZTtCh7pfmRVEWh7Pcqpn5kFjwQ8JUQONPidBsLRZ2)
 * fixed up [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships) with real dates
 * approved teon's travel for GOSH
+* some science site pr management [via ra](https://github.com/mozilla/science.mozilla.org/issues/593)
+* meeting with [chris](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar06-2017)
+* reviewing documents for abigail
+	* [application questions](https://docs.google.com/document/d/1Il-jeTAAcUJv39Kfnzdn3RbfLPD3IyI_ExLNwYjhG8I/edit#)
+	* [landing page-website](https://docs.google.com/document/d/1BDlCisxuNhsehU-ycef624Hef-ykL-SbMGebG-L3O_g/edit#)
+	* [landing page-screendoor](https://docs.google.com/document/d/1P5YTMnC23gNWei2W1vtlbDVC8gKLOHdZiw3lNWDoQXw/edit#)
+	* [planning doc](https://docs.google.com/document/d/19EtvGLdowOMsHaiU2LawF3MFtGjVd3TSWP7zLAwsspo/edit#)
+	* [faq](https://docs.google.com/document/d/1o57E1ZBLezWxENbPSDuUG2sdGUYnhrZsAUJgyItlDbo/edit#)
+	* [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit)
 
 
 TO DOS
