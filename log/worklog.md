@@ -623,6 +623,7 @@
 * some gsoc prep/template emails
 * feedback on [space apps survey](https://www.surveymonkey.com/r/Preview/?sm=lf9ogVGFhPAHlVIBGglUUSJZTtCh7pfmRVEWh7Pcqpn5kFjwQ8JUQONPidBsLRZ2)
 * fixed up [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships) with real dates
+* approved teon's travel for GOSH
 
 
 TO DOS
