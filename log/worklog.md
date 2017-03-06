@@ -618,6 +618,8 @@
 * posted twitter book club [tweet](https://twitter.com/MozillaScience/status/838777581063274498)
 * some wow logistics
 * open media interviews today, 5 of them!
+* plugged ROpenSci in our commmunity and study groups chats
+* some gsoc prep
 
 
 TO DOS
