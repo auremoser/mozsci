@@ -612,6 +612,7 @@
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
 * two more open media ama scheduling arrangements
 * submitted a [pr to Field guide to Open Source](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54)
+* filled out [cscw conference survey](https://docs.google.com/forms/d/e/1FAIpQLSe3E3DwQ5sgCjBC_l9LSgeytxylVdpGtPEEbOgyZYI9eWBr1w/viewform?c=0&w=1)
 
 
 TO DOS
