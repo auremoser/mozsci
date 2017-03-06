@@ -613,19 +613,20 @@
 * two more open media ama scheduling arrangements
 * submitted a [pr to Field guide to Open Source](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54)
 * filled out [cscw conference survey](https://docs.google.com/forms/d/e/1FAIpQLSe3E3DwQ5sgCjBC_l9LSgeytxylVdpGtPEEbOgyZYI9eWBr1w/viewform?c=0&w=1)
+* remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 
 ### 3/6/17
 * posted twitter book club [tweet](https://twitter.com/MozillaScience/status/838777581063274498)
 * some wow logistics
 * open media interviews today, 5 of them!
 * plugged ROpenSci in our commmunity and study groups chats
-* some gsoc prep
+* some gsoc prep/template emails
+* feedback on [space apps survey](https://www.surveymonkey.com/r/Preview/?sm=lf9ogVGFhPAHlVIBGglUUSJZTtCh7pfmRVEWh7Pcqpn5kFjwQ8JUQONPidBsLRZ2)
 
 
 TO DOS
 * [field guide to open source](http://fieldguide.opennews.org/)
 * fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
-* remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 * docs for abigail, review
 * cmu hack workshop blog post
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
