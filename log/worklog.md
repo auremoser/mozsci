@@ -617,6 +617,7 @@
 
 TO DOS
 * [field guide to open source](http://fieldguide.opennews.org/)
+* fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 * docs for abigail, review
 * cmu hack workshop blog post
