@@ -539,7 +539,7 @@
 * added women to the [IWD talks](https://docs.google.com/document/d/1X7Ir8qiZGz39CVSrqgOt6i52mYphLIiH9I0EZ8fzP78/edit) + [w4w doc](https://public.etherpad-mozilla.org/p/w4w)
 * wrote recommendation for Suchana's research grant, Sucheta's, Lauren's
 
-### 2/26/17
+## 2/26/17
 * emailed speakers for Community panel for zannah
 * remind fellows of wednesday call
 * made doctor's appointments
@@ -552,7 +552,7 @@
 * reimbursements for hackworkshop
 * updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-march-2017) with links and toolsets for journal clubs
 
-### 2/27/17
+## 2/27/17
 
 * outreach to open news interview fellows
 	* Sonya
@@ -574,7 +574,7 @@
 * lots of emails to JLIN and others for printer tests and stuff tomorrow
 * rsvp'd to [insights team checkin](https://docs.google.com/document/d/1Fnh7_OnZGhr5pknWkO9gPKT7gsir03QQZraRyiflxGs/edit#)
 
-### 3/2/17
+## 3/2/17
 * [study grouper feedback](https://github.com/kajabfab/studyGroup/issues/1#issuecomment-283582064)
 * community tweets
 * updated the newsletter
@@ -587,7 +587,7 @@
 * emailed all study groups about journal club call tomorrow
 * remind study groups of Friday call (individual/gitter)
 
-### 3/3/17
+## 3/3/17
 * reached out to Grinder for restaurant booking
 * sent out 2 wow logistics emails for mentors/mentees
 * met with team for [wow checkin](https://public.etherpad-mozilla.org/p/sciencelab-work-2017-WOW)
@@ -606,7 +606,7 @@
 * [new issue for study group call in april](https://github.com/mozillascience/plan/issues/107)
 * finished content mockup for [mln page](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit#heading=h.ei4fqde0qb2)
 
-### 3/4/17
+## 3/4/17
 * [women tech makers](https://sites.google.com/site/iwd2017nyc/)
 * [tensor flow](https://github.com/random-forests/WTM) workshop
 * march 3 deadline for [mln site content](https://github.com/mozilla/network/issues/84#event-971464830)
@@ -615,7 +615,7 @@
 * filled out [cscw conference survey](https://docs.google.com/forms/d/e/1FAIpQLSe3E3DwQ5sgCjBC_l9LSgeytxylVdpGtPEEbOgyZYI9eWBr1w/viewform?c=0&w=1)
 * remind other community to pitch talks for [montreal meetup](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/)
 
-### 3/6/17
+## 3/6/17
 * posted twitter book club [tweet](https://twitter.com/MozillaScience/status/838777581063274498)
 * some wow logistics
 * open media interviews today, 5 of them!
@@ -634,6 +634,8 @@
 	* [faq](https://docs.google.com/document/d/1o57E1ZBLezWxENbPSDuUG2sdGUYnhrZsAUJgyItlDbo/edit#)
 	* [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit)
 
+## 3/7/17
+* merged [css change into study group lesson cards](https://github.com/mozilla/science.mozilla.org/pull/594#pullrequestreview-25525651)
 
 TO DOS
 * [field guide to open source](http://fieldguide.opennews.org/)
