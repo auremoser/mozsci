@@ -636,6 +636,8 @@
 
 ## 3/7/17
 * merged [css change into study group lesson cards](https://github.com/mozilla/science.mozilla.org/pull/594#pullrequestreview-25525651)
+* bought book club for April
+* expense reports
 
 TO DOS
 * [field guide to open source](http://fieldguide.opennews.org/)
