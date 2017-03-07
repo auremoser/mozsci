@@ -638,16 +638,25 @@
 * merged [css change into study group lesson cards](https://github.com/mozilla/science.mozilla.org/pull/594#pullrequestreview-25525651)
 * bought book club for April
 * expense reports
+* wrote [blog post on cscw](https://science.mozilla.org/blog/msl-cscw)	
+	* all [papers](https://drive.google.com/drive/folders/0BwBVENCw-KfDS29oSHg0UjdrbVU)
+	* all [workshops](https://cscw.acm.org/2017/program/workshops.php)
+	* workshop [schedule/site](https://hackathon-workshop.github.io/)
+	* presentation for [msl](https://docs.google.com/presentation/d/1rO4jSw7kzDD1XHsRrV8RHdDcyNajQ35soQdu8ILqOEs/edit#slide=id.g1c2ccbea8a_0_0)
+* coordinating lightning talks with Peter + Fellows
+* PR to [field guide to open source](http://fieldguide.opennews.org/)
+* docs for abigail, reviewed and fixed up for tomorrow's meeting
+* created [global sprint placeholder](https://science.mozilla.org/programs/events/global-sprint-2017)
 
 TO DOS
-* [field guide to open source](http://fieldguide.opennews.org/)
+
 * fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
-* docs for abigail, review
-* cmu hack workshop blog post
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
 * space apps website
 * website for Dev Roadshow
+* prep the global sprint <<don’t do this alone if you are already strapped! I can help you!
+
 
 
 
@@ -656,6 +665,7 @@ TO STUDY
 * [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
 * apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
+* propose talk on Managing Insecurity: how to build a safe, sturdy, and sustainable team
 
 * fix SGO site
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)

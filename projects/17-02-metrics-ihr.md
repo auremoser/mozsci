@@ -1,5 +1,3 @@
-17
-
 Quick check in about metrics projects.
 
 Background
