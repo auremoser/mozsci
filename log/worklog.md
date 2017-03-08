@@ -650,6 +650,14 @@
 * interviewed kavya for Open News
 * made [data camp site](https://mzl.la/spacecamp) and [space apps site](https://github.com/sciencehackdayny/sciencehackday.nyc) with Stuart and Robby
 
+## 3/8/17
+* CSCW conference survey
+* [1:1 meeting with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* updated [space apps website](https://github.com/sciencehackdayny/sciencehackday.nyc) and data camp with typo corrections and new dates
+* meeting with Abigail about legal docs
+* completed [cscw survey](https://www.surveymonkey.com/r/YSVDY28)
+* updated [mln site text](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit)
+
 TO DOS
 
 * fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
