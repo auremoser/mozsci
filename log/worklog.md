@@ -657,9 +657,11 @@
 * meeting with Abigail about legal docs
 * completed [cscw survey](https://www.surveymonkey.com/r/YSVDY28)
 * updated [mln site text](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit)
+* network strength [presentation meeting](https://docs.google.com/document/d/1Fnh7_OnZGhr5pknWkO9gPKT7gsir03QQZraRyiflxGs/edit#)
+* open news interview with marcos
 
 TO DOS
-
+* followup with marcos on community management options
 * fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
