@@ -647,6 +647,8 @@
 * PR to [field guide to open source](http://fieldguide.opennews.org/)
 * docs for abigail, reviewed and fixed up for tomorrow's meeting
 * created [global sprint placeholder](https://science.mozilla.org/programs/events/global-sprint-2017)
+* interviewed kavya for Open News
+* made [data camp site](https://mzl.la/spacecamp) and [space apps site](https://github.com/sciencehackdayny/sciencehackday.nyc) with Stuart and Robby
 
 TO DOS
 
@@ -655,7 +657,7 @@ TO DOS
 * interview blog post to hype for fellows applications
 * space apps website
 * website for Dev Roadshow
-* prep the global sprint <<don’t do this alone if you are already strapped! I can help you!
+* prep the global sprint
 
 
 
