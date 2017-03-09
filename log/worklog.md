@@ -670,6 +670,7 @@
 ## 3/9/17
 * start of WOW
 * last minute stuff and packing for Montreal
+* [updated pr for akshat](https://github.com/mozilla/api.mozillascience.org/pull/76#pullrequestreview-26110851)
 
 TO DOS
 
