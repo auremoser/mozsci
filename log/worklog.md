@@ -659,15 +659,26 @@
 * updated [mln site text](https://docs.google.com/document/d/1TPs2OKTtow4rVj8R8n0Lqy7tlP4Q18h3vTMBG6j4yoM/edit)
 * network strength [presentation meeting](https://docs.google.com/document/d/1Fnh7_OnZGhr5pknWkO9gPKT7gsir03QQZraRyiflxGs/edit#)
 * open news interview with marcos
+* updated leads and targets [sheet](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0) with new fork
+* meeting with abby about legal docs
+* staged wow intro email
+* reviewed this [website PR](https://github.com/mozilla/api.mozillascience.org/pull/76#pullrequestreview-25888803)
+* fixed up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
+* followup with marcos on community management options
+* commented issue for [mln site](https://github.com/mozilla/network/issues/111#issuecomment-285217229)
+
+## 3/9/17
+* start of WOW
+* last minute stuff and packing for Montreal
 
 TO DOS
-* followup with marcos on community management options
-* fix up [readme lessons](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) for WOW
+
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
 * space apps website
 * website for Dev Roadshow
 * prep the global sprint
+* curate library
 
 
 
