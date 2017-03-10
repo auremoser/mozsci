@@ -667,13 +667,17 @@
 * followup with marcos on community management options
 * commented issue for [mln site](https://github.com/mozilla/network/issues/111#issuecomment-285217229)
 
-## 3/9/17
+## 3/9/17-3/10/17
 * start of WOW
 * last minute stuff and packing for Montreal
 * [updated pr for akshat](https://github.com/mozilla/api.mozillascience.org/pull/76#pullrequestreview-26110851)
+* emails and stuff
+* emailed brooklyn office about meeting next week
+* started WOW
+* submitted PR changes to [os field guide for open news](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54#issuecomment-284923805)
 
 TO DOS
-
+* add hackworkshop to site, working open workshop
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
 * space apps website
