@@ -675,6 +675,7 @@
 * emailed brooklyn office about meeting next week
 * started WOW
 * submitted PR changes to [os field guide for open news](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54#issuecomment-284923805)
+* made [dev roadshow website](https://github.com/mozilla/devroadshow2017)
 
 TO DOS
 * add hackworkshop to site, working open workshop
