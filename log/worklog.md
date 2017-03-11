@@ -667,7 +667,7 @@
 * followup with marcos on community management options
 * commented issue for [mln site](https://github.com/mozilla/network/issues/111#issuecomment-285217229)
 
-## 3/9/17-3/10/17
+## 3/9/17-3/11/17
 * start of WOW
 * last minute stuff and packing for Montreal
 * [updated pr for akshat](https://github.com/mozilla/api.mozillascience.org/pull/76#pullrequestreview-26110851)
@@ -676,6 +676,7 @@
 * started WOW
 * submitted PR changes to [os field guide for open news](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54#issuecomment-284923805)
 * made [dev roadshow website](https://github.com/mozilla/devroadshow2017)
+* [readme](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) presentation
 
 TO DOS
 * add hackworkshop to site, working open workshop
