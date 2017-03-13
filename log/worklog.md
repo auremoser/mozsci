@@ -685,9 +685,16 @@
 * dev rel preparations for thursday's meetup
 * applied via sandra for [sponsorship](mzl.la/devevents) for a talk in Seattle
 * monthly [internal call](https://air.mozilla.org/monthly-internal-call-march-2017/)
+* ritika thank you!
+* invited paul to bi-weekly fellows' call
+* created etherpad for [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar15) updated [issue 97](https://github.com/mozillascience/plan/issues/96)
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
+* [event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
+* [RSVP for mixer](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
+* [website](https://mzl.la/2017wow)
+* [leadership training overview](https://docs.google.com/presentation/d/1eB_RDPuk1ecQ_LylpyFJT7WhyEiKCXySpy-3jv9X3Gw/present?slide=id.p)
 * [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
 * [mini grant release announcement](https://docs.google.com/document/d/1rc2PL68nvXhftzBXwwv7E2m11ktSvTup1AwQPglE1ig/edit?ts=58c36251)
 * [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
