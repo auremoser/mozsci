@@ -688,6 +688,9 @@
 * ritika thank you!
 * invited paul to bi-weekly fellows' call
 * created etherpad for [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar15) updated [issue 97](https://github.com/mozillascience/plan/issues/96)
+* created the [book club event](https://science.mozilla.org/programs/events/bc-april-2017) for april 17th
+* created graphic for [book club](http://i.imgur.com/zHjpUVf.png) with unsplash
+* drafted [blog post announcement](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3991&action=edit) to go out on March 14th for book club
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
@@ -701,11 +704,11 @@ WOW
 
 TO DOS
 * prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
-* thank yous to everyone
+* thank yous to rizwan
+* template emails
 * remind wow attendees of the issues in wow repo
 * blog post about Book Club
 * blog post about WOW
-* add hackworkshop to site, working open workshop
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
 * prep the global sprint
@@ -716,13 +719,10 @@ TO DOS
 
 
 
-TO STUDY
+## TO STUDY
 
-* [hitchhikers guide to python](http://docs.python-guide.org/en/latest/)
 * look up about:telemetry, make notes about options, see notes from Friday meeting for suggestions
-* apply for a [wcsj fellowship](http://wcsj2017.org/about/fellowships/) Oct 26-30
 * propose talk on Managing Insecurity: how to build a safe, sturdy, and sustainable team
-
 * fix SGO site
 * check survey for [fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek)
 * get stats for gitter chats
