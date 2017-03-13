@@ -698,6 +698,7 @@ TO DOS
 * prep the global sprint
 * curate library
 * review and integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
+* review [open media interviews](https://docs.google.com/document/d/173IY-QNS3YhGZBaALBRi-B09lGXaS5M1FyxqEaZT0W8/edit?ts=58a7193e#heading=h.t1mzr7ejq6r7) + [interview text](https://public.etherpad-mozilla.org/p/open-media-ama) + [summary](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
 
 
 
