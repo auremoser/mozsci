@@ -677,8 +677,17 @@
 * submitted PR changes to [os field guide for open news](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/pull/54#issuecomment-284923805)
 * made [dev roadshow website](https://github.com/mozilla/devroadshow2017)
 * [readme](https://docs.google.com/presentation/d/19yIld1etX0kzRY3PqjbymVzCi2lyW90i44jLmHeoGPw/edit#slide=id.g1cc5838e01_0_0) presentation
+* submitted service request for business cards
+* responded to a gsoc student from brazil
+
+WOW
+* [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
+* [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
+*
 
 TO DOS
+* thank yous to everyone
+* remind wow attendees of the issues in wow repo
 * add hackworkshop to site, working open workshop
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * interview blog post to hype for fellows applications
@@ -750,6 +759,7 @@ TO STUDY
 	* Zara Rahman, research privacy/the engine room
 	* Seamus Tuohy, research ethics
 	* [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html)
+	* inspired by [10 tech issues that will impact social justice](https://www.fordfoundation.org/ideas/equals-change-blog/posts/10-tech-issues-that-will-impact-social-justice-in-2017#show-last-Point)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
