@@ -680,6 +680,12 @@
 * submitted service request for business cards
 * responded to a gsoc student from brazil
 
+## 3/13/17
+* reschedule w/ steph for meeting
+* dev rel preparations for thursday's meetup
+* applied via sandra for [sponsorship](mzl.la/devevents) for a talk in Seattle
+* monthly [internal call](https://air.mozilla.org/monthly-internal-call-march-2017/)
+
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
