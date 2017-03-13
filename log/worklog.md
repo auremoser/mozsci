@@ -683,18 +683,21 @@
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
-*
+* [mini grant release announcement](https://docs.google.com/document/d/1rc2PL68nvXhftzBXwwv7E2m11ktSvTup1AwQPglE1ig/edit?ts=58c36251)
+* [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
 TO DOS
+* prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
 * thank yous to everyone
 * remind wow attendees of the issues in wow repo
+* blog post about Book Club
+* blog post about WOW
 * add hackworkshop to site, working open workshop
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
-* interview blog post to hype for fellows applications
-* space apps website
-* website for Dev Roadshow
+* blog post on interviews to hype for fellows applications
 * prep the global sprint
 * curate library
+* review and integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 
 
 
