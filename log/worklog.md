@@ -702,6 +702,7 @@
 * [1:1 with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-march-2017)
 * [space apps planning call](https://hackpad.com/As-much-time-as-you-need-sSktlUAaZnQ)
+* put together [slides for christie's RQM course](https://docs.google.com/presentation/d/1TV9iWrmqQ8IqalMnnj9L3swKAIxKerC_vv4-PnOZGoc/edit#slide=id.g1b3e5f01f7_0_283)
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
