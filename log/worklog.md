@@ -700,7 +700,7 @@
 * wrote back to luis from Brazil
 * Sandra can't come to the workshop
 * [1:1 with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
-* 
+* [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-march-2017)
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
