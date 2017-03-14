@@ -701,6 +701,7 @@
 * Sandra can't come to the workshop
 * [1:1 with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-march-2017)
+* [space apps planning call](https://hackpad.com/As-much-time-as-you-need-sSktlUAaZnQ)
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
