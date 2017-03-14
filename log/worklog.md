@@ -703,6 +703,7 @@ WOW
 * [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
 TO DOS
+* tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
 * prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
 * thank yous to rizwan
 * template emails
