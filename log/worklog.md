@@ -692,6 +692,13 @@
 * created graphic for [book club](http://i.imgur.com/zHjpUVf.png) with unsplash
 * drafted [blog post announcement](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3991&action=edit) to go out on March 14th for book club
 
+## 3/14/17
+* pi day!
+* posted book club blog
+* met with students on rockaway sustainability project
+* wrote back to luis from Brazil
+* Sandra can't come to the workshop
+
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
@@ -701,6 +708,8 @@ WOW
 * [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
 * [mini grant release announcement](https://docs.google.com/document/d/1rc2PL68nvXhftzBXwwv7E2m11ktSvTup1AwQPglE1ig/edit?ts=58c36251)
 * [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
+
+##
 
 TO DOS
 * tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
