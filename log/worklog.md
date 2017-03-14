@@ -694,10 +694,13 @@
 
 ## 3/14/17
 * pi day!
+* feedback on SG Events issue
 * posted book club blog
 * met with students on rockaway sustainability project
 * wrote back to luis from Brazil
 * Sandra can't come to the workshop
+* [1:1 with Steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* 
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
@@ -706,10 +709,10 @@ WOW
 * [website](https://mzl.la/2017wow)
 * [leadership training overview](https://docs.google.com/presentation/d/1eB_RDPuk1ecQ_LylpyFJT7WhyEiKCXySpy-3jv9X3Gw/present?slide=id.p)
 * [Community Building Panel](https://public.etherpad-mozilla.org/p/2017-wow-community-building)
+* [Birds of a Feather Funding](https://public.etherpad-mozilla.org/p/2017-wow-bof-funding)
 * [mini grant release announcement](https://docs.google.com/document/d/1rc2PL68nvXhftzBXwwv7E2m11ktSvTup1AwQPglE1ig/edit?ts=58c36251)
 * [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
-##
 
 TO DOS
 * tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
@@ -717,7 +720,6 @@ TO DOS
 * thank yous to rizwan
 * template emails
 * remind wow attendees of the issues in wow repo
-* blog post about Book Club
 * blog post about WOW
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
