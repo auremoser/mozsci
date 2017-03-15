@@ -716,6 +716,7 @@
 * gsoc student correspondence
 * [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar15)
 * [setup wow debrief](https://public.etherpad-mozilla.org/p/2017-wow-debrief)
+* completed [space apps website draft](https://api-2017.spaceappschallenge.org/admin/pages/170/edit/)
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
