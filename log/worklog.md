@@ -703,6 +703,14 @@
 * [team checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-march-2017)
 * [space apps planning call](https://hackpad.com/As-much-time-as-you-need-sSktlUAaZnQ)
 * put together [slides for christie's RQM course](https://docs.google.com/presentation/d/1TV9iWrmqQ8IqalMnnj9L3swKAIxKerC_vv4-PnOZGoc/edit#slide=id.g1b3e5f01f7_0_283)
+* wrote up [wow blog draft](https://mozscienceblog.wpengine.com/wp-admin/post.php?post=3996&action=edit) to go up tomorrow
+* thank yous to rizwan
+* thank yous to eduardo (mcgill)
+
+## 3/15/17
+* messed wow attendees about issue template
+* sent along [githugs](https://github.com/mozillascience/WOW-2017/issues)
+* tweeted about [mozwow](https://science.mozilla.org/blog/2017-wow-wrap-up) blog post
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
@@ -714,15 +722,18 @@ WOW
 * [Birds of a Feather Funding](https://public.etherpad-mozilla.org/p/2017-wow-bof-funding)
 * [mini grant release announcement](https://docs.google.com/document/d/1rc2PL68nvXhftzBXwwv7E2m11ktSvTup1AwQPglE1ig/edit?ts=58c36251)
 * [template emails](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
+* etherpad notes: https://public.etherpad-mozilla.org/p/mozwow-feb2016
+* twitter list: https://twitter.com/mozillascience/lists/WOW2017
+* issues: https://github.com/mozillascience/WOW-2017/issues
+
 
 
 TO DOS
 * tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
 * prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
-* thank yous to rizwan
+
 * template emails
 * remind wow attendees of the issues in wow repo
-* blog post about WOW
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
 * prep the global sprint
