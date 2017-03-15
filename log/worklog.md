@@ -711,6 +711,7 @@
 * messed wow attendees about issue template
 * sent along [githugs](https://github.com/mozillascience/WOW-2017/issues)
 * tweeted about [mozwow](https://science.mozilla.org/blog/2017-wow-wrap-up) blog post
+* space apps 1 min video for matt
 
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
