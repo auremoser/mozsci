@@ -718,6 +718,15 @@
 * [setup wow debrief](https://public.etherpad-mozilla.org/p/2017-wow-debrief)
 * completed [space apps website draft](https://api-2017.spaceappschallenge.org/admin/pages/170/edit/)
 
+## 3/16/17
+* Wrap-up staff email: https://public.etherpad-mozilla.org/p/2017-wow-staffmail
+* Blog
+	* Open Con: https://science.mozilla.org/blog/mozfellows-at-opencon-sf
+	* Book Club: https://science.mozilla.org/blog/book-club-april
+	* WOW: https://science.mozilla.org/blog/2017-wow-wrap-up
+* science lab [staff call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar16-2017)
+* gsoc student responses
+
 WOW
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
