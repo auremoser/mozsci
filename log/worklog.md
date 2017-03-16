@@ -729,6 +729,13 @@
 * reviewed [origin story videos](https://drive.google.com/drive/folders/0B-9OH_KgSSPxdTVMeUo5RkpXU00) for zannah
 * tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
 * global sprint [planning doc](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
+* staff email drafted to send, with photos
+* scheduled 3 tweets for [book club in april](https://science.mozilla.org/blog/book-club-april)
+* hao's photos added to flickr
+* wrote to vanessa about june workday
+* wrote kirstie about travel approval
+* printed prep sheets for tonights' meetup
+* ordered food for tonight's meetup
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
