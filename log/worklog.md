@@ -725,9 +725,12 @@
 	* Book Club: https://science.mozilla.org/blog/book-club-april
 	* WOW: https://science.mozilla.org/blog/2017-wow-wrap-up
 * science lab [staff call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar16-2017)
-* gsoc student responses
+* gsoc student responses, added [new study group](https://github.com/Sheryl96/studyGroup/)
+* reviewed [origin story videos](https://drive.google.com/drive/folders/0B-9OH_KgSSPxdTVMeUo5RkpXU00) for zannah
+* tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
+* global sprint [planning doc](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
 
-WOW
+### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
 * [RSVP for mixer](https://www.meetup.com/Montreal-Open-Reproducible-Science-Meetup/events/237683564/?eventId=237683564)
@@ -744,11 +747,16 @@ WOW
 
 
 TO DOS
-* tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
-* prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
 
-* template emails
-* remind wow attendees of the issues in wow repo
+* send along book club tweets: https://science.mozilla.org/blog/book-club-april
+* put together Global Sprint announcement (may 1st deadline)
+	* hub leads suggest 5 project in an issue
+	* reach out to project leads to fill out netpulse form
+	* issue template
+	* network pulse site clone
+	* last minute projects are issues
+* stage staff email: https://public.etherpad-mozilla.org/p/2017-wow-staffmail
+* prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
 * prep the global sprint
