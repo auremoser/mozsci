@@ -729,13 +729,16 @@
 * reviewed [origin story videos](https://drive.google.com/drive/folders/0B-9OH_KgSSPxdTVMeUo5RkpXU00) for zannah
 * tweet [arthur's pull request](https://github.com/auremoser/sg-events/pull/3)
 * global sprint [planning doc](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
-* staff email drafted to send, with photos
+* staff email drafted to send, with photos [wow-staff](https://public.etherpad-mozilla.org/p/2017-wow-staffmail)
 * scheduled 3 tweets for [book club in april](https://science.mozilla.org/blog/book-club-april)
 * hao's photos added to flickr
 * wrote to vanessa about june workday
 * wrote kirstie about travel approval
 * printed prep sheets for tonights' meetup
-* ordered food for tonight's meetup
+* ordered food for tonight's meetup 
+* review [open media interviews](https://docs.google.com/document/d/173IY-QNS3YhGZBaALBRi-B09lGXaS5M1FyxqEaZT0W8/edit?ts=58a7193e#heading=h.t1mzr7ejq6r7) + [interview text](https://public.etherpad-mozilla.org/p/open-media-ama) + [summary](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
+* sent email to chris and philip wrapping up news interviews
+* updated [study group applicants](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
@@ -755,21 +758,20 @@
 
 TO DOS
 
-* send along book club tweets: https://science.mozilla.org/blog/book-club-april
+
 * put together Global Sprint announcement (may 1st deadline)
 	* hub leads suggest 5 project in an issue
 	* reach out to project leads to fill out netpulse form
 	* issue template
 	* network pulse site clone
 	* last minute projects are issues
-* stage staff email: https://public.etherpad-mozilla.org/p/2017-wow-staffmail
+	* [notes here](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
+
 * prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
 * prep the global sprint
-* curate library
 * review and integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
-* review [open media interviews](https://docs.google.com/document/d/173IY-QNS3YhGZBaALBRi-B09lGXaS5M1FyxqEaZT0W8/edit?ts=58a7193e#heading=h.t1mzr7ejq6r7) + [interview text](https://public.etherpad-mozilla.org/p/open-media-ama) + [summary](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
 
 
