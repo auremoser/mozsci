@@ -745,9 +745,13 @@
 * filled out [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * meeting with antonio for Pasteur institute collab
 * study group africa [checkin etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) and email sent
+* wow [debrief](https://public.etherpad-mozilla.org/p/2017-wow-debrief)
 * reviewed [api pull request and merged changes](https://github.com/mozilla/api.mozillascience.org/pull/76)
-
+* wrote to mavis about ideal setup for Global Sprint Network Pulse
+* updated [team call etherpad for tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar23-2017)
 * checkin with teon about WOW
+* project call [internet health here](https://air.mozilla.org/mozilla-weekly-project-meeting-20170320/)
+* worked on catering options for sandra
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
