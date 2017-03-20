@@ -740,6 +740,10 @@
 * sent email to chris and philip wrapping up news interviews
 * updated [study group applicants](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
+## 3/20/17
+* booked airbnb for seattle
+
+
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
 * [event](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
