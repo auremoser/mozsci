@@ -744,6 +744,9 @@
 * booked airbnb for seattle
 * filled out [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * meeting with antonio for Pasteur institute collab
+* study group africa [checkin etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) and email sent
+
+* checkin with teon about WOW
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
