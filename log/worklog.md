@@ -752,6 +752,7 @@
 * checkin with teon about WOW
 * project call [internet health here](https://air.mozilla.org/mozilla-weekly-project-meeting-20170320/)
 * worked on catering options for sandra
+* reached out to [Jon Hill](https://www.software.ac.uk/jon-hill) about community call
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
