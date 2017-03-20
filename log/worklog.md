@@ -745,6 +745,7 @@
 * filled out [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * meeting with antonio for Pasteur institute collab
 * study group africa [checkin etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) and email sent
+* reviewed [api pull request and merged changes](https://github.com/mozilla/api.mozillascience.org/pull/76)
 
 * checkin with teon about WOW
 
