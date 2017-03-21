@@ -753,6 +753,12 @@
 * project call [internet health here](https://air.mozilla.org/mozilla-weekly-project-meeting-20170320/)
 * worked on catering options for sandra
 * reached out to [Jon Hill](https://www.software.ac.uk/jon-hill) about community call
+* global sprint:
+	* staged blog post
+	* made [site form](https://goo.gl/forms/zNRK6HkbV7ZY7G982)
+	* made [project form](https://goo.gl/forms/7CFn1FYHBPiWzvLE2)
+	* made [swag form](https://goo.gl/forms/xGM4hjYUIlLB5IGn1)
+* added some new [study groups](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 ### WOW 2017 Montreal
 * [attendance for meetup](https://docs.google.com/spreadsheets/d/1sA-H6f6GEkJWjyHQVqfUiAAKM-cmWc8EjwGzMs-42VU/edit#gid=0)
@@ -768,6 +774,14 @@
 * twitter list: https://twitter.com/mozillascience/lists/WOW2017
 * issues: https://github.com/mozillascience/WOW-2017/issues
 
+## 3/21/17
+* meeting with Philip about Open News objectives
+* fixed curriculum for SVA students
+* working on GSOC guide repo
+* fixed DevRoadshow Website bugs
+* submitted receipts for Dev Roadshow
+* reviewed Teon's travel and WOw plans
+* reviewed Danielle's [WOW summary doc](https://docs.google.com/document/d/1vBstw_qGkYDM4mFsXGw5YEnmk-hm3JY67AfG0WWZ4XY/edit)
 
 
 TO DOS
