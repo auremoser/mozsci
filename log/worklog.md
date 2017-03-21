@@ -784,9 +784,14 @@
 * reviewed Danielle's [WOW summary doc](https://docs.google.com/document/d/1vBstw_qGkYDM4mFsXGw5YEnmk-hm3JY67AfG0WWZ4XY/edit)
 * fixed some issues with Space Apps team
 * added more [study group forks](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* filled out [software challenges survey](https://challenges.tech/thanks)
+* updated [team checkin doc](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar23-2017)
 
 
 TO DOS
+* create issues for Study Group things in roadmap for gsoc
+* add gitter for gsoc
+* setup open news interview followup
 
 
 * put together Global Sprint announcement (may 1st deadline)
