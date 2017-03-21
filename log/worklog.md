@@ -785,15 +785,24 @@
 * fixed some issues with Space Apps team
 * added more [study group forks](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * filled out [software challenges survey](https://challenges.tech/thanks)
-* updated [team checkin doc](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar23-2017)
+* updated [team checkin doc for wednesday](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar23-2017)
+* updated [team checkin doc for today](https://public.etherpad-mozilla.org/p/sciencelab-checkins-march-2017)
 * [wow austin](https://public.etherpad-mozilla.org/p/WOW-Austin-planning) planning meeting
+* added gitter for gsoc
+* added dev roadshow [presentation to repo](https://github.com/mozilla/devroadshow2017)
+* updated [dev roadshow with new things](https://github.com/mozilla/devroadshow2017)
 
 
 TO DOS
+
 * create issues for Study Group things in roadmap for gsoc
 * add gitter for gsoc
+* populate issues!
+* ask Zannah to QA
+* curate the existing md files and make sure the language is clear
+* send to all applicants (currently I have about 6 in the queue for review)
+* working off this instructional manual: http://write.flossmanuals.net/gsoc-mentoring/about-this-manual/
 * setup open news interview followup
-
 
 * put together Global Sprint announcement (may 1st deadline)
 	* hub leads suggest 5 project in an issue
@@ -803,10 +812,9 @@ TO DOS
 	* last minute projects are issues
 	* [notes here](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
 
-* prep dev roadshow [speaker template](https://docs.google.com/presentation/d/1gDzpGW5Q7hGppty9ZeU9zsq9PNoeFVP3TVn3JkcRLzE/edit?ts=58c39b77#slide=id.g20f8094b82_0_46)
+
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
-* prep the global sprint
 * review and integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
 
