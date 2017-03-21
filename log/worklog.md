@@ -791,9 +791,13 @@
 * added gitter for gsoc
 * added dev roadshow [presentation to repo](https://github.com/mozilla/devroadshow2017)
 * updated [dev roadshow with new things](https://github.com/mozilla/devroadshow2017)
+* signed up for Brooklyn Public Library session for community call: Kahn Humanities Lecture: Bill McKibben april 3rd
+* reach out to Bill McKibben and Jon Hill for our Community Call
 
 
 TO DOS
+
+* write to c4sci slack about possible community speakers for call
 
 * create issues for Study Group things in roadmap for gsoc
 * add gitter for gsoc
@@ -817,8 +821,6 @@ TO DOS
 * blog post on interviews to hype for fellows applications
 * review and integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
-
-
 
 
 ## TO STUDY
