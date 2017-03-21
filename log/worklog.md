@@ -777,12 +777,13 @@
 ## 3/21/17
 * meeting with Philip about Open News objectives
 * fixed curriculum for SVA students
-* working on GSOC guide repo
-* fixed DevRoadshow Website bugs
+* working on [GSOC guide repo](https://github.com/mozillascience/studyGroup-GSOC)
+* fixed [DevRoadshow Website](https://github.com/mozilla/devroadshow2017) bugs
 * submitted receipts for Dev Roadshow
 * reviewed Teon's travel and WOw plans
 * reviewed Danielle's [WOW summary doc](https://docs.google.com/document/d/1vBstw_qGkYDM4mFsXGw5YEnmk-hm3JY67AfG0WWZ4XY/edit)
 * fixed some issues with Space Apps team
+* added more [study group forks](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 TO DOS
