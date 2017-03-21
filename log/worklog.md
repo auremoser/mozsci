@@ -782,6 +782,7 @@
 * submitted receipts for Dev Roadshow
 * reviewed Teon's travel and WOw plans
 * reviewed Danielle's [WOW summary doc](https://docs.google.com/document/d/1vBstw_qGkYDM4mFsXGw5YEnmk-hm3JY67AfG0WWZ4XY/edit)
+* fixed some issues with Space Apps team
 
 
 TO DOS
