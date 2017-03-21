@@ -786,6 +786,7 @@
 * added more [study group forks](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * filled out [software challenges survey](https://challenges.tech/thanks)
 * updated [team checkin doc](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar23-2017)
+* [wow austin](https://public.etherpad-mozilla.org/p/WOW-Austin-planning) planning meeting
 
 
 TO DOS
