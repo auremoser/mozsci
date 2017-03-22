@@ -794,6 +794,11 @@
 * signed up for Brooklyn Public Library session for community call: Kahn Humanities Lecture: Bill McKibben april 3rd
 * reach out to Bill McKibben and [Jon Hill](https://www.software.ac.uk/blog/2017-03-09-gulf-between-open-science-movement-and-academics) for our Community Call
 
+## 3/22/17
+* reached out to elisha about trust on the community call
+* mentoring meeting with Marlyn from SVA
+* updated [study groups spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+
 
 TO DOS
 
@@ -816,7 +821,9 @@ TO DOS
 	* last minute projects are issues
 	* [notes here](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
 
-
+* open research list from gitter?
+	* [why open research](http://whyopenresearch.org/)
+	* [challenges to open research and how to respond](https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md)
 * [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
