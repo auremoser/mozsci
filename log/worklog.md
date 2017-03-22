@@ -801,17 +801,24 @@
 * followup with imentor
 * scheduling for saturday Dev Roadshow at General Assembly	
 * made [gsoc student list](https://docs.google.com/a/mozilla.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit?usp=sharing) from those who have contacted me
+* [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
+* GSOC x send to all applicants (currently I have about 6 in the queue for review)
+* GSOC x add gitter for gsoc
+* responded to [network pulse issue](https://github.com/mozilla/network-pulse/issues/438)
+* GSOC issues
+	* [map](https://github.com/mozillascience/studyGroup-GSOC/issues/3)
+* added to [strategy retreat documentation](https://docs.google.com/document/d/1q1HTooVbNpdzT6G06czD1oR_YGU5rfynT86x4n49bxk/edit)
 
 TO DOS
 
 * write to c4sci slack about possible community speakers for call
 
 * create issues for Study Group things in roadmap for gsoc
-* add gitter for gsoc
+
 * populate issues!
 * ask Zannah to QA
 * curate the existing md files and make sure the language is clear
-* send to all applicants (currently I have about 6 in the queue for review)
+
 * working off this instructional manual: http://write.flossmanuals.net/gsoc-mentoring/about-this-manual/
 * setup open news interview followup
 
@@ -826,7 +833,7 @@ TO DOS
 * open research list from gitter?
 	* [why open research](http://whyopenresearch.org/)
 	* [challenges to open research and how to respond](https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md)
-* [recap](https://public.etherpad-mozilla.org/p/2017-feb-book-club) from twitter chat [draft tweets here](https://docs.google.com/document/d/1ww0ga-FDjca2eSwyxBqQZOoLjKcVsOZhqDU_iQPePbE/edit#)
+
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
