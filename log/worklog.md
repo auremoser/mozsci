@@ -799,7 +799,8 @@
 * mentoring meeting with Marlyn from SVA
 * updated [study groups spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * followup with imentor
-* scheduling for saturday Dev Roadshow at General Assembly
+* scheduling for saturday Dev Roadshow at General Assembly	
+* made [gsoc student list](https://docs.google.com/a/mozilla.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit?usp=sharing) from those who have contacted me
 
 TO DOS
 
