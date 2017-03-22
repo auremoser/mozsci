@@ -798,7 +798,8 @@
 * reached out to elisha about trust on the community call
 * mentoring meeting with Marlyn from SVA
 * updated [study groups spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
-
+* followup with imentor
+* scheduling for saturday Dev Roadshow at General Assembly
 
 TO DOS
 
