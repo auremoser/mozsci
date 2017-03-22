@@ -809,6 +809,7 @@
 	* [map](https://github.com/mozillascience/studyGroup-GSOC/issues/3)
 * added to [strategy retreat documentation](https://docs.google.com/document/d/1q1HTooVbNpdzT6G06czD1oR_YGU5rfynT86x4n49bxk/edit)
 * added feedback to the [okr template](https://docs.google.com/spreadsheets/d/1lW0lsoRxurVcSItXiygz_UxOwSrP_DxaNK1OZRU2Drc/edit#gid=668133401)
+* updated 1:1 [doc](https://public.etherpad-mozilla.org/p/1_1_Aurelia) with OKR questions
 
 TO DOS
 
