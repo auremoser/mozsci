@@ -820,13 +820,15 @@
 * requested [changes](https://github.com/mozillascience/studyGroup/pull/73#pullrequestreview-28658986)
 * asked matthew to share network pulse form for matching
 * feedback to steph on okrs and hubs
-* gsoc blog post up
+* gsoc [blog post](https://science.mozilla.org/blog/sg-gsoc-2017/) up
 * sent gsoc blog post on twitter
 * sent out gsoc, fellowships, global sprint announcement in Community Gitter
+* remove form logo from GS forms
+* sent fellows interview invites to Mike, Ben, Manuel, Lisa, Harlo
 
 TO DOS
 * get back to image providers with book
-* remove form - 
+* create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
 
 * GSOC
