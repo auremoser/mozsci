@@ -814,6 +814,7 @@
 * created annoucement blog in wp for the gsoc project
 * sent along updates to staff about GSoC
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
+* invited amber from AAAS and DataOne to speak on our community call
 
 TO DOS
 
