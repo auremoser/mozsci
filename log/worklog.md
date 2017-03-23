@@ -818,9 +818,15 @@
 
 ## 3/23/17
 * requested [changes](https://github.com/mozillascience/studyGroup/pull/73#pullrequestreview-28658986)
+* asked matthew to share network pulse form for matching
+* feedback to steph on okrs and hubs
+* gsoc blog post up
+* sent gsoc blog post on twitter
+* sent out gsoc, fellowships, global sprint announcement in Community Gitter
 
 TO DOS
 * get back to image providers with book
+* remove form - 
 * write to c4sci slack about possible community speakers for call
 
 * GSOC
