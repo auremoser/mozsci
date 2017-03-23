@@ -816,8 +816,11 @@
 * updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
 * invited amber from AAAS and DataOne to speak on our community call
 
-TO DOS
+## 3/23/17
+* requested [changes](https://github.com/mozillascience/studyGroup/pull/73#pullrequestreview-28658986)
 
+TO DOS
+* get back to image providers with book
 * write to c4sci slack about possible community speakers for call
 
 * GSOC
