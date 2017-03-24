@@ -825,11 +825,22 @@
 * sent out gsoc, fellowships, global sprint announcement in Community Gitter
 * remove form logo from GS forms
 * sent fellows interview invites to Mike, Ben, Manuel, Lisa, Harlo
+* reviewed Anamika's PR for a readme in Hindi for Study Groups
+* emailed Livia about the open news interviews
+
+## 3/24/17
+* merged 2 pull requests for the study groups project
+* drafted email to jon
+* met with zannah about [global sprint](https://public.etherpad-mozilla.org/p/sciencelab-AM-ZM-sprint)
+* tweeted about OK_Maps
+* responded to Kevin and his [mini-WOW](https://docs.google.com/document/d/1bBYA9vqtbJToDkH-2Ksq198qZgrp79g4re7vrVKKT00/edit?ts=58d436c5) Boston
 
 TO DOS
+* send zannah materials for tito
 * get back to image providers with book
 * create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
+* update site with fellowship dates for next round
 
 * GSOC
 	* create issues for Study Group things in roadmap for gsoc
