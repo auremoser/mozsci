@@ -834,6 +834,8 @@
 * met with zannah about [global sprint](https://public.etherpad-mozilla.org/p/sciencelab-AM-ZM-sprint)
 * tweeted about OK_Maps
 * responded to Kevin and his [mini-WOW](https://docs.google.com/document/d/1bBYA9vqtbJToDkH-2Ksq198qZgrp79g4re7vrVKKT00/edit?ts=58d436c5) Boston
+* news pull request for [sg-events](https://github.com/auremoser/sg-events/pull/5) from Arthur
+* updated [hashtags doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit) for #mozsprint
 
 TO DOS
 * send zannah materials for tito
