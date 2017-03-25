@@ -840,6 +840,7 @@
 
 TO DOS
 * send zannah materials for tito
+* swag packs for Kevin and Amit
 * get back to image providers with book
 * create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
