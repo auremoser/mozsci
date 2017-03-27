@@ -838,6 +838,10 @@
 * updated [hashtags doc](https://docs.google.com/document/d/1B0v2udC9R7fhH_SJK7cXP3Px7WFKejvY3jLfej9sLyU/edit) for #mozsprint
 * reviewed more improvements to our [study groups documentation](https://github.com/mozillascience/study-group-orientation/pull/31#pullrequestreview-28998045) via Amarika!
 
+## 3/27/17
+* lots of gsoc emails
+* air mo meeting on Nicole Wong for board
+
 TO DOS
 * send zannah materials for tito
 * swag packs for Kevin and Amit
