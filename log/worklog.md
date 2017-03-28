@@ -845,6 +845,11 @@
 ## 3/28/17
 * made [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar29)
 * filled out MozRetreat doodle
+* meeting with zannah and abby
+* meeting about austin wow with abby and robert
+* 1:1 meeting with steph
+* open news interview with Manuel
+*  
 
 TO DOS
 * send zannah materials for tito
