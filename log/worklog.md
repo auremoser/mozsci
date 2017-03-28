@@ -842,6 +842,10 @@
 * lots of gsoc emails
 * air mo meeting on Nicole Wong for board
 
+## 3/28/17
+* made [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar29)
+* filled out MozRetreat doodle
+
 TO DOS
 * send zannah materials for tito
 * swag packs for Kevin and Amit
