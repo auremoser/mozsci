@@ -841,6 +841,7 @@
 ## 3/27/17
 * lots of gsoc emails
 * air mo meeting on Nicole Wong for board
+* eye doctors' appointment
 
 ## 3/28/17
 * made [fellows call](https://public.etherpad-mozilla.org/p/2016-science-fellows-mar29)
@@ -849,11 +850,13 @@
 * meeting about austin wow with abby and robert
 * 1:1 meeting with steph
 * open news interview with Manuel
-*  
+* open news interview with Ben
+* invited Janna Levin to community call based on trust salon from last night
+* updated [interview for open news documents](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit#)
 
 TO DOS
 * send zannah materials for tito
-* swag packs for Kevin and Amit
+* swag packs for Kevin
 * get back to image providers with book
 * create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
