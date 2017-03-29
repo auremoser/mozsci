@@ -861,6 +861,8 @@
 * removed hidden file from base repo
 * reviewing GSOC proposals
 * reviewed mini-grants doc for steph
+* shared presentation templates with Kevin
+* prepared swag pack for Kevin
 
 TO DOS
 * send zannah materials for tito
