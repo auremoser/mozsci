@@ -854,6 +854,14 @@
 * invited Janna Levin to community call based on trust salon from last night
 * updated [interview for open news documents](https://docs.google.com/document/d/1mO7QCubF9Je4Gs_VugwLi7UWLh52_YgtxogDmVzRk4k/edit#)
 
+## 3/29/17
+* worked with Kevin on promoting the [productivity acticle](https://superyesmore.com/productivity-hacks-for-keeping-on-track-fc694633ff57184fcf2cf635124617b4)
+* meeting with Marlyne on Sea Level Rise project, HiTide
+* added [portuguese translation issue to Study Groups](https://github.com/mozillascience/studyGroup/issues/76)
+* removed hidden file from base repo
+* reviewing GSOC proposals
+* reviewed mini-grants doc for steph
+
 TO DOS
 * send zannah materials for tito
 * swag packs for Kevin
