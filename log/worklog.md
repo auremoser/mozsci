@@ -863,20 +863,25 @@
 * reviewed mini-grants doc for steph
 * shared presentation templates with Kevin
 * prepared swag pack for Kevin
+* wrote proposal for [srccon](https://srccon.org/sessions/proposals/thanks/) submitted!
+
+## 3/30/17
+* comments on [Kirstie's travel doc](https://docs.google.com/document/d/1fevJPTd-J_dnEDajKQfseKGHCVzbJz0PCCB52UxWxTc/edit)
+* gsoc student proposal feedback and logging in [gsoc spreadsheet](https://docs.google.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit#gid=0)
+* wrote to Mike Hoye about GSOC eligibility
+*
 
 TO DOS
+
+* mozfest planning invite to kirstie
+* respond to Danielle's science and societies survey: https://docs.google.com/forms/d/e/1FAIpQLScHJGxXuQRAzq4CHME07NOJFityl_gkuXpjZz4WGxfrKJ-zOg/viewform?c=0&w=1
+* final survey for danielle added to our community call update
 * send zannah materials for tito
-* swag packs for Kevin
 * get back to image providers with book
 * create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
 
-* GSOC
-	* create issues for Study Group things in roadmap for gsoc
-	* ask Zannah to QA
-	* working off this instructional manual: http://write.flossmanuals.net/gsoc-mentoring/about-this-manual/
-* setup open news interview followup
 
 * put together Global Sprint announcement (may 1st deadline)
 	* hub leads suggest 5 project in an issue
