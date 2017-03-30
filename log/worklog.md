@@ -869,7 +869,7 @@
 * comments on [Kirstie's travel doc](https://docs.google.com/document/d/1fevJPTd-J_dnEDajKQfseKGHCVzbJz0PCCB52UxWxTc/edit)
 * gsoc student proposal feedback and logging in [gsoc spreadsheet](https://docs.google.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit#gid=0)
 * wrote to Mike Hoye about GSOC eligibility
-*
+* sent invite to check in on Mozretreat with Kirstie
 
 TO DOS
 
