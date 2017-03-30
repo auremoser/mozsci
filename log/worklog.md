@@ -875,6 +875,8 @@
 * responded to [abby's comments in screendoor landing page](https://docs.google.com/document/d/1P5YTMnC23gNWei2W1vtlbDVC8gKLOHdZiw3lNWDoQXw/edit#heading=h.z27769jbcosl)
 * responded to [abby's comments in main landing page](https://docs.google.com/document/d/1BDlCisxuNhsehU-ycef624Hef-ykL-SbMGebG-L3O_g/edit#heading=h.8y8hsxv4uxe8)
 * updated [application questions](https://docs.google.com/document/d/1Il-jeTAAcUJv39Kfnzdn3RbfLPD3IyI_ExLNwYjhG8I/edit#)
+* reviewed [abigail's stipend document changes](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit)
+* filled out Danielles' [scientists speaking up survey](https://docs.google.com/forms/d/e/1FAIpQLScHJGxXuQRAzq4CHME07NOJFityl_gkuXpjZz4WGxfrKJ-zOg/formResponse)
 
 TO DOS
 
