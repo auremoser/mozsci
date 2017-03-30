@@ -870,6 +870,11 @@
 * gsoc student proposal feedback and logging in [gsoc spreadsheet](https://docs.google.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit#gid=0)
 * wrote to Mike Hoye about GSOC eligibility
 * sent invite to check in on Mozretreat with Kirstie
+* team call [here](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-mar30-2017)
+* responded to [abby's comments in the fellowship faq](https://docs.google.com/document/d/1o57E1ZBLezWxENbPSDuUG2sdGUYnhrZsAUJgyItlDbo/edit#)
+* responded to [abby's comments in screendoor landing page](https://docs.google.com/document/d/1P5YTMnC23gNWei2W1vtlbDVC8gKLOHdZiw3lNWDoQXw/edit#heading=h.z27769jbcosl)
+* responded to [abby's comments in main landing page](https://docs.google.com/document/d/1BDlCisxuNhsehU-ycef624Hef-ykL-SbMGebG-L3O_g/edit#heading=h.8y8hsxv4uxe8)
+* updated [application questions](https://docs.google.com/document/d/1Il-jeTAAcUJv39Kfnzdn3RbfLPD3IyI_ExLNwYjhG8I/edit#)
 
 TO DOS
 
@@ -891,10 +896,18 @@ TO DOS
 	* last minute projects are issues
 	* [notes here](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
 
-* open research list from gitter?
+* open research list from gitter? open data repo issue
 	* [why open research](http://whyopenresearch.org/)
 	* [challenges to open research and how to respond](https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md)
-
+	* http://www.nature.com/news/five-ways-consortia-can-catalyse-open-science-1.21706
+		Five ways to openness:
+			1) Build out from the middle
+			2) Forge a shared vision
+			3) Accommodate diverse, changing interests
+			4) Multiply impacts
+			5) Co-evolve
+	* Erin McKieren
+	* open data curriculum
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
