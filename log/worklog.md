@@ -892,7 +892,7 @@
  * Pre-offboarding Survey: https://goo.gl/forms/KBw93XHroweWPh503
  * Workplan: https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * gsoc proposal feedback
-* mofo all hands meeting
+* [mofo all hands meeting](https://docs.google.com/document/d/1Ta6RcgFpIuFoP73HWMT6SSOFFpqamufrFfJb6CdHl5I/edit)
 * study group spotlight blog and [tweet](https://twitter.com/MozillaScience/status/847854475649986561)
 
 TO DOS
