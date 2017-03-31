@@ -877,15 +877,28 @@
 * updated [application questions](https://docs.google.com/document/d/1Il-jeTAAcUJv39Kfnzdn3RbfLPD3IyI_ExLNwYjhG8I/edit#)
 * reviewed [abigail's stipend document changes](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit)
 * filled out Danielles' [scientists speaking up survey](https://docs.google.com/forms/d/e/1FAIpQLScHJGxXuQRAzq4CHME07NOJFityl_gkuXpjZz4WGxfrKJ-zOg/formResponse)
+* updated chart tools
+* updated gsoc repository with link lists
+* responded to gsoc students
+* meeting with Chris about MediaLab project tomorrow
+* mozfest planning invite to kirstie
+* sent zannah materials for tito
+* created [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding) for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
+
+## 3/31/17
+* sent along fellows' offboarding details:
+ * Schedule: https://mzl.la/2oGwOPk
+ * Budget Template: https://mzl.la/2nSiyFZ
+ * Pre-offboarding Survey: https://goo.gl/forms/KBw93XHroweWPh503
+ * Workplan: https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
+* gsoc proposal feedback
+* mofo all hands meeting
+* study group spotlight blog and [tweet](https://twitter.com/MozillaScience/status/847854475649986561)
 
 TO DOS
 
-* mozfest planning invite to kirstie
-* respond to Danielle's science and societies survey: https://docs.google.com/forms/d/e/1FAIpQLScHJGxXuQRAzq4CHME07NOJFityl_gkuXpjZz4WGxfrKJ-zOg/viewform?c=0&w=1
 * final survey for danielle added to our community call update
-* send zannah materials for tito
 * get back to image providers with book
-* create schedule for SA mini-wow and fellows offboarding - https://public.etherpad-mozilla.org/p/sciencelab-work-20170322-WOW-SA
 * write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
 
