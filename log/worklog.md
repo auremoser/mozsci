@@ -894,8 +894,12 @@
 * gsoc proposal feedback
 * [mofo all hands meeting](https://docs.google.com/document/d/1Ta6RcgFpIuFoP73HWMT6SSOFFpqamufrFfJb6CdHl5I/edit)
 * study group spotlight blog and [tweet](https://twitter.com/MozillaScience/status/847854475649986561)
+* posted the newsletter for March, [tweeted](https://twitter.com/MozillaScience/status/847924213327560705)
+* read through updates for GSOC [org responsibilities etcet](https://developers.google.com/open-source/gsoc/help/responsibilities)
 
 TO DOS
+* submit skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
+* feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
 
 * final survey for danielle added to our community call update
 * get back to image providers with book
