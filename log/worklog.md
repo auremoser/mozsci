@@ -897,10 +897,14 @@
 * posted the newsletter for March, [tweeted](https://twitter.com/MozillaScience/status/847924213327560705)
 * read through updates for GSOC [org responsibilities etcet](https://developers.google.com/open-source/gsoc/help/responsibilities)
 
+## 4/2/17
+* fixed dns for [space apps site](http://spaceappsbrooklyn.com/)
+* got registration working for [space apps global site](https://2017.spaceappschallenge.org/locations/brooklyn-ny/)
+* updated typos on and challenges on [data camp site](https://sciencehackdayny.github.io/data-camp-17/)
+
 
 TO DOS
 
-* finish space apps site
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
 * prep notes for rda
 * submit skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
