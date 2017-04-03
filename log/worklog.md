@@ -915,6 +915,8 @@
 * met with Erika about mozretreat [planning document](https://public.etherpad-mozilla.org/p/2017-mozretreat-aure)
 * study group call reminder sent for friday
 * added some new [study groups to the list](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
+* final survey for danielle added to our community call update
+* filled in [checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
 
 
 
@@ -930,12 +932,9 @@ PLANE
 
 * invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
 * write to peter about minigrants
-* get back to students about their project
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
-* prep notes for rda
 * submit skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
 * feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
-* final survey for danielle added to our community call update
 * get back to image providers with book
 * write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
