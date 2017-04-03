@@ -912,6 +912,7 @@
 * wrote to pearl to confirm airmo setup for community call
 * started [rda notes](https://github.com/auremoser/mozsci/blob/master/projects/17-04-rda_notes.md)
 * meeting with Kirstie to go over mozfest
+* met with Erika about mozretreat [planning document](https://public.etherpad-mozilla.org/p/2017-mozretreat-aure)
 
 
 
@@ -922,6 +923,7 @@ TO DOS
 PLANE
 * fill in RDA plenary schedule [from here](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
 
+* draft invite for study groups to call on friday
 
 * invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
 * write to peter about minigrants
