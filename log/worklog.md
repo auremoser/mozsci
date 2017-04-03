@@ -904,16 +904,17 @@
 
 
 TO DOS
-
+* get back to students about their project
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
 * prep notes for rda
 * submit skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
 * feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
-
 * final survey for danielle added to our community call update
 * get back to image providers with book
 * write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
+* get screendoor ready for the CFP
+* wrap up open news interviews
 
 
 * put together Global Sprint announcement (may 1st deadline)
