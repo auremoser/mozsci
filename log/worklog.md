@@ -917,6 +917,8 @@
 * added some new [study groups to the list](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * final survey for danielle added to our community call update
 * filled in [checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
+* updated joe macarthur on what we're up to
+* wrote back to students about chatbot
 
 
 
