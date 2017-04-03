@@ -908,10 +908,22 @@
 ## 4/3/17
 * checkin doc filled out for [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia#lineNumber=3)
 * got back to some gsoc students
+* wrote to amber and danielle about community call
+* wrote to pearl to confirm airmo setup for community call
+* started [rda notes](https://github.com/auremoser/mozsci/blob/master/projects/17-04-rda_notes.md)
+* meeting with Kirstie to go over mozfest
+
+
 
 
 
 TO DOS
+
+PLANE
+* fill in RDA plenary schedule [from here](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
+
+
+* invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
 * write to peter about minigrants
 * get back to students about their project
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
