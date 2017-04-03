@@ -913,6 +913,8 @@
 * started [rda notes](https://github.com/auremoser/mozsci/blob/master/projects/17-04-rda_notes.md)
 * meeting with Kirstie to go over mozfest
 * met with Erika about mozretreat [planning document](https://public.etherpad-mozilla.org/p/2017-mozretreat-aure)
+* study group call reminder sent for friday
+* added some new [study groups to the list](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 
 
 
@@ -922,6 +924,7 @@ TO DOS
 
 PLANE
 * fill in RDA plenary schedule [from here](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
+* prep study group call [etherpad for friday](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
 
 * draft invite for study groups to call on friday
 
