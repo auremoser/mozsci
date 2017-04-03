@@ -896,14 +896,23 @@
 * study group spotlight blog and [tweet](https://twitter.com/MozillaScience/status/847854475649986561)
 * posted the newsletter for March, [tweeted](https://twitter.com/MozillaScience/status/847924213327560705)
 * read through updates for GSOC [org responsibilities etcet](https://developers.google.com/open-source/gsoc/help/responsibilities)
+* sent out newsletter
+* wrote sgs on Marcos for blog
+* emailed team about south africa trip plans
 
 ## 4/2/17
 * fixed dns for [space apps site](http://spaceappsbrooklyn.com/)
 * got registration working for [space apps global site](https://2017.spaceappschallenge.org/locations/brooklyn-ny/)
 * updated typos on and challenges on [data camp site](https://sciencehackdayny.github.io/data-camp-17/)
 
+## 4/3/17
+* checkin doc filled out for [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia#lineNumber=3)
+* got back to some gsoc students
+
+
 
 TO DOS
+* write to peter about minigrants
 * get back to students about their project
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
 * prep notes for rda

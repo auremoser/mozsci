@@ -60,6 +60,10 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 
 ### SATURDAY - 4/8
 
+## TO MEET
+
+* [Kay Raseroka](https://www.rd-alliance.org/member-spotlight-kay-raseroka-joint-minds-consult) - South Africa, [Open Science initiatives](http://africanopenscience.org.za/wp-content/uploads/2017/03/notes-sideevent.pdf)
+
 
 ## RESOURCES
 
