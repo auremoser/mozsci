@@ -919,24 +919,26 @@
 * filled in [checkin etherpad](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
 * updated joe macarthur on what we're up to
 * wrote back to students about chatbot
+* wrote back to Antonio about wow pasteur
+* fill in RDA plenary schedule [from here](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
 
+## 4/3/17
+* arrived in Barcelona, checked in
+* feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
+* exploring to login and get details on the conference.
+* added skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
 
 
 
 
 TO DOS
 
-PLANE
-* fill in RDA plenary schedule [from here](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
 * prep study group call [etherpad for friday](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
-
-* draft invite for study groups to call on friday
 
 * invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
 * write to peter about minigrants
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
-* submit skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
-* feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
+
 * get back to image providers with book
 * write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
