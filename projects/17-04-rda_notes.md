@@ -31,32 +31,51 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 
 ### MONDAY - 4/3
 
-* travel day
+* Travel day
 
 ### TUESDAY - 4/4
-
-* [Geospatial Interest Group](https://www.rd-alliance.org/group/geospatial-ig/case-statement/charter-geospatial-interest-group.html)
- * [Meeting Agenda](https://www.rd-alliance.org/ig-geospatial-rda-9th-plenary-meeting)
-* 18-19:30 - [RDA for Newcomers](https://www.rd-alliance.org/rda-newcomers-plenary-9)
+* 8:00-18:00 Registration
+* 18:00-19:30 - [RDA for Newcomers](https://www.rd-alliance.org/rda-newcomers-plenary-9)
 * 19:30 - Welcome Cocktail
 
 
 ### WEDNESDAY - 4/5
 * 8:00 Registration is open
-* 9:00 Program Starts - Welcome from our Spanish hosts and the RDA traditional welcome
+* 9:00-11:00 - Program Starts - Welcome from our Spanish hosts and the RDA traditional welcome
+* 11:30-13:00 -  IG Domain Repositories:Community-driven research data management: towards domain protocols for research data management - Room MR6
+
+* Lunch - Newcomer's table
+
+* 14:00-15:30 - BoF on How to give credit to scientists for their involvement in making data & samples available for sharing - Room MR1
+ *  IG Education and Training on handling of research data: Joining efforts on delivering Research Data Handling training to wider community - Room MR12
+
+* 16:00-17:30 - IG Geospatial - Room MR5
+ * IG RDA/NISO Privacy Implications of Research Data Sets - Room MR6
+ * [Geospatial Interest Group](https://www.rd-alliance.org/group/geospatial-ig/case-statement/charter-geospatial-interest-group.html)
+ * [Meeting Agenda](https://www.rd-alliance.org/ig-geospatial-rda-9th-plenary-meeting)
+
+* 18:00-20:00 Social
+
 
 ### THURSDAY - 4/6
-* 8:00 - Women in RDA social Breakfast
-* Thursday afternoon, join the Recommendations & Outputs Plenary Session starting at 16:00,  followed by the RDA Business Plenary discussion. T
+* 8:00-9:30 - Women in RDA social Breakfast
+* 9:30-11:00 - IG Archives and Records Professionals for Research Data: Focus on Digital Preservation - Room MR14
+* 11:30-13:00 - IG Data Rescue: data rescue/data at risk - Room MR6
+* 14:00-15:30 - IG Health Data: Meaningful Health Data for Research and for Industry - Room MR5
+ *  Joint Session of IG Data Rescue, IG Domain Repositories, IG Metadata, IG Big Data, IG Ethics and Social Aspects of Data: Data Rescue - Plenary Room
 
-* [Weather and Air Quality Interest Group](https://www.rd-alliance.org/groups/weather-climate-and-air-quality)
- * [Meeting Agenda](https://www.rd-alliance.org/ig-weather-climate-and-air-quality-rda-9th-plenary-meeting)
-
+* 16:00 - Join the Recommendations & Outputs Plenary Session starting at 16:00,  followed by the RDA Business Plenary discussion.
 * 19:30-22:30 - Social Dinner at Palau de Pedralbes
 
 ### FRIDAY - 4/7
-
+* 9:00-10:30 - BoF on a Software Source Code focus group: Sharing, Preservation and Reproducibility - Room MR1
+ * [Weather and Air Quality Interest Group](https://www.rd-alliance.org/groups/weather-climate-and-air-quality)
+ * [Meeting Agenda](https://www.rd-alliance.org/ig-weather-climate-and-air-quality-rda-9th-plenary-meeting) - Room MR6
+* 11:00-12:30 -  IG Repository Platforms for Research Data: experiences with research data repositories in different institutions and domains - Room MR7
 * 14:00-16:00 - [Open Research: Gap between practice and policy](https://www.rd-alliance.org/open-research-data-gap-between-practice-and-policy) - Room MR1 - REGISTERED
+* 12:30-13:30 - Closing Plenary Session - Plenary Room (MR10 + MR11)
+
+**NEXT PLENARY** - Plenary 10 Announcement 19 - 21 September 2017, Montreal, Canada - Aubert Landry, Université de Montréal & Mark Leggott, Research Data Canada/CANARIE
 
 ### SATURDAY - 4/8
 
