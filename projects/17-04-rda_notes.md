@@ -84,6 +84,28 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 * [Kay Raseroka](https://www.rd-alliance.org/member-spotlight-kay-raseroka-joint-minds-consult) - South Africa, [Open Science initiatives](http://africanopenscience.org.za/wp-content/uploads/2017/03/notes-sideevent.pdf)
 
 
+### NOTES
+* great keynote from "RDA – a bottom-up initiative?" - ‎Augusto Burgueño Arjona, Head of the Unit "eInfrastructure & Science Cloud" at European Commission's Directorate 
+* focused on the 6,000 projects funded over the next 7 years by the EU and how to engage them in RDA
+
+* **SESSION I: IG on Domain Repositories**
+	* treat data management and software sustainability on equal footing
+	* Stakeholder roles and tasks: governments, funding parties, science + societies, executive organizations
+	* domain-oriented approach that advocates a single plan for all users/roles
+	* data protocols framework: minimum conditions, laws and regulations, templates, examples, standards, support resources
+	* the core ideas:
+		* make life easier for researchers - signle generally approved model
+		* make life easier for funders - only need to check applications with a pre-defined protocol
+	* From open to fair data - path to open access, 10 years of work
+	* mantra: "as open as possible, as closed as needed"
+	* ord pilot
+	* FAIR Data Management DMP - light and flexible, one dmp per project, a living document - participant portal
+	* open research data pilot
+	* data hubs MPGDL, datahub.io, ADS (astronomy), CERN (high-energy physics, Github (software)
+	* open science is a trend, science has to open up to be reproducible and communicate with the public - we definitely need a datamanagement plan
+	* **biosharing.org**
+	* CLARIN - "comomon language resources and technology infrastructure" - digital language data and advanced tools to discover, explore, exploit, annotate, analyse or combine them
+
 ## RESOURCES
 
 * [Schedule for 9th Plenary](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
