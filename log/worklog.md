@@ -1054,6 +1054,9 @@ TO DOS
 	* Seamus Tuohy, research ethics
 	* [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html)
 	* inspired by [10 tech issues that will impact social justice](https://www.fordfoundation.org/ideas/equals-change-blog/posts/10-tech-issues-that-will-impact-social-justice-in-2017#show-last-Point)
+* **June 2017** - Data
+	* open data curriculum
+	* transportation data working group - * Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow (met at RDA)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
