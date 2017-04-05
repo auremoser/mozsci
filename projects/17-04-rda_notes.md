@@ -105,6 +105,7 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* open science is a trend, science has to open up to be reproducible and communicate with the public - we definitely need a datamanagement plan
 	* **biosharing.org**
 	* CLARIN - "comomon language resources and technology infrastructure" - digital language data and advanced tools to discover, explore, exploit, annotate, analyse or combine them
+	* **problem** funder templates and institutional templates, maybe asking institutuions to contribute to existing questions rather than come up with their own (re: dmp)
 
 ## RESOURCES
 
