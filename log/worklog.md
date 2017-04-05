@@ -953,6 +953,8 @@ TO DOS
 
 * prep study group call [etherpad for friday](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
 
+* apply to give a talk at [full stack fest](https://www.papercall.io/full-stack-fest-2017)
+
 * invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
 * write to peter about minigrants
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
