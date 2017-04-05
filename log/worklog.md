@@ -945,6 +945,7 @@
   * geoffrey
 * responded to all gitter chats
 * subscribed to the method podcast
+* shared NAS funding option with steph
 
 
 
