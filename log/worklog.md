@@ -944,6 +944,7 @@
   * richard
   * geoffrey
 * responded to all gitter chats
+* subscribed to the method podcast
 
 
 
