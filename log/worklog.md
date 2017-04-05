@@ -946,6 +946,9 @@
 * responded to all gitter chats
 * subscribed to the method podcast
 * shared NAS funding option with steph
+* subscribed to [EOS pilot newsletter](https://eoscpilot.eu/users/aurelia-moser)
+* updated [pasteur document for schedule](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#) in november
+
 
 
 
