@@ -46,8 +46,7 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 
 * Lunch - Newcomer's table
 
-* 14:00-15:30 - BoF on How to give credit to scientists for their involvement in making data & samples available for sharing - Room MR1
- *  IG Education and Training on handling of research data: Joining efforts on delivering Research Data Handling training to wider community - Room MR12
+*  IG Education and Training on handling of research data: Joining efforts on delivering Research Data Handling training to wider community - Room MR12
 
 * 16:00-17:30 - IG Geospatial - Room MR5
  * IG RDA/NISO Privacy Implications of Research Data Sets - Room MR6
@@ -88,7 +87,7 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 * great keynote from "RDA – a bottom-up initiative?" - ‎Augusto Burgueño Arjona, Head of the Unit "eInfrastructure & Science Cloud" at European Commission's Directorate 
 * focused on the 6,000 projects funded over the next 7 years by the EU and how to engage them in RDA
 
-* **SESSION I: IG on Domain Repositories**
+* **SESSION 1: IG on Domain Repositories**
 	* treat data management and software sustainability on equal footing
 	* Stakeholder roles and tasks: governments, funding parties, science + societies, executive organizations
 	* domain-oriented approach that advocates a single plan for all users/roles
@@ -106,6 +105,32 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* **biosharing.org**
 	* CLARIN - "comomon language resources and technology infrastructure" - digital language data and advanced tools to discover, explore, exploit, annotate, analyse or combine them
 	* **problem** funder templates and institutional templates, maybe asking institutuions to contribute to existing questions rather than come up with their own (re: dmp)
+
+* **SESSION 2: IG on Education and Training on handling of research data**
+	* **projects**:
+		* EOSCpilot Project and training on Open Science  - Kevin AShley
+			* European Open Science Cloud Pilot
+			* **http://eoscpilot.eu/**
+		* FOSTER Plus Project - Eloy Rodrigues
+			** Fosting the Practical Implementation of Open Science (starts May 1st)
+			* being used in colombia currently, more than 100 face2face training events in 28 countries, 6,000+ participants
+			* working with 3 disciplinary communities: Life Sciences (ELIXIR), Social Sciences (CESSDA), Humanities (DARIAH)
+			* 900000 euro budget
+			* developing an open science toolkit, and training handbook
+			* **www.fosteropenscience.eu**
+		* GO FAIR initiative
+		* EDISON
+		* Research Data Management
+* **SESSION 3: IG on GEospatial**
+	* SPACETIME
+		* earth server - focused on datacubes, mostly weather data and satellite imagery
+		* **http://standards.rasdaman.com/**
+		* **http://earthserver.eu/**
+		* rasdaman: scalable array engine for spatio-temporal regular and irrecular grids
+		* ogc coverages - ogc + iso + INSPIRE std bodies
+	* Cross-domain re-use of geospatial information: INSPIRE
+		* providing access to cross-border EU data to be used in support to environmental policies or activities which impact enfironment
+		* DCAT-AP - data cataloge application profitel for european data portals
 
 ## RESOURCES
 
