@@ -131,6 +131,13 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* Cross-domain re-use of geospatial information: INSPIRE
 		* providing access to cross-border EU data to be used in support to environmental policies or activities which impact enfironment
 		* DCAT-AP - data cataloge application profitel for european data portals
+	* Proposed transportation working group - works on road transportation data
+		* standards tools and actifities, collecting data
+		* GFTS - interoperable data standard - citymapper
+		* Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow
+	* Spatial data on the web working group - W3C and OGC (open geospatial consoritum)
+		* www.w3.org/2015/spatial/charter/
+
 
 ## RESOURCES
 
