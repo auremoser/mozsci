@@ -927,6 +927,23 @@
 * feedback on zannahs [faq](https://public.etherpad-mozilla.org/p/sciencelab-GS-FAQs)
 * exploring to login and get details on the conference.
 * added skill share ideas to [mofo all hands skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=0)
+* attended first day of rda
+* trouble shot gsoc
+* prepped for tomorrow's talk in MIT media lab mini-wow
+* responded to piles of back emails
+* fullbright meeting tomorrow
+* shared slides with abby for presentation
+
+## 4/5/17
+* started RDA day 1 
+* sent updates to pearl for events.
+* logistics for community call details
+* updated sanbi on study group site
+* emailed folks about south africa :
+  * peter
+  * richard
+  * geoffrey
+* responded to all gitter chats
 
 
 
@@ -940,7 +957,6 @@ TO DOS
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
 
 * get back to image providers with book
-* write to c4sci slack about possible community speakers for call
 * update site with fellowship dates for next round
 * get screendoor ready for the CFP
 * wrap up open news interviews
