@@ -959,6 +959,10 @@
 ## 4/6/17
 * day II of RDA, women in RDA breakfast
 * merged [chinese translations for study groups](https://github.com/mozillascience/studyGroup/pull/80#pullrequestreview-31243655)
+* reminder sent to community call speakers
+* updated [wiki with details](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
+* published blog post on [community call](https://science.mozilla.org/blog/community-call-april-13-11et/) tweeted
+
 
 
 
