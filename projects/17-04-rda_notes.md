@@ -151,6 +151,11 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* Digital Repository of Ireland - national trusted repository
 		* orphaned works for copyright
 	* Elise Dunham - Archiving the legacy of RDA
+	* Digital preservation for research data, what is a bullet point document for organizing a process
+* **SESSION 5: IG Data Rescue: data rescue/data at risk - Room MR6**
+	* focus on metadata, versioning or accessioning the data
+	* data archiving event = not data refuge
+	* we have siloed approaches to funding scientific research and not as much emphasis on data but rather on publications
 
 ## RESOURCES
 
