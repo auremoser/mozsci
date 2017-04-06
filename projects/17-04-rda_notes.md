@@ -145,6 +145,12 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* accepted as an official interest group
 	* digital preservation: what challenges and define a purpose and goals to be achieved
 	* [notes taking](https://docs.google.com/document/d/1WEb5FLj-z9LC1P-7k6vpL3YoLDA-iWYDxXyamXBF1bo/edit)
+	* Malcolm Wolski, Griffith University (Australia)
+	 * the prosecution project, ocr crowdsourcing, criminal trial history investigation in australia
+		* a lot of research in this area
+	* Digital Repository of Ireland - national trusted repository
+		* orphaned works for copyright
+	* Elise Dunham - Archiving the legacy of RDA
 
 ## RESOURCES
 
