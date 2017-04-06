@@ -951,6 +951,16 @@
 * created starter [summary document](https://docs.google.com/document/d/1XKwHwMbhAka7X1pAcX5GAJoCkWVMfzgRskSPJfaMxYc/edit) for open media open news interviews
 * joined the [RDA Geospactial Interest Group](https://www.rd-alliance.org/groups/geospatial-ig.html)
 * submitted wellness
+* merged pr with chinese
+* tweeted about space apps brooklyn!
+* [updated website](https://science.mozilla.org/programs/events/community-call-apr-13-11-et) for speakers on our community call
+* drafted community call email and calendar invite
+
+## 4/6/17
+* day II of RDA, women in RDA breakfast
+* merged [chinese translations for study groups](https://github.com/mozillascience/studyGroup/pull/80#pullrequestreview-31243655)
+
+
 
 
 

@@ -137,7 +137,14 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 		* Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow
 	* Spatial data on the web working group - W3C and OGC (open geospatial consoritum)
 		* www.w3.org/2015/spatial/charter/
-
+		* www.w3.org/TR/sdw-ucr/
+		* spatial daata on the web best practices: www.w3.org/TR/sdw-bp/
+		* time ontology: www.w3.org/TR/owl0time/
+		* semantic sensor network vocabulary: ssn
+* **SESSION 4: IG Archives and Records Professionals for Research Data: Focus on Digital Preservation**
+	* accepted as an official interest group
+	* digital preservation: what challenges and define a purpose and goals to be achieved
+	* [notes taking](https://docs.google.com/document/d/1WEb5FLj-z9LC1P-7k6vpL3YoLDA-iWYDxXyamXBF1bo/edit)
 
 ## RESOURCES
 
