@@ -962,6 +962,7 @@
 * reminder sent to community call speakers
 * updated [wiki with details](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
 * published blog post on [community call](https://science.mozilla.org/blog/community-call-april-13-11et/) tweeted
+* joined research data interest group for data rescue
 
 
 
