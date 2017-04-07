@@ -971,6 +971,15 @@
 * response about open news interviews - Lisa
 * added content to network pulse: https://www.mozillapulse.org/entry/188
 * checked a [pull request for sg-events](https://github.com/auremoser/sg-events/issues/7#issuecomment-292310623)
+* booked trip for San Francisco all hands
+* updated [newsletter for next month](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* Fellowship application
+	* created an [issue for application launch](https://github.com/mozilla/science.mozilla.org/issues/607)
+	* updated screendoor with application questions
+	* update science site with FAQ and landing content [pr 606](https://github.com/mozilla/science.mozilla.org/pull/606)
+	* reviewed with abby in legal
+	* made bitlink for application: https://mzl.la/scifellows-2017
+	* reached out to kevin to coordinate @mozilla tweets
 
 
 
@@ -981,6 +990,14 @@
 
 
 TO DOS
+
+* write to Kevin about the call for applications opening up!
+* write all of mofo about the applicaiton launch
+* make screendoor live! 
+
+
+* WOW website for WOW pasteur
+* finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
 
 * prep study group call [etherpad for friday](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
 
