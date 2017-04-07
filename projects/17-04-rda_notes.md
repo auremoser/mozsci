@@ -122,6 +122,7 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 		* EDISON
 		* Research Data Management
 * **SESSION 3: IG on GEospatial**
+	* **[Slides](https://www.rd-alliance.org/ig-geospatial-rda-9th-plenary-meeting)**
 	* SPACETIME
 		* earth server - focused on datacubes, mostly weather data and satellite imagery
 		* **http://standards.rasdaman.com/**
@@ -156,6 +157,19 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 	* focus on metadata, versioning or accessioning the data
 	* data archiving event = not data refuge
 	* we have siloed approaches to funding scientific research and not as much emphasis on data but rather on publications
+	* systematize data rescue events
+	* proposed definition of data rescue versus Data at Risk
+	* Environmental data governance initiative - primers and prioritization list
+	* Data Refuge sent out to the union of concerned scientists, to triage data sets from scientists
+	* what data might be legitimately deleted
+	* ESIP: stronger together: the case fro cross-sector collaboration in identifying adn preserving at-risk data
+* **SESSION 6: IG Data Rescue: data rescue/data at risk - Room MR10**
+	* continuation of earlier discussion
+* **SESSION &: IG RDA Metadata**
+	* [usecases](https://www.rd-alliance.org/use-cases.html-2)
+	* [metadata interest group](https://www.rd-alliance.org/groups/metadata-ig.html)
+
+
 
 ## RESOURCES
 
