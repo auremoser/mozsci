@@ -980,6 +980,7 @@
 	* reviewed with abby in legal
 	* made bitlink for application: https://mzl.la/scifellows-2017
 	* reached out to kevin to coordinate @mozilla tweets
+	* updated [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships#lineNumber=48) with progress
 
 
 
