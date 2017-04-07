@@ -964,6 +964,15 @@
 * published blog post on [community call](https://science.mozilla.org/blog/community-call-april-13-11et/) tweeted
 * joined research data interest group for data rescue
 
+## 4/7/17
+* promoted study group call
+* collected some links for the call
+* caught up on email - recommendations for wired article
+* response about open news interviews - Lisa
+* added content to network pulse: https://www.mozillapulse.org/entry/188
+* checked a [pull request for sg-events](https://github.com/auremoser/sg-events/issues/7#issuecomment-292310623)
+
+
 
 
 
