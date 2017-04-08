@@ -981,7 +981,12 @@
 	* made bitlink for application: https://mzl.la/scifellows-2017
 	* reached out to kevin to coordinate @mozilla tweets
 	* updated [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships#lineNumber=48) with progress
-
+	* planning doc [updated](https://docs.google.com/document/d/19EtvGLdowOMsHaiU2LawF3MFtGjVd3TSWP7zLAwsspo/edit)
+	* [template emails]()
+	* created [fellowships ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
+* made [slide for project call](https://docs.google.com/a/mozilla.com/presentation/d/1y3NXP3sLj-nVGq88BZhWhtRBPYynWltVOF4BuaUpMac/edit?usp=sharing)
+* updated [project call listing](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10)
+* filled in Seattle [checkin etherpad for steph](https://public.etherpad-mozilla.org/p/sciencelab-workweek-may2017)
 
 
 
@@ -991,8 +996,11 @@
 
 
 TO DOS
-
-* write to Kevin about the call for applications opening up!
+* add francesca of aberdeen to map
+* make marcos' latam map changes
+* tweet study group call and uploaded video
+* add "open to all scientific disciplines" to eligibility
+* make outreach/sharing doc to promote the fellowship
 * write all of mofo about the applicaiton launch
 * make screendoor live! 
 
@@ -1000,11 +1008,10 @@ TO DOS
 * WOW website for WOW pasteur
 * finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
 
-* prep study group call [etherpad for friday](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-april-2017)
 
 * apply to give a talk at [full stack fest](https://www.papercall.io/full-stack-fest-2017)
 
-* invite speakers to airmo invitation: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017#lineNumber=142
+
 * write to peter about minigrants
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
 
@@ -1097,9 +1104,11 @@ TO DOS
 	* Seamus Tuohy, research ethics
 	* [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html)
 	* inspired by [10 tech issues that will impact social justice](https://www.fordfoundation.org/ideas/equals-change-blog/posts/10-tech-issues-that-will-impact-social-justice-in-2017#show-last-Point)
-* **June 2017** - Data
+* **?? 2017** - Data
 	* open data curriculum
 	* transportation data working group - * Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow (met at RDA)
+* **June 2017** - Reproducibility + Rescue
+	* Initiative for Open Citations: https://i4oc.org
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
