@@ -988,7 +988,7 @@
 * updated [project call listing](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10)
 * filled in Seattle [checkin etherpad for steph](https://public.etherpad-mozilla.org/p/sciencelab-workweek-may2017)
 * tweet study group call and uploaded video
-
+* hung out with Joey!
 
 TO DOS
 * add francesca of aberdeen to map
