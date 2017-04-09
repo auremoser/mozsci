@@ -987,30 +987,20 @@
 * made [slide for project call](https://docs.google.com/a/mozilla.com/presentation/d/1y3NXP3sLj-nVGq88BZhWhtRBPYynWltVOF4BuaUpMac/edit?usp=sharing)
 * updated [project call listing](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10)
 * filled in Seattle [checkin etherpad for steph](https://public.etherpad-mozilla.org/p/sciencelab-workweek-may2017)
-
-
-
-
-
-
+* tweet study group call and uploaded video
 
 
 TO DOS
 * add francesca of aberdeen to map
 * make marcos' latam map changes
-* tweet study group call and uploaded video
+
 * add "open to all scientific disciplines" to eligibility
-* make outreach/sharing doc to promote the fellowship
 * write all of mofo about the applicaiton launch
 * make screendoor live! 
 
 
 * WOW website for WOW pasteur
 * finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
-
-
-* apply to give a talk at [full stack fest](https://www.papercall.io/full-stack-fest-2017)
-
 
 * write to peter about minigrants
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
