@@ -1006,6 +1006,7 @@
 * sent study group welcome email to [new folks](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * monthly internal [call](https://air.mozilla.org/monthly-internal-call-april-2017/)
 * spoke on [project call](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10#Speakers)
+* corrected fellowships typos for [zee moz](https://github.com/mozilla/science.mozilla.org/pull/614)
 
 TO DOS
 * get back to kambiz about open science resources
