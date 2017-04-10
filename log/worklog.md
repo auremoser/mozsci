@@ -996,8 +996,19 @@
 * application is live, working through the [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships#lineNumber=48)
 * shared applications in the mofo-fellowships slack chat
 * updated [dev roadshow site](https://mozilla.github.io/devroadshow2017/)
+* updated [fellowships timeline 2017-2018 from vanessa](https://docs.google.com/spreadsheets/d/119r9F5hSgy6vx-a74j7HYb0fBDZG2SClSe835KcKfEA/edit#gid=112930183)
+* Study Group Call
+	* [etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
+	* [event](https://science.mozilla.org/programs/events/studygroup-call-may-05)
+	* [issue](https://github.com/mozillascience/plan/issues/108)
+	* [updated wiki](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives)
+	* [updated metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
+* sent study group welcome email to [new folks](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* monthly internal [call](https://air.mozilla.org/monthly-internal-call-april-2017/)
+* spoke on [project call](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10#Speakers)
 
 TO DOS
+* get back to kambiz about open science resources
 * add francesca of aberdeen to map
 * make marcos' latam map changes
 
