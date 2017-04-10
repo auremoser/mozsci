@@ -1007,19 +1007,20 @@
 * monthly internal [call](https://air.mozilla.org/monthly-internal-call-april-2017/)
 * spoke on [project call](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10#Speakers)
 * corrected fellowships typos for [zee moz](https://github.com/mozilla/science.mozilla.org/pull/614)
+* finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
+
+
 
 TO DOS
+
 * get back to kambiz about open science resources
 * add francesca of aberdeen to map
 * make marcos' latam map changes
-
-* add "open to all scientific disciplines" to eligibility
 * write all of mofo about the applicaiton launch
-* make screendoor live! 
 
 
 * WOW website for WOW pasteur
-* finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
+
 
 * write to peter about minigrants
 * evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
