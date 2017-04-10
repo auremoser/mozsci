@@ -990,6 +990,13 @@
 * tweet study group call and uploaded video
 * hung out with Joey!
 
+## 4/10/17
+* updated [blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605) + [tweeted](https://twitter.com/MozillaScience/status/851424056331128832)
+* blogged about the [fellowship cfp announcement](https://science.mozilla.org/blog/2017-fellows-cfp)
+* application is live, working through the [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships#lineNumber=48)
+* shared applications in the mofo-fellowships slack chat
+* updated [dev roadshow site](https://mozilla.github.io/devroadshow2017/)
+
 TO DOS
 * add francesca of aberdeen to map
 * make marcos' latam map changes
