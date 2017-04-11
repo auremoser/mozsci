@@ -1017,6 +1017,9 @@
 * met with Abby and Robert about [Austin mini-wow](https://public.etherpad-mozilla.org/p/WOW-Austin-planning)
 * debiasing hiring [workshop](https://drive.google.com/drive/folders/0B8qZErtsOyFTSnVUd0pGV1pvNEU?usp=sharing)
 * provided links in Kevin's [blog post](https://docs.google.com/document/d/1PIyzQ2KwbB6o4buCfI_VwUyHIsa_8q0SCK9yHbxzZTo/edit)
+* fellows [call updated plan](https://github.com/mozillascience/plan/issues/96 )
+* filled out [checkin pad for team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
+* booked flight for graphic hunters to AMS
 
 
 
