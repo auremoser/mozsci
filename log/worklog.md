@@ -1024,6 +1024,7 @@
 * setup fellows [blog etherpad](https://public.etherpad-mozilla.org/p/fellowship-blogs-2017)
 * emailed fellows [call details](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr12)
 * wrote and sent reference letter for lina tran
+* updated event categories in [django for alan](https://api-mozillascience-production.herokuapp.com/admin/events/event/)
 
 
 
