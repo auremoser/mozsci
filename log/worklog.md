@@ -1008,6 +1008,8 @@
 * spoke on [project call](https://wiki.mozilla.org/WeeklyUpdates/2017-04-10#Speakers)
 * corrected fellowships typos for [zee moz](https://github.com/mozilla/science.mozilla.org/pull/614)
 * finish voting on [doc for WOW Pasteur](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#heading=h.r3uyrfr9fzs3)
+* went through and flagged [vanessa's contacts for host orgs sheet](https://docs.google.com/spreadsheets/d/1nJQHQqPmI3EWP7vflhLVd7Rc9OsB26jbhbD6ngr0EEE/edit#gid=810394473)
+* troubleshot vantuyls' study group issues
 
 
 
