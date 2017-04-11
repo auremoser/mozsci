@@ -1020,6 +1020,10 @@
 * fellows [call updated plan](https://github.com/mozillascience/plan/issues/96 )
 * filled out [checkin pad for team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
 * booked flight for graphic hunters to AMS
+* updated some [study group outreach](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* setup fellows [blog etherpad](https://public.etherpad-mozilla.org/p/fellowship-blogs-2017)
+* emailed fellows [call details](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr12)
+* wrote and sent reference letter for lina tran
 
 
 
