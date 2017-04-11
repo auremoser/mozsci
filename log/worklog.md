@@ -1011,6 +1011,12 @@
 * went through and flagged [vanessa's contacts for host orgs sheet](https://docs.google.com/spreadsheets/d/1nJQHQqPmI3EWP7vflhLVd7Rc9OsB26jbhbD6ngr0EEE/edit#gid=810394473)
 * troubleshot vantuyls' study group issues
 
+## 4/11/17
+* spoke in Christie's class - [slides](https://mzl.la/rqm-msl)
+* sent out invite to all for Community Call
+* met with Abby and Robert about [Austin mini-wow](https://public.etherpad-mozilla.org/p/WOW-Austin-planning)
+*
+
 
 
 TO DOS
