@@ -59,6 +59,10 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 ### THURSDAY - 4/6
 * 8:00-9:30 - Women in RDA social Breakfast
 * 9:30-11:00 - IG Archives and Records Professionals for Research Data: Focus on Digital Preservation - Room MR14
+	* You can view our agenda for the meeting here: https://www.rd-alliance.org/ig-archives-and-records-professionals-research-data-rda-9th-plenary-meeting. 
+	* notes: http://tinyurl.com/ldrxf9q
+	* slides: https://www.rd-alliance.org/archives-and-records-professionals-research-data-ig-rda-plenary-9-barcelona.
+	* signup for the group: https://www.rd-alliance.org/groups/archives-records-professionals-for-research-data.html. 
 * 11:30-13:00 - IG Data Rescue: data rescue/data at risk - Room MR6
 * 14:00-15:30 - IG Health Data: Meaningful Health Data for Research and for Industry - Room MR5
  *  Joint Session of IG Data Rescue, IG Domain Repositories, IG Metadata, IG Big Data, IG Ethics and Social Aspects of Data: Data Rescue - Plenary Room

@@ -1032,6 +1032,8 @@
 * global sprint [meeting](https://public.etherpad-mozilla.org/p/GlobalSprint2017-allMOFO-mtg)
 * worktime with team
 * lots of email responses
+* updated rda notes
+* updated [etherpad for community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017)
 * reach out to christie about south africa
 
 
