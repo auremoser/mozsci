@@ -1026,8 +1026,6 @@
 * wrote and sent reference letter for lina tran
 * updated event categories in [django for alan](https://api-mozillascience-production.herokuapp.com/admin/events/event/) + [issue](https://github.com/mozilla/science.mozilla.org/pull/595#issuecomment-289072828)
 
-
-
 ## 4/12/17
 * global sprint [meeting](https://public.etherpad-mozilla.org/p/GlobalSprint2017-allMOFO-mtg)
 * worktime with team
@@ -1035,6 +1033,9 @@
 * updated rda notes
 * updated [etherpad for community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017)
 * reach out to christie about south africa
+* responded to mike with gsoc preferences, read all student proposals, logged in [spreadsheet](https://docs.google.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit#gid=0)
+* communicated with richard about south africa wow, sent along some details
+* made arrangements for amsterdam mapping workshop
 
 
 
@@ -1045,18 +1046,11 @@ TO DOS
 * make marcos' latam map changes
 * write all of mofo about the applicaiton launch
 
-
 * WOW website for WOW pasteur
 
-
 * write to peter about minigrants
-* evaluate gsoc proposals with [evaluation tool](https://github.com/mhils/gsoc-eval)
-
 * get back to image providers with book
-* update site with fellowship dates for next round
-* get screendoor ready for the CFP
 * wrap up open news interviews
-
 
 * put together Global Sprint announcement (may 1st deadline)
 	* hub leads suggest 5 project in an issue
@@ -1186,5 +1180,6 @@ TO DOS
 * [design dailies](http://desktopdailies.tumblr.com/)
 * [fellows' resources](https://public.etherpad-mozilla.org/p/fellows-resources)
 * [Fellowship Plan/Process](https://public.etherpad-mozilla.org/p/fellowship-process) also in a google doc
+* [2016 fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * [MSL participation form template](https://docs.google.com/a/mozillafoundation.org/forms/d/1UuWyuBlAPqYRGR5s3TyFzhbBpYPHxZIEp_v3swcG2yI/edit?ts=586ecf81)
 * [MSL Team participation form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform)
