@@ -1045,13 +1045,21 @@
 * rsvp'd to hive austin WOW [here](https://docs.google.com/forms/d/e/1FAIpQLSesYkInLKU87UpUW8I9lLabRdrDkCUhH9WO2NIckcf43LZp9w/formResponse)
 * reminded folks about community call in the chat
 * updated [francesca](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) to emcee the next study group call
+* community call [hosted](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017)
+* took notes on [gsprint call](https://public.etherpad-mozilla.org/p/GlobalSprint2017-allMOFO-mtg)
+* thank you to all speakers from the community call
 
 
 
 TO DOS
 
-* service now for headphones
+* amsterdam
+	* talk to sid 
+	* bits of freedom: https://www.bof.nl/
+	* bosco
 
+* service now for headphones
+* wrap up community call: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017
 * RDA blog post
 * prep book club
 * get back to kambiz about open science resources
