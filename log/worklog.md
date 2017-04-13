@@ -1036,14 +1036,24 @@
 * responded to mike with gsoc preferences, read all student proposals, logged in [spreadsheet](https://docs.google.com/spreadsheets/d/1NyN1wRAdJoP70inMvVb8ugC9X_0o1cK26j-ic9XiAdg/edit#gid=0)
 * communicated with richard about south africa wow, sent along some details
 * made arrangements for amsterdam mapping workshop
+* make marcos' latam map changes
+* submitted the [global sprint to network pulse](https://www.mozillapulse.org/entry/217)
+
+## 4/13/17
+* tweeted about community call
+* laura's going away meeting
+* rsvp'd to hive austin WOW [here](https://docs.google.com/forms/d/e/1FAIpQLSesYkInLKU87UpUW8I9lLabRdrDkCUhH9WO2NIckcf43LZp9w/formResponse)
+* reminded folks about community call in the chat
+
 
 
 
 TO DOS
 
+* RDA blog post
+* prep book club
 * get back to kambiz about open science resources
 * add francesca of aberdeen to map
-* make marcos' latam map changes
 * write all of mofo about the applicaiton launch
 
 * WOW website for WOW pasteur
