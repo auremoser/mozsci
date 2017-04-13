@@ -23,3 +23,8 @@ Economist, September 2016
 
 How tiny Estonia stepped out of USSR's shadow to become an internet titan
 The Guardian, April 2012
+
+
+## Open Innovation
+
+* [Open Innovations in Science](http://www.openinnovationinscience.at/home.html) - Austria

@@ -1050,6 +1050,8 @@
 
 TO DOS
 
+* service now for headphones
+
 * RDA blog post
 * prep book club
 * get back to kambiz about open science resources
