@@ -1044,7 +1044,7 @@
 * laura's going away meeting
 * rsvp'd to hive austin WOW [here](https://docs.google.com/forms/d/e/1FAIpQLSesYkInLKU87UpUW8I9lLabRdrDkCUhH9WO2NIckcf43LZp9w/formResponse)
 * reminded folks about community call in the chat
-
+* updated [francesca](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) to emcee the next study group call
 
 
 
