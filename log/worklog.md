@@ -1052,7 +1052,21 @@
 * meeting with [vanessa on fellowship comms](https://docs.google.com/document/d/1X7EPxRcrEURi_KTHdXNrr7zTTvTAjyUT7dOzNkHE2aU/edit)
 * made event for [miniwow pdx](https://science.mozilla.org/programs/events/mini-wow-pdx-2017/)
 
+## 4/14/17
+* intro to zannah to travis/kevin
+* worked on wow pasteur materials and site
+* updated [pulse](https://www.mozillapulse.org/entry/228) with 
+* WOW Pasteur
+	* [drive folder](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHdnRBMWlBUkdQU3M)
+	* [attendee interest form](https://docs.google.com/a/mozillafoundation.org/forms/d/1uCA3s9JhpUO4NOD6ON8jkpXckVIMP-TiYcP0_WFyJ8s/edit)
+	* [attendee stipend form](https://docs.google.com/a/mozillafoundation.org/forms/d/195P1il3awHNAczBUUDXArXtu_i9Yvd49sTODP5mHS5U/edit)
+	* [template emails](https://docs.google.com/document/d/1hjYyC3h37Kc2jfrD8TVSU1_ceU6xuepxhoLHZncNmKU/edit#bookmark=id.h8qyb8g0e1e9)
+	* [invites spreadsheet](https://docs.google.com/spreadsheets/d/1oqB5CgtW8dqga7DhnK5-D12WzRqQFfzSDoOXhykgb7Q/edit#gid=0)
+	* [planning doc](https://docs.google.com/document/d/1JRacjjPQkVgO9rN3YZnQcMR4LR24qdrfanvhJVhSRWA/edit#)
+	* [schedule doc](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit?ts=58cfcf9c#)
 
+* tweeted about [mozfellows security training](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e)
+* posted [global sprint redirect issue](https://github.com/MozillaFoundation/mofo-devops/issues/487)
 
 TO DOS
 
@@ -1060,6 +1074,7 @@ TO DOS
 	* talk to sid 
 	* bits of freedom: https://www.bof.nl/
 	* bosco
+	* [x] talk to joey
 
 * service now for headphones
 * wrap up community call: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017
