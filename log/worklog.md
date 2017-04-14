@@ -1073,6 +1073,23 @@
 	* [wiki](https://wiki.mozilla.org/ScienceLab/Calls)
 	* [issue](https://github.com/mozillascience/plan/issues/109)
 	* [participation metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
+* wrap up [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017) for this month
+* added [open data resources links issue/pr](https://github.com/stephwright/open-data-training/pull/1)
+	* open research list from gitter? open data repo issue
+		* [why open research](http://whyopenresearch.org/)
+		* [challenges to open research and how to respond](https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md)
+		* http://www.nature.com/news/five-ways-consortia-can-catalyse-open-science-1.21706
+		Five ways to openness:
+			1) Build out from the middle
+			2) Forge a shared vision
+			3) Accommodate diverse, changing interests
+			4) Multiply impacts
+			5) Co-evolve
+* Book Club
+	* [metrics etherpad](https://public.etherpad-mozilla.org/p/2017-apr-book-club)
+	* [planning doc](https://docs.google.com/document/d/1hhF6Gg0TXnxrw-IrK1rzlxJ49DSfH1Dy1pq9zEzokf8/edit#)
+	* [blog post](https://science.mozilla.org/blog/book-club-april)
+
 
 TO DOS
 
@@ -1081,32 +1098,14 @@ TO DOS
 	* bits of freedom: https://www.bof.nl/
 	* bosco
 	* [x] talk to joey
-
 * service now for headphones
-* wrap up community call: https://public.etherpad-mozilla.org/p/sciencelab-calls-apr13-2017
 * RDA blog post
 * prep book club
 * get back to kambiz about open science resources
 * write all of mofo about the applicaiton launch
-
-* WOW website for WOW pasteur
-
 * write to peter about minigrants
 * get back to image providers with book
 * wrap up open news interviews
-
-* open research list from gitter? open data repo issue
-	* [why open research](http://whyopenresearch.org/)
-	* [challenges to open research and how to respond](https://github.com/mozillascience/open-data-training/blob/master/Materials/Handouts/ODChallengesQI.md)
-	* http://www.nature.com/news/five-ways-consortia-can-catalyse-open-science-1.21706
-		Five ways to openness:
-			1) Build out from the middle
-			2) Forge a shared vision
-			3) Accommodate diverse, changing interests
-			4) Multiply impacts
-			5) Co-evolve
-	* Erin McKieren
-	* open data curriculum
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
