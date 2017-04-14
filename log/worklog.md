@@ -1067,6 +1067,12 @@
 
 * tweeted about [mozfellows security training](https://medium.com/cryptofriends/digital-security-training-resources-for-security-trainers-spring-2017-edition-e95d9e50065e)
 * posted [global sprint redirect issue](https://github.com/MozillaFoundation/mofo-devops/issues/487)
+* community call
+	* [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016)
+	* [event](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
+	* [wiki](https://wiki.mozilla.org/ScienceLab/Calls)
+	* [issue](https://github.com/mozillascience/plan/issues/109)
+	* [participation metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
 
 TO DOS
 
