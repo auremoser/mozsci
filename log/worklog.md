@@ -1050,6 +1050,7 @@
 * thank you to all speakers from the community call
 * applied for [node interactive](https://docs.google.com/forms/d/e/1FAIpQLSdXkuE6A8NzmUzLoOCF4881AthVH0Z4mawHvI6cb3f7IEPKUg/formResponse)
 * meeting with [vanessa on fellowship comms](https://docs.google.com/document/d/1X7EPxRcrEURi_KTHdXNrr7zTTvTAjyUT7dOzNkHE2aU/edit)
+* made event for [miniwow pdx](https://science.mozilla.org/programs/events/mini-wow-pdx-2017/)
 
 
 
@@ -1065,7 +1066,6 @@ TO DOS
 * RDA blog post
 * prep book club
 * get back to kambiz about open science resources
-* add francesca of aberdeen to map
 * write all of mofo about the applicaiton launch
 
 * WOW website for WOW pasteur
@@ -1073,14 +1073,6 @@ TO DOS
 * write to peter about minigrants
 * get back to image providers with book
 * wrap up open news interviews
-
-* put together Global Sprint announcement (may 1st deadline)
-	* hub leads suggest 5 project in an issue
-	* reach out to project leads to fill out netpulse form
-	* issue template
-	* network pulse site clone
-	* last minute projects are issues
-	* [notes here](https://public.etherpad-mozilla.org/p/sciencelab-work-20170316-GlobalSprint)
 
 * open research list from gitter? open data repo issue
 	* [why open research](http://whyopenresearch.org/)
