@@ -1049,6 +1049,7 @@
 * took notes on [gsprint call](https://public.etherpad-mozilla.org/p/GlobalSprint2017-allMOFO-mtg)
 * thank you to all speakers from the community call
 * applied for [node interactive](https://docs.google.com/forms/d/e/1FAIpQLSdXkuE6A8NzmUzLoOCF4881AthVH0Z4mawHvI6cb3f7IEPKUg/formResponse)
+* meeting with [vanessa on fellowship comms](https://docs.google.com/document/d/1X7EPxRcrEURi_KTHdXNrr7zTTvTAjyUT7dOzNkHE2aU/edit)
 
 
 
