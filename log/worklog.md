@@ -1090,9 +1090,17 @@
 	* [planning doc](https://docs.google.com/document/d/1hhF6Gg0TXnxrw-IrK1rzlxJ49DSfH1Dy1pq9zEzokf8/edit#)
 	* [blog post](https://science.mozilla.org/blog/book-club-april)
 
+## 4/17/17
+* updated book club resources
+* event categorie [pr](https://github.com/mozilla/science.mozilla.org/pull/617#pullrequestreview-33037844)
+* 1:1 with Steph
+* book club [doc](https://docs.google.com/document/d/1hhF6Gg0TXnxrw-IrK1rzlxJ49DSfH1Dy1pq9zEzokf8/edit#), hosted book club
+
 
 TO DOS
 
+* update book club resources
+* arvhive book club [here](https://public.etherpad-mozilla.org/p/2017-apr-book-club)
 * amsterdam
 	* talk to sid 
 	* bits of freedom: https://www.bof.nl/
@@ -1100,7 +1108,6 @@ TO DOS
 	* [x] talk to joey
 * service now for headphones
 * RDA blog post
-* prep book club
 * get back to kambiz about open science resources
 * write all of mofo about the applicaiton launch
 * write to peter about minigrants
