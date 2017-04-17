@@ -1107,6 +1107,7 @@
 * arvhived book club [here](https://public.etherpad-mozilla.org/p/2017-apr-book-club) updated stats [here](https://docs.google.com/document/d/1hhF6Gg0TXnxrw-IrK1rzlxJ49DSfH1Dy1pq9zEzokf8/edit#)
 * wrote tech treks draft email
 * emailed kevin about all mofo blast for application launch
+* registered for [all hands](https://mzlaallhands.regfox.com/1492469464793222552/receipt)
 
 
 TO DOS
