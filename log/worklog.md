@@ -1098,11 +1098,17 @@
 * project call [air mozilla](https://air.mozilla.org/mozilla-weekly-project-meeting-20170417/)
 * updated [study group interest tracker](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028db
 * posted [danielle's fellows' feedback blog](https://science.mozilla.org/blog/ff-danielle/)
+* wrote back to vivian about tech treks
+* get back to kambiz about open science resources
+* tweeted about friday ama - 11am
+* scheduled checkin with andy about community call
+* wrote to abby about hype plan blog post
+* updated [hype plan](https://public.etherpad-mozilla.org/p/hype-2017-fellowships)
 
 
 TO DOS
 
-* update book club resources
+* print the [maptia manifesto for estonia](https://maptia.com/store/manifesto)
 * arvhive book club [here](https://public.etherpad-mozilla.org/p/2017-apr-book-club)
 * amsterdam
 	* talk to sid 
@@ -1111,9 +1117,8 @@ TO DOS
 	* [x] talk to joey
 * service now for headphones
 * RDA blog post
-* get back to kambiz about open science resources
 * write all of mofo about the applicaiton launch
-* write to peter about minigrants
+* write to peter + yannick about minigrants
 * get back to image providers with book
 * wrap up open news interviews
 * blog post on interviews to hype for fellows applications
