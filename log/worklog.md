@@ -1096,6 +1096,7 @@
 * 1:1 with Steph
 * book club [doc](https://docs.google.com/document/d/1hhF6Gg0TXnxrw-IrK1rzlxJ49DSfH1Dy1pq9zEzokf8/edit#), hosted book club
 * project call [air mozilla](https://air.mozilla.org/mozilla-weekly-project-meeting-20170417/)
+* updated [study group interest tracker](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 TO DOS
