@@ -27,7 +27,7 @@ The Guardian, April 2012
 
 ## Logistics
 * [online info pack](https://docs.google.com/document/d/1-L3HiFiLc0jEskPMGVGLGodpDpav31Wg_FPZMkGCI0o/edit#)
-* Hotel St. Petersbourg, located at Rataskaevu 7
+* [Hotel St. Petersbourg](http://www.hotelstpetersbourg.com/accommodation-tallinn/), located at Rataskaevu 7
 
 ## Open Innovation
 
