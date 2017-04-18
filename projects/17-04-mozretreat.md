@@ -25,6 +25,12 @@ How tiny Estonia stepped out of USSR's shadow to become an internet titan
 The Guardian, April 2012
 
 
+## Logistics
+* [online info pack](https://docs.google.com/document/d/1-L3HiFiLc0jEskPMGVGLGodpDpav31Wg_FPZMkGCI0o/edit#)
+* Hotel St. Petersbourg, located at Rataskaevu 7
+
 ## Open Innovation
 
-* [Open Innovations in Science](http://www.openinnovationinscience.at/home.html) - Austria
+* [Open Innovations in Science](http://www.openinnovationinscience.at/home.html) - Austria - one potential fellowship applicant and a community there
+* [Open Innovation Internet Health Brief](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/IHPbriefs_openness_March_2017.pdf)
+* [Open Innovation Internet Health report](https://internethealthreport.org/v01/open-innovation/)

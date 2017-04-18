@@ -1109,10 +1109,26 @@
 * emailed kevin about all mofo blast for application launch
 * registered for [all hands](https://mzlaallhands.regfox.com/1492469464793222552/receipt)
 
+## 4/18/17
+* meeting with Dan + Elizabeth Henaff for fellowship
+* emails for fellowship cfp applicants
+* meeting with [austin wow team](https://public.etherpad-mozilla.org/p/WOW-Austin-planning, talked about website
+* some feedback to zannah on the comms plan for gs
+* print the [maptia manifesto for estonia](https://maptia.com/store/manifesto)
+* [space apps meeting](https://hackpad.com/what-kind-of-workshop-we-can-offer-to-help-preparing-the-participants-to-solve-the-challenges--tnlVOVLXWIzc)
+* agreed to interview with Kevin's contact
+* tech treks email sent out
+* wrote to maksim about visit to tallinn
+* updated tallinn notes
+* Austin WOW 
+	* [repo](https://github.com/MozillaFoundation/atxwow0517)
+	* [notes](https://public.etherpad-mozilla.org/p/mozwow-may2017)
+* 
+
 
 TO DOS
 
-* print the [maptia manifesto for estonia](https://maptia.com/store/manifesto)
+
 
 * amsterdam
 	* talk to sid 
