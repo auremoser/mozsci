@@ -1123,6 +1123,8 @@
 * Austin WOW 
 	* [repo](https://github.com/MozillaFoundation/atxwow0517)
 	* [notes](https://public.etherpad-mozilla.org/p/mozwow-may2017)
+	* [brand colors](http://brand.utexas.edu/visual-identity/colors)
+	* [planning](https://public.etherpad-mozilla.org/p/WOW-Austin-planning)
 * 
 
 
