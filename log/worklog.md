@@ -1135,17 +1135,18 @@
 * added [science park to our study group map](https://docs.google.com/spreadsheets/d/1BzyS1UJvAj68HQx6xCinQTikCnKaI-T9nXx_LC714yA/edit#gid=0)
 * submitted request for [study group support at Github](https://github.com/contact)
 * interview with Software Development times via Kevin
+* added comments to Vanessa's outreach doc [here](https://docs.google.com/document/d/1PunPJ3vEIUbHh3WFIa8i797yS27HPXaF_caqXd9_RE8/edit?ts=58f79391)
+* amsterdam
+	* [x] talk to sid 
+	* bits of freedom: https://www.bof.nl/
+	* [x] talk to joey
+* more details updated for Mozretreat reading list
 
 
 TO DOS
 
-
-
-* amsterdam
-	* talk to sid 
-	* bits of freedom: https://www.bof.nl/
-	* bosco
-	* [x] talk to joey
+* setup presentation for tek trecks on friday
+* workshop for amsterdam
 * service now for headphones
 * RDA blog post
 * write all of mofo about the applicaiton launch
