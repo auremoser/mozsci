@@ -1127,6 +1127,9 @@
 	* [planning](https://public.etherpad-mozilla.org/p/WOW-Austin-planning)
 * applied for Estonian e-citizenship per recommendation for mozretreat
 
+## 4/19/17
+* made a [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-46.92025531537452%2C-170.68359375000003%5D%2C%22sw%22%3A%5B59.5343180010956%2C76.11328125000001%5D%2C%22center%22%3A%5B10.574222078332806%2C-47.28515625000001%5D%2C%22zoom%22%3A3%7D%7D) for global sprint
+
 
 TO DOS
 
