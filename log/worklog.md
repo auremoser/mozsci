@@ -1141,13 +1141,23 @@
 	* bits of freedom: https://www.bof.nl/
 	* [x] talk to joey
 * more details updated for Mozretreat reading list
+* submitted [service now for headphones](https://mozilla.service-now.com/sp?id=ticket&table=sc_req_item&sys_id=9c09c560db927600be1b7d3ebf9619ca)
+* debias [hiring survey](https://www.research.net/r/MozDebias)
+* updated mozilla [dev roadshow site](https://mozilla.github.io/devroadshow2017/)
+
+## 4/20/17
+* email blast to mofo about fellowships
+* updated atx repo with [tacofox](https://github.com/MozillaFoundation/atxwow0517)
+
+
+
 
 
 TO DOS
 
+* update austin website with taco fox
 * setup presentation for tek trecks on friday
 * workshop for amsterdam
-* service now for headphones
 * RDA blog post
 * write all of mofo about the applicaiton launch
 * write to peter + yannick about minigrants
