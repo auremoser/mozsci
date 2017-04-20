@@ -1148,6 +1148,7 @@
 ## 4/20/17
 * email blast to mofo about fellowships
 * updated atx repo with [tacofox](https://github.com/MozillaFoundation/atxwow0517)
+* updated challenges on space apps website
 
 
 
