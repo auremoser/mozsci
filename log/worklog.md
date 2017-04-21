@@ -1149,6 +1149,21 @@
 * email blast to mofo about fellowships
 * updated atx repo with [tacofox](https://github.com/MozillaFoundation/atxwow0517)
 * updated challenges on space apps website
+* meeting with tyler about space apps
+* atx site update
+* fellowship emails
+* rda blog post draft
+* update austin website with taco fox
+
+
+## 4/21/17
+* AMA today at 11, uploaded [video](https://youtu.be/PrLbyLDkmjA) + [etherpad]()
+* templates to jen davison
+* space apps promotions with our [sponsors](https://2017.spaceappschallenge.org/locations/brooklyn-ny/)
+* logged into [tito site](https://ti.to/Mozilla/global-sprint-brooklyn/admin)
+* dev rel [summit response](https://bugzilla.mozilla.org/show_bug.cgi?id=1346809)
+* lots of email about the fellowship cfp
+* RDA blog post in draft
 
 
 
@@ -1156,7 +1171,7 @@
 
 TO DOS
 
-* update austin website with taco fox
+
 * setup presentation for tek trecks on friday
 * workshop for amsterdam
 * RDA blog post
