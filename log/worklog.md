@@ -1164,7 +1164,9 @@
 * dev rel [summit response](https://bugzilla.mozilla.org/show_bug.cgi?id=1346809)
 * lots of email about the fellowship cfp
 * RDA blog post in draft
-
+* applied for Co domain for space apps brooklyn [via link](https://docs.google.com/forms/d/e/1FAIpQLSdLOTnfeSeRzbRlIWp8uWhuVWftFEsEFr-pNw1ST0-DyjuEag/formResponse)
+* applied to nordic js: http://cfp.nordicjs.com/
+* pack stuff for Estonia
 
 
 
@@ -1172,10 +1174,7 @@
 TO DOS
 
 
-* setup presentation for tek trecks on friday
 * workshop for amsterdam
-* RDA blog post
-* write all of mofo about the applicaiton launch
 * write to peter + yannick about minigrants
 * get back to image providers with book
 * wrap up open news interviews
@@ -1183,6 +1182,7 @@ TO DOS
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
 
+* may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
 
 ## TO STUDY
 
