@@ -1247,6 +1247,7 @@ TO DOS
 	* transportation data working group - * Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow (met at RDA)
 * **June 2017** - Reproducibility + Rescue
 	* Initiative for Open Citations: https://i4oc.org
+	* Reproducitiblity guide by [ROpenSci](http://ropensci.github.io/reproducibility-guide/)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
