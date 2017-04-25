@@ -1157,7 +1157,7 @@
 
 
 ## 4/21/17
-* AMA today at 11, uploaded [video](https://youtu.be/PrLbyLDkmjA) + [etherpad]()
+* AMA today at 11, uploaded [video](https://youtu.be/PrLbyLDkmjA) + [etherpad](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 * templates to jen davison
 * space apps promotions with our [sponsors](https://2017.spaceappschallenge.org/locations/brooklyn-ny/)
 * logged into [tito site](https://ti.to/Mozilla/global-sprint-brooklyn/admin)
@@ -1169,11 +1169,26 @@
 * pack stuff for Estonia
 
 
+## 4/24/17
+* flight to tallinn
+* updated [1:1 etherpad](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* created fellows' etherpad [for wed call](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr26)
+* setup vacation responder
+* responded to fellowship applicants
+* science lab [checkins](https://public.etherpad-mozilla.org/p/sciencelab-checkins-april-2017)
+* mozretreat!
+* dev roadshow site updated
+* [beautiful rising call](https://docs.google.com/document/d/18iKXM-jKCEApwg9oPb1eYTDw4VjMsKKJZlcIuZANez8/edit#heading=h.u2f4jrnqohgu)
 
+Updates:
+
+* newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
+* RDA blog post?
 
 TO DOS
 
-
+* .net mag contribution
+* reach out to reproducibility guidebook - 
 * workshop for amsterdam
 * write to peter + yannick about minigrants
 * get back to image providers with book

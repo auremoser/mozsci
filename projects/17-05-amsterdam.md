@@ -2,6 +2,9 @@
 
 ## Pack
 * bring bike clippy thing for phone, lights?
+* adulting ribbon
+* origami paper
+* stickers and swag for Study Group
 
 ## Orgs
 
@@ -20,6 +23,14 @@
 * titus
 * joey Arrive: 12th, Friday, 11:30am , Depart: 14th, Sunday, 12:30pm
 * couchsurfers / oliver's friends
+* meeting with Marc Galland <M.D.Galland@uva.nl> and Mateusz Kuzak
+* check with flo flo
+
+## Workshop
+
+* friend of stuarts for open data
+* bike share data in amsterdam - ping matias
+* for journalism vid for ideas
 
 
 ## Resources
