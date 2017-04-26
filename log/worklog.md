@@ -1180,11 +1180,15 @@
 * dev roadshow site updated
 * [beautiful rising call](https://docs.google.com/document/d/18iKXM-jKCEApwg9oPb1eYTDw4VjMsKKJZlcIuZANez8/edit#heading=h.u2f4jrnqohgu)
 * posted [rda blog post](https://science.mozilla.org/blog/msl-rda/), tweeted
+* [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr26) w/ Paul
 
 Updates:
 
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
 * RDA blog post?
+* book club: http://jtleek.com/ 
+https://leanpub.com/modernscientist
+
 
 TO DOS
 
