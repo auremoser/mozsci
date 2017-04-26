@@ -1181,6 +1181,7 @@
 * [beautiful rising call](https://docs.google.com/document/d/18iKXM-jKCEApwg9oPb1eYTDw4VjMsKKJZlcIuZANez8/edit#heading=h.u2f4jrnqohgu)
 * posted [rda blog post](https://science.mozilla.org/blog/msl-rda/), tweeted
 * [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr26) w/ Paul
+* processed Rahul's PR for Study Groups
 
 Updates:
 
