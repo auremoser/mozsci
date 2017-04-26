@@ -1179,6 +1179,7 @@
 * mozretreat!
 * dev roadshow site updated
 * [beautiful rising call](https://docs.google.com/document/d/18iKXM-jKCEApwg9oPb1eYTDw4VjMsKKJZlcIuZANez8/edit#heading=h.u2f4jrnqohgu)
+* posted [rda blog post](https://science.mozilla.org/blog/msl-rda/), tweeted
 
 Updates:
 
