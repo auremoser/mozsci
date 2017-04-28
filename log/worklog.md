@@ -1182,17 +1182,23 @@
 * posted [rda blog post](https://science.mozilla.org/blog/msl-rda/), tweeted
 * [fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-apr26) w/ Paul
 * processed Rahul's PR for Study Groups
+* added Amel + Antonio as contributors to [wow pasteur](https://github.com/mozillascience/WOW-Pasteur/settings/collaboration)
+* chris and philip discussion about [open media summary](https://docs.google.com/document/d/1XKwHwMbhAka7X1pAcX5GAJoCkWVMfzgRskSPJfaMxYc/edit)
+* invited francesca as newsletter feature for april
+* space apps promotions
+* catch up on emails
 
-Updates:
 
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
-* RDA blog post?
 * book club: http://jtleek.com/ 
 https://leanpub.com/modernscientist
-
+* MozRetreat blog 
+* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
+* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 
 TO DOS
 
+* schedule wrangler call in 3 weeks with (christos, reagan@mozilla.com)
 * .net mag contribution
 * reach out to reproducibility guidebook - 
 * workshop for amsterdam
