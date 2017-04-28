@@ -1187,7 +1187,10 @@
 * invited francesca as newsletter feature for april
 * space apps promotions
 * catch up on emails
+* more study group [welcome messages](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
+
+* srccon aug 3+4 minneapolis: https://srccon.org/?
 
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
 * book club: http://jtleek.com/ 
