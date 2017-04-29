@@ -1189,6 +1189,7 @@
 * catch up on emails
 * more study group [welcome messages](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * wrote up ideas for [book club](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* wrote back to andy of lifehacker with my interview questions
 
 
 * srccon aug 3+4 minneapolis: https://srccon.org/?
