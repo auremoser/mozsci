@@ -1188,13 +1188,13 @@
 * space apps promotions
 * catch up on emails
 * more study group [welcome messages](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* wrote up ideas for [book club](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
 * srccon aug 3+4 minneapolis: https://srccon.org/?
 
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
-* book club: http://jtleek.com/ 
-https://leanpub.com/modernscientist
+
 * MozRetreat blog 
 * [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 * [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
@@ -1213,6 +1213,9 @@ TO DOS
 * assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
 
 * may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
+
+* surely you're joking mr. Feynman, henrietta lacks, * book club: http://jtleek.com/ 
+https://leanpub.com/modernscientist
 
 ## TO STUDY
 
