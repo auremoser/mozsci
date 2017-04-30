@@ -1191,6 +1191,7 @@
 * wrote up ideas for [book club](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * wrote back to andy of lifehacker with my interview questions
 * replied to Saebra about Big Idea Day at the BKN library for Chris
+* wrote to Michelle about iOT contacts for susy's moco email
 
 
 * srccon aug 3+4 minneapolis: https://srccon.org/?
