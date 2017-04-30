@@ -38,6 +38,15 @@
 http://www.georeferencer.com/compare#
 * Netherlands' travel time map, combining bikes and trains: http://nsmaps.romgens.com/?station=UT
 
+* data:
+	* Topographic: http://www.floodmap.net/Elevation/CountryElevationMap/?ct=NL
+	* Bike routes: http://nsmaps.romgens.com/?station=UT
+	* Gender equality: http://eige.europa.eu/sites/default/files/documents/Netherlands-Gender-Equality-Index-2015.pdf
+	* National georegister: http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/fast=index&from=1&to=50&any_OR_geokeyword_OR_title_OR_keyword=landinrichting*&relation=within
+	* Eco infrastructure: http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/c7d8d77b-8c47-4309-8c58-9b12b086407f
+	* geojson data for netherlands: https://www.webuildinternet.com/2015/07/09/geojson-data-of-the-netherlands/
+
+
 
 ## Resources
 * [understanding projections](https://www.oreilly.com/ideas/understanding-projections-with-spatial-and-geo-data)
