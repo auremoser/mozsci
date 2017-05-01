@@ -1197,6 +1197,7 @@
 
 ## 5/1/17
 * tweeted about AMA tomorrow for fellowships
+* submitted voting choices for Space apps
 
 * space apps
 	* https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/
