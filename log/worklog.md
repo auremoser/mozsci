@@ -1210,7 +1210,7 @@
 * created an event, may 15th for Moz retreat checkin
 * invite raegan and christos to the checkin
 * filled out [mozretreat tallin feedback survey](https://docs.google.com/forms/d/e/1FAIpQLSeIDS-YYoDmdxWmf1DOeVuehoVUC_qofbbGQE21ni2sBv8KeQ/viewform)
-* 
+* invited Kristin Ellis, opentrons, and Jeff Leek to our community call (waiting on his email)
 
 
 
