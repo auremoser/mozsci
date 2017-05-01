@@ -1194,6 +1194,10 @@
 * wrote to Michelle about iOT contacts for susy's moco email
 * filled out [space apps survey](https://docs.google.com/forms/d/e/1FAIpQLSfCM__qY1lU03R0shop49O455bJJ_N1mhn0sDWbk8-D88vOag/formResponse)
 
+
+## 5/1/17
+* tweeted about AMA tomorrow for fellowships
+
 * space apps
 	* https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/
 
