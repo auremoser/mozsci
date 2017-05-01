@@ -1198,35 +1198,45 @@
 ## 5/1/17
 * tweeted about AMA tomorrow for fellowships
 * submitted voting choices for Space apps
+* rsvp'd for lainie's [remote family day](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfklBB9f9TeuTakgPMn2BImdgZ_NfbFXWNyCSVLnhCNwzSqdQ/formResponse)
+* project call [listen in](https://air.mozilla.org/mozilla-weekly-project-meeting-20170501/)
+* updated my 1:1 doc
+* updated amsterdam planning doc
+* started working on amsterdam mapping workshop
+* feedback to more fellowship applicants
+* study group africa etherpad update: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa
+* confirmed peer reviewers with hr
+* created [mozretreat open innovation checkin](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* created an event, may 15th for Moz retreat checkin
+* invite raegan and christos to the checkin
+* filled out [mozretreat tallin feedback survey](https://docs.google.com/forms/d/e/1FAIpQLSeIDS-YYoDmdxWmf1DOeVuehoVUC_qofbbGQE21ni2sBv8KeQ/viewform)
+* 
 
-* space apps
-	* https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/
 
+
+
+* space apps blog
+	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
+	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
 * srccon aug 3+4 minneapolis: https://srccon.org/?
-
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
-
 * MozRetreat blog 
-* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
-* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
+	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
+	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 
 TO DOS
 
+* replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
 * schedule wrangler call in 3 weeks with (christos, reagan@mozilla.com)
 * .net mag contribution
 * reach out to reproducibility guidebook - 
 * workshop for amsterdam
-* write to peter + yannick about minigrants
+* write to peter + yannick + Dalitso about minigrants
 * get back to image providers with book
-* wrap up open news interviews
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
-* assess space apps planning [kit](https://speakerdeck.com/nasa/space-apps-event-planning-kit) for data camp
 
 * may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
-
-* surely you're joking mr. Feynman, henrietta lacks, * book club: http://jtleek.com/ 
-https://leanpub.com/modernscientist
 
 ## TO STUDY
 
