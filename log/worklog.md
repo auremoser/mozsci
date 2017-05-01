@@ -1192,7 +1192,10 @@
 * wrote back to andy of lifehacker with my interview questions
 * replied to Saebra about Big Idea Day at the BKN library for Chris
 * wrote to Michelle about iOT contacts for susy's moco email
+* filled out [space apps survey](https://docs.google.com/forms/d/e/1FAIpQLSfCM__qY1lU03R0shop49O455bJJ_N1mhn0sDWbk8-D88vOag/formResponse)
 
+* space apps
+	* https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/
 
 * srccon aug 3+4 minneapolis: https://srccon.org/?
 
