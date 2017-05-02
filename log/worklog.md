@@ -1218,13 +1218,15 @@
 * fellowship ama [video upload](https://youtu.be/G2B_lRdrUjg)
 * fellowship [ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 * study group call reminder out to lead listserv 
+* community call speaker invite to Graham at the Urban Institute
+* updated [1:1 checkin](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
-
+* populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
+* get francesca's blog up
 * space apps blog
 	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
 	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
-* srccon aug 3+4 minneapolis: https://srccon.org/?
 * newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
