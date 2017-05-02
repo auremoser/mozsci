@@ -1222,6 +1222,7 @@
 * updated [1:1 checkin](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * meeting with Arliss about network impact
 * reached out to reproducibility guidebook via Stefanie Butland for our community call - http://ropensci.github.io/reproducibility-guide/
+* posted francesca's sgs blog: https://science.mozilla.org/blog/sgs-francesca-mancini
 
 
 * populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
