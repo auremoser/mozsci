@@ -27,8 +27,30 @@
 * meeting with Marc Galland <M.D.Galland@uva.nl> and Mateusz Kuzak
 * check with flo flo
 
+## Dates
+
+* 9 
+	- Bikes with Titus
+* 10 
+	- Drinks with Stephanie
+* 11 
+	- 1:30 workshop - We have from 14.00 to 17.00h. Below is a suggestion for an agenda.
+		14.00 - 14.15h: coffee / tea
+		14.15 - 14.20h: welcome (Goof)
+		14.20 - 15.30h: presentation (Aurelia)   
+		15.30 - 15.50h: break
+		15.50 - 16.50h: questions, discussion, projects people work on
+	Location is Mmousse, ten minutes walking distance from the Central Station in Amsterdam. There is a beamer and wifi. 
+* 12 
+	- Lab visit for lunch
+	- [Node School Amsterdam](https://www.meetup.com/nodeschool-amsterdam/events/237321545/)
+		- [this thread](https://github.com/nodeschool/amsterdam/issues/46#issuecomment-298646398)
+
 ## Workshop
 
+* rainbow map: https://ecoregions2017.appspot.com/
+* zip code fallibilities for geospatial: https://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626
+* stuart's bivariate: http://bl.ocks.org/stuartlynn/raw/101a1e5d275989c1788b/#table_name=table&v1_name=v1&v1_min=0&v1_max=10&v1_start_col=%23F3F3F3&v1_end_col=%23E7A2D1&v1_bins=3&v2_name=v2&v2_min=0&v2_max=20&v2_start_col=%23F3F3F3&v2_end_col=%2388E3AC&v2_bins=3
 * friend of stuarts for open data
 * bike share data in amsterdam - ping matias
 * for journalism vid for ideas
@@ -45,6 +67,7 @@ http://www.georeferencer.com/compare#
 	* National georegister: http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/fast=index&from=1&to=50&any_OR_geokeyword_OR_title_OR_keyword=landinrichting*&relation=within
 	* Eco infrastructure: http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/c7d8d77b-8c47-4309-8c58-9b12b086407f
 	* geojson data for netherlands: https://www.webuildinternet.com/2015/07/09/geojson-data-of-the-netherlands/
+	* all countries topojson: https://github.com/deldersveld/topojson
 
 
 
