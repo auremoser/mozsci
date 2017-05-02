@@ -1212,6 +1212,12 @@
 * filled out [mozretreat tallin feedback survey](https://docs.google.com/forms/d/e/1FAIpQLSeIDS-YYoDmdxWmf1DOeVuehoVUC_qofbbGQE21ni2sBv8KeQ/viewform)
 * invited Kristin Ellis, opentrons, and Jeff Leek to our community call (waiting on his email)
 
+## 5/2/17
+* responded about contacts for arduino, 23&me and moco stuffs
+* [node school ams stuff](https://github.com/nodeschool/amsterdam/issues/46#issuecomment-298646398)
+* fellowship ama [video upload](https://youtu.be/G2B_lRdrUjg)
+* fellowship [ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
+* study group call reminder out to lead listserv 
 
 
 
