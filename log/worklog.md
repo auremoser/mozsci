@@ -1220,6 +1220,8 @@
 * study group call reminder out to lead listserv 
 * community call speaker invite to Graham at the Urban Institute
 * updated [1:1 checkin](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* meeting with Arliss about network impact
+* reached out to reproducibility guidebook via Stefanie Butland for our community call - http://ropensci.github.io/reproducibility-guide/
 
 
 * populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
@@ -1235,9 +1237,8 @@
 TO DOS
 
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
-* schedule wrangler call in 3 weeks with (christos, reagan@mozilla.com)
 * .net mag contribution
-* reach out to reproducibility guidebook - 
+
 * workshop for amsterdam
 * write to peter + yannick + Dalitso about minigrants
 * get back to image providers with book
