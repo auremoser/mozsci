@@ -1223,6 +1223,7 @@
 * meeting with Arliss about network impact
 * reached out to reproducibility guidebook via Stefanie Butland for our community call - http://ropensci.github.io/reproducibility-guide/
 * posted francesca's sgs blog: https://science.mozilla.org/blog/sgs-francesca-mancini
+* invited Ciera of the [reproducibility guidebook](http://ropensci.github.io/reproducibility-guide/) and Kathryn of the [practice of reproducible research](https://bids.berkeley.edu/events/practice-reproducible-research-case-studies-and-lessons-data-intensive-sciences) to speak on our community call
 
 
 * populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
