@@ -1224,10 +1224,24 @@
 * reached out to reproducibility guidebook via Stefanie Butland for our community call - http://ropensci.github.io/reproducibility-guide/
 * posted francesca's sgs blog: https://science.mozilla.org/blog/sgs-francesca-mancini
 * invited Ciera of the [reproducibility guidebook](http://ropensci.github.io/reproducibility-guide/) and Kathryn of the [practice of reproducible research](https://bids.berkeley.edu/events/practice-reproducible-research-case-studies-and-lessons-data-intensive-sciences) to speak on our community call
+* updated Dev roadshow site with new dates
+* mailed Christie a swag pack with stickers
+* wrote to a new study group from form
+* updated the [south africa trip itinerary for new ideas](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
+
+## 5/3/17
+* uploaded video for Zannah for [global sprint project tips](https://youtu.be/N4Bl54_Xxis)
+* study group [africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* fellowship eligibility emails
+* invited Fatma Imamoglu to speak on our community call
 
 
+TO DOS
+
+* potential call ideas
+	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
+* x in column i for all active leads, tack on extras to the bottom of the study group leads [here](https://docs.google.com/spreadsheets/d/1G1AQhPLp1RZ8miv82aMEWAKH-SxGYZZdtBwDfUx0MF4/edit#gid=2110436695) + send arliss the doc for our website redesign
 * populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
-* get francesca's blog up
 * space apps blog
 	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
 	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
@@ -1235,9 +1249,6 @@
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
-
-TO DOS
-
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
 * .net mag contribution
 
