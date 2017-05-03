@@ -1234,6 +1234,7 @@
 * study group [africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * fellowship eligibility emails
 * invited Fatma Imamoglu to speak on our community call
+* updated [study group outreach list](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 TO DOS
