@@ -87,3 +87,7 @@ http://www.georeferencer.com/compare#
 - best apple pie: http://www.winkel43.nl/ 
 - one of the best and smallest and oldest cafes on a beautiful small canal (for a beer) in Amsterdam is: Cafe ’t Smalle (address: Egelantiersgracht 12)
 - the indoor food market/food trucks/design shops I mentioned is De Hallen http://dehallen-amsterdam.nl/en/ 
++ Word on the street is that “Haarlemmerdijk“ is a street worth visiting with a delicious vegan salad bar called "SLA”  - could be a nice spot to see the Saturday Market and a bite (https://www.amsterdo.com/haarlemmerdijk-straat/)
++ Also if the weather is alright/nice, I think it would be nice to go with you to Amsterdam North. There’s a cool creative space called NDSM (https://www.whatsupwithamsterdam.com/ndsm/) and a cafe that looks lovely (http://noorderlichtcafe.nl/) and well lit :) 
++ De pijp is also a cool neighborhood I hear that is worth to just wander and discover. 
++ FOAM Photography museum http://www.foam.org/museum/programme?gclid=CM-vg73Nu9MCFUgq0wodozAFLw
