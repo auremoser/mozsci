@@ -1235,6 +1235,12 @@
 * fellowship eligibility emails
 * invited Fatma Imamoglu to speak on our community call
 * updated [study group outreach list](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* put together [gsoc template for checkins to be announced may 4th](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* agreed to h3abionet webinar with Trust Odia as emcee for "Early Career Researchers"
+* responded to Joseph about space apps photos
+* fixe up fellowships [ama pad](https://public.etherpad-mozilla.org/p/2017-fellowship-ama) for Friday's call
+* scheduled tweet for Friday's call
+
 
 
 TO DOS
