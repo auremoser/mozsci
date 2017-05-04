@@ -1260,7 +1260,7 @@
 * tweeted about [study group learning call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) tomorrow
 * introduce lucy to raegan for re:publica
 * fixed [typo in our website](https://github.com/mozilla/science.mozilla.org/pull/626)
-* confirmed Aaron Williams from the urban institute for our Community Call
+* confirmed [Aaron Williams from the urban institute](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016#lineNumber=85) for our Community Call
 
 
 
