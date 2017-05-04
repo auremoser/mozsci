@@ -1252,6 +1252,7 @@
 * lots of outreach to [study group potentials](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * fixed typo in open data primer
 * responded to [steph's issue](https://github.com/stephwright/Brain/issues/101)
+* filled out [liminal residency form](https://docs.google.com/forms/d/e/1FAIpQLSceyWYVs9OXIDiZ7RLd19xfjUWRGwCSfaFM24LVb3_wREIFcQ/formResponse)
 
 
 
