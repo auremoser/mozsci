@@ -1240,11 +1240,23 @@
 * responded to Joseph about space apps photos
 * fixe up fellowships [ama pad](https://public.etherpad-mozilla.org/p/2017-fellowship-ama) for Friday's call
 * scheduled tweet for Friday's call
+* sent vanessa epic list of fellows progress report
+* corresponded with Sheryl about DJango lesson addition to study groups
+* lots of emails to fellowship applicants
+* reached out to BOSC about sharing the fellowship
+* secured some community call participants, Fatma and Ciera specificially
+
+## 5/4/17
+* conversation with Lainie about privacy and security
+* details about teon to vanessa for mark
+* lots of outreach to [study group potentials](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* fixed typo in open data primer
 
 
 
 TO DOS
 
+* get travel booked for fellows' south africa: https://public.etherpad-mozilla.org/p/2017-fellows-offboarding
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
 * x in column i for all active leads, tack on extras to the bottom of the study group leads [here](https://docs.google.com/spreadsheets/d/1G1AQhPLp1RZ8miv82aMEWAKH-SxGYZZdtBwDfUx0MF4/edit#gid=2110436695) + send arliss the doc for our website redesign
