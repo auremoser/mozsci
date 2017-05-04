@@ -1251,6 +1251,7 @@
 * details about teon to vanessa for mark
 * lots of outreach to [study group potentials](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * fixed typo in open data primer
+* responded to [steph's issue](https://github.com/stephwright/Brain/issues/101)
 
 
 
