@@ -1253,11 +1253,21 @@
 * fixed typo in open data primer
 * responded to [steph's issue](https://github.com/stephwright/Brain/issues/101)
 * filled out [liminal residency form](https://docs.google.com/forms/d/e/1FAIpQLSceyWYVs9OXIDiZ7RLd19xfjUWRGwCSfaFM24LVb3_wREIFcQ/formResponse)
+* added header image and tags to the minigrants cfp: https://science.mozilla.org/blog
+* sent the mini-grants cfp to peter and neurotechx: https://science.mozilla.org/blog/mini-grant-cfp
+* lots of emails to the gsoc students, announced our [student selection](https://summerofcode.withgoogle.com/organizations/6421332469219328/)
+* life hacker piece is [up here]()
+* tweeted about [study group learning call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) tomorrow
+* introduce lucy to raegan for re:publica
+* fixed [typo in our website](https://github.com/mozilla/science.mozilla.org/pull/626)
 
 
 
 TO DOS
 
+* newsletter
+* flesh out learning call pad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017
+* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/)
 * get travel booked for fellows' south africa: https://public.etherpad-mozilla.org/p/2017-fellows-offboarding
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
@@ -1271,10 +1281,9 @@ TO DOS
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
-* .net mag contribution
+
 
 * workshop for amsterdam
-* write to peter + yannick + Dalitso about minigrants
 * get back to image providers with book
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
