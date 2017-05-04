@@ -49,6 +49,7 @@
 ## Workshop
 
 * rainbow map: https://ecoregions2017.appspot.com/
+* ascii map: https://asciinema.org/a/117813?autoplay=1
 * zip code fallibilities for geospatial: https://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626
 * stuart's bivariate: http://bl.ocks.org/stuartlynn/raw/101a1e5d275989c1788b/#table_name=table&v1_name=v1&v1_min=0&v1_max=10&v1_start_col=%23F3F3F3&v1_end_col=%23E7A2D1&v1_bins=3&v2_name=v2&v2_min=0&v2_max=20&v2_start_col=%23F3F3F3&v2_end_col=%2388E3AC&v2_bins=3
 * friend of stuarts for open data

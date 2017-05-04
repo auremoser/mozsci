@@ -1261,15 +1261,21 @@
 * introduce lucy to raegan for re:publica
 * fixed [typo in our website](https://github.com/mozilla/science.mozilla.org/pull/626)
 * confirmed [Aaron Williams from the urban institute](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016#lineNumber=85) for our Community Call
+* tweeted about Anamika's acceptance to GSOC
+* updated [fellowship eligibiity](https://github.com/mozilla/science.mozilla.org/pull/627) on website via pr
+* emailed anne back after consulting legal about her eligibility
+* sent travel booking details for fellows' [south africa](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
+* updated global sprint map [sites through timestamp 5/1](https://auremoser.carto.com/dataset/gs_2017_site_registration)
 
 
 
 TO DOS
 
+* swag packs for the global sprint.
 * newsletter
 * flesh out learning call pad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017
-* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/)
-* get travel booked for fellows' south africa: https://public.etherpad-mozilla.org/p/2017-fellows-offboarding
+* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/) + her [proposal](https://docs.google.com/document/d/1UsXRYEPbXw2x7Peesdnt9hcGjBxIU0V4-EV4xbOvJms/edit?ts=58dd4888#) + [project](https://summerofcode.withgoogle.com/projects/#5181349764792320)
+
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
 * x in column i for all active leads, tack on extras to the bottom of the study group leads [here](https://docs.google.com/spreadsheets/d/1G1AQhPLp1RZ8miv82aMEWAKH-SxGYZZdtBwDfUx0MF4/edit#gid=2110436695) + send arliss the doc for our website redesign
