@@ -1260,6 +1260,7 @@
 * tweeted about [study group learning call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) tomorrow
 * introduce lucy to raegan for re:publica
 * fixed [typo in our website](https://github.com/mozilla/science.mozilla.org/pull/626)
+* confirmed Aaron Williams from the urban institute for our Community Call
 
 
 
@@ -1267,7 +1268,7 @@ TO DOS
 
 * newsletter
 * flesh out learning call pad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017
-* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/)
+* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/)
 * get travel booked for fellows' south africa: https://public.etherpad-mozilla.org/p/2017-fellows-offboarding
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
