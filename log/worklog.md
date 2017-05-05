@@ -1256,7 +1256,7 @@
 * added header image and tags to the minigrants cfp: https://science.mozilla.org/blog
 * sent the mini-grants cfp to peter and neurotechx: https://science.mozilla.org/blog/mini-grant-cfp
 * lots of emails to the gsoc students, announced our [student selection](https://summerofcode.withgoogle.com/organizations/6421332469219328/)
-* life hacker piece is [up here]()
+* life hacker piece is [up here](http://lifehacker.com/im-aurelia-moser-community-lead-at-mozilla-and-this-i-1794805923)
 * tweeted about [study group learning call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017) tomorrow
 * introduce lucy to raegan for re:publica
 * fixed [typo in our website](https://github.com/mozilla/science.mozilla.org/pull/626)
@@ -1271,11 +1271,16 @@
 
 ## 5/5/17
 * fellowship ama [hosted etherpad](https://public.etherpad-mozilla.org/p/2017-fellowship-ama) and [tweeted](https://twitter.com/MozillaScience/status/860479039403905026)
+* Study Group Call [etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
+* kept up with email for fellowship cfp and gsoc
+* fleshed out [helmsley report](https://docs.google.com/document/d/1XBPIq-B70R00JAOLYaAhJF-TMgt56fpumj5hhTbPx1I/edit?ts=590cabd2)
+* wrapped up Big Idea day in brooklyn, pitched a data detox project for june
+
 
 
 
 TO DOS
-
+* data detox for big idea day - early june - contact meghan
 * swag packs for the global sprint.
 * newsletter
 * flesh out learning call pad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017
