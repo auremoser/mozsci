@@ -75,20 +75,21 @@ http://www.georeferencer.com/compare#
 ## Resources
 * [understanding projections](https://www.oreilly.com/ideas/understanding-projections-with-spatial-and-geo-data)
 * [geospatial data and analysis book](https://www.safaribooksonline.com/library/view/geospatial-data-and/9781491984314/)
+* [dutch words and their wtf translations](https://www.buzzfeed.com/maggyvaneijk/afgelebberde-paardelul?utm_term=.xfENGxwEzE#.rr0XWY0DVD)
 
 ## Places
 
-- the “9 streets” in your neighbourhood of the “Jordaan”. If you look up “de 9 straatjes” on Google maps you will find the area.
+- the “9 streets” in “Jordaan”. or “de 9 straatjes”
 - the Westergasfabriek (an old converted gasworks building): westergasfabriek.nl
-- the EYE film museum is amazing: eyefilm.nl
+- the EYE film museum: eyefilm.nl
 - cool art and technology spot called Mediamatic: http://www.mediamatic.net/ 
-- the renovated Rijksmuseum is incredible
-- the Stedelijk museum is worth a visit: http://www.stedelijk.nl/en 
-- one of the most beautiful canals to walk on is the Reguliersgracht (at night if you can): http://www.amsterdamforvisitors.com/reguliersgracht
+- the renovated Rijksmuseum ++1000
+- the [Stedelijk museum](http://www.stedelijk.nl/en)
+- beautiful canal to walk on - Reguliersgracht (at night if you can): http://www.amsterdamforvisitors.com/reguliersgracht
 - best apple pie: http://www.winkel43.nl/ 
-- one of the best and smallest and oldest cafes on a beautiful small canal (for a beer) in Amsterdam is: Cafe ’t Smalle (address: Egelantiersgracht 12)
-- the indoor food market/food trucks/design shops I mentioned is De Hallen http://dehallen-amsterdam.nl/en/ 
-+ Word on the street is that “Haarlemmerdijk“ is a street worth visiting with a delicious vegan salad bar called "SLA”  - could be a nice spot to see the Saturday Market and a bite (https://www.amsterdo.com/haarlemmerdijk-straat/)
-+ Also if the weather is alright/nice, I think it would be nice to go with you to Amsterdam North. There’s a cool creative space called NDSM (https://www.whatsupwithamsterdam.com/ndsm/) and a cafe that looks lovely (http://noorderlichtcafe.nl/) and well lit :) 
-+ De pijp is also a cool neighborhood I hear that is worth to just wander and discover. 
-+ FOAM Photography museum http://www.foam.org/museum/programme?gclid=CM-vg73Nu9MCFUgq0wodozAFLw
+- one of the best and smallest and oldest cafes on a beautiful small canal (for a beer): Cafe ’t Smalle (address: Egelantiersgracht 12)
+- the indoor food market/food trucks/design shops -  [De Hallen](http://dehallen-amsterdam.nl/en/)
+- Word on the street is that “Haarlemmerdijk“ is a street worth visiting with a delicious vegan salad bar called "SLA”  - could be a nice spot to see the [Saturday Market and a bite](https://www.amsterdo.com/haarlemmerdijk-straat/)
+- Amsterdam North. There’s a cool creative space called [NDSM](https://www.whatsupwithamsterdam.com/ndsm/) and a [cafe that looks lovely](http://noorderlichtcafe.nl/) and well lit :) 
+- De pijp is also a cool neighborhood 
+- [FOAM Photography museum](http://www.foam.org/museum/programme?gclid=CM-vg73Nu9MCFUgq0wodozAFLw)
