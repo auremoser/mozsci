@@ -1275,6 +1275,12 @@
 * kept up with email for fellowship cfp and gsoc
 * fleshed out [helmsley report](https://docs.google.com/document/d/1XBPIq-B70R00JAOLYaAhJF-TMgt56fpumj5hhTbPx1I/edit?ts=590cabd2)
 * wrapped up Big Idea day in brooklyn, pitched a data detox project for june
+* archived study group call for [may](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
+	* updated [issue](https://github.com/mozillascience/plan/issues/108)
+	* added new [issue](https://github.com/mozillascience/plan/issues/110)
+	* updated metrics [doc](https://public.etherpad-mozilla.org/p/2016-call-participants)
+	* made [etherpad for june](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-jun-2017)
+	* created [event for june](https://science.mozilla.org/programs/events/studygroup-call-jun-02)
 
 
 
