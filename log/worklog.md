@@ -1283,6 +1283,7 @@
 	* created [event for june](https://science.mozilla.org/programs/events/studygroup-call-jun-02)
 
 * posted [book club for June](https://science.mozilla.org/programs/events/bc-june-2017)
+* responded to 8 new study groups with welcome message [via spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 
@@ -1291,7 +1292,6 @@ TO DOS
 * data detox for big idea day - early june - contact meghan
 * swag packs for the global sprint.
 * newsletter
-* flesh out learning call pad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017
 * tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/) + her [proposal](https://docs.google.com/document/d/1UsXRYEPbXw2x7Peesdnt9hcGjBxIU0V4-EV4xbOvJms/edit?ts=58dd4888#) + [project](https://summerofcode.withgoogle.com/projects/#5181349764792320)
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
