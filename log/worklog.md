@@ -1282,6 +1282,8 @@
 	* made [etherpad for june](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-jun-2017)
 	* created [event for june](https://science.mozilla.org/programs/events/studygroup-call-jun-02)
 
+* posted [book club for June](https://science.mozilla.org/programs/events/bc-june-2017)
+
 
 
 
