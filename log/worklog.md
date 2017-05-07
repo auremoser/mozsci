@@ -1285,6 +1285,7 @@
 * posted [book club for June](https://science.mozilla.org/programs/events/bc-june-2017)
 * responded to 8 new study groups with welcome message [via spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * learn you node setup for node school
+* updated community call for new [urban institute speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016#lineNumber=85)
 
 
 
