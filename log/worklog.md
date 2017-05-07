@@ -1288,6 +1288,9 @@
 * updated community call for new [urban institute speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016#lineNumber=85)
 * added [resume directory](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHMEZKN0YyYUdNMmM) for fellowship applicants who email me materials
 * reached out to Meghan and Chris about the Data Detox Day
+* drafted email to [data detox participants with doodle poll](https://doodle.com/poll/qspzik5bueguu5fz), [contacts list]()
+* performance reviews
+	* [x] alexei
 
 
 
