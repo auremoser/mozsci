@@ -1286,6 +1286,8 @@
 * responded to 8 new study groups with welcome message [via spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * learn you node setup for node school
 * updated community call for new [urban institute speaker](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2016#lineNumber=85)
+* added [resume directory](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHMEZKN0YyYUdNMmM) for fellowship applicants who email me materials
+* reached out to Meghan and Chris about the Data Detox Day
 
 
 
