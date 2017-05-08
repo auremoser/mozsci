@@ -1310,6 +1310,7 @@
 * tweeted about the [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 * packed 15 swag packs for the global sprint, mailed, tweeted
 * filled out [coral project survey](https://blog.coralproject.net/feedback/)
+* posted and tweeted [book club blog](https://science.mozilla.org/blog/book-club-may)
 
 
 
