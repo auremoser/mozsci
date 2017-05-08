@@ -1282,6 +1282,7 @@
 	* made [etherpad for june](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-jun-2017)
 	* created [event for june](https://science.mozilla.org/programs/events/studygroup-call-jun-02)
 
+## 5/7/17
 * posted [book club for June](https://science.mozilla.org/programs/events/bc-june-2017)
 * responded to 8 new study groups with welcome message [via spreadsheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * learn you node setup for node school
@@ -1296,20 +1297,25 @@
 	* [x] zannah
 	* [x] steph
 * wrote to kevin about last minute fellowship tweets
-
 * welcomed a [ton of new study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
+## 5/8/17
+
+* sent welcome message to Anamika with resources and invite suggestion: tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/) + her [proposal](https://docs.google.com/document/d/1UsXRYEPbXw2x7Peesdnt9hcGjBxIU0V4-EV4xbOvJms/edit?ts=58dd4888#) + [project](https://summerofcode.withgoogle.com/projects/#5181349764792320)
+* [gsoc checkin etherpad](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* updated [community call event with speakers](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
 
 
 
 TO DOS
+
 * data detox for big idea day - early june - contact meghan
 * swag packs for the global sprint.
 * newsletter
-* tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/) + her [proposal](https://docs.google.com/document/d/1UsXRYEPbXw2x7Peesdnt9hcGjBxIU0V4-EV4xbOvJms/edit?ts=58dd4888#) + [project](https://summerofcode.withgoogle.com/projects/#5181349764792320)
+* update global sprint sites
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
-* populate study group leads call [outline](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-may-2017)
+
 * space apps blog
 	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
 	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
@@ -1322,7 +1328,6 @@ TO DOS
 * get back to image providers with book
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
-
 * may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
 
 ## TO STUDY
