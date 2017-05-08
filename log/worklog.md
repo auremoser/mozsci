@@ -1291,6 +1291,13 @@
 * drafted email to [data detox participants with doodle poll](https://doodle.com/poll/qspzik5bueguu5fz), [contacts list]()
 * performance reviews
 	* [x] alexei
+	* [x] aure
+	* [x] vanessa
+	* [x] zannah
+	* [x] steph
+* wrote to kevin about last minute fellowship tweets
+
+* welcomed a [ton of new study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 
