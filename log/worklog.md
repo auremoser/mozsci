@@ -1311,6 +1311,7 @@
 * packed 15 swag packs for the global sprint, mailed, tweeted
 * filled out [coral project survey](https://blog.coralproject.net/feedback/)
 * posted and tweeted [book club blog](https://science.mozilla.org/blog/book-club-may)
+* sent out details about the [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may10)
 
 
 
