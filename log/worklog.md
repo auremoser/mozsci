@@ -1307,6 +1307,9 @@
 * meeting with Zannah about the global sprint swag kits
 * worked on responding to fellowship applicants
 * onboard email sent to 8 new [study group leads](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* tweeted about the [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
+* packed 15 swag packs for the global sprint, mailed, tweeted
+* filled out [coral project survey](https://blog.coralproject.net/feedback/)
 
 
 
@@ -1318,7 +1321,7 @@ TO DOS
 * update global sprint sites
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
-
+* checkin on [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 * space apps blog
 	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
 	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
