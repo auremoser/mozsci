@@ -1304,6 +1304,9 @@
 * sent welcome message to Anamika with resources and invite suggestion: tweet abou our [google summer of code student](https://summerofcode.withgoogle.com/organizations/6421332469219328/) + send along guide to anamika [using this](http://write.flossmanuals.net/gsoc-mentoring/community-basics/) + her [proposal](https://docs.google.com/document/d/1UsXRYEPbXw2x7Peesdnt9hcGjBxIU0V4-EV4xbOvJms/edit?ts=58dd4888#) + [project](https://summerofcode.withgoogle.com/projects/#5181349764792320)
 * [gsoc checkin etherpad](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * updated [community call event with speakers](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
+* meeting with Zannah about the global sprint swag kits
+* worked on responding to fellowship applicants
+* onboard email sent to 8 new [study group leads](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 
