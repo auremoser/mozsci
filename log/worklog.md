@@ -1313,9 +1313,23 @@
 * posted and tweeted [book club blog](https://science.mozilla.org/blog/book-club-may)
 * sent out details about the [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may10)
 
+## 5/9/17
+* [mozfest wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* issue for [website](https://github.com/mozilla/science.mozilla.org/issues/424)
+
 
 
 TO DOS
+
+* travis builds for open data primers and study group onboarding - check warning email
+
+* GS Sites
+	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
+	* [map data](https://auremoser.carto.com/dataset/gs_2017_site_registration)
+	* [form responses](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031)
+	* [address from lat long](http://www.latlong.net/convert-address-to-lat-long.html)
+	* [swag addresses](https://docs.google.com/spreadsheets/d/1YCvPZcJZa_bJA9a54QgK5LfztF8fQpsTmuW_SVSqPUc/edit#gid=1531854934)
+	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
 
 * data detox for big idea day - early june - contact meghan
 * swag packs for the global sprint.
