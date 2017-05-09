@@ -1316,6 +1316,7 @@
 ## 5/9/17
 * [mozfest wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * issue for [website](https://github.com/mozilla/science.mozilla.org/issues/424)
+* flew to [amsterdam](../projects/17-05-amsterdam.md)
 
 
 
