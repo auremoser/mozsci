@@ -1323,7 +1323,7 @@
 TO DOS
 
 * travis builds for open data primers and study group onboarding - check warning email
-
+* send erika and sara the space narratives by friday 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
 	* [map data](https://auremoser.carto.com/dataset/gs_2017_site_registration)
