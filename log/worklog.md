@@ -1324,6 +1324,7 @@
 * responded to lots of fellowship applicants
 * drafted final statement for Open Innovation floor for Mozfest
 * looked into tickets for South Africa
+* responded to new [issue on site](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-300269660)
 
 
 
