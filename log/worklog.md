@@ -1327,6 +1327,8 @@
 * responded to new [issue on site](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-300269660)
 * met with Marc Galland, exchanged swag, gave him things for his study group
 * made suggestions for Arjun's [starter lesson](https://github.com/arjuntherajeev/neo4jStarterLesson)
+* [massey study group on the map](https://github.com/MasseyStudyGroup/masseystudygroup.github.io/issues/2#issuecomment-300468567) and website
+* finished [amsterdam workshop slides](https://mzl.la/ams-maps)
 
 
 
