@@ -1319,6 +1319,11 @@
 * flew to [amsterdam](../projects/17-05-amsterdam.md)
 * added new leads to map and site
 * caught up on mozilla fellowship tweets/emails
+* added a few new study groups
+* published KW's blog post on the fellowship
+* responded to lots of fellowship applicants
+* drafted final statement for Open Innovation floor for Mozfest
+* looked into tickets for South Africa
 
 
 
