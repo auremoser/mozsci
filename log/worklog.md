@@ -1335,6 +1335,7 @@
 * met up with Joey
 * sent out tweets for Mozsprint
 * newsletter
+* update [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 
 
 
