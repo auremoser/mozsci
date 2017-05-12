@@ -1334,6 +1334,7 @@
 * waded through email
 * met up with Joey
 * sent out tweets for Mozsprint
+* newsletter
 
 
 
