@@ -1330,6 +1330,11 @@
 * [massey study group on the map](https://github.com/MasseyStudyGroup/masseystudygroup.github.io/issues/2#issuecomment-300468567) and website
 * finished [amsterdam workshop slides](https://mzl.la/ams-maps)
 
+## 5/10/17
+* waded through email
+* met up with Joey
+* sent out tweets for Mozsprint
+
 
 
 TO DOS
