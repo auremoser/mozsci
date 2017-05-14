@@ -50,7 +50,7 @@
 	* emailed brooklyn @ about it
 * printed Diversity/Inclusion exercise for AAAS next week
 * invited Paul Villoutreix to our community call as a speaker
-* invited Titus Woormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
+* invited Titus Wormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
 * invited Pasquale da Silva to Community Call in February to talk about [synaesthesia project](https://laughingsquid.com/a-fascinating-visualization-of-how-a-person-with-color-synesthesia-perceives-music/)
 
 ### 1/6/17
