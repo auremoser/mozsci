@@ -1336,6 +1336,8 @@
 * sent out tweets for Mozsprint
 * newsletter
 * update [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
+* processed some application questions
+* filled in some study groups on details
 
 
 
