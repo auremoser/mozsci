@@ -1356,6 +1356,7 @@
 * made passport health booking for vaccines for south africa
 * reached out to dev rel for mofo all hands planning seshes
 * project [call](https://air.mozilla.org/mozilla-weekly-project-meeting-20170515/)
+* tested thimble [staging](https://bramble.mofostaging.net/en-US/) submitted bugs
 
 
 TO DOS
@@ -1373,6 +1374,10 @@ TO DOS
 
 * cancel on SRCCON -  
 [for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
+
+* all hands
+	* meet with Sandra - dev rel
+	* meet with Open Innovation planning committee - mozfest
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
