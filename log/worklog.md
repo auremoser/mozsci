@@ -1354,6 +1354,7 @@
 * created gsoc recurring events
 * created open innovation floor recurring events
 * made passport health booking for vaccines for south africa
+* reached out to dev rel for mofo all hands planning seshes
 
 
 TO DOS
