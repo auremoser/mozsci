@@ -1345,10 +1345,17 @@
 
 ## 5/11/17
 * [1:1 check with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* feedback on the [hack workshop materials/publications](https://docs.google.com/document/d/1vhz6rOf0F0aiM4RcunS1Y1EMMX4HMrmSedr98hLugXA/edit#) for CMU
+* open innovation [wrangler call checkin](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* monthly internal call
+* checkin with anamika about the GSOC fellowship
+* [gsoc checkin](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* [internal call](https://air.mozilla.org/monthly-internal-call-may-2017/)
 
 
 TO DOS
-
+* every 2 weeks for open innovation checkin - setup calendar invite
+* setup calendar invite with Anamika Das
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
 * fellows' call
