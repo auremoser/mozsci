@@ -1361,7 +1361,7 @@
 * added some ideas to [Boston WoW doc](https://public.etherpad-mozilla.org/p/scicencelab-bostonWOW)
 * updated ams slides and repo to reflect community maps
 * updated [checkin etherpad for tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-checkins-may-2017)
-* invited array of things to speak on our MozSci community call
+* invited [array of things](https://arrayofthings.github.io/contact.html) + [f1000](https://f1000research.com/)] to speak on our MozSci community call
 
 
 TO DOS
