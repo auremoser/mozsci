@@ -1357,16 +1357,19 @@
 * reached out to dev rel for mofo all hands planning seshes
 * project [call](https://air.mozilla.org/mozilla-weekly-project-meeting-20170515/)
 * tested thimble [staging](https://bramble.mofostaging.net/en-US/) submitted bugs
+	* [like like](https://github.com/mozilla/thimble.mozilla.org/issues/2119#issuecomment-301575742)
 
 
 TO DOS
+
 * every 2 weeks for open innovation checkin - setup calendar invite
 * setup calendar invite with Anamika Das
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
-* fellows' call
+
 * update global sprint map
 * send swag packs out to next batch of site hosts
+	* extra pack to Andrea Bedini at Perth
 * blogs: 
 * mozretreat
 * space apps?
@@ -1396,7 +1399,6 @@ TO DOS
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
 * get back to image providers with book
-* blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
 
