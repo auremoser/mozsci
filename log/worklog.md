@@ -1353,6 +1353,7 @@
 * [internal call](https://air.mozilla.org/monthly-internal-call-may-2017/)
 * created gsoc recurring events
 * created open innovation floor recurring events
+* made passport health booking for vaccines for south africa
 
 
 TO DOS
