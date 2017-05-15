@@ -1339,13 +1339,29 @@
 * processed some application questions
 * filled in some study groups on details
 * lots of emails and application builds
+* travis builds for open data primers and study group onboarding - check warning email
+* send erika and sara the space narratives by friday 
+* checkin on [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 
+## 5/11/17
+* [1:1 check with steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 
 
 TO DOS
 
-* travis builds for open data primers and study group onboarding - check warning email
-* send erika and sara the space narratives by friday 
+* read applications, get spreadsheet with top 30 put together
+* read book for book club
+* fellows' call
+* update global sprint map
+* send swag packs out to next batch of site hosts
+* blogs: 
+* mozretreat
+* space apps?
+* x interviews
+
+* cancel on SRCCON -  
+[for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
+
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
 	* [map data](https://auremoser.carto.com/dataset/gs_2017_site_registration)
@@ -1353,23 +1369,15 @@ TO DOS
 	* [address from lat long](http://www.latlong.net/convert-address-to-lat-long.html)
 	* [swag addresses](https://docs.google.com/spreadsheets/d/1YCvPZcJZa_bJA9a54QgK5LfztF8fQpsTmuW_SVSqPUc/edit#gid=1531854934)
 	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
-
-* data detox for big idea day - early june - contact meghan
-* swag packs for the global sprint.
-* newsletter
-* update global sprint sites
 * potential call ideas
 	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
-* checkin on [fellowship ama](https://public.etherpad-mozilla.org/p/2017-fellowship-ama)
 * space apps blog
 	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
 	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
-* newsletter going out this week: https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
-* workshop for amsterdam
 * get back to image providers with book
 * blog post on interviews to hype for fellows applications
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
