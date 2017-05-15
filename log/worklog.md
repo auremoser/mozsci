@@ -1358,6 +1358,7 @@
 * project [call](https://air.mozilla.org/mozilla-weekly-project-meeting-20170515/)
 * tested thimble [staging](https://bramble.mofostaging.net/en-US/) submitted bugs
 	* [like like](https://github.com/mozilla/thimble.mozilla.org/issues/2119#issuecomment-301575742)
+* added some ideas to [Boston WoW doc](https://public.etherpad-mozilla.org/p/scicencelab-bostonWOW)
 
 
 TO DOS
