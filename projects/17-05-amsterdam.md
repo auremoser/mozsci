@@ -11,6 +11,8 @@
 * [Bits of Freedom](https://www.bof.nl/) - host org for advocacy
 * [GeenSleep](https://geensleep.net/)
 * [Nationaal Plan Open Science](https://www.openscience.nl/nationaal-plan)
+* [Waag](waag.org)
+* [Textile lab amsteram](https://waag.org/en/project/textilelab-amsterdam)
 
 ## Places
 * [On the Grid Jordaan](http://www.onthegrid.city/amsterdam/jordaan/)
