@@ -1359,22 +1359,24 @@
 * tested thimble [staging](https://bramble.mofostaging.net/en-US/) submitted bugs
 	* [like like](https://github.com/mozilla/thimble.mozilla.org/issues/2119#issuecomment-301575742)
 * added some ideas to [Boston WoW doc](https://public.etherpad-mozilla.org/p/scicencelab-bostonWOW)
+* updated ams slides and repo to reflect community maps
+* updated [checkin etherpad for tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-checkins-may-2017)
+* invited array of things to speak on our MozSci community call
 
 
 TO DOS
 
-* every 2 weeks for open innovation checkin - setup calendar invite
-* setup calendar invite with Anamika Das
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
-
 * update global sprint map
 * send swag packs out to next batch of site hosts
 	* extra pack to Andrea Bedini at Perth
 * blogs: 
-* mozretreat
-* space apps?
-* x interviews
+	* mozretreat
+	* space apps?
+	* x interviews
+
+* reach out to Pearl about Air Mozilla Support for June Community Call
 
 * cancel on SRCCON -  
 [for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
