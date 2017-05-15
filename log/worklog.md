@@ -1351,6 +1351,8 @@
 * checkin with anamika about the GSOC fellowship
 * [gsoc checkin](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * [internal call](https://air.mozilla.org/monthly-internal-call-may-2017/)
+* created gsoc recurring events
+* created open innovation floor recurring events
 
 
 TO DOS
