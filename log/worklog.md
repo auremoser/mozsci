@@ -1371,6 +1371,7 @@
 * extensions for some fellowship applicants
 * send community call calendar placeholder for speakers
 * corrected etherpad f'up with dates
+* updated [study group materials](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 TO DOS
 
