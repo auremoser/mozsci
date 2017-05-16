@@ -1365,6 +1365,12 @@
 * created new [f](https://docs.google.com/spreadsheets/d/1duyIxvptbbwv7-BxZ1-Gq1OLM8stHlVC0MBHbmKiGm0/edit#gid=1991964804) tracking stats sheet
 * responded to Global sprint [ama question for zannah](https://public.etherpad-mozilla.org/p/globalsprint-ama)
 
+## 5/12/17
+* meeting with Heather Bryant of Facet about newsrooms, very interesting (email notes)
+* catch up on chats
+* extensions for some fellowship applicants
+* send community call calendar placeholder for speakers
+* corrected etherpad f'up with dates
 
 TO DOS
 
