@@ -1376,6 +1376,7 @@
 * responded to some minigrants questions
 * updated dev roadshow site and sent it to Elizabeth for the event next week
 * checkin for [msl](https://public.etherpad-mozilla.org/p/sciencelab-checkins-may-2017)
+* responded to kevin about mini-grant
 
 TO DOS
 
