@@ -1378,6 +1378,7 @@
 * checkin for [msl](https://public.etherpad-mozilla.org/p/sciencelab-checkins-may-2017)
 * responded to kevin about mini-grant
 * [wow austin debrief](https://public.etherpad-mozilla.org/p/atxwow0517-debrief)
+	* [survey responses are great](https://docs.google.com/forms/d/1ClDnevP36Mey3bYMd_jcdxNV0X3RJqvv_q0gWgp8uLU/viewform?edit_requested=true)
 
 TO DOS
 
