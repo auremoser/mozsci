@@ -1372,6 +1372,10 @@
 * send community call calendar placeholder for speakers
 * corrected etherpad f'up with dates
 * updated [study group materials](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* sent out mini grants cfp materials to wow participants
+* responded to some minigrants questions
+* updated dev roadshow site and sent it to Elizabeth for the event next week
+* checkin for [msl](https://public.etherpad-mozilla.org/p/sciencelab-checkins-may-2017)
 
 TO DOS
 
