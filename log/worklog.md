@@ -1395,7 +1395,9 @@
 * added mozsprint details to gsoc stuffs
 * updated newsletter [stuffs for may](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1204)
 * global sprint [gsoc stuff](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
-
+* reached out to Pearl about Air Mozilla Support for June Community Call
+* meeting with chris about chchchchanges
+* made stats list for steph for our mailing lists
 
 TO DOS
 
@@ -1409,7 +1411,7 @@ TO DOS
 	* space apps?
 	* x interviews
 
-* reach out to Pearl about Air Mozilla Support for June Community Call
+
 
 * cancel on SRCCON -  
 [for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
