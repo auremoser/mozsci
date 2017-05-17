@@ -1390,6 +1390,9 @@
 * updated [gsoc pull request](https://github.com/mozillascience/studyGroup-GSOC/pull/9)
 * responded to some fellowship and minigrants questions
 * timezone issue for [gsoc yay](https://github.com/mozilla/science.mozilla.org/issues/385#issuecomment-302080149)
+* approved some travel for the fellows
+* added two more speakers to the [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017#lineNumber=114) youpeee!
+
 
 TO DOS
 
