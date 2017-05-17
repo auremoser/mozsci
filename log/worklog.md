@@ -1392,6 +1392,9 @@
 * timezone issue for [gsoc yay](https://github.com/mozilla/science.mozilla.org/issues/385#issuecomment-302080149)
 * approved some travel for the fellows
 * added two more speakers to the [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017#lineNumber=114) youpeee!
+* added mozsprint details to gsoc stuffs
+* updated newsletter [stuffs for may](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1204)
+* global sprint [gsoc stuff](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
 
 
 TO DOS
