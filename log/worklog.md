@@ -1379,6 +1379,16 @@
 * responded to kevin about mini-grant
 * [wow austin debrief](https://public.etherpad-mozilla.org/p/atxwow0517-debrief)
 	* [survey responses are great](https://docs.google.com/forms/d/1ClDnevP36Mey3bYMd_jcdxNV0X3RJqvv_q0gWgp8uLU/viewform?edit_requested=true)
+* odyssey for envelopes
+* reading applications
+
+## 5/13/17
+
+* prepping with GSOC student
+* [worktime](https://public.etherpad-mozilla.org/p/sciencelab-work-201705-GSIssues) on [global sprint](https://github.com/mozilla/global-sprint/issues?page=3&q=is%3Aissue+is%3Aopen) projects + [south africa WOW](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
+* followed up with [anamika on her global sprint issue](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
+* updated [gsoc pull request](https://github.com/mozillascience/studyGroup-GSOC/pull/9)
+* responded to some fellowship and minigrants questions
 
 TO DOS
 
