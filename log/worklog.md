@@ -1389,6 +1389,7 @@
 * followed up with [anamika on her global sprint issue](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
 * updated [gsoc pull request](https://github.com/mozillascience/studyGroup-GSOC/pull/9)
 * responded to some fellowship and minigrants questions
+* timezone issue for [gsoc yay](https://github.com/mozilla/science.mozilla.org/issues/385#issuecomment-302080149)
 
 TO DOS
 
