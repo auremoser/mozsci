@@ -1406,6 +1406,7 @@
 * filled out [checkin pad for later](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may19-2017)
 * working through some of the global sprint issues commented yesterday
 * posted [gsoc project on mozilla pulse](https://www.mozillapulse.org/entry/289)
+* close [fellowships application issue logged](https://github.com/mozilla/science.mozilla.org/issues/632)
 
 
 * weekly checkin etherpad flesh out
