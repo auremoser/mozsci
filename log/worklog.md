@@ -1398,23 +1398,29 @@
 * reached out to Pearl about Air Mozilla Support for June Community Call
 * meeting with chris about chchchchanges
 * made stats list for steph for our mailing lists
+* updated [global sprint](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031) geospatial data
+* cancel on SRCCON -  
+[for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
 
 TO DOS
 
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
-* update global sprint map
 * send swag packs out to next batch of site hosts
 	* extra pack to Andrea Bedini at Perth
 * blogs: 
 	* mozretreat
 	* space apps?
 	* x interviews
+Swag packs
+
+P.O.Box 86269-80100
+Mombasa, Kenya.
+Tel: +254726 846 276 | +254723 600 645
+Attn: Said Fuad Said
 
 
 
-* cancel on SRCCON -  
-[for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
 
 * all hands
 	* meet with Sandra - dev rel
