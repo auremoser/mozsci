@@ -1407,6 +1407,7 @@
 * working through some of the global sprint issues commented yesterday
 * posted [gsoc project on mozilla pulse](https://www.mozillapulse.org/entry/289)
 * close [fellowships application issue logged](https://github.com/mozilla/science.mozilla.org/issues/632)
+* [global sprint ama call](https://public.etherpad-mozilla.org/p/globalsprint-ama)
 
 
 * weekly checkin etherpad flesh out
