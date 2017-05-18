@@ -1412,7 +1412,7 @@
 * fellowships [call](https://docs.google.com/document/d/1m85CIl_2aQST1ix234AJ4N4fD0_gbIrFNWI7ATohijc/edit) with Cori
 	* schedule recurring event for fellowships checkin
 	* sent email with all documents to Cori + Rizwan
-* responded to charissa about network site and communities
+* responded to charissa about [network site and communities talking points guide](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 * checking with the [data detox people](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit)
 
 
