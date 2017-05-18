@@ -1383,7 +1383,6 @@
 * reading applications
 
 ## 5/13/17
-
 * prepping with GSOC student
 * [worktime](https://public.etherpad-mozilla.org/p/sciencelab-work-201705-GSIssues) on [global sprint](https://github.com/mozilla/global-sprint/issues?page=3&q=is%3Aissue+is%3Aopen) projects + [south africa WOW](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
 * followed up with [anamika on her global sprint issue](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
@@ -1401,6 +1400,18 @@
 * updated [global sprint](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031) geospatial data
 * cancel on SRCCON -  
 [for Open News] SRCCON on August 3-4, my session on "teachers lounge for open source curriculum" was accepted. They don't think they can fund me but I applied for a scholarship: https://srccon.org/
+
+## 5/14/17
+* tweeted about my global sprint site
+* filled out [checkin pad for later](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-may19-2017)
+* working through some of the global sprint issues commented yesterday
+
+
+* weekly checkin etherpad flesh out
+* swag kits
+* applicaitons
+* promote global sprint site
+* shots for South Africa
 
 TO DOS
 
