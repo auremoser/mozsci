@@ -1413,6 +1413,7 @@
 	* schedule recurring event for fellowships checkin
 	* sent email with all documents to Cori + Rizwan
 * responded to charissa about network site and communities
+* checking with the [data detox people](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit)
 
 
 * weekly checkin etherpad flesh out
@@ -1423,6 +1424,7 @@
 
 TO DOS
 
+* finish [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit)
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
 * send swag packs out to next batch of site hosts
