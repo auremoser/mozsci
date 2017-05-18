@@ -1395,7 +1395,7 @@
 * updated newsletter [stuffs for may](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1204)
 * global sprint [gsoc stuff](https://github.com/mozilla/global-sprint/issues/89#event-1086172171)
 * reached out to Pearl about Air Mozilla Support for June Community Call
-* meeting with chris about chchchchanges
+* [meeting with chris](https://public.etherpad-mozilla.org/p/sciencelab-mtg-Chris-20170517) about chchchchanges
 * made stats list for steph for our mailing lists
 * updated [global sprint](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031) geospatial data
 * cancel on SRCCON -  
