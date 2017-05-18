@@ -1409,6 +1409,7 @@
 * close [fellowships application issue logged](https://github.com/mozilla/science.mozilla.org/issues/632)
 * [global sprint ama call](https://public.etherpad-mozilla.org/p/globalsprint-ama)
 * reviewed arush's [hide application links](https://github.com/mozilla/science.mozilla.org/issues/632#issuecomment-302502106)
+* fellowships [call](https://docs.google.com/document/d/1m85CIl_2aQST1ix234AJ4N4fD0_gbIrFNWI7ATohijc/edit) with Cori
 
 
 * weekly checkin etherpad flesh out
