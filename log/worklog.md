@@ -1419,6 +1419,8 @@
 * emailed joe with updates on minigrants and south africa contacts
 * emailed brooklyn with global sprint site details
 * prepped for tomorrow's meeting with christian + co by [reviewing doc](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
+* wrote to [national plan people](https://www.openscience.nl/nationaal-plan) about visit to Amsterdam
+* belated outreach for newsletter inclusion [DTL thingy](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
 
 
 * weekly checkin etherpad flesh out
@@ -1471,7 +1473,7 @@ Attn: Said Fuad Said
 * replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
 * get back to image providers with book
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
-* may 15th [community manager](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
+
 
 ## TO STUDY
 
