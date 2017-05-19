@@ -1421,6 +1421,8 @@
 * prepped for tomorrow's meeting with christian + co by [reviewing doc](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
 * wrote to [national plan people](https://www.openscience.nl/nationaal-plan) about visit to Amsterdam
 * belated outreach for newsletter inclusion [DTL thingy](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
+* beautiful rising website overview
+
 
 
 * weekly checkin etherpad flesh out
