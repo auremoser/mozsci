@@ -1415,6 +1415,11 @@
 * responded to charissa about [network site and communities talking points guide](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 * checking with the [data detox people](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit)
 
+## 5/15/17
+* emailed joe with updates on minigrants and south africa contacts
+* emailed brooklyn with global sprint site details
+* prepped for tomorrow's meeting with christian + co by [reviewing doc](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
+
 
 * weekly checkin etherpad flesh out
 * swag kits
@@ -1446,6 +1451,7 @@ Attn: Said Fuad Said
 * all hands
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
+	* all-MoFo activity and dinner for Wednesday night
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
