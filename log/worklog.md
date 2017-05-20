@@ -1422,14 +1422,18 @@
 * wrote to [national plan people](https://www.openscience.nl/nationaal-plan) about visit to Amsterdam
 * belated outreach for newsletter inclusion [DTL thingy](https://www.dtls.nl/wp-content/uploads/2017/04/VACANCY-DTL-scientific-community-manager-1.pdf)
 * beautiful rising website overview
+* published [recap blog on space apps](https://science.mozilla.org/blog/spaceapps-2017/)
+* updated [blog content calendar with recent blogs](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
+* tweeted [blog](https://twitter.com/MozillaScience/status/865664644282671104)
+* recommendation for urbanist friend via melissa
+* attended Chrystian's Data Detox Ingenius reunion
+*
 
 
 
-* weekly checkin etherpad flesh out
+
 * swag kits
 * applicaitons
-* promote global sprint site
-* shots for South Africa
 
 TO DOS
 
@@ -1450,7 +1454,7 @@ Tel: +254726 846 276 | +254723 600 645
 Attn: Said Fuad Said
 
 
-
+* apply to [tactical tech data investigation camp](https://forms.tacticaltech.org/index.php/411159)
 
 * all hands
 	* meet with Sandra - dev rel
