@@ -1427,7 +1427,7 @@
 * tweeted [blog](https://twitter.com/MozillaScience/status/865664644282671104)
 * recommendation for urbanist friend via melissa
 * attended Chrystian's Data Detox Ingenius reunion
-*
+* applied for [tactical tech data detox camp](https://tacticaltech.org/datacamp)
 
 
 
