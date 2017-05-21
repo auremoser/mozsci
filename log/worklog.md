@@ -1428,33 +1428,25 @@
 * recommendation for urbanist friend via melissa
 * attended Chrystian's Data Detox Ingenius reunion
 * applied for [tactical tech data detox camp](https://tacticaltech.org/datacamp)
+* responded to harsha about swag request
+* sent recap email to all Data Detox Day board people
 
-
-
-
-* swag kits
-* applicaitons
+## 5/16/17
+* read apps
+* packed for Seattle!
 
 TO DOS
 
-* finish [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit)
+* recap [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit) post ingenius reunion
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
-* send swag packs out to next batch of site hosts
+
 	* extra pack to Andrea Bedini at Perth
 * blogs: 
 	* mozretreat
 	* space apps?
 	* x interviews
 Swag packs
-
-P.O.Box 86269-80100
-Mombasa, Kenya.
-Tel: +254726 846 276 | +254723 600 645
-Attn: Said Fuad Said
-
-
-* apply to [tactical tech data investigation camp](https://forms.tacticaltech.org/index.php/411159)
 
 * all hands
 	* meet with Sandra - dev rel
