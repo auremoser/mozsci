@@ -1440,6 +1440,7 @@
 * met with anamika for gsoc
 * made etherpad and sent invite for [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
 * onboarded a [few new study groups](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
+* transmitted stickers to Zannah and Steph
 
 * work on sg-scripts issues for Anamika
 
@@ -1449,13 +1450,8 @@ TO DOS
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
 
-
-* blogs: 
-	* mozretreat
-	* space apps?
+Blogs
 	* x interviews
-Swag packs
-
 * all hands
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
