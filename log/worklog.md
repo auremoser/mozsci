@@ -1439,6 +1439,7 @@
 * merged anamika's [pull request](https://github.com/mozillascience/studyGroup/pull/85)
 * met with anamika for gsoc
 * made etherpad and sent invite for [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
+* onboarded a [few new study groups](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
 
 * work on sg-scripts issues for Anamika
 
