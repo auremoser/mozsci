@@ -1435,13 +1435,20 @@
 * read apps
 * packed for Seattle!
 
+## 5/22/17
+* merged anamika's [pull request](https://github.com/mozillascience/studyGroup/pull/85)
+* met with anamika for gsoc
+* made etherpad and sent invite for [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
+
+* work on sg-scripts issues for Anamika
+
 TO DOS
 
 * recap [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit) post ingenius reunion
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
 
-	* extra pack to Andrea Bedini at Perth
+
 * blogs: 
 	* mozretreat
 	* space apps?
