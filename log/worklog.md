@@ -1453,6 +1453,7 @@
 
 TO DOS
 
+* give liz feedback on her [tipsheet](https://docs.google.com/document/d/1Z_UhJqkas8_-HszMg62JfxJTvcjPS93JNQ-imZfy1Uw/edit)
 * work on sg-scripts issues for Anamika
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
