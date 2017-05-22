@@ -1445,6 +1445,7 @@
 * recap [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit) post ingenius reunion
 * added the amazing [kristin ellis to our community call for june](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017#lineNumber=56)
 * asked rizwan about 4IR collaboration
+* gave feedback on some [indicators for the next internet health report](https://indicators.internethealthreport.org/?tab=Show%20all) per Solana's email
 
 
 
