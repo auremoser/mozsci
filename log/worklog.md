@@ -1441,16 +1441,20 @@
 * made etherpad and sent invite for [wednesday fellows' call](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
 * onboarded a [few new study groups](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
 * transmitted stickers to Zannah and Steph
+* sent updated info for [study group africa chat to africa leads](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* recap [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit) post ingenius reunion
+* added the amazing [kristin ellis to our community call for june](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017#lineNumber=56)
+* asked rizwan about 4IR collaboration
 
-* work on sg-scripts issues for Anamika
+
+
 
 TO DOS
 
-* recap [data detox checkin](https://docs.google.com/document/d/1LKhcxpJh_yej9QEsmVxVlN7K-azcX3vPS9Kiu3F7VjI/edit) post ingenius reunion
+* work on sg-scripts issues for Anamika
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
-
-Blogs
+* Blogs
 	* x interviews
 * all hands
 	* meet with Sandra - dev rel
