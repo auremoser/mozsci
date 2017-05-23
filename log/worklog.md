@@ -1446,8 +1446,11 @@
 * added the amazing [kristin ellis to our community call for june](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017#lineNumber=56)
 * asked rizwan about 4IR collaboration
 * gave feedback on some [indicators for the next internet health report](https://indicators.internethealthreport.org/?tab=Show%20all) per Solana's email
+
+## 5/23/17
 * updated [global sprint site registration map](https://auremoser.carto.com/dataset/gs_2017_site_registration)
 * reviewed [alex's pull request for spanish translations of readme](https://github.com/mozillascience/studyGroup/pull/86#pullrequestreview-39754544)
+* mofo [staff network call](https://air.mozilla.org/mofo-staff-call-may-2017/)
 
 
 TO DOS
