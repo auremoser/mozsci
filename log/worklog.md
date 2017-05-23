@@ -1451,11 +1451,11 @@
 * updated [global sprint site registration map](https://auremoser.carto.com/dataset/gs_2017_site_registration)
 * reviewed [alex's pull request for spanish translations of readme](https://github.com/mozillascience/studyGroup/pull/86#pullrequestreview-39754544)
 * mofo [staff network call](https://air.mozilla.org/mofo-staff-call-may-2017/)
-
+* give liz feedback on her [tipsheet](https://docs.google.com/document/d/1Z_UhJqkas8_-HszMg62JfxJTvcjPS93JNQ-imZfy1Uw/edit)
 
 TO DOS
 
-* give liz feedback on her [tipsheet](https://docs.google.com/document/d/1Z_UhJqkas8_-HszMg62JfxJTvcjPS93JNQ-imZfy1Uw/edit)
+
 * work on sg-scripts issues for Anamika
 * read applications, get spreadsheet with top 30 put together
 * read book for book club
