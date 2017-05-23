@@ -1453,6 +1453,7 @@
 * mofo [staff network call](https://air.mozilla.org/mofo-staff-call-may-2017/)
 * give liz feedback on her [tipsheet](https://docs.google.com/document/d/1Z_UhJqkas8_-HszMg62JfxJTvcjPS93JNQ-imZfy1Uw/edit)
 * south africa [wow rsvp form](https://goo.gl/forms/sM5N0P4lRTcf7U3M2)
+* [MSL Commitments](https://docs.google.com/spreadsheets/d/114EpTeen-G-1z2Vs4SpJWLGIVQty4oH3a6AeuePt4AM/edit?ts=5924a6ea#gid=0)
 
 TO DOS
 
