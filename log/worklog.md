@@ -1452,6 +1452,7 @@
 * reviewed [alex's pull request for spanish translations of readme](https://github.com/mozillascience/studyGroup/pull/86#pullrequestreview-39754544)
 * mofo [staff network call](https://air.mozilla.org/mofo-staff-call-may-2017/)
 * give liz feedback on her [tipsheet](https://docs.google.com/document/d/1Z_UhJqkas8_-HszMg62JfxJTvcjPS93JNQ-imZfy1Uw/edit)
+* south africa [wow rsvp form](https://goo.gl/forms/sM5N0P4lRTcf7U3M2)
 
 TO DOS
 
