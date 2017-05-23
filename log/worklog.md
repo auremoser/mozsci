@@ -1447,8 +1447,7 @@
 * asked rizwan about 4IR collaboration
 * gave feedback on some [indicators for the next internet health report](https://indicators.internethealthreport.org/?tab=Show%20all) per Solana's email
 * updated [global sprint site registration map](https://auremoser.carto.com/dataset/gs_2017_site_registration)
-
-
+* reviewed [alex's pull request for spanish translations of readme](https://github.com/mozillascience/studyGroup/pull/86#pullrequestreview-39754544)
 
 
 TO DOS
@@ -1471,15 +1470,9 @@ TO DOS
 	* [address from lat long](http://www.latlong.net/convert-address-to-lat-long.html)
 	* [swag addresses](https://docs.google.com/spreadsheets/d/1YCvPZcJZa_bJA9a54QgK5LfztF8fQpsTmuW_SVSqPUc/edit#gid=1531854934)
 	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
-* potential call ideas
-	* Justin Kitzes, Fatma Imamoglu, or Daniel Turek, editors of that edition. Perhaps Philip Stark or Kelli Ottoboni.
-* space apps blog
-	* [technically feature](https://technical.ly/brooklyn/2017/04/24/space-apps-carto-hq/)
-	* https://2017.spaceappschallenge.org/locations/brooklyn-ny
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
-* replace header tweet for [fellows' call](https://twitter.com/MozillaScience/status/851424056331128832)
 * get back to image providers with book
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 
