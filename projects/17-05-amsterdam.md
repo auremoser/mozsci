@@ -28,6 +28,8 @@
 * couchsurfers / oliver's friends
 * meeting with Marc Galland <M.D.Galland@uva.nl> and Mateusz Kuzak
 * check with flo flo
+* meeting with Amie Fairs (Global Sprint)
+* meeting with Karen van der Moolen (Mini grant applicant)
 
 ## Dates
 
