@@ -1447,7 +1447,7 @@
 * asked rizwan about 4IR collaboration
 * gave feedback on some [indicators for the next internet health report](https://indicators.internethealthreport.org/?tab=Show%20all) per Solana's email
 
-## 5/23/17
+## 5/23/17 - 5/24/17
 * updated [global sprint site registration map](https://auremoser.carto.com/dataset/gs_2017_site_registration)
 * reviewed [alex's pull request for spanish translations of readme](https://github.com/mozillascience/studyGroup/pull/86#pullrequestreview-39754544)
 * mofo [staff network call](https://air.mozilla.org/mofo-staff-call-may-2017/)
@@ -1455,6 +1455,8 @@
 * south africa [wow rsvp form](https://goo.gl/forms/sM5N0P4lRTcf7U3M2)
 * [MSL Commitments](https://docs.google.com/spreadsheets/d/114EpTeen-G-1z2Vs4SpJWLGIVQty4oH3a6AeuePt4AM/edit?ts=5924a6ea#gid=0)
 * added [details to the newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* filled out performance review review
+* 
 
 TO DOS
 
