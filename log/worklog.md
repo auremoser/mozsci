@@ -1456,7 +1456,7 @@
 * [MSL Commitments](https://docs.google.com/spreadsheets/d/114EpTeen-G-1z2Vs4SpJWLGIVQty4oH3a6AeuePt4AM/edit?ts=5924a6ea#gid=0)
 * added [details to the newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
 * filled out performance review review
-* 
+* applications!!!
 
 TO DOS
 
