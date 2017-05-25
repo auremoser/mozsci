@@ -1457,9 +1457,15 @@
 * added [details to the newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
 * filled out performance review review
 * applications!!!
+* submitted a [pr for bio updates](https://github.com/mozilla/science.mozilla.org/pull/635)
+* details sent to Christie about travel booking for [south africa](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=31)
+* fellows call [went awesome](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
+
+
 
 TO DOS
 
+* go through [site host checklist for the sprint](https://mozilla.github.io/global-sprint/site-hosts/checklist/)
 
 * work on sg-scripts issues for Anamika
 * read applications, get spreadsheet with top 30 put together
