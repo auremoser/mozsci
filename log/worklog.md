@@ -1470,6 +1470,7 @@
 ## 5/25/17
 * made [wow south africa rsvp tracker](https://docs.google.com/spreadsheets/d/1nHE8LcygnmVwz40AoEg7GjUo0F8srPf_x9cad-Yu1gQ/edit#gid=0)
 * responded to some fellows applicants and some global sprint folks
+* shared [data detox day event posting](https://www.bklynlibrary.org/calendar/data-detox-day-central-library-info-062317) with ingenius network and tactical tech folks
 
 
 
