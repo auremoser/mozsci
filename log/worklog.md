@@ -1467,6 +1467,9 @@
 * processing applicants for WOW SA
 * responded to AFK podcast about interview next week
 
+## 5/25/17
+* responded to some fellows applicants and some global sprint folks
+
 
 
 TO DOS
