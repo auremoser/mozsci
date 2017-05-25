@@ -1462,6 +1462,11 @@
 * fellows call [went awesome](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
 * put together [website audit spreadsheet](https://docs.google.com/spreadsheets/d/1RbNtapc3_2Gwf9o1oC6ET3fPdcQ0QQnZDlKAaTP2b30/edit#gid=0)
 * added a new study group from Kingston Ontario [issue here](https://github.com/cac-staff/studyGroup/issues/4)
+* lots of email (site, open con, sprint, mini-grants)
+* added a new welcome message to ugandan study groups
+* processing applicants for WOW SA
+* responded to AFK podcast about interview next week
+
 
 
 TO DOS
