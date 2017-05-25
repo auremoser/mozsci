@@ -1460,7 +1460,7 @@
 * submitted a [pr for bio updates](https://github.com/mozilla/science.mozilla.org/pull/635)
 * details sent to Christie about travel booking for [south africa](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=31)
 * fellows call [went awesome](https://public.etherpad-mozilla.org/p/2016-science-fellows-may24)
-
+* put together [website audit spreadsheet](https://docs.google.com/spreadsheets/d/1RbNtapc3_2Gwf9o1oC6ET3fPdcQ0QQnZDlKAaTP2b30/edit#gid=0)
 
 
 TO DOS
