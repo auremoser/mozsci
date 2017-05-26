@@ -1472,6 +1472,7 @@
 * responded to some fellows applicants and some global sprint folks
 * shared [data detox day event posting](https://www.bklynlibrary.org/calendar/data-detox-day-central-library-info-062317) with ingenius network and tactical tech folks
 * updated [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia) for EOS pilot
+* sent fellowship details to team and scheduled a meeting wednesday of next week
 
 
 TO DOS
