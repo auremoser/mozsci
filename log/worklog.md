@@ -1475,6 +1475,7 @@
 * sent fellowship details to team and scheduled a meeting wednesday of next week
 * updated [trust's study group](https://trustodia.github.io/studyGroup/), and added to map
 * send zannah some swag files
+* updated [mozilla study group welcome form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 
 TO DOS
