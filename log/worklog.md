@@ -1477,6 +1477,9 @@
 * send zannah some swag files
 * updated [mozilla study group welcome form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
+##5/29/17
+* mock meeting with Anamika to go over [gsoc plan for global sprint](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+
 
 TO DOS
 
