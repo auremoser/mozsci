@@ -1490,6 +1490,7 @@
 * Town hall on [internet health report/mentorship and message](https://air.mozilla.org/town-hall-2017-may-june-town-hall-series-foundation/)
 * mailed swag packs to abby, tim, harsha [here](https://docs.google.com/spreadsheets/d/1iXnBLkxFiMrkjZ95P6ccOQDhjfdQfEbbkOIIFmeQJi8/edit#gid=1493218965)
 * updated [peer review document](https://docs.google.com/document/d/1jYvFs20khzcoaDKLcAHdzB3SA9yfnetJ6LYzQCC9Dbk/edit) with details about how program might go next year
+* updated document for [performance review feedback](https://docs.google.com/document/d/1jYvFs20khzcoaDKLcAHdzB3SA9yfnetJ6LYzQCC9Dbk/edit)
 
 * cancel study group call in favor of the sprint
 
