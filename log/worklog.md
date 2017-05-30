@@ -1491,6 +1491,7 @@
 * mailed swag packs to abby, tim, harsha [here](https://docs.google.com/spreadsheets/d/1iXnBLkxFiMrkjZ95P6ccOQDhjfdQfEbbkOIIFmeQJi8/edit#gid=1493218965)
 * updated [peer review document](https://docs.google.com/document/d/1jYvFs20khzcoaDKLcAHdzB3SA9yfnetJ6LYzQCC9Dbk/edit) with details about how program might go next year
 * updated document for [performance review feedback](https://docs.google.com/document/d/1jYvFs20khzcoaDKLcAHdzB3SA9yfnetJ6LYzQCC9Dbk/edit)
+* printd [posters for our global sprint](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNmE5ajFaeEVqaDA)
 
 * cancel study group call in favor of the sprint
 
