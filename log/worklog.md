@@ -1493,6 +1493,9 @@
 * updated document for [performance review feedback](https://docs.google.com/document/d/1jYvFs20khzcoaDKLcAHdzB3SA9yfnetJ6LYzQCC9Dbk/edit)
 * printd [posters for our global sprint](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNmE5ajFaeEVqaDA)
 * got back to 4IR beyond ska folks for the recommitment of our mentorship
+* prepped the office for the global sprint
+* meeting with IFF community members in Manhattan
+* last minute trip stuff with bruno
 
 * cancel study group call in favor of the sprint
 
