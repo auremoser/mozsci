@@ -50,6 +50,18 @@
 	- [Node School Amsterdam](https://www.meetup.com/nodeschool-amsterdam/events/237321545/)
 		- [this thread](https://github.com/nodeschool/amsterdam/issues/46#issuecomment-298646398)
 
+BREAK BREAK BR/
+
+* 6
+	- Karan visit to WAAG
+	- Bits of Freedom
+* 7
+	- Maptime
+		- Slides: https://mzl.la/ams-maps
+		- Workshop: https://github.com/auremoser/ams-maps-17/blob/master/workshop.md
+		- Resources: https://github.com/auremoser/ams-maps-17
+
+
 ## Workshop
 
 * rainbow map: https://ecoregions2017.appspot.com/
