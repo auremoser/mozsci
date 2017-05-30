@@ -1479,6 +1479,7 @@
 
 ##5/29/17
 * mock meeting with Anamika to go over [gsoc plan for global sprint](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* added all [last minute global sprint sites](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031)
 
 
 TO DOS
