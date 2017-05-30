@@ -1484,6 +1484,7 @@
 ## 5/30/17
 * sent reminder about the global sprint to the brooklyn office
 * sent anamika details about running the scripts locally
+* made new [etherpad for august community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017) invited Open Heart Project to speak
 
 
 TO DOS
