@@ -1485,6 +1485,12 @@
 * sent reminder about the global sprint to the brooklyn office
 * sent anamika details about running the scripts locally
 * made new [etherpad for august community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017) invited Open Heart Project to speak
+* filled out [checkin etherpad](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* performance review meeting with Steph
+* Town hall on [internet health report/mentorship and message](https://air.mozilla.org/town-hall-2017-may-june-town-hall-series-foundation/)
+* mailed swag packs to abby, tim, harsha [here](https://docs.google.com/spreadsheets/d/1iXnBLkxFiMrkjZ95P6ccOQDhjfdQfEbbkOIIFmeQJi8/edit#gid=1493218965)
+
+* cancel study group call in favor of the sprint
 
 
 TO DOS
