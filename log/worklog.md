@@ -1477,9 +1477,13 @@
 * send zannah some swag files
 * updated [mozilla study group welcome form](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
-##5/29/17
+## 5/29/17
 * mock meeting with Anamika to go over [gsoc plan for global sprint](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * added all [last minute global sprint sites](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031)
+
+## 5/30/17
+* sent reminder about the global sprint to the brooklyn office
+* sent anamika details about running the scripts locally
 
 
 TO DOS
