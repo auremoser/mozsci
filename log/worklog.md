@@ -1496,6 +1496,7 @@
 * prepped the office for the global sprint
 * meeting with IFF community members in Manhattan
 * last minute trip stuff with bruno
+* sent pkpr details about global sprint site
 
 * cancel study group call in favor of the sprint
 
