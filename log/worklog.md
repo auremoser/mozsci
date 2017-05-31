@@ -1517,8 +1517,23 @@ TO DOS
 
 * get back with details about network manager position to rizwan and chris and steph
 
+* Network
+	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
+	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
+
 * OWF
 	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
+
+	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
+	>> Mozilla and host organizations will participate in the interviews (60 minute slots)
+	>> Host organizations will send their top two choices and comments to Mozilla by F 6/30
+
+	* Mozilla will review the candidate selections and notes; as well as
+	>> Reference check the selected candidates, and 
+	>> Confirm visa (working status) of selected candidates 
+
+	* Mozilla will sign off on the selected candidates and notify the host organizations 
+	* Mozilla will notify the selected candidates and send out the Fellowship Contract
 
 * global sprint
 	* prep coffee
