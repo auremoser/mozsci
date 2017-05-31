@@ -1498,9 +1498,10 @@
 * last minute trip stuff with bruno
 * sent pkpr details about global sprint site
 * sent global sprint prep message to all 30 sprinters
+* added july [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017) etherpad and website
+* canceled june study group call in favor of the sprint
 
-* cancel study group call in favor of the sprint
-
+* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 
 TO DOS
 
