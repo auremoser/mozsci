@@ -1503,16 +1503,27 @@
 
 ## 5/31/17
 * get visa sorted
+* bio to maptime girl
+* worktime with team, go through and do tallies for global sprint sites
+* promotions meeting - network manager
+* sent kevin maptime [event](https://www.meetup.com/Maptime-AMS/events/240413053/)
+* followed up with some fellowship applicants about their materials
+* took care of Bruno's rebooking for South Africa
+* ordered food for tomorrow's lunch
+
+
 
 TO DOS
 
-* bio to maptime girl
+* get back with details about network manager position to rizwan and chris and steph
+
+* OWF
+	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
 
 * global sprint
-	* order food
 	* prep coffee
 	* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
-
+* fellows - write up template emails
 * make site for south africa wow
 * read book for book club
 * Blogs

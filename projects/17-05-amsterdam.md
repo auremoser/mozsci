@@ -56,10 +56,12 @@ BREAK BREAK BR/
 	- Karan visit to WAAG
 	- Bits of Freedom
 * 7
-	- Maptime
+	- [Maptime](https://www.meetup.com/Maptime-AMS/events/240413053/)
 		- Slides: https://mzl.la/ams-maps
 		- Workshop: https://github.com/auremoser/ams-maps-17/blob/master/workshop.md
 		- Resources: https://github.com/auremoser/ams-maps-17
+* 8
+	- meeting with Amie in utrecht
 
 
 ## Workshop

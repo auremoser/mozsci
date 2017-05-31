@@ -34,3 +34,12 @@ The Guardian, April 2012
 * [Open Innovations in Science](http://www.openinnovationinscience.at/home.html) - Austria - one potential fellowship applicant and a community there
 * [Open Innovation Internet Health Brief](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/IHPbriefs_openness_March_2017.pdf)
 * [Open Innovation Internet Health report](https://internethealthreport.org/v01/open-innovation/)
+
+## Strategy
+
+* What impact is a particular project trying to have on the market?
+* What specific open practices (such as open source, standardisation, innovation challenges,etc.) will help achieve this impact?
+* What structures, programs, processes, etc. must be in place to support those practices?
+* How do we measure success?
+
+* Montreal startup lyrebird to allow you to copy voices: https://lyrebird.ai/demo

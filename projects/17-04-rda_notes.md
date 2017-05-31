@@ -177,6 +177,11 @@ The Research Data Alliance (RDA) is an international initiative that was launche
 
 ## RESOURCES
 
+Slides and videos of the pre-plenary Industry meeting and the main Plenary sessions are being uploaded at https://www.rd-alliance.org/rda-9th-plenary-recordings and the photo gallery is already available at https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-photo-gallery 
+
+
+The next Plenary meeting (P10) is in Montreal from 19-21 September 2017 so watch out for updates at https://www.rd-alliance.org/plenaries/rda-tenth-plenary-meeting-montreal-canada
+
 * [Schedule for 9th Plenary](https://www.rd-alliance.org/plenaries/rda-ninth-plenary-meeting-barcelona/rda-9th-plenary-programme)
 * [Newcomers Primer](https://www.rd-alliance.org/rda-newcomers-some-notes)
 * [Collocated Events List](https://www.rd-alliance.org/rda-plenary-9th-collocated-associated-events)

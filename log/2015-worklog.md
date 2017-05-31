@@ -2695,6 +2695,7 @@ putting together some visualizations of fellows' surveys
 * made a contact for Space apps
 * working on book club picks
 * uploaded interviews for fellow's app
+* got back to 4IR beyond ska folks for the recommitment of our mentorship
 
 Switching for new year new worklog!
 
