@@ -1501,14 +1501,19 @@
 * added july [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017) etherpad and website
 * canceled june study group call in favor of the sprint
 
-* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
+## 5/31/17
+* get visa sorted
 
 TO DOS
 
-* go through [site host checklist for the sprint](https://mozilla.github.io/global-sprint/site-hosts/checklist/)
+* bio to maptime girl
 
-* work on sg-scripts issues for Anamika
-* read applications, get spreadsheet with top 30 put together
+* global sprint
+	* order food
+	* prep coffee
+	* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
+
+* make site for south africa wow
 * read book for book club
 * Blogs
 	* x interviews
@@ -1516,6 +1521,9 @@ TO DOS
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
+* IFF
+	* support [diversity + inclusion prep](https://internetfreedomfestival.org/internet-freedom-festival-diversity-inclusion-fund/)
+	* logistics for [diversity candidates](http://jobs.jobvite.com/irex/job/oEo95fw0)
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
@@ -1527,6 +1535,7 @@ TO DOS
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
+	* [conference in tallinn late august]()
 * get back to image providers with book
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 
