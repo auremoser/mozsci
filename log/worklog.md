@@ -1515,6 +1515,7 @@
 * global sprint site prep and food purchases
 * lots of mini-grants emails
 * keeping up with some other correspondence
+* spent spaceapps survey through
 
 
 
