@@ -1511,6 +1511,11 @@
 * took care of Bruno's rebooking for South Africa
 * ordered food for tomorrow's lunch
 
+## 6/1/17
+* global sprint site prep and food purchases
+* lots of mini-grants emails
+* keeping up with some other correspondence
+
 
 
 TO DOS
