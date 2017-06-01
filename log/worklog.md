@@ -1516,6 +1516,7 @@
 * lots of mini-grants emails
 * keeping up with some other correspondence
 * spent spaceapps survey through
+* [membership town hall](https://air.mozilla.org/town-hall-2017-june-town-hall-series-membership/)
 
 
 
