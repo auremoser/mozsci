@@ -1515,7 +1515,7 @@
 * global sprint site prep and food purchases
 * lots of mini-grants emails
 * keeping up with some other correspondence
-* spent spaceapps survey through
+* spent spaceapps survey through to data collector
 * [membership town hall](https://air.mozilla.org/town-hall-2017-june-town-hall-series-membership/)
 
 
