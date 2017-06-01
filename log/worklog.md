@@ -1519,6 +1519,7 @@
 * [membership town hall](https://air.mozilla.org/town-hall-2017-june-town-hall-series-membership/)
 * updated [study group outreach doc](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [welcomed study group contributor HassanPY](https://github.com/HassenPy/studyGroup/issues/2) on github
+* sent out gdi nyc newsletter
 
 
 
