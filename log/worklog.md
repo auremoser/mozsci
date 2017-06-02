@@ -1531,7 +1531,7 @@
 
 
 ## 6/2/17
-* global sprint day 2
+* [global sprint day 2](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * feedback on [kevin's issue](https://github.com/mozilla/global-sprint/issues/46#issuecomment-302135447)
 * sent giftcard to sali!
 * contributed to sprint issues
@@ -1546,11 +1546,10 @@
 	* email sent to speakers for next week's community call featuring vidyo details
 
 
+“Mark your calendars for the @MozillaScience community call celebrating reproducibility in #openscience on June 8th https://mzl.la/commcall-repro”
 
 
 TO DOS
-* community call reminder to speakers
-* blog post on community call
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
