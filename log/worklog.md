@@ -1539,16 +1539,23 @@
 	* [liza's project](https://github.com/elidron/womenobservatory/issues/4)
 	* [gsoc project](https://github.com/mozillascience/studyGroup-GSOC)
 	* [study group repo](https://github.com/mozillascience/studyGroup/pull/89)
-
+* scheduled tweets for Mozilla Proposal blitz
 * invited teon and jen to [fluent conf](https://conferences.oreilly.com/fluent/fl-ca)
-* tweeted global sprint photos
+* updated [community call event with new speaker details](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
+	* community call blog [posted](https://science.mozilla.org/blog/community-call-reproducibility-june-8-11et)
+	* email sent to speakers for next week's community call featuring vidyo details
+
+
 
 
 TO DOS
 * community call reminder to speakers
 * blog post on community call
 
-* figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
+* mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
+* fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
+
+* figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 
 * review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
