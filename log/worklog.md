@@ -1533,6 +1533,8 @@
 ## 6/2/17
 * global sprint day 2
 * feedback on [kevin's issue](https://github.com/mozilla/global-sprint/issues/46#issuecomment-302135447)
+* sent giftcard to sali!
+*s
 
 
 TO DOS
