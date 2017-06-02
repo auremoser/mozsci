@@ -1541,20 +1541,28 @@
 	* [study group repo](https://github.com/mozillascience/studyGroup/pull/89)
 * scheduled tweets for Mozilla Proposal blitz
 * invited teon and jen to [fluent conf](https://conferences.oreilly.com/fluent/fl-ca)
-* updated [community call event with new speaker details](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
+* scheduled meeting with cade to talk about mofo secu session at all hands
+* some data detox day preparations
+* Community Call
+	* updated [community call event with new speaker details](https://science.mozilla.org/programs/events/community-call-jun-08-11-et)
 	* community call blog [posted](https://science.mozilla.org/blog/community-call-reproducibility-june-8-11et)
 	* email sent to speakers for next week's community call featuring vidyo details
+* book club
+	* made followup [etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
+	* made planning [doc for book club june](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#)
 
 
-“Mark your calendars for the @MozillaScience community call celebrating reproducibility in #openscience on June 8th https://mzl.la/commcall-repro”
+
 
 
 TO DOS
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
-
+* create more tweets to promote Tues-Thursday call: https://mzl.la/commcall-repro”
 * figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
+* fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* review workshop materials for [maptime]()
 
 * review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
