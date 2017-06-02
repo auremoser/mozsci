@@ -1530,8 +1530,14 @@
 * filled out pre-print [journal survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/viewform?edit_requested=true)
 
 
+## 6/2/17
+* global sprint day 2
+* prep
+
+
 TO DOS
 
+* review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
 * check [kirstie's issue out](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/46)
 * get back with details about network manager position to rizwan and chris and steph
 
@@ -1554,7 +1560,6 @@ TO DOS
 	* Mozilla will notify the selected candidates and send out the Fellowship Contract
 
 * global sprint
-	* prep coffee
 	* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * fellows - write up template emails
 * read book for book club
