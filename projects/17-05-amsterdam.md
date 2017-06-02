@@ -52,16 +52,18 @@
 
 BREAK BREAK BR/
 
-* 6
+* tuesday 6
 	- Karan visit to WAAG
 	- Bits of Freedom
-* 7
+* wednesday 7
 	- [Maptime](https://www.meetup.com/Maptime-AMS/events/240413053/)
 		- Slides: https://mzl.la/ams-maps
 		- Workshop: https://github.com/auremoser/ams-maps-17/blob/master/workshop.md
 		- Resources: https://github.com/auremoser/ams-maps-17
-* 8
-	- meeting with Amie in utrecht
+* thursday 8
+	- meeting with Amie?
+	- community call
+	- meeting with Masteusz + Marc at Science Park facility
 
 
 ## Workshop

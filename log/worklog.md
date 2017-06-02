@@ -1541,11 +1541,14 @@
 	* [study group repo](https://github.com/mozillascience/studyGroup/pull/89)
 
 * invited teon and jen to [fluent conf](https://conferences.oreilly.com/fluent/fl-ca)
+* tweeted global sprint photos
 
 
 TO DOS
 * community call reminder to speakers
 * blog post on community call
+
+* figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
 
 * review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
