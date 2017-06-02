@@ -1534,7 +1534,7 @@
 * global sprint day 2
 * feedback on [kevin's issue](https://github.com/mozilla/global-sprint/issues/46#issuecomment-302135447)
 * sent giftcard to sali!
-*s
+* contributed to sprint issues
 
 
 TO DOS
