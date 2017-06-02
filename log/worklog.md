@@ -1520,11 +1520,19 @@
 * updated [study group outreach doc](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [welcomed study group contributor HassanPY](https://github.com/HassenPy/studyGroup/issues/2) on github
 * sent out gdi nyc newsletter
-
+* sent out [data detox doctor form](https://goo.gl/forms/ZugTOpqea0Enr5bC3) to ingeniuses throughout the city
+* made [wow sa prototype site](https://github.com/mozillascience/WOW-SA)
+* responded to Hassan who is awesome and working on the Study Group gsoc project
+* drafted email with todos for team mates
+* responded to IFF
+	* support [diversity + inclusion prep](https://internetfreedomfestival.org/internet-freedom-festival-diversity-inclusion-fund/)
+	* logistics for [diversity candidates](http://jobs.jobvite.com/irex/job/oEo95fw0)
+* filled out pre-print [journal survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/viewform?edit_requested=true)
 
 
 TO DOS
 
+* check [kirstie's issue out](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/46)
 * get back with details about network manager position to rizwan and chris and steph
 
 * Network
@@ -1549,7 +1557,6 @@ TO DOS
 	* prep coffee
 	* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * fellows - write up template emails
-* make site for south africa wow
 * read book for book club
 * Blogs
 	* x interviews
@@ -1557,9 +1564,7 @@ TO DOS
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
-* IFF
-	* support [diversity + inclusion prep](https://internetfreedomfestival.org/internet-freedom-festival-diversity-inclusion-fund/)
-	* logistics for [diversity candidates](http://jobs.jobvite.com/irex/job/oEo95fw0)
+
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
