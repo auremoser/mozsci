@@ -1535,10 +1535,19 @@
 * feedback on [kevin's issue](https://github.com/mozilla/global-sprint/issues/46#issuecomment-302135447)
 * sent giftcard to sali!
 * contributed to sprint issues
+	* contributed to [git push freshman](https://github.com/ottagit/git_push_freshman/issues)
+	* [liza's project](https://github.com/elidron/womenobservatory/issues/4)
+	* [gsoc project](https://github.com/mozillascience/studyGroup-GSOC)
+	* [study group repo](https://github.com/mozillascience/studyGroup/pull/89)
+
+* invited teon and jen to [fluent conf](https://conferences.oreilly.com/fluent/fl-ca)
 
 
 TO DOS
+* community call reminder to speakers
+* blog post on community call
 
+* review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
 * check [kirstie's issue out](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/46)
 * get back with details about network manager position to rizwan and chris and steph
@@ -1699,3 +1708,4 @@ TO DOS
 * [2016 fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 * [MSL participation form template](https://docs.google.com/a/mozillafoundation.org/forms/d/1UuWyuBlAPqYRGR5s3TyFzhbBpYPHxZIEp_v3swcG2yI/edit?ts=586ecf81)
 * [MSL Team participation form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdudfgIx5RopjoaH8MRxiQ-iN5NaQhsadeOVt3DXfEJ8q82dg/viewform)
+* [updated community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
