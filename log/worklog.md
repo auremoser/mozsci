@@ -1550,6 +1550,7 @@
 * book club
 	* made followup [etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
 	* made planning [doc for book club june](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#)
+	* revisited [blog post](https://science.mozilla.org/blog/book-club-may)
 
 
 
@@ -1587,8 +1588,6 @@ TO DOS
 	* Mozilla will sign off on the selected candidates and notify the host organizations 
 	* Mozilla will notify the selected candidates and send out the Fellowship Contract
 
-* global sprint
-	* [global sprint site](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * fellows - write up template emails
 * read book for book club
 * Blogs
@@ -1597,6 +1596,7 @@ TO DOS
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
+	* prep [mofo secu with cade](https://public.etherpad-mozilla.org/p/mofo-secu)
 * DDD
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
