@@ -1564,6 +1564,10 @@ TO DOS
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
+* DDD
+	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
+	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
+	* [form for detox doctors](https://goo.gl/forms/ZugTOpqea0Enr5bC3)
 
 
 * GS Sites
