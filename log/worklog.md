@@ -1551,7 +1551,9 @@
 	* made followup [etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
 	* made planning [doc for book club june](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#)
 	* revisited [blog post](https://science.mozilla.org/blog/book-club-may)
-
+* responded to some [pr](https://github.com/mozillascience/studyGroup/pull/89#issuecomment-305916461) leftover from the sprints
+* got back to hassan about his github issue
+* got back to steph about peter's letter revisions
 
 
 
