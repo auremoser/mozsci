@@ -50,7 +50,7 @@
 	* emailed brooklyn @ about it
 * printed Diversity/Inclusion exercise for AAAS next week
 * invited Paul Villoutreix to our community call as a speaker
-* invited Titus Wormer to talk about [Write Music](https://github.com/wooorm/write-music) on our community call
+* invited person of interest whose name starts with a T to talk about on our community call
 * invited Pasquale da Silva to Community Call in February to talk about [synaesthesia project](https://laughingsquid.com/a-fascinating-visualization-of-how-a-person-with-color-synesthesia-perceives-music/)
 
 ### 1/6/17
@@ -1554,7 +1554,7 @@
 * responded to some [pr](https://github.com/mozillascience/studyGroup/pull/89#issuecomment-305916461) leftover from the sprints
 * got back to hassan about his github issue
 * got back to steph about peter's letter revisions
-* welcome message to [study group in indonesia](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
+* welcome message to [study group in indonesia](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edited)
 
 
 
