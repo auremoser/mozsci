@@ -1554,6 +1554,7 @@
 * responded to some [pr](https://github.com/mozillascience/studyGroup/pull/89#issuecomment-305916461) leftover from the sprints
 * got back to hassan about his github issue
 * got back to steph about peter's letter revisions
+* welcome message to [study group in indonesia](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit)
 
 
 
