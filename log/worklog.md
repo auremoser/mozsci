@@ -1570,6 +1570,7 @@
 * meeting on Global Sprint
 * posted an [event for s.a. wow](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 * drafted [sa wow email templates](https://public.etherpad-mozilla.org/p/wow-sa-emails)
+* meeting with [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 
 TO DOS
 
