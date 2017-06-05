@@ -1557,7 +1557,10 @@
 * welcome message to [study group in indonesia](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edited)
 
 
+## 6/5/17
 
+* sent out science lab community call reminder to community
+& had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
 
 TO DOS
 
