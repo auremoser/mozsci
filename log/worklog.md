@@ -1565,7 +1565,7 @@
 * meeting with Joe at University of Cork, shared [notes](https://public.etherpad-mozilla.org/p/joe-fellows)
 * requested wed/fri pto
 * responded to study grouper suprabhet
-* meeting with steph for 1:1
+* meeting with [steph for 1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
 * meeting on SA wow
 * meeting on Global Sprint
 * posted an [event for s.a. wow](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
