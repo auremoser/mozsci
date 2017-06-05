@@ -1560,7 +1560,7 @@
 ## 6/5/17
 
 * sent out science lab community call reminder to community
-& had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
+* had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
 
 TO DOS
 
