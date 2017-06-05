@@ -1571,9 +1571,12 @@
 * posted an [event for s.a. wow](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 * drafted [sa wow email templates](https://public.etherpad-mozilla.org/p/wow-sa-emails)
 * meeting with [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* open innovation [meeting](https://public.etherpad-mozilla.org/p/festival.OpenInnoteam)
 
 TO DOS
 
+* figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
+* [gsoc send anamika notes for index.js]
 * confirm that all people will be there both days
 	* we will cover lunch and breakfast
 	* we will cover travel to capetown up to $250 and one night in an airbnb or hotel of your choosing with a ceiling of $100 for overnight lodging
