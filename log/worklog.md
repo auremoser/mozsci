@@ -1561,6 +1561,9 @@
 
 * sent out science lab community call reminder to community
 * had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
+* set network manager role questions
+* meeting with Joe at University of Cork, shared [notes](https://public.etherpad-mozilla.org/p/joe-fellows)
+
 
 TO DOS
 
@@ -1573,7 +1576,6 @@ TO DOS
 
 * review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
-* check [kirstie's issue out](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/46)
 * get back with details about network manager position to rizwan and chris and steph
 
 * Network
