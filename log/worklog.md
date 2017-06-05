@@ -1560,11 +1560,12 @@
 ## 6/5/17
 
 * sent out science lab community call reminder to community
-* had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
+* had call on [clinical trials]() in Guinea with P Grabitz + connected with Amel/H3abionet
 * set network manager role questions
 * meeting with Joe at University of Cork, shared [notes](https://public.etherpad-mozilla.org/p/joe-fellows)
 * requested wed/fri pto
 * responded to study grouper suprabhet
+* meeting with steph
 
 TO DOS
 
@@ -1573,7 +1574,7 @@ TO DOS
 * create more tweets to promote Tues-Thursday call: https://mzl.la/commcall-repro”
 * figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
-* review workshop materials for [maptime]()
+* review workshop materials for [maptime](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
 
 * review [open source survey](http://opensourcesurvey.org/2017/)
 * review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
