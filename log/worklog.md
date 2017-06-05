@@ -1565,9 +1565,21 @@
 * meeting with Joe at University of Cork, shared [notes](https://public.etherpad-mozilla.org/p/joe-fellows)
 * requested wed/fri pto
 * responded to study grouper suprabhet
-* meeting with steph
+* meeting with steph for 1:1
+* meeting on SA wow
+* meeting on Global Sprint
+* posted an [event for s.a. wow](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
+* drafted [sa wow email templates](https://public.etherpad-mozilla.org/p/wow-sa-emails)
 
 TO DOS
+
+* confirm that all people will be there both days
+	* we will cover lunch and breakfast
+	* we will cover travel to capetown up to $250 and one night in an airbnb or hotel of your choosing with a ceiling of $100 for overnight lodging
+	* expensify stuff to Alexei
+	* send out email - two emails one to out of towners (first 4 plus maartin for travel)
+	* let us know what your travel costs are to attend
+* post event for SA Mini-wow
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
