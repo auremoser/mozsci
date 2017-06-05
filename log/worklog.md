@@ -1563,7 +1563,8 @@
 * had call on clinical trials in Guinea with P Grabitz + connected with Amel/H3abionet
 * set network manager role questions
 * meeting with Joe at University of Cork, shared [notes](https://public.etherpad-mozilla.org/p/joe-fellows)
-
+* requested wed/fri pto
+* responded to study grouper suprabhet
 
 TO DOS
 
