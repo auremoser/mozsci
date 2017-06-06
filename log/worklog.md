@@ -1659,7 +1659,7 @@ TO DOS
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
-	* [conference in tallinn late august]()
+	* [italian tweets for mozfest](https://docs.google.com/document/d/1LUAQMSTveVF6RBd2MEf3b-8_ueekhtL0c8_QYA7qzgk/edit)
 * get back to image providers with book
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 
