@@ -1582,6 +1582,7 @@
 * filled out steph's global sprint form for learning blog posts [here](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdsoNYYyJhT76XmO2-bb5fntdU2O1y5eeS61ebZekr1mD--Hg/formResponse)
 * commented on [web api](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-306220064) issue
 * scheduled a bunch of tweets for our community call, vis a vis speakers
+* added preprint journal club to [august community call speaker list](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=73)
 
 
 ## 6/7/17
