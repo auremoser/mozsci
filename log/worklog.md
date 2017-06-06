@@ -1572,6 +1572,12 @@
 * drafted [sa wow email templates](https://public.etherpad-mozilla.org/p/wow-sa-emails)
 * meeting with [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * open innovation [meeting](https://public.etherpad-mozilla.org/p/festival.OpenInnoteam)
+* updated agenda for our [innovation](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+
+
+## 6/6/17
+* emailed new [study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* caught up on some emails
 
 TO DOS
 
