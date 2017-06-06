@@ -1647,6 +1647,7 @@ TO DOS
 	* [wow site](https://mzl.la/wow-sa)
 	* [wow repo](https://github.com/mozillascience/WOW-SA)
 	* [wow event](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
+	* [wow email templates from previous wows](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
