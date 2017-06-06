@@ -1583,6 +1583,9 @@
 * commented on [web api](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-306220064) issue
 * scheduled a bunch of tweets for our community call, vis a vis speakers
 * added preprint journal club to [august community call speaker list](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=73)
+* met with Karen Van Der Moolen, Waag Society
+* met with Bits of Freedom, at their mixer event
+* made checkin etherpad [filled out](https://public.etherpad-mozilla.org/p/sciencelab-checkins-june-2017)
 
 
 ## 6/7/17
@@ -1595,10 +1598,11 @@
 
 TO DOS
 
+* review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * sent sa fellows offboarding email
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-* [gsoc send anamika notes for index.js]
+* [gsoc send anamika notes for index.js](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin#lineNumber=38)
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
