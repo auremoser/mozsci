@@ -1580,12 +1580,14 @@
 * caught up on some emails
 * updated [erika d's mofo calendar](https://docs.google.com/spreadsheets/d/1RVhKi5ErQ0Lp6AwH8zB2rCRANqm11WbZuE8T3yIrpds/edit#gid=0)
 * filled out steph's global sprint form for learning blog posts [here](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdsoNYYyJhT76XmO2-bb5fntdU2O1y5eeS61ebZekr1mD--Hg/formResponse)
+* commented on [web api](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-306220064) issue
 
 ## 6/7/17
 * Maptime prep
 	* [event](https://www.meetup.com/Maptime-AMS/events/240413053/)
 	* [slides](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
 	* [repo](https://github.com/auremoser/ams-maps-17)
+
 
 
 TO DOS
