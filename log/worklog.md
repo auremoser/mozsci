@@ -1581,6 +1581,8 @@
 * updated [erika d's mofo calendar](https://docs.google.com/spreadsheets/d/1RVhKi5ErQ0Lp6AwH8zB2rCRANqm11WbZuE8T3yIrpds/edit#gid=0)
 * filled out steph's global sprint form for learning blog posts [here](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSdsoNYYyJhT76XmO2-bb5fntdU2O1y5eeS61ebZekr1mD--Hg/formResponse)
 * commented on [web api](https://github.com/mozilla/science.mozilla.org/issues/424#issuecomment-306220064) issue
+* scheduled a bunch of tweets for our community call, vis a vis speakers
+
 
 ## 6/7/17
 * Maptime prep
@@ -1592,15 +1594,10 @@
 
 TO DOS
 
+* review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
+* sent sa fellows offboarding email
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * [gsoc send anamika notes for index.js]
-* confirm that all people will be there both days
-	* we will cover lunch and breakfast
-	* we will cover travel to capetown up to $250 and one night in an airbnb or hotel of your choosing with a ceiling of $100 for overnight lodging
-	* expensify stuff to Alexei
-	* send out email - two emails one to out of towners (first 4 plus maartin for travel)
-	* let us know what your travel costs are to attend
-* post event for SA Mini-wow
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
