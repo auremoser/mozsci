@@ -1578,6 +1578,8 @@
 ## 6/6/17
 * emailed new [study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * caught up on some emails
+* updated [erika d's mofo calendar](https://docs.google.com/spreadsheets/d/1RVhKi5ErQ0Lp6AwH8zB2rCRANqm11WbZuE8T3yIrpds/edit#gid=0)
+
 
 TO DOS
 
