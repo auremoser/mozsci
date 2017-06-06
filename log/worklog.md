@@ -1644,7 +1644,12 @@ TO DOS
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
 	* [form for detox doctors](https://goo.gl/forms/ZugTOpqea0Enr5bC3)
-
+* South Africa
+	* [schedule](http://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
+	* [template emails](https://public.etherpad-mozilla.org/p/wow-sa-emails)
+	* [wow site](https://mzl.la/wow-sa)
+	* [wow repo](https://github.com/mozillascience/WOW-SA)
+	* [wow event](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 
 * GS Sites
 	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
