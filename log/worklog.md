@@ -1593,10 +1593,13 @@
 	* [event](https://www.meetup.com/Maptime-AMS/events/240413053/)
 	* [slides](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
 	* [repo](https://github.com/auremoser/ams-maps-17)
-
+* wrote back to Jeroen about Code of Conduct
 
 
 TO DOS
+
+* followup with aaas fellowship
+* apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
 
 * review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
