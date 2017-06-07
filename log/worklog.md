@@ -1589,7 +1589,7 @@
 
 
 ## 6/7/17
-* Maptime prep
+* Maptime prep - spruced up talk
 	* [event](https://www.meetup.com/Maptime-AMS/events/240413053/)
 	* [slides](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
 	* [repo](https://github.com/auremoser/ams-maps-17)
