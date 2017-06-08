@@ -1606,6 +1606,7 @@
 
 TO DOS
 
+* get back to detox doctors from [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1DvzNAu5mFUEEEojrV6aDxtKVTPkUbhWEXctIQY_8HqR_FA/viewform?c=0&w=1)
 * Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
 * apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
