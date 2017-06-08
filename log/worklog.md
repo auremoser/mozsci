@@ -1606,6 +1606,7 @@
 
 TO DOS
 
+* Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
 * apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
 
