@@ -15,6 +15,7 @@
 * [Textile lab amsteram](https://waag.org/en/project/textilelab-amsterdam)
 * [Local Focus](https://www.localfocus.nl/en/)
 * [ITC](https://www.itc.nl/)
+* [Utrecht Summer School](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
 
 ## Places
 * [On the Grid Jordaan](http://www.onthegrid.city/amsterdam/jordaan/)
