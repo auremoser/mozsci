@@ -1601,6 +1601,8 @@
 * followed up with Bits of Freedom for event on Friday
 * sent out South Africa WOW invitations
 * cleaned up inbox
+* followed up with joe from UCC
+* 
 
 TO DOS
 
