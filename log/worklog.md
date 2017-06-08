@@ -1602,7 +1602,7 @@
 * sent out South Africa WOW invitations
 * cleaned up inbox
 * followed up with joe from UCC
-* 
+* wrote back to Karen + Niene 
 
 TO DOS
 
@@ -1612,20 +1612,13 @@ TO DOS
 
 * review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
-* sent sa fellows offboarding email
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * [gsoc send anamika notes for index.js](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin#lineNumber=38)
 
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
-* create more tweets to promote Tues-Thursday call: https://mzl.la/commcall-repro”
 * figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
-* review workshop materials for [maptime](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
-
-* review [open source survey](http://opensourcesurvey.org/2017/)
-* review [research reports](https://drive.google.com/drive/folders/0B19__hKNwbafSGZMVnJlMmh0c1U)
-* get back with details about network manager position to rizwan and chris and steph
 
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
