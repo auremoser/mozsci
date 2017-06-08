@@ -1594,7 +1594,13 @@
 	* [slides](https://docs.google.com/presentation/d/16yAT5MMDI6-ZoRrjWs13tywiDX1HlL4oOGEhZJpYahw/edit#slide=id.g1f2a226dbf_0_6)
 	* [repo](https://github.com/auremoser/ams-maps-17)
 * wrote back to Jeroen about Code of Conduct
+* meeting with Vanessa about fellowships transition
 
+## 6/8/17
+* thank you to maptime folks
+* followed up with Bits of Freedom for event on Friday
+* sent out South Africa WOW invitations
+* cleaned up inbox
 
 TO DOS
 
