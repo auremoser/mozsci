@@ -24,14 +24,14 @@
 
 ## Contacts
 
-* sid - two hours away
-* titus
-* joey Arrive: 12th, Friday, 11:30am , Depart: 14th, Sunday, 12:30pm
-* couchsurfers / oliver's friends
-* meeting with Marc Galland <M.D.Galland@uva.nl> and Mateusz Kuzak
-* check with flo flo
-* meeting with Amie Fairs (Global Sprint)
-* meeting with Karen van der Moolen (Mini grant applicant)
+* [x] sid - two hours away
+* [x] titus
+* [x] joey Arrive: 12th, Friday, 11:30am , Depart: 14th, Sunday, 12:30pm
+* [x] meeting with Marc Galland <M.D.Galland@uva.nl> and Mateusz Kuzak
+* [ ] meeting with Amie Fairs (Global Sprint)
+* [x] meeting with Karen van der Moolen (de Waag)
+* [x] maptime with Niene
+* [x] meeting with Bianca Kramer
 
 ## Dates
 
@@ -93,7 +93,6 @@ http://www.georeferencer.com/compare#
 	* all countries topojson: https://github.com/deldersveld/topojson
 
 
-
 ## Resources
 * [understanding projections](https://www.oreilly.com/ideas/understanding-projections-with-spatial-and-geo-data)
 * [geospatial data and analysis book](https://www.safaribooksonline.com/library/view/geospatial-data-and/9781491984314/)
@@ -101,17 +100,17 @@ http://www.georeferencer.com/compare#
 
 ## Places
 
-- the “9 streets” in “Jordaan”. or “de 9 straatjes”
+- [x] the “9 streets” in “Jordaan”. or “de 9 straatjes”
 - the Westergasfabriek (an old converted gasworks building): westergasfabriek.nl
-- the EYE film museum: eyefilm.nl
+- [x] the EYE film museum: eyefilm.nl
 - cool art and technology spot called Mediamatic: http://www.mediamatic.net/ 
 - the renovated Rijksmuseum ++1000
 - the [Stedelijk museum](http://www.stedelijk.nl/en)
 - beautiful canal to walk on - Reguliersgracht (at night if you can): http://www.amsterdamforvisitors.com/reguliersgracht
-- best apple pie: http://www.winkel43.nl/ 
-- one of the best and smallest and oldest cafes on a beautiful small canal (for a beer): Cafe ’t Smalle (address: Egelantiersgracht 12)
+- [x] best apple pie: http://www.winkel43.nl/ 
+- [x] one of the best and smallest and oldest cafes on a beautiful small canal (for a beer): Cafe ’t Smalle (address: Egelantiersgracht 12)
 - the indoor food market/food trucks/design shops -  [De Hallen](http://dehallen-amsterdam.nl/en/)
-- Word on the street is that “Haarlemmerdijk“ is a street worth visiting with a delicious vegan salad bar called "SLA”  - could be a nice spot to see the [Saturday Market and a bite](https://www.amsterdo.com/haarlemmerdijk-straat/)
-- Amsterdam North. There’s a cool creative space called [NDSM](https://www.whatsupwithamsterdam.com/ndsm/) and a [cafe that looks lovely](http://noorderlichtcafe.nl/) and well lit :) 
+- [x] Word on the street is that “Haarlemmerdijk“ is a street worth visiting with a delicious vegan salad bar called "SLA”  - could be a nice spot to see the [Saturday Market and a bite](https://www.amsterdo.com/haarlemmerdijk-straat/)
+- [x] Amsterdam North. There’s a cool creative space called [NDSM](https://www.whatsupwithamsterdam.com/ndsm/) and a [cafe that looks lovely](http://noorderlichtcafe.nl/) and well lit :) 
 - De pijp is also a cool neighborhood 
 - [FOAM Photography museum](http://www.foam.org/museum/programme?gclid=CM-vg73Nu9MCFUgq0wodozAFLw)
