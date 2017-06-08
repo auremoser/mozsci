@@ -13,6 +13,8 @@
 * [Nationaal Plan Open Science](https://www.openscience.nl/nationaal-plan)
 * [Waag](waag.org)
 * [Textile lab amsteram](https://waag.org/en/project/textilelab-amsterdam)
+* [Local Focus](https://www.localfocus.nl/en/)
+* [ITC](https://www.itc.nl/)
 
 ## Places
 * [On the Grid Jordaan](http://www.onthegrid.city/amsterdam/jordaan/)
