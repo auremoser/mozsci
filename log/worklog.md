@@ -1603,6 +1603,16 @@
 * cleaned up inbox
 * followed up with joe from UCC
 * wrote back to Karen + Niene 
+* [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
+* [open con call](https://public.etherpad-mozilla.org/p/mozilla-sparc-opencon-20170608)
+* [space wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+
+Re-add to next community call:
+F1000 - 
+immediate + transparent publishing for science / @mmmarksman (Michael Markie), F1000 Research
+https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reanaly-seas-making-reproducibility-easier-with-code-ocean-widgets/
+ 
+
 
 TO DOS
 
@@ -1610,6 +1620,8 @@ TO DOS
 * Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
 * apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
+* interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
+
 
 * review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
