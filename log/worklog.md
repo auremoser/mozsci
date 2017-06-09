@@ -1618,6 +1618,7 @@ https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reana
 
 TO DOS
 
+* setup air mozilla for august community call
 * get back to detox doctors from [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1DvzNAu5mFUEEEojrV6aDxtKVTPkUbhWEXctIQY_8HqR_FA/viewform?c=0&w=1)
 * Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
