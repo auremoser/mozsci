@@ -1611,11 +1611,16 @@
 
 ## 6/9/17
 * fellows offboarding email sent
-* did bits of freedom bed-in
+* did [bits of freedom bed-in](https://docs.google.com/presentation/d/1aBzwtbBtyUaUcq8aYZ3wVNEQoZEaAC57mY3wFT3dQ9s/edit#slide=id.g1f701ddec1_0_0)
 	* [tweets](https://twitter.com/Venema/status/873100994292273155)
 	* [photo](https://twitter.com/bitsoffreedom/status/873100900549640193)
 	* [looking cool](https://twitter.com/bitsoffreedom/status/873094489287544832)
 	* [banner](https://twitter.com/bitsoffreedom/status/873093916865609729)
+
+* tweeted [dutch mozfest stuff](https://twitter.com/auremoser/status/873140286511349761)
+* expense report approval
+* gdi newsletter
+* lots of back and forth for email stuff
 
 Re-add to next community call:
 F1000 - 
