@@ -1607,6 +1607,7 @@
 * [open con call](https://public.etherpad-mozilla.org/p/mozilla-sparc-opencon-20170608)
 * [space wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * tweeted about community call
+* team [check in](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jun08-2017)
 
 Re-add to next community call:
 F1000 - 
