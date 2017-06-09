@@ -1609,6 +1609,14 @@
 * tweeted about community call
 * team [check in](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jun08-2017)
 
+## 6/9/17
+* fellows offboarding email sent
+* did bits of freedom bed-in
+	* [tweets](https://twitter.com/Venema/status/873100994292273155)
+	* [photo](https://twitter.com/bitsoffreedom/status/873100900549640193)
+	* [looking cool](https://twitter.com/bitsoffreedom/status/873094489287544832)
+	* [banner](https://twitter.com/bitsoffreedom/status/873093916865609729)
+
 Re-add to next community call:
 F1000 - 
 immediate + transparent publishing for science / @mmmarksman (Michael Markie), F1000 Research
