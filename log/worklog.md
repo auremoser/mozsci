@@ -1616,6 +1616,13 @@
 	* [photo](https://twitter.com/bitsoffreedom/status/873100900549640193)
 	* [looking cool](https://twitter.com/bitsoffreedom/status/873094489287544832)
 	* [banner](https://twitter.com/bitsoffreedom/status/873093916865609729)
+* WOW
+	* [WOW Berlin](http://mozillascience.github.io/working-open-workshop/)
+	* [WOW Montreal](https://mozillascience.github.io/WOW-2017/)
+	* [WOW Portland](https://daniellecrobinson.github.io/mini-wow-pdx/)
+	* [WOW Austin](https://mozillafoundation.github.io/atxwow0517/)
+	* [WOW Cape Town](https://mozillascience.github.io/WOW-SA/)
+	* [WOW Paris](https://mozillascience.github.io/WOW-Pasteur/)
 
 * tweeted [dutch mozfest stuff](https://twitter.com/auremoser/status/873140286511349761)
 * expense report approval
