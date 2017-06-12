@@ -1629,6 +1629,7 @@
 * gdi newsletter
 * lots of back and forth for email stuff
 * flight to cape town
+* got back to alex fuser about some details related to 
 * emails
 
 ## 6/10/17
@@ -1638,6 +1639,7 @@
 * wrote to phia about travel arrangements
 * sent stats for the helmsley report
 * checkin with our [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* sent along travel information to two folks
 
 Re-add to next community call:
 F1000 - 
