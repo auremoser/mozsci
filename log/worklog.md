@@ -1634,6 +1634,10 @@
 ## 6/10/17
 * updated [fellows' call](https://github.com/mozillascience/plan/issues/96)
 * made a little gsoc [blog](https://mozillascience.github.io/studyGroup-GSOC/index.html)
+* wrote requesting booking stuff from WOW attendees
+* wrote to phia about travel arrangements
+* sent stats for the helmsley report
+* checkin with our [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 
 Re-add to next community call:
 F1000 - 
