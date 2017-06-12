@@ -1621,6 +1621,11 @@
 * expense report approval
 * gdi newsletter
 * lots of back and forth for email stuff
+* flight to cape town
+* emails
+
+## 6/10/17
+* updated [fellows' call](https://github.com/mozillascience/plan/issues/96)
 
 Re-add to next community call:
 F1000 - 
@@ -1630,6 +1635,8 @@ https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reana
 
 
 TO DOS
+
+* watch the wrangler call
 
 * setup air mozilla for august community call
 * get back to detox doctors from [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1DvzNAu5mFUEEEojrV6aDxtKVTPkUbhWEXctIQY_8HqR_FA/viewform?c=0&w=1)
