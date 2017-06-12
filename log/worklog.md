@@ -1633,6 +1633,7 @@
 
 ## 6/10/17
 * updated [fellows' call](https://github.com/mozillascience/plan/issues/96)
+* made a little gsoc [blog](https://mozillascience.github.io/studyGroup-GSOC/index.html)
 
 Re-add to next community call:
 F1000 - 
