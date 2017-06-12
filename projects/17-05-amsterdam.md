@@ -1,11 +1,5 @@
 17-05-amsterdam.md
 
-## Pack
-* bring bike clippy thing for phone, lights?
-* adulting ribbon
-* origami paper
-* stickers and swag for Study Group
-
 ## Orgs
 
 * [Bits of Freedom](https://www.bof.nl/) - host org for advocacy
