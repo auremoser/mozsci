@@ -1644,6 +1644,9 @@
 * fellows focus [sessions](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
 * sent invites to Jeremiah and others
 * sent materials to data detox doctors for BPL event
+* sent out announcement to brooklyn @ for data detox day
+* met with hana about the demo next week for Hive
+* sent message to Chrystian, Meghan, Chris about Data Detox Day
 
 Re-add to next community call:
 F1000 - 
@@ -1655,6 +1658,13 @@ https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reana
 TO DOS
 
 * print postcards for DDDay
+
+* make workshop for Hana's Hive work - non-map examples
+- get bracket
+- demographic data for visulizations
+- participation rates
+- novice group - free tools
+last 30 minutes (bring datasets and we can work with it)
 
 * watch the wrangler call
 
