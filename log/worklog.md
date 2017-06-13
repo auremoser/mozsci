@@ -1653,6 +1653,8 @@ https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reana
 
 TO DOS
 
+* print postcards for DDDay
+
 * watch the wrangler call
 
 * setup air mozilla for august community call
