@@ -1647,6 +1647,7 @@
 * sent out announcement to brooklyn @ for data detox day
 * met with hana about the demo next week for Hive
 * sent message to Chrystian, Meghan, Chris about Data Detox Day
+* sent intro email to all fa for first round inters
 
 Re-add to next community call:
 F1000 - 
@@ -1692,6 +1693,9 @@ last 30 minutes (bring datasets and we can work with it)
 
 * OWF
 	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
+	* candidates [orgs](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuOEtHUjlLSTk1OGc)
+	* candidates [sheet](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=0)
+	* process [readme](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
 
 	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
 	>> Mozilla and host organizations will participate in the interviews (60 minute slots)
