@@ -1649,6 +1649,7 @@
 * sent message to Chrystian, Meghan, Chris about Data Detox Day
 * sent intro email to all fa for first round inters
 * updated schedule for [forgotten workweek followup items](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
+* installed in design from digital download
 
 Re-add to next community call:
 F1000 - 
