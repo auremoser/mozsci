@@ -1648,6 +1648,7 @@
 * met with hana about the demo next week for Hive
 * sent message to Chrystian, Meghan, Chris about Data Detox Day
 * sent intro email to all fa for first round inters
+* updated schedule for [forgotten workweek followup items](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
 
 Re-add to next community call:
 F1000 - 
