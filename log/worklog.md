@@ -1643,7 +1643,7 @@
 * travel arrangements for folks
 * fellows focus [sessions](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
 * sent invites to Jeremiah and others
-* sent materials to data detox doctors for BPL event
+* sent materials to data detox doctors for BPL event from [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1DvzNAu5mFUEEEojrV6aDxtKVTPkUbhWEXctIQY_8HqR_FA/viewform?c=0&w=1)
 * sent out announcement to brooklyn @ for data detox day
 * met with hana about the demo next week for Hive
 * sent message to Chrystian, Meghan, Chris about Data Detox Day
@@ -1660,6 +1660,7 @@ https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reana
 TO DOS
 
 * print postcards for DDDay
+* invite steph to fellows' interviews for next week
 
 * make workshop for Hana's Hive work - non-map examples
 - get bracket
@@ -1671,7 +1672,7 @@ last 30 minutes (bring datasets and we can work with it)
 * watch the wrangler call
 
 * setup air mozilla for august community call
-* get back to detox doctors from [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1DvzNAu5mFUEEEojrV6aDxtKVTPkUbhWEXctIQY_8HqR_FA/viewform?c=0&w=1)
+
 * Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
 * apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
@@ -1694,6 +1695,7 @@ last 30 minutes (bring datasets and we can work with it)
 
 * OWF
 	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
+	* [OWF end of program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#)
 	* candidates [orgs](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuOEtHUjlLSTk1OGc)
 	* candidates [sheet](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=0)
 	* process [readme](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
