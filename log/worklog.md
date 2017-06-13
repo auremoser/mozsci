@@ -1643,6 +1643,7 @@
 * travel arrangements for folks
 * fellows focus [sessions](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
 * sent invites to Jeremiah and others
+* sent materials to data detox doctors for BPL event
 
 Re-add to next community call:
 F1000 - 
