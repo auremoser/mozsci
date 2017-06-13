@@ -1640,6 +1640,9 @@
 * sent stats for the helmsley report
 * checkin with our [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * sent along travel information to two folks
+* travel arrangements for folks
+* fellows focus [sessions](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
+* sent invites to Jeremiah and others
 
 Re-add to next community call:
 F1000 - 
