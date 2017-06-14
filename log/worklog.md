@@ -1707,6 +1707,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* candidates [orgs](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuOEtHUjlLSTk1OGc)
 	* candidates [sheet](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=0)
 	* process [readme](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
+	* host org [planning and work calendar](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=0)
 
 	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
 	>> Mozilla and host organizations will participate in the interviews (60 minute slots)
