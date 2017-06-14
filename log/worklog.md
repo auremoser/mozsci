@@ -1654,6 +1654,7 @@
 * sent intro email to everyone about tomorrow's event
 * signed up for [skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
 * mofo [staff call](https://air.mozilla.org/mofo-staff-call-june-2017/)
+* merged fellows' [pull requests](https://github.com/mozillascience/fellows-class-2016)
 
 
 
@@ -1708,6 +1709,9 @@ last 30 minutes (bring datasets and we can work with it)
 	* candidates [sheet](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=0)
 	* process [readme](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
 	* host org [planning and work calendar](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=0)
+	* updated list of host orgs w/ descriptions?
+	* website and blog details and creds?
+	* calendar of activities (in the readme?)
 
 	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
 	>> Mozilla and host organizations will participate in the interviews (60 minute slots)
