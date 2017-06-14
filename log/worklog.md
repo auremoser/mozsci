@@ -1652,6 +1652,8 @@
 * installed in design from digital download
 * updated [participants to SA on site](https://mozillascience.github.io/WOW-SA/#participants)
 * sent intro email to everyone about tomorrow's event
+* signed up for [skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
+* mofo [staff call](https://air.mozilla.org/mofo-staff-call-june-2017/)
 
 
 
@@ -1660,6 +1662,7 @@ F1000 -
 immediate + transparent publishing for science / @mmmarksman (Michael Markie), F1000 Research
 https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reanaly-seas-making-reproducibility-easier-with-code-ocean-widgets/
  
+hive work
 
 
 TO DOS
