@@ -1653,8 +1653,9 @@
 * updated [participants to SA on site](https://mozillascience.github.io/WOW-SA/#participants)
 * sent intro email to everyone about tomorrow's event
 * signed up for [skill shares](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
-* mofo [staff call](https://air.mozilla.org/mofo-staff-call-june-2017/)
+* mofo [staff call](https://air.mozilla.org/mofo-staff-call-june-2017/) + [notes](https://docs.google.com/document/d/1nBWZQnm-06DQ-aDg2DOFcQqQ9n5OGJ3SwvUHEFB5nZU/edit)
 * merged fellows' [pull requests](https://github.com/mozillascience/fellows-class-2016)
+* feedback on Sam's session, volunteered for a session on network coordination stuff with Arliss
 
 
 
