@@ -1650,6 +1650,10 @@
 * sent intro email to all fa for first round inters
 * updated schedule for [forgotten workweek followup items](https://public.etherpad-mozilla.org/p/2017-fellows-offboarding#lineNumber=280)
 * installed in design from digital download
+* updated [participants to SA on site](https://mozillascience.github.io/WOW-SA/#participants)
+* sent intro email to everyone about tomorrow's event
+
+
 
 Re-add to next community call:
 F1000 - 
