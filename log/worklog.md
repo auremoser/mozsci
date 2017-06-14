@@ -1656,7 +1656,15 @@
 * mofo [staff call](https://air.mozilla.org/mofo-staff-call-june-2017/) + [notes](https://docs.google.com/document/d/1nBWZQnm-06DQ-aDg2DOFcQqQ9n5OGJ3SwvUHEFB5nZU/edit)
 * merged fellows' [pull requests](https://github.com/mozillascience/fellows-class-2016)
 * feedback on Sam's session, volunteered for a session on network coordination stuff with Arliss
+* [archiving] GS Sites
+	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
+	* [map data](https://auremoser.carto.com/dataset/gs_2017_site_registration)
+	* [form responses](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031)
+	* [address from lat long](http://www.latlong.net/convert-address-to-lat-long.html)
+	* [swag addresses](https://docs.google.com/spreadsheets/d/1YCvPZcJZa_bJA9a54QgK5LfztF8fQpsTmuW_SVSqPUc/edit#gid=1531854934)
+	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
 
+* reached out to F1000 about future community call
 
 
 Re-add to next community call:
@@ -1671,6 +1679,10 @@ TO DOS
 
 * print postcards for DDDay
 * invite steph to fellows' interviews for next week
+
+* fellows care packages
+* fellows foxes
+* schedule fellows checkin interviews
 
 * make workshop for Hana's Hive work - non-map examples
 - get bracket
@@ -1746,13 +1758,10 @@ last 30 minutes (bring datasets and we can work with it)
 	* [wow event](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 	* [wow email templates from previous wows](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
-* GS Sites
-	* [map](https://auremoser.carto.com/builder/c0eef4b4-250c-11e7-b012-0e05a8b3e3d7)
-	* [map data](https://auremoser.carto.com/dataset/gs_2017_site_registration)
-	* [form responses](https://docs.google.com/spreadsheets/d/18qxh-HtH73H3mk-TyU5GYWwTx921aTBcx0I516GPiMU/edit#gid=175926031)
-	* [address from lat long](http://www.latlong.net/convert-address-to-lat-long.html)
-	* [swag addresses](https://docs.google.com/spreadsheets/d/1YCvPZcJZa_bJA9a54QgK5LfztF8fQpsTmuW_SVSqPUc/edit#gid=1531854934)
-	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
+* All Hands
+	* [schedule](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=1207919094)
+	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
+
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
