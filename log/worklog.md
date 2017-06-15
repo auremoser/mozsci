@@ -1666,6 +1666,7 @@
 
 * reached out to F1000 about future community call
 * added some folks to Zannah's [boston spreadsheet](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
+* made cape town mixer rsvp form: https://mzl.la/ct-mixer
 
 
 Re-add to next community call:
