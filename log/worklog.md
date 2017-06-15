@@ -1665,6 +1665,7 @@
 	* [address formatter sheet](https://docs.google.com/document/d/1E6c9l6UX9ZrrGzCu3HndebFVRqga68GtBkuf5l0h1wE/edit)
 
 * reached out to F1000 about future community call
+* added some folks to Zannah's [boston spreadsheet](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 
 
 Re-add to next community call:
