@@ -1668,6 +1668,7 @@
 * added some folks to Zannah's [boston spreadsheet](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 * made cape town mixer rsvp form: https://mzl.la/ct-mixer
 * made new fellows [calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
+* updated site and [facilitators guide for sa wow](https://docs.google.com/document/d/1rzCNJvwZK7VV9EuwZKNe8CweOQcv9iEvimO-vuLU-vs/edit#)
 
 
 Re-add to next community call:
