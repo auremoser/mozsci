@@ -1669,6 +1669,7 @@
 * made cape town mixer rsvp form: https://mzl.la/ct-mixer
 * made new fellows [calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 * updated site and [facilitators guide for sa wow](https://docs.google.com/document/d/1rzCNJvwZK7VV9EuwZKNe8CweOQcv9iEvimO-vuLU-vs/edit#)
+* updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1251)
 
 
 Re-add to next community call:
@@ -1729,6 +1730,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* updated list of host orgs w/ descriptions?
 	* website and blog details and creds?
 	* calendar of activities (in the readme?)
+	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 
 	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
