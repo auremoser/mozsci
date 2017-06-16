@@ -1670,6 +1670,7 @@
 * made new fellows [calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 * updated site and [facilitators guide for sa wow](https://docs.google.com/document/d/1rzCNJvwZK7VV9EuwZKNe8CweOQcv9iEvimO-vuLU-vs/edit#)
 * updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1251)
+* added [f1000](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=87) to community call agenda
 
 
 Re-add to next community call:
