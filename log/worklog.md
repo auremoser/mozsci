@@ -1671,17 +1671,13 @@
 * updated site and [facilitators guide for sa wow](https://docs.google.com/document/d/1rzCNJvwZK7VV9EuwZKNe8CweOQcv9iEvimO-vuLU-vs/edit#)
 * updated [newsletter link list](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1251)
 * added [f1000](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=87) to community call agenda
-
-
-Re-add to next community call:
-F1000 - 
-immediate + transparent publishing for science / @mmmarksman (Michael Markie), F1000 Research
-https://f1000research.com/ latest  blog: https://blog.f1000.com/2017/04/20/reanaly-seas-making-reproducibility-easier-with-code-ocean-widgets/
- 
-hive work
+* mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#) + translations
 
 
 TO DOS
+
+* add k mil to list
+* figure out [talking points for Monday's event](https://docs.google.com/document/d/1GhhraWGXXpotWGo-o79WljQiUqLUIfAEbXccvd7OKeM/edit?ts=5943edc3)
 
 * print postcards for DDDay
 * invite steph to fellows' interviews for next week
@@ -1698,21 +1694,16 @@ TO DOS
 last 30 minutes (bring datasets and we can work with it)
 
 * watch the wrangler call
-
 * setup air mozilla for august community call
 
-* Fellows' Onboarding and WOW email + Kenyatta
 * followup with aaas fellowship
-* apply to [data science school](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow)
 * interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
-
-
 * review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * [gsoc send anamika notes for index.js](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin#lineNumber=38)
 
-* mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#)
+
 * fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
 * figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
