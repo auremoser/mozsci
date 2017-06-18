@@ -11,7 +11,7 @@
 * figure out hive workshop
 * prep monday questions for book club
 * prep interview docs for fellows candidates
-* mini grants
+* [x] mini grants
 * make fellows' foxes
 * WOW wrap up blog
 * watch wrangler call
@@ -71,6 +71,7 @@ For now...
 There were some epic tweets this week @MozillaScience + #mozwow, and Bruno photgraphed the begeezus out of this trip, check out his [photos](https://photos.google.com/share/AF1QipPRh4R_mrIme8o9UsHnTz307eZ70URmBv8kjqL4P92eNPXqEoN3IHIqqr2Ga2y4Cg?key=Tk41VXBSY0E5VEdLUElrZFRNOUY1bFZLbTl2T2NB) and add the overflow ones to this thread!
 
 Here are some jams from our car ride to the Cape: 
+https://open.spotify.com/user/amoser/playlist/5rHT14YZiiH7u41yKLVanG
 
 You are my favorite people to (almost) escape the room with; safe travels home and see you at #Mozfest!
 

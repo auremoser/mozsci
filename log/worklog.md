@@ -1673,6 +1673,7 @@
 * added [f1000](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=87) to community call agenda
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#) + translations
 * merged [anamika's pull req](https://github.com/mozillascience/studyGroup-GSOC/pull/11#pullrequestreview-44718266)
+* finished up mini-grants application reads
 
 
 TO DOS
