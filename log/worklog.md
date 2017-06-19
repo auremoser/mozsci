@@ -1682,6 +1682,7 @@
 * talking points for meeting later
 * worked on tweets for book club
 * gsoc arrangements for meeting later + [followup on pr](https://github.com/mozillascience/studyGroup-GSOC/pull/10#issuecomment-309202304)
+* checkin with [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin), awesome 
 
 
 TO DOS
