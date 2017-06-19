@@ -1676,6 +1676,13 @@
 * finished up mini-grants application reads
 * updated [sharative for tomorrow](https://docs.google.com/document/d/1GhhraWGXXpotWGo-o79WljQiUqLUIfAEbXccvd7OKeM/edit?ts=59469267)
 
+## 6/19/17
+* thank you to wow participants
+* fellows thank you/reminders
+* talking points for meeting later
+* worked on tweets for book club
+* gsoc arrangements for meeting later
+
 
 TO DOS
 
