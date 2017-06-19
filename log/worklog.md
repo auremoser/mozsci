@@ -1681,7 +1681,7 @@
 * fellows thank you/reminders
 * talking points for meeting later
 * worked on tweets for book club
-* gsoc arrangements for meeting later
+* gsoc arrangements for meeting later + [followup on pr](https://github.com/mozillascience/studyGroup-GSOC/pull/10#issuecomment-309202304)
 
 
 TO DOS
