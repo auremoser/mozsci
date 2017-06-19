@@ -1674,6 +1674,7 @@
 * mozfest [promotions](https://docs.google.com/document/d/1vBmHO7KGRub9DUV2XynQTAHOnURbh4Ijs9z-iDsK-uo/edit#) + translations
 * merged [anamika's pull req](https://github.com/mozillascience/studyGroup-GSOC/pull/11#pullrequestreview-44718266)
 * finished up mini-grants application reads
+* updated [sharative for tomorrow](https://docs.google.com/document/d/1GhhraWGXXpotWGo-o79WljQiUqLUIfAEbXccvd7OKeM/edit?ts=59469267)
 
 
 TO DOS
