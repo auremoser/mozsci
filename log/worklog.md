@@ -1686,7 +1686,8 @@
 * june mozreads [questions](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#) + [followup etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
 * Ford presentations
 * slides for [tamar's 1010 residency](https://docs.google.com/presentation/d/1aBzwtbBtyUaUcq8aYZ3wVNEQoZEaAC57mY3wFT3dQ9s/edit?usp=sharing)
-* doc put together for [candidates]()
+* doc put together for [candidates](https://docs.google.com/document/d/15y5fDYKy_H6KrlMmAsuHX96eUtt6vs2VwhTrmQA5jrw/edit)
+* invited Steph to meetings
 
 ## 6/20/17
 * meetings with candidates and stuff
@@ -1699,6 +1700,7 @@
 TO DOS
 
 * prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
+* review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 * print postcards for DDDay
 * invite steph to fellows' interviews for next week
