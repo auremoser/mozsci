@@ -1686,6 +1686,14 @@
 * june mozreads [questions](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#) + [followup etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
 * Ford presentations
 * slides for [tamar's 1010 residency](https://docs.google.com/presentation/d/1aBzwtbBtyUaUcq8aYZ3wVNEQoZEaAC57mY3wFT3dQ9s/edit?usp=sharing)
+* doc put together for [candidates]()
+
+## 6/20/17
+* meetings with candidates and stuff
+* meeting with vanessa [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
+* meeting with kalpana about fluxx materials
+* more candidates
+* meeting about our encryption sesh with Chris and Rose [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 
 TO DOS
@@ -1714,18 +1722,17 @@ last 30 minutes (bring datasets and we can work with it)
 * review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-* [gsoc send anamika notes for index.js](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin#lineNumber=38)
 
-
-* fix up [community call etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-jun08-2017)
 * figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* use metadat.es domain for quant self projects
 
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 
 * OWF
+	* meeting with vanessa [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
 	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
 	* [OWF end of program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#)
 	* candidates [orgs](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuOEtHUjlLSTk1OGc)
