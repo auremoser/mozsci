@@ -1683,11 +1683,14 @@
 * worked on tweets for book club
 * gsoc arrangements for meeting later + [followup on pr](https://github.com/mozillascience/studyGroup-GSOC/pull/10#issuecomment-309202304)
 * checkin with [gsoc student](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin), awesome 
+* june mozreads [questions](https://docs.google.com/document/d/1brC_vYHIiKxUHTt9dEsMmVRzTlPhlLbj-uSQRzKkyzY/edit#) + [followup etherpad](https://public.etherpad-mozilla.org/p/2017-jun-book-club)
+* Ford presentations
+* slides for [tamar's 1010 residency](https://docs.google.com/presentation/d/1aBzwtbBtyUaUcq8aYZ3wVNEQoZEaAC57mY3wFT3dQ9s/edit?usp=sharing)
 
 
 TO DOS
 
-
+* prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
 
 * print postcards for DDDay
 * invite steph to fellows' interviews for next week
