@@ -1702,6 +1702,7 @@
 ## 6/21/17
 * prepped study group [africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) + emailed meeting participants
 * [brownbags](https://air.mozilla.org/community-participation-guidelines-revision-brownbag-emea/)
+* checkin with [joe about fellows](https://public.etherpad-mozilla.org/p/joe-fellows)
 
 
 TO DOS
