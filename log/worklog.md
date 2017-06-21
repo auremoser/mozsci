@@ -1710,20 +1710,16 @@
 * [open innovation town hall for All-Hands](https://air.mozilla.org/town-hall-2017-june-town-hall-series-open-innovation/)
 * worked on [mozfellowships materials](https://public.etherpad-mozilla.org/p/mozfellowships++)
 * updated [minigrant rubric](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
+* lots of interviews, setup etherpad for tomorrow
 
 
 TO DOS
+
 * talk to rizwan about fluxx
 * prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
 * review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
-
-
-
-
 * fellows care packages
 * fellows foxes
-* schedule fellows checkin interviews
-
 * make workshop for Hana's Hive work - non-map examples
 - get bracket
 - demographic data for visulizations
@@ -1731,7 +1727,7 @@ TO DOS
 - novice group - free tools
 last 30 minutes (bring datasets and we can work with it)
 
-* watch the wrangler call
+* watch the [wrangler call]()
 * setup air mozilla for august community call
 * apply for [amtrak art residency](http://blog.amtrak.com/general-faqs/)
 
@@ -1790,6 +1786,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
 	* [fellowships session](https://public.etherpad-mozilla.org/p/mozfellowships++)
 		* [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
+		* [rizwan's gdoc](https://docs.google.com/document/d/1MPE6e-hkoCSOySEuNlgwJZJE5oPhVLnkMFaOMDeZ6z0/edit?ts=594ad885#)
 	* [secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 	* 
 * DDD
