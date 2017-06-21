@@ -1699,6 +1699,10 @@
 * invited steph to all interviews
 * setup doc with summaries for tomorrow
 
+## 6/21/17
+* prepped study group [africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) + emailed meeting participants
+* [brownbags](https://air.mozilla.org/community-participation-guidelines-revision-brownbag-emea/)
+
 
 TO DOS
 * talk to rizwan about fluxx
@@ -1767,6 +1771,7 @@ last 30 minutes (bring datasets and we can work with it)
 * Blogs
 	* x interviews
 * all hands
+	* all hands [fundamentals doc](https://docs.google.com/document/d/1Bl9eNJOJ9qLVLwsx4INQFpVjf3Le2HNxgs_7-Lm9VAs/edit)
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
@@ -1786,6 +1791,9 @@ last 30 minutes (bring datasets and we can work with it)
 * All Hands
 	* [schedule](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=1207919094)
 	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
+	* [fellowships session](https://public.etherpad-mozilla.org/p/mozfellowships++)
+		* [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
+	* [secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
