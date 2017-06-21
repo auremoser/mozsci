@@ -1706,6 +1706,7 @@
 * sent inquiry about pins for fellows
 * created fellows' exit interview [etherpads](https://public.etherpad-mozilla.org/p/2016-fellow-review)
 * sent emails to all data detox doctors reminding them about Friday
+* whew, canceled project learning lab with HIVE/Hana
 
 
 TO DOS
