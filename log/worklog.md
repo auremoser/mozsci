@@ -1696,8 +1696,8 @@
 * more candidates
 * meeting about our encryption sesh with Chris and Rose [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
 * meeting with Kalpana about [fluxx](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biodesign+Challenge+Summit+2017&dates=20170622T133000Z/20170623T213000Z&details=For+details,+link+here:+https://www.eventbrite.com/e/biodesign-challenge-summit-2017-tickets-34337256659&location=The+Museum+of+Modern+Art+-+The+Roy+and+Niuta+Titus+Theater+2+-+11+W+53rd+St,+New+York,+NY+10019+-+New+York+10019&sf=true&output=xml#eventpage_6%7Ceid-YzhiZjdhZXZwdjdycGc5aWM5NWdqbDI5cHMgYXVyZWxpYUBtb3ppbGxhZm91bmRhdGlvbi5vcmc-1-0-) get stuff done for sept./oct.
-* invited steph to all interviews
 * setup doc with summaries for tomorrow
+* invite steph to fellows' interviews for next week
 
 ## 6/21/17
 * prepped study group [africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) + emailed meeting participants
@@ -1705,16 +1705,16 @@
 * checkin with [joe about fellows](https://public.etherpad-mozilla.org/p/joe-fellows)
 * sent inquiry about pins for fellows
 * created fellows' exit interview [etherpads](https://public.etherpad-mozilla.org/p/2016-fellow-review)
+* sent emails to all data detox doctors reminding them about Friday
 
 
 TO DOS
 * talk to rizwan about fluxx
 * prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
 * review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
-* fluxx skill share - Kalpana
 
-* print postcards for DDDay
-* invite steph to fellows' interviews for next week
+
+
 
 * fellows care packages
 * fellows foxes
@@ -1780,6 +1780,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
 	* prep [mofo secu with cade](https://public.etherpad-mozilla.org/p/mofo-secu)
+	* fluxx skill share - Kalpana
 * DDD
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
