@@ -1704,6 +1704,7 @@
 * [brownbags](https://air.mozilla.org/community-participation-guidelines-revision-brownbag-emea/)
 * checkin with [joe about fellows](https://public.etherpad-mozilla.org/p/joe-fellows)
 * sent inquiry about pins for fellows
+* created fellows' exit interview [etherpads](https://public.etherpad-mozilla.org/p/2016-fellow-review)
 
 
 TO DOS
