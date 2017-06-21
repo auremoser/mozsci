@@ -1707,6 +1707,7 @@
 * created fellows' exit interview [etherpads](https://public.etherpad-mozilla.org/p/2016-fellow-review)
 * sent emails to all data detox doctors reminding them about Friday
 * whew, canceled project learning lab with HIVE/Hana
+* [open innovation town hall for All-Hands](https://air.mozilla.org/town-hall-2017-june-town-hall-series-open-innovation/)
 
 
 TO DOS
