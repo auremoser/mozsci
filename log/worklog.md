@@ -1771,7 +1771,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* Mozilla will notify the selected candidates and send out the Fellowship Contract
 
 * fellows - write up template emails
-* read book for book club
+
 * Blogs
 	* x interviews
 * all hands
