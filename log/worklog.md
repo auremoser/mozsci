@@ -1708,6 +1708,7 @@
 * sent emails to all data detox doctors reminding them about Friday
 * whew, canceled project learning lab with HIVE/Hana
 * [open innovation town hall for All-Hands](https://air.mozilla.org/town-hall-2017-june-town-hall-series-open-innovation/)
+* worked on [mozfellowships materials](https://public.etherpad-mozilla.org/p/mozfellowships++)
 
 
 TO DOS
@@ -1781,8 +1782,15 @@ last 30 minutes (bring datasets and we can work with it)
 	* meet with Sandra - dev rel
 	* meet with Open Innovation planning committee - mozfest
 	* all-MoFo activity and dinner for Wednesday night
+	* prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
 	* prep [mofo secu with cade](https://public.etherpad-mozilla.org/p/mofo-secu)
 	* fluxx skill share - Kalpana
+	* [schedule](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=1207919094)
+	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
+	* [fellowships session](https://public.etherpad-mozilla.org/p/mozfellowships++)
+		* [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
+	* [secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
+	* 
 * DDD
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
@@ -1794,13 +1802,6 @@ last 30 minutes (bring datasets and we can work with it)
 	* [wow repo](https://github.com/mozillascience/WOW-SA)
 	* [wow event](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 	* [wow email templates from previous wows](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
-
-* All Hands
-	* [schedule](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=1207919094)
-	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
-	* [fellowships session](https://public.etherpad-mozilla.org/p/mozfellowships++)
-		* [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
-	* [secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 * MozRetreat blog 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
