@@ -1709,6 +1709,7 @@
 * whew, canceled project learning lab with HIVE/Hana
 * [open innovation town hall for All-Hands](https://air.mozilla.org/town-hall-2017-june-town-hall-series-open-innovation/)
 * worked on [mozfellowships materials](https://public.etherpad-mozilla.org/p/mozfellowships++)
+* updated [minigrant rubric](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
 
 
 TO DOS
