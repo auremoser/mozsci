@@ -1703,6 +1703,7 @@
 * prepped study group [africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) + emailed meeting participants
 * [brownbags](https://air.mozilla.org/community-participation-guidelines-revision-brownbag-emea/)
 * checkin with [joe about fellows](https://public.etherpad-mozilla.org/p/joe-fellows)
+* sent inquiry about pins for fellows
 
 
 TO DOS
@@ -1727,6 +1728,7 @@ last 30 minutes (bring datasets and we can work with it)
 
 * watch the wrangler call
 * setup air mozilla for august community call
+* apply for [amtrak art residency](http://blog.amtrak.com/general-faqs/)
 
 * followup with aaas fellowship
 * interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
