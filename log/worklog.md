@@ -1714,6 +1714,7 @@
 * added comments to [study group africa](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11)
 * interviews interviews interviews
 * worked on merging interviews for OWF
+* OWF [deck work](https://docs.google.com/document/d/1NV4S1EbWzdSG2elxfGXbB_mCt98W54CyR34ukzrhpo4/edit?ts=594bf497)
 
 
 TO DOS
@@ -1749,14 +1750,27 @@ last 30 minutes (bring datasets and we can work with it)
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 
+
+* FEllOWSHIPS
+	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 * OWF
+	ORGS
+
+	ADMIN
+	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
+
+	FELLOWS
+	* [workplan template](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
 	* meeting with vanessa [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
+	* [2016-2017 Open Web Fellowship](https://drive.google.com/drive/u/1/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0)
+	* [2017-2018 Mozilla Fellowships](https://drive.google.com/drive/u/1/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* review [open web fellows program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#heading=h.clrj9tbc4lm7)
 	* [OWF end of program schedule](https://docs.google.com/document/d/1I-Hg1atLhr1_RW1JipCU9MVmC59l4iv7fh29zkSlQLQ/edit?ts=592ee687#)
 	* candidates [orgs](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuOEtHUjlLSTk1OGc)
 	* candidates [sheet](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=0)
 	* process [readme](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
-	* host org [planning and work calendar](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=0)
+	* host org [planning and work calendar 2016-2017](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=0)
+	* checkins with [ashley on OWF program role](https://docs.google.com/document/d/1rL1WzPOh17rMAWbYVjdEOOvSbrlH3eQGBo8HP4HwAGM/edit?ts=594c0038)
 	* updated list of host orgs w/ descriptions?
 	* website and blog details and creds?
 	* calendar of activities (in the readme?)
@@ -1797,6 +1811,7 @@ last 30 minutes (bring datasets and we can work with it)
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
 	* [form for detox doctors](https://goo.gl/forms/ZugTOpqea0Enr5bC3)
+
 * South Africa
 	* [schedule](http://public.etherpad-mozilla.org/p/2017-fellows-offboarding)
 	* [template emails](https://public.etherpad-mozilla.org/p/wow-sa-emails)
@@ -1805,12 +1820,16 @@ last 30 minutes (bring datasets and we can work with it)
 	* [wow event](https://science.mozilla.org/programs/events/working-open-workshop-june-2017)
 	* [wow email templates from previous wows](https://docs.google.com/document/d/1Vyd4sgPgq6eqdIp1szyOHiSR5ml425GWJN_pya9rvFM/edit#)
 
-* MozRetreat blog 
+* MozRetreat / MozFest 
 	* [mozretreat photos](https://photos.google.com/share/AF1QipMOa6UUtvCYsaOcWBB27nvrYfJv0wojgmNoRFDXvD0K6yEaI_Thi0w4-Ck5eDEP1A?key=dE1yV2tMNzlfaWtiWVRDano5ZENvcG95b3htNllR)
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 	* [italian tweets for mozfest](https://docs.google.com/document/d/1LUAQMSTveVF6RBd2MEf3b-8_ueekhtL0c8_QYA7qzgk/edit)
+	* [stipends doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=594bdec5#gid=0)
+
+
 * get back to image providers with book
 * review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
+
 
 
 ## TO STUDY
