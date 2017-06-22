@@ -1711,10 +1711,15 @@
 * worked on [mozfellowships materials](https://public.etherpad-mozilla.org/p/mozfellowships++)
 * updated [minigrant rubric](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
 * lots of interviews, setup etherpad for tomorrow
+* added comments to [study group africa](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11)
+* interviews interviews interviews
+* worked on merging interviews for OWF
 
 
 TO DOS
 
+* catchup on all the [town halls](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
+* catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
 * prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
 * review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
@@ -1727,7 +1732,6 @@ TO DOS
 - novice group - free tools
 last 30 minutes (bring datasets and we can work with it)
 
-* watch the [wrangler call]()
 * setup air mozilla for august community call
 * apply for [amtrak art residency](http://blog.amtrak.com/general-faqs/)
 
