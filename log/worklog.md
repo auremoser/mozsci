@@ -1715,6 +1715,8 @@
 * interviews interviews interviews
 * worked on merging interviews for OWF
 * OWF [deck work](https://docs.google.com/document/d/1NV4S1EbWzdSG2elxfGXbB_mCt98W54CyR34ukzrhpo4/edit?ts=594bf497)
+* study group updates [emailed out](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* caught up on emails
 
 
 TO DOS
