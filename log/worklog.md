@@ -1721,6 +1721,7 @@
 ## 6/23/17
 * interviews with [PI](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 * attended [boston wow meeting](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
+* made [wow boston website](https://github.com/mozillascience/WOW-Boston/)
 
 TO DOS
 
