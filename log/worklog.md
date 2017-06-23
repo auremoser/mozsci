@@ -1699,7 +1699,7 @@
 * setup doc with summaries for tomorrow
 * invite steph to fellows' interviews for next week
 
-## 6/21/17
+## 6/21/17 - 6/22/17
 * prepped study group [africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa#lineNumber=11) + emailed meeting participants
 * [brownbags](https://air.mozilla.org/community-participation-guidelines-revision-brownbag-emea/)
 * checkin with [joe about fellows](https://public.etherpad-mozilla.org/p/joe-fellows)
@@ -1718,6 +1718,8 @@
 * study group updates [emailed out](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * caught up on emails
 
+## 6/23/17
+* interviews with [PI](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 
 TO DOS
 
