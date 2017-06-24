@@ -1723,6 +1723,7 @@
 * attended [boston wow meeting](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 * made [wow boston website](https://github.com/mozillascience/WOW-Boston/)
 * some calendar clear up, thank you note to steph for the cereal
+* started setting up [program calendar for OWF host orgs](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
 
 TO DOS
 
