@@ -1728,6 +1728,7 @@
 * commented on senior leader session at mozfest
 * responded to candidates
 * lots of catchup emails with community members and trying to triage interviews
+* signed up for [udemy](https://mozillafoundation.udemy.com/organization/welcome/)
 
 TO DOS
 
@@ -1937,6 +1938,7 @@ last 30 minutes (bring datasets and we can work with it)
 
 
 ### RESOURCES
+* [udemy account](https://mozillafoundation.udemy.com/organization/welcome/)
 * [msl get involved](https://public.etherpad-mozilla.org/p/msl-get-involved)
 * [msl call metrics](https://public.etherpad-mozilla.org/p/2016-call-participants)
 * [msl data spreadsheet](https://public.etherpad-mozilla.org/p/mln-data-datacollection-sciencehub)
