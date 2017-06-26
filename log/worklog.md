@@ -1730,6 +1730,8 @@
 
 TO DOS
 
+* checkin about mozilla uganda wow?
+
 * catchup on all the [town halls](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
