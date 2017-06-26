@@ -1727,6 +1727,7 @@
 * rescheduled interviews during plane trip
 * commented on senior leader session at mozfest
 * responded to candidates
+* lots of catchup emails with community members and trying to triage interviews
 
 TO DOS
 
