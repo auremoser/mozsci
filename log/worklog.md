@@ -1724,6 +1724,9 @@
 * made [wow boston website](https://github.com/mozillascience/WOW-Boston/)
 * some calendar clear up, thank you note to steph for the cereal
 * started setting up [program calendar for OWF host orgs](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+* rescheduled interviews during plane trip
+* commented on senior leader session at mozfest
+* responded to candidates
 
 TO DOS
 
