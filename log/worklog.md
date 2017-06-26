@@ -1730,6 +1730,7 @@
 * lots of catchup emails with community members and trying to triage interviews
 * signed up for [udemy](https://mozillafoundation.udemy.com/organization/welcome/)
 * joined [lwn.net](https://lwn.net/MyAccount/auremoser/lists) for linux per gsoc 
+* created new [jitsi for amanda](https://meet.jit.si/OWFInterviews)
 
 TO DOS
 
