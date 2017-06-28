@@ -1718,7 +1718,7 @@
 * study group updates [emailed out](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * caught up on emails
 
-## 6/23/17
+## 6/23/17-6/25/17
 * interviews with [PI](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 * attended [boston wow meeting](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 * made [wow boston website](https://github.com/mozillascience/WOW-Boston/)
@@ -1732,6 +1732,11 @@
 * joined [lwn.net](https://lwn.net/MyAccount/auremoser/lists) for linux per gsoc 
 * created new [jitsi for amanda](https://meet.jit.si/OWFInterviews)
 * completed gsoc evaluations for anamika
+
+## 6/27/17
+* interviews for OWF, notes taken
+* wrote to M about fellowship checkin, priority set
+* transfered minigrants stuff to [screendoor](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
 
 TO DOS
 
