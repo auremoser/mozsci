@@ -1737,6 +1737,7 @@
 * interviews for OWF, notes taken
 * wrote to M about fellowship checkin, priority set
 * transfered minigrants stuff to [screendoor](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
+* [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 
 TO DOS
 
