@@ -1738,6 +1738,7 @@
 * wrote to M about fellowship checkin, priority set
 * transfered minigrants stuff to [screendoor](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
 * [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
+* posted [blog post for mozwow SA]( https://science.mozilla.org/blog/fellows-south-africa-2017/), tweeted
 
 TO DOS
 
