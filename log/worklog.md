@@ -1740,6 +1740,7 @@
 * [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 * posted [blog post for mozwow SA]( https://science.mozilla.org/blog/fellows-south-africa-2017/), tweeted
 * [what is the network session](https://docs.google.com/document/d/1ZHz5Pw3YCFOPHPcGJOMYE3_bls-_rV1f9fHO_34erV4/edit?ts=5955496c#)
+* responded to [kirstie's issue](https://github.com/WhitakerLab/whitakerlab.github.io/issues/18#issuecomment-312060708)
 
 TO DOS
 
