@@ -1743,6 +1743,8 @@
 * responded to [kirstie's issue](https://github.com/WhitakerLab/whitakerlab.github.io/issues/18#issuecomment-312060708)
 * gave all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20), had debrief with amy and rizwan
 * gave my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
+* worked on [kirstie's issue](https://github.com/WhitakerLab/whitakerlab.github.io/issues/18#issuecomment-312060708)
+* met with Alexei to talk through Bill.com
 
 TO DOS
 
