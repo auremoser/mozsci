@@ -1739,8 +1739,12 @@
 * transfered minigrants stuff to [screendoor](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=732857065)
 * [mofo secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
 * posted [blog post for mozwow SA]( https://science.mozilla.org/blog/fellows-south-africa-2017/), tweeted
+* [what is the network session](https://docs.google.com/document/d/1ZHz5Pw3YCFOPHPcGJOMYE3_bls-_rV1f9fHO_34erV4/edit?ts=5955496c#)
 
 TO DOS
+
+* wrap up interview decisions
+* send out newsletter updates
 
 * checkin about mozilla uganda wow?
 
