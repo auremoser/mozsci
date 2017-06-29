@@ -1741,6 +1741,8 @@
 * posted [blog post for mozwow SA]( https://science.mozilla.org/blog/fellows-south-africa-2017/), tweeted
 * [what is the network session](https://docs.google.com/document/d/1ZHz5Pw3YCFOPHPcGJOMYE3_bls-_rV1f9fHO_34erV4/edit?ts=5955496c#)
 * responded to [kirstie's issue](https://github.com/WhitakerLab/whitakerlab.github.io/issues/18#issuecomment-312060708)
+* gave all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20), had debrief with amy and rizwan
+* gave my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 
 TO DOS
 
@@ -1752,27 +1754,17 @@ TO DOS
 * catchup on all the [town halls](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
-* prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
+
 * review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
 * fellows care packages
 * fellows foxes
-* make workshop for Hana's Hive work - non-map examples
-- get bracket
-- demographic data for visulizations
-- participation rates
-- novice group - free tools
-last 30 minutes (bring datasets and we can work with it)
-
 * setup air mozilla for august community call
 * apply for [amtrak art residency](http://blog.amtrak.com/general-faqs/)
 
 * followup with aaas fellowship
 * interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
-* review [town hall](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-
-* figure out my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * use metadat.es domain for quant self projects
 
