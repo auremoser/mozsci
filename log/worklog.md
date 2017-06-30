@@ -1745,15 +1745,17 @@
 * gave my [mofo secu session with cade](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231) wednesday 9-10am
 * worked on [kirstie's issue](https://github.com/WhitakerLab/whitakerlab.github.io/issues/18#issuecomment-312060708)
 * met with Alexei to talk through Bill.com
+* Bruno's Cape Town Photos:
+	* [part 1](https://photos.google.com/share/AF1QipNJbbpD_W-JP7XUtoVJC9-Xduzuhvr1bc5N08zih0sfl5EIX-Eugr6wWv8xWPVU5w?key=VGpxazE4WFVPVnpvYkdqc0t5a0Ffa0pRYmtEVWFR)
+* edited [draft proposal for mozfest on data detox](https://t.co/0LDD5jEtg9)
 
 TO DOS
 
 * wrap up interview decisions
 * send out newsletter updates
+* write recap for Data Detox Day to Mofo
 
 * checkin about mozilla uganda wow?
-
-* catchup on all the [town halls](https://mana.mozilla.org/wiki/pages/viewpage.action?pageId=66653050)
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
 
@@ -1819,11 +1821,11 @@ TO DOS
 * all hands
 	* all hands [fundamentals doc](https://docs.google.com/document/d/1Bl9eNJOJ9qLVLwsx4INQFpVjf3Le2HNxgs_7-Lm9VAs/edit)
 	* meet with Sandra - dev rel
-	* meet with Open Innovation planning committee - mozfest
-	* all-MoFo activity and dinner for Wednesday night
-	* prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
-	* prep [mofo secu with cade](https://public.etherpad-mozilla.org/p/mofo-secu)
-	* fluxx skill share - Kalpana
+	* x meet with Open Innovation planning committee - mozfest
+	* x all-MoFo activity and dinner for Wednesday night
+	* x prep all hands [working session](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=99126946&range=20:20)
+	* x prep [mofo secu with cade](https://public.etherpad-mozilla.org/p/mofo-secu)
+	* xfluxx skill share - Kalpana
 	* [schedule](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=1207919094)
 	* [skill shares + working sessions](https://docs.google.com/spreadsheets/d/13qy9K5B6-CcvJPpPhpvWuyux3RN-3Benk45d4GAJVRY/edit#gid=576375231)
 	* [fellowships session](https://public.etherpad-mozilla.org/p/mozfellowships++)
