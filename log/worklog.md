@@ -1748,6 +1748,9 @@
 * Bruno's Cape Town Photos:
 	* [part 1](https://photos.google.com/share/AF1QipNJbbpD_W-JP7XUtoVJC9-Xduzuhvr1bc5N08zih0sfl5EIX-Eugr6wWv8xWPVU5w?key=VGpxazE4WFVPVnpvYkdqc0t5a0Ffa0pRYmtEVWFR)
 * edited [draft proposal for mozfest on data detox](https://t.co/0LDD5jEtg9)
+* followed up on some weird issues/adventures with the gsoc repo, anamika is on it :)
+* drafted and sent data detox recap to brooklyn + tactical tech folks
+* 
 
 TO DOS
 
