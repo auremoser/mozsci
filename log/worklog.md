@@ -1750,7 +1750,8 @@
 * edited [draft proposal for mozfest on data detox](https://t.co/0LDD5jEtg9)
 * followed up on some weird issues/adventures with the gsoc repo, anamika is on it :)
 * drafted and sent data detox recap to brooklyn + tactical tech folks
-* 
+* feedback on [mozfest session for ddd](http://piratepad.net/PDWSy8iKee)
+* applied to be an [iff fellow](https://internetfreedomfestival.org/2018-fellowship/)
 
 TO DOS
 
