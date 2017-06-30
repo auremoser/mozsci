@@ -1752,6 +1752,7 @@
 * drafted and sent data detox recap to brooklyn + tactical tech folks
 * feedback on [mozfest session for ddd](http://piratepad.net/PDWSy8iKee)
 * applied to be an [iff fellow](https://internetfreedomfestival.org/2018-fellowship/)
+* [network all hands session](https://docs.google.com/document/d/1ZHz5Pw3YCFOPHPcGJOMYE3_bls-_rV1f9fHO_34erV4/edit?ts=59569de1)
 
 TO DOS
 
