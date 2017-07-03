@@ -1769,6 +1769,8 @@
 
 TO DOS
 
+* respond to anamika's pr
+* send out study group call reminder
 * wrap up interview decisions
 * send out newsletter updates
 
