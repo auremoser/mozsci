@@ -1768,6 +1768,9 @@
 * [gsoc checkin](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * sent invites to 2nd f
 * met with GSOC student
+* lots of study group outreach
+* calendar shuffling, reminders to the remaining host org deliberators
+* culture amp [survey](https://mozilla.cultureamp.com/responses/595aafaddb4d084d8eba4648)
 
 
 TO DOS
