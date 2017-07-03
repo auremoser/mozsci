@@ -1764,6 +1764,8 @@
 * responded to [web lit discourse forum](https://forum.learning.mozilla.org/t/web-literacy-open-source-and-programming-curriculum-with-terasology-open-source-game/1712)
 * submitted pto request for the 13-14th of july
 * responded to contact about [ESOF](http://www.esof.eu/en/home.html)
+* meeting with claude.migisha.kalisa on open source mapping platforms
+* [gsoc checkin](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 
 TO DOS
 
