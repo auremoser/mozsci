@@ -1766,6 +1766,9 @@
 * responded to contact about [ESOF](http://www.esof.eu/en/home.html)
 * meeting with claude.migisha.kalisa on open source mapping platforms
 * [gsoc checkin](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
+* sent invites to 2nd f
+* met with GSOC student
+
 
 TO DOS
 
