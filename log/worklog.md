@@ -1758,24 +1758,23 @@
 
 ## 7/3/17
 
+* wrote to Rizwan about visas
+* responded to Nationaal Plan and to Netherlands Open Access policy folks
+* filled out check-in etherpad with Steph
 * 
 
 TO DOS
 
 * wrap up interview decisions
 * send out newsletter updates
-* write recap for Data Detox Day to Mofo
 
 * checkin about mozilla uganda wow?
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
 
-* review opsec skill share [notes](https://public.etherpad-mozilla.org/p/mofo-secu)
-* fellows care packages
 * fellows foxes
 * setup air mozilla for august community call
 * apply for [amtrak art residency](http://blog.amtrak.com/general-faqs/)
-
 * followup with aaas fellowship
 * interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
