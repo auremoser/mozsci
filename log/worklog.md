@@ -1763,6 +1763,7 @@
 * filled out check-in etherpad with Steph
 * responded to [web lit discourse forum](https://forum.learning.mozilla.org/t/web-literacy-open-source-and-programming-curriculum-with-terasology-open-source-game/1712)
 * submitted pto request for the 13-14th of july
+* responded to contact about [ESOF](http://www.esof.eu/en/home.html)
 
 TO DOS
 
