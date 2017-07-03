@@ -1761,7 +1761,8 @@
 * wrote to Rizwan about visas
 * responded to Nationaal Plan and to Netherlands Open Access policy folks
 * filled out check-in etherpad with Steph
-* 
+* responded to [web lit discourse forum](https://forum.learning.mozilla.org/t/web-literacy-open-source-and-programming-curriculum-with-terasology-open-source-game/1712)
+* submitted pto request for the 13-14th of july
 
 TO DOS
 
