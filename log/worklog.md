@@ -1771,6 +1771,8 @@
 * lots of study group outreach
 * calendar shuffling, reminders to the remaining host org deliberators
 * culture amp [survey](https://mozilla.cultureamp.com/responses/595aafaddb4d084d8eba4648)
+* merged gsoc pull request
+
 
 
 TO DOS
