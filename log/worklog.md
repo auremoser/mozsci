@@ -1782,6 +1782,8 @@
 * [PR stuff for GSOC](https://github.com/mozillascience/studyGroup-GSOC/pull/19#pullrequestreview-48091054)
 * meeting with ResBaz candidate through madeleine
 * lots of mini-grant reponse emails
+* network manager role reponse stuffs
+* wellness receipts for Mandy
 
 
 TO DOS
