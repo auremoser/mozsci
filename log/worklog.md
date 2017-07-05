@@ -1788,6 +1788,7 @@
 * sent sarah stevens invite for newsletter feature
 * send out study group call reminder
 * some comments on the [fellows google doc presentation for ford](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
+* sent out bulk email to minigrants folks
 
 
 TO DOS
