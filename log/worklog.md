@@ -1796,21 +1796,23 @@
 * interviewed [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network, on hold for now according to Hannah
 * sent reminder to BPL and D&S about fellows' candidate selection
 * made [host org listing doc](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=1070323498)
+* setup air mozilla for august community call
+* reached out to April about project management community call guest speaking for the method
+* created an [event for the community call](https://science.mozilla.org/programs/events/community-call-aug-10-11-et)
+* wrote to April about speaking on the community call
 
 
 TO DOS
 
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
-
 * agenda for meeting with michael
 * reach out to advis
 * flesh july etherpad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017
 * wrap up interview decisions
 * send out newsletter updates
-* checkin about mozilla uganda wow?
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * fellows foxes
-* setup air mozilla for august community call
+
 * followup with aaas fellowship
 
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
