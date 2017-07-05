@@ -1795,6 +1795,7 @@
 * responded about host orgs
 * interviewed [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network, on hold for now according to Hannah
 * sent reminder to BPL and D&S about fellows' candidate selection
+* made [host org listing doc](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=1070323498)
 
 
 TO DOS
