@@ -1774,6 +1774,11 @@
 * merged gsoc pull request
 * fixed dns for website, awaiting propogation
 
+### 7/4/17
+* visa convo, hope it comes through
+* intro email to all [study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* PRs for GSOC
+
 
 TO DOS
 
