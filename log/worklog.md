@@ -1785,6 +1785,7 @@
 * network manager role reponse stuffs
 * wellness receipts for Mandy
 * bill.com work
+* sent sarah stevens invite for newsletter feature
 
 
 TO DOS
