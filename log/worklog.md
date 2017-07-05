@@ -1800,10 +1800,12 @@
 * reached out to April about project management community call guest speaking for the method
 * created an [event for the community call](https://science.mozilla.org/programs/events/community-call-aug-10-11-et)
 * wrote to April about speaking on the community call
+* confirmed all host org candidates selection
 
 
 TO DOS
 
+* copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * agenda for meeting with michael
 * reach out to advis
@@ -1812,13 +1814,12 @@ TO DOS
 * send out newsletter updates
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * fellows foxes
-
 * followup with aaas fellowship
-
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * use metadat.es domain for quant self projects
+
 
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
