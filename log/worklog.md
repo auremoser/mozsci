@@ -1779,6 +1779,8 @@
 * intro email to all [study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * PRs for GSOC
 * made [advis list](https://docs.google.com/spreadsheets/d/1duyIxvptbbwv7-BxZ1-Gq1OLM8stHlVC0MBHbmKiGm0/edit#gid=1977701449)
+* [PR stuff for GSOC](https://github.com/mozillascience/studyGroup-GSOC/pull/19#pullrequestreview-48091054)
+* meeting with ResBaz candidate through madeleine
 
 
 TO DOS
