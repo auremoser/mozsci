@@ -1798,6 +1798,7 @@
 
 TO DOS
 
+* recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 
 * agenda for meeting with michael
 * reach out to advis
@@ -1829,6 +1830,8 @@ TO DOS
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 
 	FELLOWS
+	* [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0)
+	* [README GLOBAL - for Process](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
 	* [workplan template](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
 	* meeting with vanessa [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
 	* [2016-2017 Open Web Fellowship](https://drive.google.com/drive/u/1/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0)
