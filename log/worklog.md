@@ -1793,9 +1793,11 @@
 * finished the [responsibility doc](https://docs.google.com/spreadsheets/d/114EpTeen-G-1z2Vs4SpJWLGIVQty4oH3a6AeuePt4AM/edit?ts=595d317a#gid=105600181) for next week's role meeting
 * moved role meeting to next week outside of folks' vacations
 * responded about host orgs
+* interviewed [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network, on hold for now according to Hannah
 
 
 TO DOS
+
 
 * agenda for meeting with michael
 * reach out to advis
@@ -1804,11 +1806,10 @@ TO DOS
 * send out newsletter updates
 * checkin about mozilla uganda wow?
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
-* talk to rizwan about fluxx
 * fellows foxes
 * setup air mozilla for august community call
 * followup with aaas fellowship
-* interview [community members with this template](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit) + [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform) about the network
+
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
