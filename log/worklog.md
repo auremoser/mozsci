@@ -1781,6 +1781,7 @@
 * made [advis list](https://docs.google.com/spreadsheets/d/1duyIxvptbbwv7-BxZ1-Gq1OLM8stHlVC0MBHbmKiGm0/edit#gid=1977701449)
 * [PR stuff for GSOC](https://github.com/mozillascience/studyGroup-GSOC/pull/19#pullrequestreview-48091054)
 * meeting with ResBaz candidate through madeleine
+* lots of mini-grant reponse emails
 
 
 TO DOS
