@@ -1790,12 +1790,15 @@
 * some comments on the [fellows google doc presentation for ford](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 * sent out bulk email to minigrants folks
 * requested a new badge through service now
+* finished the [responsibility doc](https://docs.google.com/spreadsheets/d/114EpTeen-G-1z2Vs4SpJWLGIVQty4oH3a6AeuePt4AM/edit?ts=595d317a#gid=105600181) for next week's role meeting
+* moved role meeting to next week outside of folks' vacations
+* responded about host orgs
 
 
 TO DOS
 
+* agenda for meeting with michael
 * reach out to advis
-* respond to anamika's pr
 * flesh july etherpad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017
 * wrap up interview decisions
 * send out newsletter updates
