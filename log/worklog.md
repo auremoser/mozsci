@@ -1786,16 +1786,17 @@
 * wellness receipts for Mandy
 * bill.com work
 * sent sarah stevens invite for newsletter feature
+* send out study group call reminder
+* some comments on the [fellows google doc presentation for ford](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 
 
 TO DOS
 
 * reach out to advis
 * respond to anamika's pr
-* send out study group call reminder
+
 * wrap up interview decisions
 * send out newsletter updates
-
 * checkin about mozilla uganda wow?
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * talk to rizwan about fluxx
