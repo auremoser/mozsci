@@ -1809,6 +1809,7 @@
 * added labels to new study group lessons [here](https://github.com/mozillascience/studyGroupLessons/issues/85)
 * [mozfest wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * sent erika reservation for pre-week space for host org orientation
+* agenda [set](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#) for mb call
 
 
 TO DOS
