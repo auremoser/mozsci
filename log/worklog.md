@@ -1802,6 +1802,10 @@
 * wrote to April about speaking on the community call
 * confirmed all host org candidates selection
 
+## 7/7/17
+* study group [orientation emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* [fellows foxes](https://www.dropbox.com/home/MOZILLA/fellow-foxes) are done! Whee!
+
 
 TO DOS
 
