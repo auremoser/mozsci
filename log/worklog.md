@@ -1806,21 +1806,24 @@
 * study group [orientation emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [fellows foxes](https://www.dropbox.com/home/MOZILLA/fellow-foxes) are done! Whee!
 * meeting with [joseph feller](https://public.etherpad-mozilla.org/p/joe-fellows) about fellows!
+* added labels to new study group lessons [here](https://github.com/mozillascience/studyGroupLessons/issues/85)
+* [mozfest wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* sent erika reservation for pre-week space for host org orientation
 
 
 TO DOS
 
+* mozfest wrangler call blog
 * prep the study group etherpad
 * setup email to host orgs for followups
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * agenda for meeting with michael
-* reach out to advis
+* reach out to advisors for science fellows
 * flesh july etherpad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017
 * wrap up interview decisions
 * send out newsletter updates
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
-* fellows foxes
 * followup with aaas fellowship
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
