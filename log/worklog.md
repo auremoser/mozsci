@@ -1805,6 +1805,8 @@
 
 TO DOS
 
+* prep the study group etherpad
+* setup email to host orgs for followups
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * agenda for meeting with michael
