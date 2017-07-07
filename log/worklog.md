@@ -1822,7 +1822,7 @@
 * send kirstie dropbox + ideas for nyc
 * feedback [form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfxt3DmE5s3DvHOvKeq1yoYVsWUhkxHBeu9YyVDU3kJTFfVXA/formResponse) on sf all hands
 * worked on some visa issues, chatted with C & R
-* study group call, currently archiving
+* [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017), currently archiving
 * [video](https://youtu.be/3_U-CcHqrFU)
 * [tweeting](https://twitter.com/MozillaScience/status/883395438195363841)
 * updated university of venda in our [south africa maps](https://gitter.im/arreyves)
