@@ -1825,6 +1825,7 @@
 * study group call, currently archiving
 * [video](https://youtu.be/3_U-CcHqrFU)
 * [tweeting]()
+* updated university of venda in our [south africa maps](https://gitter.im/arreyves)
 
 
 TO DOS
