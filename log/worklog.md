@@ -1834,18 +1834,13 @@
 TO DOS
 
 * mozfest wrangler call blog
-
-
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
-* reach out to advisors for science fellows
-* flesh july etherpad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017
 * wrap up interview decisions
 * send out newsletter updates
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * followup with aaas fellowship
 * send advisor followup email with fellows accomplishments
-* review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * use metadat.es domain for quant self projects
