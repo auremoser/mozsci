@@ -1826,6 +1826,8 @@
 * [video](https://youtu.be/3_U-CcHqrFU)
 * [tweeting](https://twitter.com/MozillaScience/status/883395438195363841)
 * updated university of venda in our [south africa maps](https://gitter.im/arreyves)
+* went over [south africa feedback](https://docs.google.com/a/mozillafoundation.org/forms/d/1DKm4n8i2qOGgxfwbuXVKvYFI1acQ8BoGcKcSBDigvJI/edit#responses) very positive
+* wrote to advisors for call next week
 
 
 TO DOS
