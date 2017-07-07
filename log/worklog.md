@@ -1849,6 +1849,8 @@ TO DOS
 * BOSTON WOW
 	* [Schedule](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1p44P8icZwnUVHMDMjLFHJSJ-6ntiUe9MCx70Y-8RRT0/edit?usp=sharing_eip&ts=595fe7d5)
 	* [Site](https://github.com/mozillascience/WOW-Boston)
+	* [Templates](https://docs.google.com/document/d/1qWqJ4rvJJS0v-9XmELsy-2aHuaygGLWGGywCnR_xivc/edit)
+	* [Invites](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
