@@ -1824,7 +1824,7 @@
 * worked on some visa issues, chatted with C & R
 * study group call, currently archiving
 * [video](https://youtu.be/3_U-CcHqrFU)
-* [tweeting]()
+* [tweeting](https://twitter.com/MozillaScience/status/883395438195363841)
 * updated university of venda in our [south africa maps](https://gitter.im/arreyves)
 
 
