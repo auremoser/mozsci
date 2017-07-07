@@ -1828,6 +1828,7 @@
 * updated university of venda in our [south africa maps](https://gitter.im/arreyves)
 * went over [south africa feedback](https://docs.google.com/a/mozillafoundation.org/forms/d/1DKm4n8i2qOGgxfwbuXVKvYFI1acQ8BoGcKcSBDigvJI/edit#responses) very positive
 * wrote to advisors for call next week
+* updated south africa wow stuff in gitter and in [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia) etherpad
 
 
 TO DOS
