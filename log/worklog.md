@@ -1810,10 +1810,13 @@
 * [mozfest wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * sent erika reservation for pre-week space for host org orientation
 * agenda [set](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#) for mb call
+* sent update email to host orgs
+* prepped eitherpad for study group call [tomorrow](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017)
+* [fellowship debrief](https://public.etherpad-mozilla.org/p/2016-fellow-review) with Kirstie
 
 
 TO DOS
-
+* send kirstie dropbox + ideas for nyc
 * mozfest wrangler call blog
 * prep the study group etherpad
 * setup email to host orgs for followups
@@ -1826,6 +1829,7 @@ TO DOS
 * send out newsletter updates
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * followup with aaas fellowship
+* send advisor followup email with fellows accomplishments
 * review sa [survey responses](https://docs.google.com/forms/d/e/1FAIpQLScHLRXlsC1FP5OBjCJ7P3sgd3qKVr-Bofl7mIXcJcotCyB1Wg/viewform?c=0&w=1)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
