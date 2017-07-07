@@ -1845,16 +1845,17 @@ TO DOS
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * use metadat.es domain for quant self projects
 
+* BOSTON WOW
+	* [Schedule](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1p44P8icZwnUVHMDMjLFHJSJ-6ntiUe9MCx70Y-8RRT0/edit?usp=sharing_eip&ts=595fe7d5)
+	* [Site](https://github.com/mozillascience/WOW-Boston)
 
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
+*
 
-
-* FEllOWSHIPS
+* FELLOWSHIPS - OWF
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
-* OWF
-	ORGS
 
 	ADMIN
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
