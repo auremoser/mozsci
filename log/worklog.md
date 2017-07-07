@@ -1802,7 +1802,7 @@
 * wrote to April about speaking on the community call
 * confirmed all host org candidates selection
 
-## 7/7/17
+## 7/6/17
 * study group [orientation emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [fellows foxes](https://www.dropbox.com/home/MOZILLA/fellow-foxes) are done! Whee!
 * meeting with [joseph feller](https://public.etherpad-mozilla.org/p/joe-fellows) about fellows!
@@ -1813,16 +1813,27 @@
 * sent update email to host orgs
 * prepped eitherpad for study group call [tomorrow](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017)
 * [fellowship debrief](https://public.etherpad-mozilla.org/p/2016-fellow-review) with Kirstie
+* prep the study group etherpad
+* setup email to host orgs for followups
+
+## 7/7/17
+* meeting w/ MB [agenda](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#)
+* set recurring meeting
+* send kirstie dropbox + ideas for nyc
+* feedback [form](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfxt3DmE5s3DvHOvKeq1yoYVsWUhkxHBeu9YyVDU3kJTFfVXA/formResponse) on sf all hands
+* worked on some visa issues, chatted with C & R
+* study group call, currently archiving
+* [video](https://youtu.be/3_U-CcHqrFU)
+* [tweeting]()
 
 
 TO DOS
-* send kirstie dropbox + ideas for nyc
+
 * mozfest wrangler call blog
-* prep the study group etherpad
-* setup email to host orgs for followups
+
+
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
-* agenda for meeting with michael
 * reach out to advisors for science fellows
 * flesh july etherpad: https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-july-2017
 * wrap up interview decisions
