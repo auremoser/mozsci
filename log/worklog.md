@@ -1830,6 +1830,13 @@
 * wrote to advisors for call next week
 * updated south africa wow stuff in gitter and in [1:1](https://public.etherpad-mozilla.org/p/1_1_Aurelia) etherpad
 * worked on the [newsletter for Mozilla Science](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights) slated to go out next week
+* [wow event posted for august](https://science.mozilla.org/programs/events/working-open-workshop-august-2017)
+
+
+## 7/10/17
+* posted [study group call event](https://science.mozilla.org/programs/events/studygroup-call-august-04) + [etherpad]()
+* responded to emails
+* met with meghan
 
 
 TO DOS
