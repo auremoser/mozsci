@@ -1841,6 +1841,9 @@
 * onboarding docs for host orgs
 	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
+* meeting with abigail about visas
+* report back to chris and rizwan about visas
+* wrote to eva @PI about sensitive issue
 * 
 
 TO DOS
@@ -1863,6 +1866,11 @@ TO DOS
 	* [Templates](https://docs.google.com/document/d/1qWqJ4rvJJS0v-9XmELsy-2aHuaygGLWGGywCnR_xivc/edit)
 	* [Invites](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 
+* MOZFEST
+	* [open innovation folder](https://drive.google.com/drive/folders/0BwZzmiG9MvT4WW9lcmMydWFwV2c)
+	* [diy physical spaces](https://drive.google.com/drive/folders/0BwZzmiG9MvT4SzV4YzJMUWozLWM)
+
+
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
@@ -1875,6 +1883,7 @@ TO DOS
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
+	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
