@@ -1845,6 +1845,7 @@
 * report back to chris and rizwan about visas
 * wrote to eva @PI about sensitive issue
 * updated [study group emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* [visa emails](https://docs.google.com/document/d/1kUVpvuiUy3gxwMgNUtkSGy3b46VfqwFzPMYkNJy2E5A/edit)
 
 TO DOS
 
@@ -1883,6 +1884,7 @@ TO DOS
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
+	* [2016 host org onboarding script](https://docs.google.com/document/d/1DDm71J1me_B4tiskdg7ogZ5J1vRpw_p85tOMXSOLU38/edit?ts=5963e9f2)
 	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
 
 	FELLOWS
