@@ -1836,7 +1836,9 @@
 ## 7/10/17
 * posted [study group call event](https://science.mozilla.org/programs/events/studygroup-call-august-04) + [etherpad]()
 * responded to emails
-* met with meghan
+* met with meghan from grace hopper
+* 1:1 with [steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* 
 
 
 TO DOS
