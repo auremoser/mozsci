@@ -1844,7 +1844,7 @@
 * meeting with abigail about visas
 * report back to chris and rizwan about visas
 * wrote to eva @PI about sensitive issue
-* 
+* updated [study group emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 
 TO DOS
 
