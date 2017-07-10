@@ -1838,8 +1838,10 @@
 * responded to emails
 * met with meghan from grace hopper
 * 1:1 with [steph](https://public.etherpad-mozilla.org/p/1_1_Aurelia)
+* onboarding docs for host orgs
+	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
 * 
-
 
 TO DOS
 
