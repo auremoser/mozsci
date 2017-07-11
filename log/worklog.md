@@ -1852,7 +1852,7 @@
 * second round interviews
 * email catchup on minigrants, fellowships
 * invite to Ilyass of Colper Science for our August Community Call
-
+* host organization arrangements for onboarding/orientation
 
 TO DOS
 
