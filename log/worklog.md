@@ -1853,9 +1853,10 @@
 * email catchup on minigrants, fellowships
 * invite to Ilyass of Colper Science for our August Community Call
 * host organization arrangements for onboarding/orientation
+* gsoc student checkin
 
 TO DOS
-
+* write up gsoc email soliciting feedback on our dashboard
 * mozfest wrangler call blog
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
