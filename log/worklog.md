@@ -1847,6 +1847,13 @@
 * updated [study group emails](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
 * [visa emails](https://docs.google.com/document/d/1kUVpvuiUy3gxwMgNUtkSGy3b46VfqwFzPMYkNJy2E5A/edit)
 
+##7/11/17
+* visa emails and arrangments
+* second round interviews
+* email catchup on minigrants, fellowships
+* invite to Ilyass of Colper Science for our August Community Call
+
+
 TO DOS
 
 * mozfest wrangler call blog
