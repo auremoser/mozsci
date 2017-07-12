@@ -1854,10 +1854,16 @@
 * invite to Ilyass of Colper Science for our August Community Call
 * host organization arrangements for onboarding/orientation
 * gsoc student checkin
+* meeting with abby about legal stuff
+* meeting with a few advisors for fellows
+* meeting with daniel from moco
+* [blog post for open innovation mozfest cfp and ama](https://science.mozilla.org/blog/mozfest-cfp-2017)
+* staged tweets for open innovation cfp
+* wrote to the open innovation team about stuff
+* added Ilyass as a speaker for our August [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=103)
 
 TO DOS
 * write up gsoc email soliciting feedback on our dashboard
-* mozfest wrangler call blog
 * copy D&S on followup with jG
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * wrap up interview decisions
