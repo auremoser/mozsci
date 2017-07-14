@@ -1879,16 +1879,20 @@
 * trouble shot [pragya's issue](https://github.com/pmahendru/SYPartners/blob/master/index.html)
 * wrote back to Alex fuser about localization of the science site
 * submitted [mini grant votes](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=1515559971)
+* filled out [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
+* reviewed [danielle's mozfest proposal](https://docs.google.com/document/d/1BDoi9UY6-byeLkPc4HzpzdPshml2cek1JEalpsIiFCA/edit?ts=59654ffb)
 
 TO DOS
+
+* mail fellows packages
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
+* take a look at mozfest proposals/outreach
 * copy D&S on followup with jG
+* get fellows to book travel for mozfest
+* communicate about onboardings
 * write to Aleks about agreement and taxes
-* setup
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
-* wrap up interview decisions
-
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * followup with aaas fellowship
 * send advisor followup email with fellows accomplishments
