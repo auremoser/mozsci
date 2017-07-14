@@ -1876,7 +1876,8 @@
 * wrote back to bits of freedom and research ict, fwd to law
 * followed up on chad's ddd mail
 * followed up on study group help request
-* 
+* trouble shot [pragya's issue](https://github.com/pmahendru/SYPartners/blob/master/index.html)
+* wrote back to Alex fuser about localization of the science site
 
 TO DOS
 * send out newsletter updates
