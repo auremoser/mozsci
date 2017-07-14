@@ -1884,7 +1884,8 @@
 * filled out [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 * reviewed [danielle's mozfest proposal](https://docs.google.com/document/d/1BDoi9UY6-byeLkPc4HzpzdPshml2cek1JEalpsIiFCA/edit?ts=59654ffb)
 * looked at Rizwan's History of the fellowships document
-* tech exchange coordinations for next week
+* tech exchange coordinations for next WeeklyUpdates
+* exporting file package for tech exchange
 
 TO DOS
 
