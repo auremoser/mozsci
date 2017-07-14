@@ -1878,6 +1878,7 @@
 * followed up on study group help request
 * trouble shot [pragya's issue](https://github.com/pmahendru/SYPartners/blob/master/index.html)
 * wrote back to Alex fuser about localization of the science site
+* submitted [mini grant votes](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=1515559971)
 
 TO DOS
 * send out newsletter updates
