@@ -1879,11 +1879,16 @@
 * trouble shot [pragya's issue](https://github.com/pmahendru/SYPartners/blob/master/index.html)
 * wrote back to Alex fuser about localization of the science site
 * submitted [mini grant votes](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=1515559971)
+
+## 7/14/17
 * filled out [checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 * reviewed [danielle's mozfest proposal](https://docs.google.com/document/d/1BDoi9UY6-byeLkPc4HzpzdPshml2cek1JEalpsIiFCA/edit?ts=59654ffb)
+* looked at Rizwan's History of the fellowships document
+* tech exchange coordinations for next week
 
 TO DOS
 
+* flesh out [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * mail fellows packages
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
