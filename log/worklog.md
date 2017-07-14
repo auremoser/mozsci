@@ -1862,12 +1862,31 @@
 * wrote to the open innovation team about stuff
 * added Ilyass as a speaker for our August [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=103)
 
+## 7/12/17-7/13/17
+* meeting with Marcia Hsu from AAAS extended network
+* interviews
+* lots of meetings
+* legal arrangements for contracts
+* emails to abby about how expenses work
+* minigrants meeting
+* more interviews
+* worked on newsletter
+* inbox maintenance
+* meeting with legal about OWF
+* wrote back to bits of freedom and research ict, fwd to law
+* followed up on chad's ddd mail
+* followed up on study group help request
+* 
+
 TO DOS
+* send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * copy D&S on followup with jG
+* write to Aleks about agreement and taxes
+* setup
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * wrap up interview decisions
-* send out newsletter updates
+
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * followup with aaas fellowship
 * send advisor followup email with fellows accomplishments
