@@ -1907,6 +1907,7 @@
 * filled in [checkin post](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 * wrote to gabe about fall course, call with cheryll
 * bill.com approvals
+* wrote to A and C about F
 
 TO DOS
 
