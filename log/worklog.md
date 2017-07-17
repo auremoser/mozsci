@@ -1904,10 +1904,12 @@
 * approved some bills for OWF expenses
 * gsoc student stood up, but sent a lot of great updates :)
 * minigrant [scoring mtg](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=149354749)
+* filled in [checkin post](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 
 
 TO DOS
 
+* get gunner for host org onboarding
 * flesh out [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 
 * send out newsletter updates
