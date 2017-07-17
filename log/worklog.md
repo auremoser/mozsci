@@ -1900,6 +1900,9 @@
 * sent updates on BPL Data Detox Day to team
 * coordinated coffee with Daniel Goddemeyer and Ben
 * tech exchange call with Tammy and Kristin
+* sent tech exchange [drive package](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHVmd4bHZfeVhvYTA?usp=sharing) to mdf team for consideration
+* approved some bills for OWF
+* gsoc student stood up, but sent a lot of great updates :)
 
 
 TO DOS
