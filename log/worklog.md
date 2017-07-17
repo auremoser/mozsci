@@ -1894,7 +1894,7 @@
 * invite to Amy for wednesday and with Abby for Tuesday legal stuff
 * got back to Alex about minigrants for mexico
 * some logistics for reimbursements for WOW cape town with Alexei
-* 
+* got some photos back from [data detox day](https://bklynlibrary.widencollective.com/dam/externalorderpickup/1f672b73-f1ad-48c2-a62e-49886bf9f4d2)
 
 TO DOS
 
