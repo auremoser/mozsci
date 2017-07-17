@@ -1905,7 +1905,8 @@
 * gsoc student stood up, but sent a lot of great updates :)
 * minigrant [scoring mtg](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=149354749)
 * filled in [checkin post](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
-
+* wrote to gabe about fall course, call with cheryll
+* bill.com approvals
 
 TO DOS
 
