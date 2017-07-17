@@ -1886,6 +1886,15 @@
 * looked at Rizwan's History of the fellowships document
 * tech exchange coordinations for next WeeklyUpdates
 * exporting file package for tech exchange
+* sent contacts to Daniel for video project
+
+## 7/17/17
+* welcomed [new study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* lots of email catchup
+* invite to Amy for wednesday and with Abby for Tuesday legal stuff
+* got back to Alex about minigrants for mexico
+* some logistics for reimbursements for WOW cape town with Alexei
+* 
 
 TO DOS
 
