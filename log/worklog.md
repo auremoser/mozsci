@@ -1903,6 +1903,7 @@
 * sent tech exchange [drive package](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHVmd4bHZfeVhvYTA?usp=sharing) to mdf team for consideration
 * approved some bills for OWF expenses
 * gsoc student stood up, but sent a lot of great updates :)
+* minigrant [scoring mtg](https://docs.google.com/spreadsheets/d/1yzoBK-bm0wH-6diHyb5kGx3pNeTtroaEV0y-v1sC2T4/edit?ts=593a2f61#gid=149354749)
 
 
 TO DOS
