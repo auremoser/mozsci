@@ -1887,6 +1887,7 @@
 * tech exchange coordinations for next WeeklyUpdates
 * exporting file package for tech exchange
 * sent contacts to Daniel for video project
+* mailed fellows packages
 
 ## 7/17/17
 * welcomed [new study groups](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
@@ -1896,11 +1897,15 @@
 * got back to Alex about minigrants for mexico
 * some logistics for reimbursements for WOW cape town with Alexei
 * got some photos back from [data detox day](https://bklynlibrary.widencollective.com/dam/externalorderpickup/1f672b73-f1ad-48c2-a62e-49886bf9f4d2)
+* sent updates on BPL Data Detox Day to team
+* coordinated coffee with Daniel Goddemeyer and Ben
+* tech exchange call with Tammy and Kristin
+
 
 TO DOS
 
 * flesh out [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
-* mail fellows packages
+
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * take a look at mozfest proposals/outreach
