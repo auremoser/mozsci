@@ -1922,7 +1922,7 @@
 * met with lawyers and abby about legal visa issues.
 * sent visa information to consultant lawyers
 * updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-august-2017#lineNumber=70) with gsoc student project updates
-
+* meeting with cori about OWF and MSL fellows and collabs with tech policy fellows
 
 
 
