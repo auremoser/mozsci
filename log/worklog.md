@@ -1908,6 +1908,12 @@
 * wrote to gabe about fall course, call with cheryll
 * bill.com approvals
 * wrote to A and C about F
+* wrote back to lower 80%
+
+## 7/18/17
+* worked on [nerdcator proposal](https://gedankenstuecke.piratenpad.de/nerdcator?)
+
+
 
 TO DOS
 
