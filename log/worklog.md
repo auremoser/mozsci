@@ -1966,7 +1966,7 @@ TO DOS
 
 * FELLOWSHIPS - OWF
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
-
+	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
 	ADMIN
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
