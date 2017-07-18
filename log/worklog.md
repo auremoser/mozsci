@@ -1912,10 +1912,13 @@
 
 ## 7/18/17
 * worked on [nerdcator proposal](https://gedankenstuecke.piratenpad.de/nerdcator?)
+* meeting with Civic Tech Ben
+* followup with Daniel Kesseler about Mofo contacts for video project
 
 
 
 TO DOS
+* PR from our GSOC student [here](https://github.com/mozillascience/studyGroupEvents/pull/9)
 
 * get gunner for host org onboarding
 * flesh out [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
