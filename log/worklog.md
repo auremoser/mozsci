@@ -1914,6 +1914,15 @@
 * worked on [nerdcator proposal](https://gedankenstuecke.piratenpad.de/nerdcator?)
 * meeting with Civic Tech Ben
 * followup with Daniel Kesseler about Mofo contacts for video project
+* reviewed PR for [gsoc student](https://github.com/mozillascience/studyGroupEvents/pull/9/files)
+* emails for fellowships
+* approved expenses for WOW SA
+* setup mtg with Amanda about trips
+* wrote to abby about PI response
+* met with lawyers and abby about legal visa issues.
+* sent visa information to consultant lawyers
+* updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-august-2017#lineNumber=70) with gsoc student project updates
+
 
 
 
@@ -1967,6 +1976,7 @@ TO DOS
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
+	* [2017-2018 expenses](https://docs.google.com/spreadsheets/d/1EoE_bXwP4Dx90saNmPPuhiyUnKtZxFJf1h9EM41BwiE/edit#gid=355578658)
 	* [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0)
 	* [README GLOBAL - for Process](https://docs.google.com/document/d/17AnCq8NF9s2zrSJGe5OOwI0r8paqS8rHC_dEbeMHeMk/edit?ts=5940372c)
 	* [workplan template](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
