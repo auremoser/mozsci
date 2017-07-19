@@ -1923,14 +1923,21 @@
 * sent visa information to consultant lawyers
 * updated [study group call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-august-2017#lineNumber=70) with gsoc student project updates
 * meeting with cori about OWF and MSL fellows and collabs with tech policy fellows
+* published study group spotlight [post for july](https://science.mozilla.org/blog/sgs-kuzak-galland-ortiz)
+* emailed study groupers about their feature
+* updated newsletter forms with these updates
+* updated the [history of the fellowships document for Rizwan](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 
-
+## 7/19/17
+* [nerdcator submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/161#issuecomment-316384097) thanks bastian
+* wrote up etherpad for [study group africa checkin](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* feedback to our [gsoc student](https://github.com/mozillascience/studyGroupEvents/pull/9)
 
 TO DOS
-* PR from our GSOC student [here](https://github.com/mozillascience/studyGroupEvents/pull/9)
 
 * get gunner for host org onboarding
-* flesh out [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
+* write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
+* review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
@@ -1973,6 +1980,7 @@ TO DOS
 	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
 	* [2016 host org onboarding script](https://docs.google.com/document/d/1DDm71J1me_B4tiskdg7ogZ5J1vRpw_p85tOMXSOLU38/edit?ts=5963e9f2)
 	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
+	* [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
