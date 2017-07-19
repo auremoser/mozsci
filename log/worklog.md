@@ -1932,6 +1932,11 @@
 * [nerdcator submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/161#issuecomment-316384097) thanks bastian
 * wrote up etherpad for [study group africa checkin](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * feedback to our [gsoc student](https://github.com/mozillascience/studyGroupEvents/pull/9)
+* added more details to the [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1212)
+* shared [boston wow rsvp with community member](https://docs.google.com/a/mozillafoundation.org/forms/d/14jtFoMe8LC1rEeXAaL1FXdfjG-4egUgW2aqYrHSBfvI/edit)
+* Danielle followup debrief interview
+* Fellowships overview with Amy
+* Network role overview
 
 TO DOS
 
