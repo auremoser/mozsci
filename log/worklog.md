@@ -1937,6 +1937,7 @@
 * Danielle followup debrief interview
 * Fellowships overview with Amy
 * Network role overview
+* PI email correspondence with Gus
 
 TO DOS
 
@@ -1986,6 +1987,7 @@ TO DOS
 	* [2016 host org onboarding script](https://docs.google.com/document/d/1DDm71J1me_B4tiskdg7ogZ5J1vRpw_p85tOMXSOLU38/edit?ts=5963e9f2)
 	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
 	* [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
+	* [contracts/mous](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
