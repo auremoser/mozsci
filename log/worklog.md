@@ -1935,13 +1935,19 @@
 * added more details to the [newsletter](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1212)
 * shared [boston wow rsvp with community member](https://docs.google.com/a/mozillafoundation.org/forms/d/14jtFoMe8LC1rEeXAaL1FXdfjG-4egUgW2aqYrHSBfvI/edit)
 * Danielle followup debrief interview
-* Fellowships overview with Amy
+* [Fellowships overview](https://public.etherpad-mozilla.org/p/mozfellowships++) with Amy
 * Network role overview
 * PI email correspondence with Gus
+* update on carlos' visa situation with abigail
+* met with Daniel to e-troduce to Meghan and Hana
+* created [agenda for A&C Welcome](https://public.etherpad-mozilla.org/p/welcome-fellows)
+* schedule call with cori about fellowships administrivia
+* closed [fellows call issue](https://github.com/mozillascience/plan/issues/96)
 
 TO DOS
 
 * get gunner for host org onboarding
+* update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 
