@@ -1952,6 +1952,8 @@
 * sent bio to sarah and erika + scheduled open innovation check in next week
 * Open innovation [AMA](https://public.etherpad-mozilla.org/p/openinnovation-mozfest-2017-ama)
 * reviewed [transition document with steph](https://docs.google.com/document/d/1asUH1eFuIV3sVLPUppX9gOwZd7Qj2iGHwxa-RRjbFOw/edit#)
+* [mozfest back channel](https://mozfest.slack.com/messages/C5ADU5NQ0/)
+* Study group transition [meeting with zannah](https://docs.google.com/document/d/1-1I8v3_-xIYu5Gx4ZfzlGg-y4AL04lzdPbyJrQ01PlY/edit)
 
 TO DOS
 
