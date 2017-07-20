@@ -1951,6 +1951,7 @@
 * [Wrangler Call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * sent bio to sarah and erika + scheduled open innovation check in next week
 * Open innovation [AMA](https://public.etherpad-mozilla.org/p/openinnovation-mozfest-2017-ama)
+* reviewed [transition document with steph](https://docs.google.com/document/d/1asUH1eFuIV3sVLPUppX9gOwZd7Qj2iGHwxa-RRjbFOw/edit#)
 
 TO DOS
 
@@ -2139,9 +2140,11 @@ TO DOS
 	* Seamus Tuohy, research ethics
 	* [Global South e-Health Observatory](http://www.odess.io/contact-confirmation.html)
 	* inspired by [10 tech issues that will impact social justice](https://www.fordfoundation.org/ideas/equals-change-blog/posts/10-tech-issues-that-will-impact-social-justice-in-2017#show-last-Point)
-* **?? 2017** - Data
+* **October 2017** - Data
 	* open data curriculum
 	* transportation data working group - * Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow (met at RDA)
+	* Travis from pub pub
+	* Jess Polka ASAP Bio
 * **June 2017** - Reproducibility + Rescue
 	* Initiative for Open Citations: https://i4oc.org
 	* Reproducitiblity guide by [ROpenSci](http://ropensci.github.io/reproducibility-guide/)
