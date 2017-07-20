@@ -1944,8 +1944,13 @@
 * schedule call with cori about fellowships administrivia
 * closed [fellows call issue](https://github.com/mozillascience/plan/issues/96)
 
+## 7/20/17
+* merged [pr for gsoc student](https://github.com/mozillascience/studyGroup-GSOC/pull/21)
+
+
 TO DOS
 
+* update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * get gunner for host org onboarding
 * update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
