@@ -1946,7 +1946,8 @@
 
 ## 7/20/17
 * merged [pr for gsoc student](https://github.com/mozillascience/studyGroup-GSOC/pull/21)
-
+* wrap up meeting with [bruno](https://public.etherpad-mozilla.org/p/2016-fellow-review)
+* PI selection negotiations
 
 TO DOS
 
