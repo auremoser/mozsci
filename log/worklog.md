@@ -1955,11 +1955,12 @@
 * [mozfest back channel](https://mozfest.slack.com/messages/C5ADU5NQ0/)
 * Study group transition [meeting with zannah](https://docs.google.com/document/d/1-1I8v3_-xIYu5Gx4ZfzlGg-y4AL04lzdPbyJrQ01PlY/edit)
 * signed up for [network sessions](https://docs.google.com/document/d/117zYvRadFHI14cCXer5rylE1O8qGpP7xftQxlWb1QoY/edit)
+* emailed gunner about host org onboarding in London
 
 TO DOS
 
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
-* get gunner for host org onboarding
+
 * update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
