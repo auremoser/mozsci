@@ -1948,6 +1948,9 @@
 * merged [pr for gsoc student](https://github.com/mozillascience/studyGroup-GSOC/pull/21)
 * wrap up meeting with [bruno](https://public.etherpad-mozilla.org/p/2016-fellow-review)
 * PI selection negotiations
+* [Wrangler Call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* sent bio to sarah and erika + scheduled open innovation check in next week
+* Open innovation [AMA](https://public.etherpad-mozilla.org/p/openinnovation-mozfest-2017-ama)
 
 TO DOS
 
