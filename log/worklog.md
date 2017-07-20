@@ -1954,6 +1954,7 @@
 * reviewed [transition document with steph](https://docs.google.com/document/d/1asUH1eFuIV3sVLPUppX9gOwZd7Qj2iGHwxa-RRjbFOw/edit#)
 * [mozfest back channel](https://mozfest.slack.com/messages/C5ADU5NQ0/)
 * Study group transition [meeting with zannah](https://docs.google.com/document/d/1-1I8v3_-xIYu5Gx4ZfzlGg-y4AL04lzdPbyJrQ01PlY/edit)
+* signed up for [network sessions](https://docs.google.com/document/d/117zYvRadFHI14cCXer5rylE1O8qGpP7xftQxlWb1QoY/edit)
 
 TO DOS
 
