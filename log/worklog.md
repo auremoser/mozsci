@@ -1956,6 +1956,7 @@
 * Study group transition [meeting with zannah](https://docs.google.com/document/d/1-1I8v3_-xIYu5Gx4ZfzlGg-y4AL04lzdPbyJrQ01PlY/edit)
 * signed up for [network sessions](https://docs.google.com/document/d/117zYvRadFHI14cCXer5rylE1O8qGpP7xftQxlWb1QoY/edit)
 * emailed gunner about host org onboarding in London
+* [team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul20-2017)
 
 TO DOS
 
