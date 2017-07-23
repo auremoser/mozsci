@@ -1966,10 +1966,12 @@
 * shared materials with Cori
 * [met with Brett](https://docs.google.com/document/d/1ufCPc9tQaXqTjrpYXJ1kcInN4X1ho8RBHNHR8j7FvyQ/edit#) about media fellows
 * met with Melissa about upcoming TechX materials and planning moving forward
+* [gdi exec meeting](https://docs.google.com/document/d/1qqMuc090JjAN5_SXRPtHCLZP140Zm5qtEkVmn8rbYoA/edit)
 
 TO DOS
 
 * gdi event august 17th
+
 
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 
