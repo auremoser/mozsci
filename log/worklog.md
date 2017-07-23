@@ -1959,7 +1959,17 @@
 * [science lab team call](https://public.etherpad-mozilla.org/p/sciencelab-teamcalls-jul20-2017)
 * added bio to [wranglers bio spreadsheet](https://docs.google.com/spreadsheets/d/1RyDQ1BF3gYLMj9Koy9gqEbB_LQoQQa0opVLfOgNzt_I/edit#gid=0)
 
+## 7/21/17
+* corrected Study Group Mexico on the map! Thanks Alex Fuser
+* met with Cori about fellowships stuff
+* contacts with f candidates
+* shared materials with Cori
+* [met with Brett](https://docs.google.com/document/d/1ufCPc9tQaXqTjrpYXJ1kcInN4X1ho8RBHNHR8j7FvyQ/edit#) about media fellows
+* met with Melissa about upcoming TechX materials and planning moving forward
+
 TO DOS
+
+* gdi event august 17th
 
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 
