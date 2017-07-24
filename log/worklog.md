@@ -1969,7 +1969,7 @@
 * [gdi exec meeting](https://docs.google.com/document/d/1qqMuc090JjAN5_SXRPtHCLZP140Zm5qtEkVmn8rbYoA/editgit)
 
 ## 7/24/17
-* submitted data detox bar proposal for mozfest, nerdcator in via bastian.
+* submitted [data detox bar proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/196#issuecomment-317429569) for mozfest, nerdcator in via bastian.
 * emails with cori about streamlining fellowship documentation
 * checkin meeting with steph
 * work auth emails with team + abby
