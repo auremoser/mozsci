@@ -1976,6 +1976,7 @@
 * caught up on community chat
 * responses to responders from fellows stuff
 * [PRs](https://github.com/mozillascience/studyGroupEvents/pulls) and feedback to GSOC student in gitter!
+* open innovation [floor meeting](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 
 
 TO DOS
