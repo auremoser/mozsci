@@ -1977,15 +1977,16 @@
 * responses to responders from fellows stuff
 * [PRs](https://github.com/mozillascience/studyGroupEvents/pulls) and feedback to GSOC student in gitter!
 * open innovation [floor meeting](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* checkin with [joe](https://public.etherpad-mozilla.org/p/joe-fellows)
+* sent out study group email for zannah, moving call, e-troducing her as new program lead, thanks Z!
+* some responses for expenses
+* check in on role prep with Rizwan and Amy
 
 
 TO DOS
 
 * gdi event august 17th
-
-
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
-
 * update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
