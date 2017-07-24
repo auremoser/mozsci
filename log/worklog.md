@@ -1982,10 +1982,13 @@
 * some responses for expenses
 * check in on role prep with Rizwan and Amy
 * feedback on [bastian's proposal](https://gedankenstuecke.piratenpad.de/citizen-ethics-review) for Mozfes on participatory ethics review - looks awesome!
+* bastian added me to his [mozfest program](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
 
 
 TO DOS
-
+* put together goal and objectives doc with titles for amy
+* develop community development prospectus for fellowship programs
+* thank you note to goof for maptime book
 * gdi event august 17th
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
