@@ -2020,6 +2020,9 @@ TO DOS
 	* [open innovation folder](https://drive.google.com/drive/folders/0BwZzmiG9MvT4WW9lcmMydWFwV2c)
 	* [diy physical spaces](https://drive.google.com/drive/folders/0BwZzmiG9MvT4SzV4YzJMUWozLWM)
 	* [mozfest proposals](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit?ts=59398c08#gid=0)
+	* [data detox proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/196#issuecomment-317429569)
+	* [nerdcator proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/161)
+	* [ethics of open science research proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
 
 
 * Network
