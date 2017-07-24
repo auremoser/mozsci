@@ -1981,6 +1981,7 @@
 * sent out study group email for zannah, moving call, e-troducing her as new program lead, thanks Z!
 * some responses for expenses
 * check in on role prep with Rizwan and Amy
+* feedback on [bastian's proposal](https://gedankenstuecke.piratenpad.de/citizen-ethics-review) for Mozfes on participatory ethics review - looks awesome!
 
 
 TO DOS
