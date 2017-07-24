@@ -1966,7 +1966,17 @@
 * shared materials with Cori
 * [met with Brett](https://docs.google.com/document/d/1ufCPc9tQaXqTjrpYXJ1kcInN4X1ho8RBHNHR8j7FvyQ/edit#) about media fellows
 * met with Melissa about upcoming TechX materials and planning moving forward
-* [gdi exec meeting](https://docs.google.com/document/d/1qqMuc090JjAN5_SXRPtHCLZP140Zm5qtEkVmn8rbYoA/edit)
+* [gdi exec meeting](https://docs.google.com/document/d/1qqMuc090JjAN5_SXRPtHCLZP140Zm5qtEkVmn8rbYoA/editgit)
+
+## 7/24/17
+* submitted data detox bar proposal for mozfest, nerdcator in via bastian.
+* emails with cori about streamlining fellowship documentation
+* checkin meeting with steph
+* work auth emails with team + abby
+* caught up on community chat
+* responses to responders from fellows stuff
+* [PRs](https://github.com/mozillascience/studyGroupEvents/pulls) and feedback to GSOC student in gitter!
+
 
 TO DOS
 
