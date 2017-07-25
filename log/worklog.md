@@ -1992,6 +1992,8 @@
 * filled out [pocket volunteer content survey](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfHbABZCY2diVFfkMxK00sAi8nN-TFvwgNyivTLBQUiyBvQGw/formResponse)
 * filled out Tuesday [checkin with MSL team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 * mentored new gsoc student who gave feedback on an open syllabus project prospectus he's writing
+* flux meeting with kalpana
+* network meeting with paul
 
 
 TO DOS
@@ -2037,7 +2039,6 @@ TO DOS
 * Network
 	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
-*
 
 * FELLOWSHIPS - OWF
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
