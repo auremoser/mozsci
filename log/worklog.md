@@ -1983,6 +1983,15 @@
 * check in on role prep with Rizwan and Amy
 * feedback on [bastian's proposal](https://gedankenstuecke.piratenpad.de/citizen-ethics-review) for Mozfes on participatory ethics review - looks awesome!
 * bastian added me to his [mozfest program](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
+* second evaluation for [gsoc submitted](https://summerofcode.withgoogle.com/dashboard/project/5181349764792320/second/)
+
+## 7/25/17
+* lawyer details
+* communication with some host orgs
+* doctor's appointment
+* filled out [pocket volunteer content survey](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfHbABZCY2diVFfkMxK00sAi8nN-TFvwgNyivTLBQUiyBvQGw/formResponse)
+* filled out Tuesday [checkin with MSL team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
+* mentored new gsoc student who gave feedback on an open syllabus project prospectus he's writing
 
 
 TO DOS
