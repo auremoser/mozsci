@@ -1993,11 +1993,23 @@
 * filled out Tuesday [checkin with MSL team](https://public.etherpad-mozilla.org/p/sciencelab-checkins-july-2017)
 * mentored new gsoc student who gave feedback on an open syllabus project prospectus he's writing
 * flux meeting with kalpana
-* network meeting with paul
-
+* [network meeting](https://docs.google.com/document/d/19fQOhNlXfNeZx0L__N9IF0R4RhhQhMPdekjNbMOhNS4/edit#) with paul
+* ONBOARDING
+	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
+	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
+	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
+	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
+* HOST ORGS
+	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
+	* [2016 host org onboarding script](https://docs.google.com/document/d/1DDm71J1me_B4tiskdg7ogZ5J1vRpw_p85tOMXSOLU38/edit?ts=5963e9f2)
+* update for tom's question to [open innovation etherpad](https://public.etherpad-mozilla.org/p/openinnovation-mozfest-2017-ama)
 
 TO DOS
+
 * put together goal and objectives doc with titles for amy
+* put fellows in touch with host organizations
+* write host organizations about decisions
 * develop community development prospectus for fellowship programs
 * thank you note to goof for maptime book
 * gdi event august 17th
@@ -2051,6 +2063,12 @@ TO DOS
 	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
 	* [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 	* [contracts/mous](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
+
+	ONBOARDING
+	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
+	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
+	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
+	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
