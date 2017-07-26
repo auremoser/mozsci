@@ -2005,6 +2005,13 @@
 	* [2016 host org onboarding script](https://docs.google.com/document/d/1DDm71J1me_B4tiskdg7ogZ5J1vRpw_p85tOMXSOLU38/edit?ts=5963e9f2)
 * update for tom's question to [open innovation etherpad](https://public.etherpad-mozilla.org/p/openinnovation-mozfest-2017-ama)
 
+
+## 7/26/17
+* updated [resources etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
+* responded with lots of post-fellowship arrangment logistics
+* started logging bug for contractual arrangements
+
+
 TO DOS
 
 * put together goal and objectives doc with titles for amy
