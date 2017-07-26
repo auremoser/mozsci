@@ -2009,11 +2009,22 @@
 ## 7/26/17
 * updated [resources etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * responded with lots of post-fellowship arrangment logistics
-* started logging bug for contractual arrangements
+* started [logging bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624) for contractual arrangements
+* met with few [sci fell](https://public.etherpad-mozilla.org/p/welcome-fellows)
+* got back to naomi with mozfest ideas
+* worked on visa docs and preparations for several candidates
+* responded to GSOC student applicant about side project
+* updated [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
+* responded to [berhan's request for gitter stuff](https://docs.google.com/a/mozilla.com/spreadsheets/d/1Ep3VR2IM-OlBB7n0PwYW1Ym1svejus-9CdyHClaVBbo/edit?usp=sharing)
+
 
 
 TO DOS
 
+* make fellows repo fellows-class-2017 + gitter
+* contracts for OWF
+* visas for onboarding
+* host org update email
 * put together goal and objectives doc with titles for amy
 * put fellows in touch with host organizations
 * write host organizations about decisions
@@ -2021,7 +2032,6 @@ TO DOS
 * thank you note to goof for maptime book
 * gdi event august 17th
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
-* update [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 
