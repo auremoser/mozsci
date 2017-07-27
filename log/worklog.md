@@ -2021,11 +2021,17 @@
 
 
 
+
+
 TO DOS
 
 * CONTRACT DATE FOR RISHAB june 12th
 
-* map next year course of activities
+* map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
+	* use fellows conf template
+	* big events (onboarding, mozfest, workweek)
+	* milestones (applications, interviewing)
+	* things that you're doing throughout month
 * make fellows repo fellows-class-2017 + gitter
 * contracts for OWF
 * visas for onboarding
@@ -2077,6 +2083,7 @@ TO DOS
 * FELLOWSHIPS - OWF
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
+	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
 	ADMIN
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
