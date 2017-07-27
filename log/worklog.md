@@ -2016,16 +2016,21 @@
 * responded to GSOC student applicant about side project
 * updated [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * responded to [berhan's request for gitter stuff](https://docs.google.com/a/mozilla.com/spreadsheets/d/1Ep3VR2IM-OlBB7n0PwYW1Ym1svejus-9CdyHClaVBbo/edit?usp=sharing)
+* put together [goal and objectives doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit) with titles for amy
+
 
 
 
 TO DOS
 
+* CONTRACT DATE FOR RISHAB june 12th
+
+* map next year course of activities
 * make fellows repo fellows-class-2017 + gitter
 * contracts for OWF
 * visas for onboarding
 * host org update email
-* put together goal and objectives doc with titles for amy
+
 * put fellows in touch with host organizations
 * write host organizations about decisions
 * develop community development prospectus for fellowship programs
@@ -2070,6 +2075,7 @@ TO DOS
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 
 * FELLOWSHIPS - OWF
+	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
 	ADMIN
