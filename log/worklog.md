@@ -2036,6 +2036,7 @@ TO DOS
 * contracts for OWF
 * visas for onboarding
 * host org update email
+* flesh out [onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 
 * put fellows in touch with host organizations
 * write host organizations about decisions
