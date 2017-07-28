@@ -2017,8 +2017,17 @@
 * updated [resource etherpad for fellowships](https://public.etherpad-mozilla.org/p/fellows-resources)
 * responded to [berhan's request for gitter stuff](https://docs.google.com/a/mozilla.com/spreadsheets/d/1Ep3VR2IM-OlBB7n0PwYW1Ym1svejus-9CdyHClaVBbo/edit?usp=sharing)
 * put together [goal and objectives doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit) with titles for amy
+* meeting about goals and roles with amy
+* meetig with sarah about fellowship goals and roles
 
+## 7/27/17
 
+* gsoc [pr](https://github.com/mozilla/science.mozilla.org/pull/648)
+* [contract bug for OWF Fellows](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+* [contract bug for MSL Fellows](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624)
+* [mozfest feedback for sessions to amel](https://docs.google.com/document/d/1gAtCEiixXgOPus6xcZhK_TnouiuwJMR5DY19kg9Oyf8/edit?ts=597b219c)
+* [mou for host orgs](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* 
 
 
 
