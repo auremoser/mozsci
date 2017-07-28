@@ -2027,7 +2027,10 @@
 * [contract bug for MSL Fellows](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624)
 * [mozfest feedback for sessions to amel](https://docs.google.com/document/d/1gAtCEiixXgOPus6xcZhK_TnouiuwJMR5DY19kg9Oyf8/edit?ts=597b219c)
 * [mou for host orgs](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
-* 
+* [merged pull request for Gsoc student](https://github.com/mozillascience/studyGroupEvents/pull/11#pullrequestreview-52972401)
+* [title work with amy](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
+* confirmed with Melissa about host org onboarding
+* worked on email draft to host orgs to clarify onboarding
 
 
 
