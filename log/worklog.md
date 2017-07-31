@@ -2048,7 +2048,7 @@
 * meeting with abby and rizwan about legal
 * arrangements for PI interview
 * caught up on emails
-* gsoc student feedback on dashboard
+* gsoc student feedback on dashboard [pull request merged](https://github.com/mozillascience/studyGroupEvents/pull/12#pullrequestreview-53262265)
 
 TO DOS
 
