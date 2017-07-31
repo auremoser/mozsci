@@ -2049,10 +2049,18 @@
 * arrangements for PI interview
 * caught up on emails
 * gsoc student feedback on dashboard [pull request merged](https://github.com/mozillascience/studyGroupEvents/pull/12#pullrequestreview-53262265)
+* mozfest proposal feedback
+	* [mehul open source contributions](https://docs.google.com/document/d/1D6cQB9HoOR1IJJR4LoPVEUOf5aQMA-ZAg3qeSLJepgQ/edit#)
+	* [sprout fund](https://docs.google.com/document/d/1lkzDgY3fo_KdPLdWFjJ82LuOfeWQ5UyiEgU8L-K_ZWw/edit)
+
+* [open innovation fllor work](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 
 TO DOS
+* checkin with [mavis about spreadsheet](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
 
-* CONTRACT DATE FOR RISHAB june 12th
+* CONTRACT DATE FOR RISHAB - june 12th
+* CONTRACT DATE FOR BRAM - start oct 1
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
 	* big events (onboarding, mozfest, workweek)
