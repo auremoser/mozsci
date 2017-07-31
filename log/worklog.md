@@ -2059,6 +2059,9 @@
 * responded to some candidates
 * [url](https://github.com/mozillascience/studyGroupEvents/issues/13) for study groups issue
 * some feedback on open innovation session proposals at Mozfest
+* followed up with media democracy fund on the fellowship situation to date
+* hotel block negotiations for fellows' onboarding
+* 
 
 TO DOS
 
