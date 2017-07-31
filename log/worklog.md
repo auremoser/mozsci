@@ -2031,14 +2031,28 @@
 * [title work with amy](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 * confirmed with Melissa about host org onboarding
 * worked on email draft to host orgs to clarify onboarding
+* booked hotels for folks for onboarding in Toronto
+* sent updates to host organizations about the dates for onboarding
+* sent invite to JC for a new host organization interview with PI.
+* merged [pr for map shadown issue](https://github.com/mozilla/science.mozilla.org/pull/648#pullrequestreview-52989696)
+* created [stub calendar for OWF host orgs](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911) for Amy
+* calendar development for OWF / MSL
+	* [program calendar option 2](https://docs.google.com/spreadsheets/d/1ZQ3mQmL3Tymh-E_Nzq51OErAw_tZ8yrbudhB32vYdmU/edit#gid=0)
+	* [program calendar option 1](https://docs.google.com/document/d/1Kdjq5jvHmA7NsSO0nIPVbYzO_W5luDvZiol-0p0cT8k/edit#)
+	* [host org calendar](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+	* [mozfellows calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
+* got back to fragomen about aleks' visa situation
+* host org update email
 
-
-
+## 7/31/17
+* meeting with abby and rizwan about legal
+* arrangements for PI interview
+* caught up on emails
+* gsoc student feedback on dashboard
 
 TO DOS
 
 * CONTRACT DATE FOR RISHAB june 12th
-
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
 	* big events (onboarding, mozfest, workweek)
@@ -2047,9 +2061,8 @@ TO DOS
 * make fellows repo fellows-class-2017 + gitter
 * contracts for OWF
 * visas for onboarding
-* host org update email
 * flesh out [onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
-
+* put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * put fellows in touch with host organizations
 * write host organizations about decisions
 * develop community development prospectus for fellowship programs
@@ -2068,7 +2081,6 @@ TO DOS
 * write to Aleks about agreement and taxes
 * recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
-* followup with aaas fellowship
 * send advisor followup email with fellows accomplishments
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
