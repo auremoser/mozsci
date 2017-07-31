@@ -2061,7 +2061,9 @@
 * some feedback on open innovation session proposals at Mozfest
 * followed up with media democracy fund on the fellowship situation to date
 * hotel block negotiations for fellows' onboarding
-* 
+* got dustin some feedback on his [mozfest proposal](https://docs.google.com/document/d/1lkzDgY3fo_KdPLdWFjJ82LuOfeWQ5UyiEgU8L-K_ZWw/edit)
+* asked about berhan's extended contract, for all DARCI folks
+
 
 TO DOS
 
