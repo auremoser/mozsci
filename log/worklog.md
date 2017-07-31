@@ -2054,10 +2054,18 @@
 	* [sprout fund](https://docs.google.com/document/d/1lkzDgY3fo_KdPLdWFjJ82LuOfeWQ5UyiEgU8L-K_ZWw/edit)
 
 * [open innovation fllor work](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* FOTPF decisions out to F an M
+* responded to mo about travel to mozfest
+* responded to some candidates
+* [url](https://github.com/mozillascience/studyGroupEvents/issues/13) for study groups issue
+* some feedback on open innovation session proposals at Mozfest
 
 TO DOS
+
+* expensify accounts for host org leads
 * checkin with [mavis about spreadsheet](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 * subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
+* add idea for Amy to discuss host or 1:1
 
 * CONTRACT DATE FOR RISHAB - june 12th
 * CONTRACT DATE FOR BRAM - start oct 1
