@@ -2114,7 +2114,6 @@ TO DOS
 * get fellows to book travel for mozfest
 * communicate about onboardings
 * write to Aleks about agreement and taxes
-* recreate [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0) for 2017-2018 fellows, move materials there
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * send advisor followup email with fellows accomplishments
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
@@ -2159,6 +2158,7 @@ TO DOS
 	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
 	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
 	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
+	* [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
