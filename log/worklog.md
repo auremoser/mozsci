@@ -2063,9 +2063,24 @@
 * hotel block negotiations for fellows' onboarding
 * got dustin some feedback on his [mozfest proposal](https://docs.google.com/document/d/1lkzDgY3fo_KdPLdWFjJ82LuOfeWQ5UyiEgU8L-K_ZWw/edit)
 * asked about berhan's extended contract, for all DARCI folks
+* [created workplan template for host orgs](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
+* cross linked to [workplan spreadsheet](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+
+## 8/1/17
+* worked through some mozfest planning email with tech x, fellows' planning
+* lots of emails about mozfest proposals and feedback for Open innovation
+* final dates for [fellows' onboarding setup](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
+* updated science lab community call [posting](https://air.mozilla.org/mozilla-science-lab-august-2017-bi-monthly-community-call/)
+* updated [community call wiki]()
+* posted [blog on community call]()
+* updated [event posting for community call](https://science.mozilla.org/programs/events/community-call-aug-10-11-et)
+* tweeted about community call [here](https://twitter.com/MozillaScience/status/892411951170584577)
 
 
 TO DOS
+
+* community call blog post
+* community call
 
 * expensify accounts for host org leads
 * checkin with [mavis about spreadsheet](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
