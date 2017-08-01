@@ -2075,12 +2075,11 @@
 * posted [blog on community call]()
 * updated [event posting for community call](https://science.mozilla.org/programs/events/community-call-aug-10-11-et)
 * tweeted about community call [here](https://twitter.com/MozillaScience/status/892411951170584577)
+* updated [community call checklist issue](https://github.com/mozillascience/plan/issues/111)
+* worked on materials for [science lab fellows calendar for the year](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
 
 
 TO DOS
-
-* community call blog post
-* community call
 
 * expensify accounts for host org leads
 * checkin with [mavis about spreadsheet](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
