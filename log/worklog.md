@@ -2077,6 +2077,18 @@
 * tweeted about community call [here](https://twitter.com/MozillaScience/status/892411951170584577)
 * updated [community call checklist issue](https://github.com/mozillascience/plan/issues/111)
 * worked on materials for [science lab fellows calendar for the year](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
+* checkin with amy
+* pinged abby about mtting for external
+* assembled * [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0) for amanda
+* thank you note to goof for maptime book
+
+## 8/2/17
+* pi interview for last round candidate, notes in email
+* prepped [agenda](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#) for meeting with FF
+* added to [spreadsheet of tasks](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=766146492)
+* lots of work with legal on visas/arrangements
+* pi message 
+
 
 
 TO DOS
@@ -2101,7 +2113,7 @@ TO DOS
 * put fellows in touch with host organizations
 * write host organizations about decisions
 * develop community development prospectus for fellowship programs
-* thank you note to goof for maptime book
+
 * gdi event august 17th
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
