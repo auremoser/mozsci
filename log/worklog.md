@@ -2098,6 +2098,9 @@
 * started [rsvps for host org onboarding](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 * responded to fellows' candidate from yesterday's interview
 * update fellows' contacts sheet with [owf folks](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
+* worked on [newsletter updates](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=582)
+* started draft email to execs on fellows
+* updated spreadsheet of tasks for OWF
 
 
 
