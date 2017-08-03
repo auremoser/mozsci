@@ -2088,7 +2088,13 @@
 * added to [spreadsheet of tasks](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=766146492)
 * lots of work with legal on visas/arrangements
 * pi message 
-
+* sent reminder for community call
+* response to bram about expenses
+* some legal back and forth and fun with abby
+* call with rizwan for budget meeting prep
+* wrangler call for mozfest - open innovation
+* calendar invites for open innovation time blocks
+* updates to the spreadsheet for [steph's budget estimates](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit?ts=59835567#gid=766146492)
 
 
 TO DOS
@@ -2099,7 +2105,7 @@ TO DOS
 * add idea for Amy to discuss host or 1:1
 
 * CONTRACT DATE FOR RISHAB - june 12th
-* CONTRACT DATE FOR BRAM - start oct 1
+* CONTRACT DATE FOR BRAM - start sept 25
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
 	* big events (onboarding, mozfest, workweek)
