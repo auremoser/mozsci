@@ -2082,7 +2082,7 @@
 * assembled * [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0) for amanda
 * thank you note to goof for maptime book
 
-## 8/2/17
+## 8/2/17 - 8/3/17
 * pi interview for last round candidate, notes in email
 * prepped [agenda](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#) for meeting with FF
 * added to [spreadsheet of tasks](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=766146492)
@@ -2092,17 +2092,41 @@
 * response to bram about expenses
 * some legal back and forth and fun with abby
 * call with rizwan for budget meeting prep
-* wrangler call for mozfest - open innovation
+* [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017) for mozfest - open innovation
 * calendar invites for open innovation time blocks
 * updates to the spreadsheet for [steph's budget estimates](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit?ts=59835567#gid=766146492)
+* started [rsvps for host org onboarding](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+* responded to fellows' candidate from yesterday's interview
+* update fellows' contacts sheet with [owf folks](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
+
+
+
 
 
 TO DOS
 
+* figure out berhan's mou
+* FELLOWS EMAIL - 8/23
+
+- Host org expectation setting in 1:1 invites (to go out next week, for mid-August
+- language
+- documentation (maybe the workplan calendar?)
+- [Workplan template](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
+- [Workplan spreadsheet](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+
+* NOTES
+
+- invite supervisor specifically, hr/project collaborator
+- get them hyped, fit into a greater movement
+- preview them on calendar for the first few months pre-onboarding
+- populate their goals for sept.
+
+
+
+* go through and tag [mozfest proposals](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
+
 * expensify accounts for host org leads
-* checkin with [mavis about spreadsheet](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 * subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
-* add idea for Amy to discuss host or 1:1
 
 * CONTRACT DATE FOR RISHAB - june 12th
 * CONTRACT DATE FOR BRAM - start sept 25
