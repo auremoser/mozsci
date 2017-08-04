@@ -2103,14 +2103,31 @@
 * updated spreadsheet of tasks for OWF
 
 
+## 8/4/17
+* expensify accounts to RSVP'd folks 
+* bt mou [logged bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1387519)
+* fellowship background doc to [amy](https://docs.google.com/document/d/19DBb2aeO2AkfoUKMajcsk9Kk7bHKV1Qcd31_HQt9UWs/edit)
+* wrote exec team about fellowship selections
+* reached out to C for support
+* reminders to host orgs for rsvp to onboarding in London
+* update email to all hosts with 1:1 calendar meetings
+* meeting with the CRM team
+* responded to last candidate who needed feedback from recent fellow interview
+* got back to tammy at tech x with final candidates
+* bt plan with amy and kalpana
+* reached out to [host orgs about onboarding again, individually](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 
+
+
+* contracts to abby - update with start date details and more on monday
 
 
 TO DOS
 
-* figure out berhan's mou
-* FELLOWS EMAIL - 8/23
+e-troduce fellows
+e-troduce fellows to host orgs
 
+Setup agenda for 
 - Host org expectation setting in 1:1 invites (to go out next week, for mid-August
 - language
 - documentation (maybe the workplan calendar?)
@@ -2123,7 +2140,6 @@ TO DOS
 - get them hyped, fit into a greater movement
 - preview them on calendar for the first few months pre-onboarding
 - populate their goals for sept.
-
 
 
 * go through and tag [mozfest proposals](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
