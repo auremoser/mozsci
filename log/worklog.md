@@ -2116,6 +2116,7 @@
 * got back to tammy at tech x with final candidates
 * bt plan with amy and kalpana
 * reached out to [host orgs about onboarding again, individually](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+* worked on some mozfesty stuffs
 
 
 
