@@ -2123,6 +2123,13 @@
 * lots of email catchup, visas, responses to open innovation folks, funders, fragomen
 * merged anamika's [devlog pr](https://github.com/mozillascience/studyGroup-GSOC/pull/23)
 * sent checkin invite to enrico
+* fellowships team meeting
+* lots of onboarding logistics
+* meeting with [fellowships team](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit?ts=5988a495)
+* 1:1 with Steph
+* 1:1 with Amy
+* PI conversation with MB
+* grantmaking meeting with amy chou
 
 
 
@@ -2130,12 +2137,22 @@
 * contracts to abby - update with start date details and more on monday
 
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
+* [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
+* get back to MB with decisions about PI
+
+
+12 est in the next week meeting with michael
 
 
 TO DOS
 
+* end of week, add materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
+
 e-troduce fellows
 e-troduce fellows to host orgs
+
+VISAS FOR ONBOARDING
+
 
 Setup agenda for 
 - Host org expectation setting in 1:1 invites (to go out next week, for mid-August
@@ -2211,6 +2228,7 @@ Setup agenda for
 	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 
 * FELLOWSHIPS - OWF
+	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
