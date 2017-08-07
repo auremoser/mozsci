@@ -2117,10 +2117,17 @@
 * bt plan with amy and kalpana
 * reached out to [host orgs about onboarding again, individually](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 * worked on some mozfesty stuffs
+* doc and context to [m b](https://docs.google.com/document/d/1BWV3ut9yEDxtxLupNO5-u1eI5cuzCT0tcxo_fOn-CZs/edit)
+
+## 8/7/17
+* lots of email catchup, visas, responses to open innovation folks, funders, fragomen
+* merged anamika's [devlog pr](https://github.com/mozillascience/studyGroup-GSOC/pull/23)
 
 
 
 * contracts to abby - update with start date details and more on monday
+
+* flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 
 
 TO DOS
