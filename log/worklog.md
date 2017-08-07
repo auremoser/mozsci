@@ -2122,6 +2122,8 @@
 ## 8/7/17
 * lots of email catchup, visas, responses to open innovation folks, funders, fragomen
 * merged anamika's [devlog pr](https://github.com/mozillascience/studyGroup-GSOC/pull/23)
+* sent checkin invite to enrico
+
 
 
 
