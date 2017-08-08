@@ -2145,6 +2145,12 @@
 * fragomen visa arrangements
 * emailed D&S about attendees for mozfest
 * updated [rsvp spreadsheet](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+* meeting with mandy about ldaps
+* tweet storm
+* meeting with secu fellow at auth
+* updated onboarding rsvps for host orgs
+* bt fluxx application
+* bt update email to everyone concerned, slack ping to kalpana
 
 
 
@@ -2161,6 +2167,7 @@
 TO DOS
 
 * end of week, add materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
+* put together revised [checklist for tech policy fellowships](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
 
 
 VISAS FOR ONBOARDING
@@ -2242,6 +2249,7 @@ Setup agenda for
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
+	* [mandy's checklist](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
 	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
 	ADMIN
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
