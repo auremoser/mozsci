@@ -2130,26 +2130,38 @@
 * 1:1 with Amy
 * PI conversation with MB
 * grantmaking meeting with amy chou
+* visa prep email to carlos
+* updated [bugzilla with candidate selections](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+
+
+## 8/8/17
+* sent abby feedback on Sarah's [role](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
+* bt meeting, ais for fluxx
+* tweeted about community call
+* worked on fellows intro emails
+* created [fellows addresses doc](https://docs.google.com/spreadsheets/d/1CE8wBb-hdE15vHfJZ9eCrBUl9KPUJeNjY8ELKwRUnSA/edit#gid=0)
+* sent intro email to all fellows
+* sent intro email to fellows <> host orgs
+* fragomen visa arrangements
+* emailed D&S about attendees for mozfest
+* updated [rsvp spreadsheet](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 
 
 
+* [grant agreement for berhan application](https://docs.google.com/document/d/1U55u3zW2Qgw2EWjxZlAetRnhH2PwInvAEqFF2n4Orbo/edit)
+* berhan warn her that it will take 2-3 weeks
 
 * contracts to abby - update with start date details and more on monday
 
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
-* get back to MB with decisions about PI
 
-
-12 est in the next week meeting with michael
 
 
 TO DOS
 
 * end of week, add materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
 
-e-troduce fellows
-e-troduce fellows to host orgs
 
 VISAS FOR ONBOARDING
 
@@ -2174,8 +2186,6 @@ Setup agenda for
 * expensify accounts for host org leads
 * subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
 
-* CONTRACT DATE FOR RISHAB - june 12th
-* CONTRACT DATE FOR BRAM - start sept 25
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
 	* big events (onboarding, mozfest, workweek)
