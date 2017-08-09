@@ -2151,14 +2151,21 @@
 * updated onboarding rsvps for host orgs
 * bt fluxx application
 * bt update email to everyone concerned, slack ping to kalpana
-
-
-
 * [grant agreement for berhan application](https://docs.google.com/document/d/1U55u3zW2Qgw2EWjxZlAetRnhH2PwInvAEqFF2n4Orbo/edit)
 * berhan warn her that it will take 2-3 weeks
 
-* contracts to abby - update with start date details and more on monday
 
+## 8/9/17
+* meetings with OWF funders
+* working on contracts and visa stipulations for fellows who need
+* mozilla [mexico planning team for all hands](https://docs.google.com/document/d/1KEuobfLm7ApdpvHT5IohS6H_ejRh3jGBYi_oQoPGO6o/edit?ts=598989c8)
+* updated [michael meeting doc](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#)
+* lots of tweets about our [community call tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#)
+* pinged fellowship team about PIdeas
+
+
+
+* interviews blog post for fellows
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
 
@@ -2168,6 +2175,7 @@ TO DOS
 
 * end of week, add materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
 * put together revised [checklist for tech policy fellowships](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
+* 
 
 
 VISAS FOR ONBOARDING
@@ -2188,8 +2196,6 @@ Setup agenda for
 - populate their goals for sept.
 
 
-* go through and tag [mozfest proposals](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
-
 * expensify accounts for host org leads
 * subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
 
@@ -2199,8 +2205,6 @@ Setup agenda for
 	* milestones (applications, interviewing)
 	* things that you're doing throughout month
 * make fellows repo fellows-class-2017 + gitter
-* contracts for OWF
-* visas for onboarding
 * flesh out [onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 * put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * put fellows in touch with host organizations
