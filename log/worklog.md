@@ -2162,9 +2162,18 @@
 * updated [michael meeting doc](https://docs.google.com/document/d/1b45hgBcpmFO3fFL1ba9Rk6hIWH7bbxHAqXNAQNh3fus/edit#)
 * lots of tweets about our [community call tomorrow](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#)
 * pinged fellowship team about PIdeas
+* meeting with Brett
+* fleshed out onboarding details [doc collection](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
+
+## 8/10/17
+* prepped community call
+* invite to teon for debrief call next week
+* [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=169)
+* tweeted about community call
+* [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017) and [story of open innovation space](https://public.etherpad-mozilla.org/p/sessionsblurb-open-innov)
 
 
-
+* draft invitation letter for sarah for canada (onboarding)
 * interviews blog post for fellows
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
