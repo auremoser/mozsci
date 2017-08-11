@@ -2171,7 +2171,12 @@
 * [community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017#lineNumber=169)
 * tweeted about community call
 * [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017) and [story of open innovation space](https://public.etherpad-mozilla.org/p/sessionsblurb-open-innov)
+* meeting about bt sitch and budget
+* lots of email responses about visas
 
+
+* checklist for fellows followup with mandy
+* get back to amanda about space
 
 * draft invitation letter for sarah for canada (onboarding)
 * interviews blog post for fellows
