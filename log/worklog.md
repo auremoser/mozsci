@@ -2173,6 +2173,7 @@
 * [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017) and [story of open innovation space](https://public.etherpad-mozilla.org/p/sessionsblurb-open-innov)
 * meeting about bt sitch and budget
 * lots of email responses about visas
+* benefit elections to trinet
 
 
 * checklist for fellows followup with mandy
