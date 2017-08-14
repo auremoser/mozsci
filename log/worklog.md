@@ -2181,7 +2181,7 @@
 * working with solana for all hands cancun prep
 * responses on some fellowship related stuff
 * sent visa question clarifications to Mandy
-* drafted invitation letter and logged a bugzilla thread [about it]()
+* drafted invitation letter and logged a bugzilla thread [about it](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 * merged [anamikas PR about the devlog](https://github.com/mozillascience/studyGroup-GSOC/pull/24)
 * added some links to our newsletter [draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1204)
 
