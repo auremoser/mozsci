@@ -2184,6 +2184,13 @@
 * drafted invitation letter and logged a bugzilla thread [about it](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 * merged [anamikas PR about the devlog](https://github.com/mozillascience/studyGroup-GSOC/pull/24)
 * added some links to our newsletter [draft](https://public.etherpad-mozilla.org/p/sciencelab-week-in-review-monthly-highlights#lineNumber=1204)
+* submitted Egencia account requests for [Amel](https://mozilla.service-now.com/sp?sys_id=e254134613e00f00472ed2f18144b053&view=sp&id=ticket&table=facilities_request) + [Chris](https://mozilla.service-now.com/sp?sys_id=d7c39b0613e00f00472ed2f18144b096&view=sp&id=ticket&table=facilities_request) in Service Now
+* sent chystian the ddd docs
+* pinged abby on slack about contracts
+* submitted account requests to for all OWF fellows for Egencia
+* requested expensify accounts for all fellows and host org leads for onboarding including story
+* sent followup to Story about
+* gave feedback on the interim report [here](https://docs.google.com/document/d/11V7nlzxuur3sljKAAqIsHrW9pkq1UZ3weHFF6yNKR7g/edit)
 
 
 
