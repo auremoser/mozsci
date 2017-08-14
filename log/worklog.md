@@ -2175,6 +2175,16 @@
 * lots of email responses about visas
 * benefit elections to trinet
 
+## 8/14/17
+* visa prep for carlos
+* thank you email to community call speakers
+* working with solana for all hands cancun prep
+* responses on some fellowship related stuff
+* sent visa question clarifications to Mandy
+* drafted invitation letter and logged a bugzilla thread [about it]()
+* merged [anamikas PR about the devlog](https://github.com/mozillascience/studyGroup-GSOC/pull/24)
+
+
 
 * checklist for fellows followup with mandy
 * get back to amanda about space
