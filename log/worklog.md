@@ -2191,6 +2191,7 @@
 * requested expensify accounts for all fellows and host org leads for onboarding including story
 * sent followup to Story about
 * gave feedback on the interim report [here](https://docs.google.com/document/d/11V7nlzxuur3sljKAAqIsHrW9pkq1UZ3weHFF6yNKR7g/edit)
+* [bugzilla responses](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 
 
 
