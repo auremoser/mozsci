@@ -2192,6 +2192,13 @@
 * sent followup to Story about
 * gave feedback on the interim report [here](https://docs.google.com/document/d/11V7nlzxuur3sljKAAqIsHrW9pkq1UZ3weHFF6yNKR7g/edit)
 * [bugzilla responses](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
+* updated newsletter with worldbrain offer
+
+## 8/15/17
+* got back to sarah with updated hotel numbers for host org onboarding and mozfest
+* followed up on host org [mou](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* chatted with Kat about [egencia accounts](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=582b138e13e00f00472ed2f18144b0e5)
+
 
 
 
