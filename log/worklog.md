@@ -2205,6 +2205,7 @@
 * travel emails for all fellows to mozfest
 * confirmation of rentals accommodation for mozfest
 * flagged [fragomen fees in comment to kalpana](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
+* booked travel for fellows' onboarding
 
 
 
