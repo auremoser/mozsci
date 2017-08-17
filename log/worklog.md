@@ -2198,7 +2198,13 @@
 * got back to sarah with updated hotel numbers for host org onboarding and mozfest
 * followed up on host org [mou](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * chatted with Kat about [egencia accounts](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=582b138e13e00f00472ed2f18144b0e5)
-
+* kalpana budget checkin!
+* research ict africa [1:1 checkin](https://docs.google.com/document/d/1JyAuFxtmkeQ_ci_Kdu60J2kdc69Ha5OmFo_PI1yvQMc/edit#)
+* added [chris an ashley's stuff to agenda for onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
+* [fellowships team meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* travel emails for all fellows to mozfest
+* confirmation of rentals accommodation for mozfest
+* flagged [fragomen fees in comment to kalpana](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
 
 
 
