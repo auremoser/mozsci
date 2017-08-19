@@ -2207,6 +2207,12 @@
 * flagged [fragomen fees in comment to kalpana](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
 * booked travel for fellows' onboarding
 
+## 8/18/17
+* github training with kenyatta
+* november wow with Zannah
+* meeting with Emily May of Hollaback for [host org planning](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+* logged this [template bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236) update for the mozfest/onboarding invitation letters
+
 
 
 * checklist for fellows followup with mandy
