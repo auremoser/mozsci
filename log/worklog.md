@@ -2212,8 +2212,14 @@
 * november wow with Zannah
 * meeting with Emily May of Hollaback for [host org planning](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
 * logged this [template bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236) update for the mozfest/onboarding invitation letters
+* updated [dev roadshow site for sandra](https://mozilla.github.io/devroadshow2017/)
 
 
+
+
+* orlando invitation letter
+* sarah kiden invitation letter
+* amel invitation letter
 
 * checklist for fellows followup with mandy
 * get back to amanda about space
