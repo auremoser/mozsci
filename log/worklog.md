@@ -2214,6 +2214,7 @@
 * logged this [template bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236) update for the mozfest/onboarding invitation letters
 * updated [dev roadshow site for sandra](https://mozilla.github.io/devroadshow2017/)
 * requested prox badge for paris
+* GDI chapter [meeting](https://docs.google.com/document/d/1DmXREHJHdGqNwOxLFX0ASbAQOJwWSAjVUx3Kmr-BwKs/edit)
 
 
 
