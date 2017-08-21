@@ -2219,8 +2219,13 @@
 * started drafting host org travel detail email
 * wrote to fellows who require invitation letters for letter details
 
+## 8/21/17
+* fleshed [bug for contract](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+* [open innovation meeting](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=412225134)
+* updated where we are geojson for anamika
 
 
+* look at Arthur's PR
 * orlando invitation letter
 * sarah kiden invitation letter
 * amel invitation letter
