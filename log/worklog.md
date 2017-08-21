@@ -2227,6 +2227,8 @@
 * created a repo for the stats dashboard: https://github.com/mozillascience/studyGroupStats/
 * sent along logos for Anamika
 * [fopf checkins](https://docs.google.com/document/d/1snD7TAztNdPA1-s6ByOZZB_A5moEKOBI8HepheU7BNE/edit#heading=h.8lm2f88jlx88)
+* emailed Alexei about host org reimbursements
+* emailed sarah about confirmation of hotels for host leads
 
 
 * look at Arthur's PR
