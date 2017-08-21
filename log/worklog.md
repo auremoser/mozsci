@@ -2230,6 +2230,10 @@
 * emailed Alexei about host org reimbursements
 * emailed sarah about confirmation of hotels for host leads
 * calculated balance of session proposals for mozfest and sent to open innovation team
+* sent out confirmations to book travel to host org leads
+* sent along [onboarding survey](https://docs.google.com/forms/d/1cxIFRGHHVoJFlUmhcPFrsnDvHRgHxmIzNdPD2F3b014/edit)
+* sent update to MB and JC
+* posted GDI [september soiree](https://www.meetup.com/girldevelopit/events/242691440/)
 
 
 * look at Arthur's PR
