@@ -2234,6 +2234,7 @@
 * sent along [onboarding survey](https://docs.google.com/forms/d/1cxIFRGHHVoJFlUmhcPFrsnDvHRgHxmIzNdPD2F3b014/edit)
 * sent update to MB and JC
 * posted GDI [september soiree](https://www.meetup.com/girldevelopit/events/242691440/)
+* sent out invitations for summer soiree to brooklyn office
 
 
 * look at Arthur's PR
