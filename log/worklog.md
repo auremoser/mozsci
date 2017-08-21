@@ -2237,6 +2237,7 @@
 * sent out invitations for summer soiree to brooklyn office
 * added more materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
 * approved a bunch of flights for the fellows
+* updated other checkin meeting appointments for this week, and workplan documents
 
 
 * look at Arthur's PR
