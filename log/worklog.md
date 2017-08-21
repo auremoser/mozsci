@@ -2226,6 +2226,7 @@
 * created feedback on our GSOC etherpad and checklist for last week of work
 * created a repo for the stats dashboard: https://github.com/mozillascience/studyGroupStats/
 * sent along logos for Anamika
+* [fopf checkins](https://docs.google.com/document/d/1snD7TAztNdPA1-s6ByOZZB_A5moEKOBI8HepheU7BNE/edit#heading=h.8lm2f88jlx88)
 
 
 * look at Arthur's PR
