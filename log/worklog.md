@@ -2215,6 +2215,9 @@
 * updated [dev roadshow site for sandra](https://mozilla.github.io/devroadshow2017/)
 * requested prox badge for paris
 * GDI chapter [meeting](https://docs.google.com/document/d/1DmXREHJHdGqNwOxLFX0ASbAQOJwWSAjVUx3Kmr-BwKs/edit)
+* prepped agendas for this week's checkin calls with host orgs
+* started drafting host org travel detail email
+* wrote to fellows who require invitation letters for letter details
 
 
 
