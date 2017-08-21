@@ -2223,6 +2223,9 @@
 * fleshed [bug for contract](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
 * [open innovation meeting](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=412225134)
 * updated where we are geojson for anamika
+* created feedback on our GSOC etherpad and checklist for last week of work
+* created a repo for the stats dashboard: https://github.com/mozillascience/studyGroupStats/
+* sent along logos for Anamika
 
 
 * look at Arthur's PR
