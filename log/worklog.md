@@ -2235,6 +2235,8 @@
 * sent update to MB and JC
 * posted GDI [september soiree](https://www.meetup.com/girldevelopit/events/242691440/)
 * sent out invitations for summer soiree to brooklyn office
+* added more materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
+* approved a bunch of flights for the fellows
 
 
 * look at Arthur's PR
@@ -2252,32 +2254,10 @@
 
 
 
+
 TO DOS
 
-* end of week, add materials to [onboarding](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0)
-* put together revised [checklist for tech policy fellowships](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
-* 
 
-
-VISAS FOR ONBOARDING
-
-
-Setup agenda for 
-- Host org expectation setting in 1:1 invites (to go out next week, for mid-August
-- language
-- documentation (maybe the workplan calendar?)
-- [Workplan template](https://docs.google.com/document/d/12WQdSTyTwfC3lgfzFK-Q24gxdC-vR7hNy6dmw0iKwEc/edit?ts=594c03a2)
-- [Workplan spreadsheet](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
-
-* NOTES
-
-- invite supervisor specifically, hr/project collaborator
-- get them hyped, fit into a greater movement
-- preview them on calendar for the first few months pre-onboarding
-- populate their goals for sept.
-
-
-* expensify accounts for host org leads
 * subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
 
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
@@ -2291,15 +2271,12 @@ Setup agenda for
 * put fellows in touch with host organizations
 * write host organizations about decisions
 * develop community development prospectus for fellowship programs
-
-* gdi event august 17th
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
-* take a look at mozfest proposals/outreach
 * copy D&S on followup with jG
 * get fellows to book travel for mozfest
 * communicate about onboardings
@@ -2332,6 +2309,7 @@ Setup agenda for
 * FELLOWSHIPS - OWF
 	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
+	* [Fellowship Tax and Immigration Considerations](https://docs.google.com/document/d/1RpaK4OjW_dHsW0hYwI3E24ZGqSAfLybsZXQlDQXuvQI/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 	* [mandy's checklist](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
