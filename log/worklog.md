@@ -2244,9 +2244,10 @@
 * contracts!
 * [msl checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2017)
 * responding to fellows' asks
-
+* booking confirmations for Aleksandar
 
 * look at Arthur's PR
+* carlos invitation letter
 * orlando invitation letter
 * sarah kiden invitation letter
 * amel invitation letter
