@@ -2242,6 +2242,8 @@
 ## 8/22/17
 * coffee with bioinformatician Marica on community call development
 * contracts!
+* [msl checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2017)
+* responding to fellows' asks
 
 
 * look at Arthur's PR
