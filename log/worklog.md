@@ -2239,6 +2239,10 @@
 * approved a bunch of flights for the fellows
 * updated other checkin meeting appointments for this week, and workplan documents
 
+## 8/22/17
+* coffee with bioinformatician Marica on community call development
+* contracts!
+
 
 * look at Arthur's PR
 * orlando invitation letter
