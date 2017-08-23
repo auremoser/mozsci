@@ -2245,6 +2245,13 @@
 * [msl checkin](https://public.etherpad-mozilla.org/p/sciencelab-checkins-august-2017)
 * responding to fellows' asks
 * booking confirmations for Aleksandar
+* update on [host org mous](https://bugzilla.mozilla.org/process_bug.cgi)
+* meeting with [mpower](https://docs.google.com/document/d/1_CsOc1uZkRivbK7EnI-EAJ4UCjzgqSdI5fM6-6bA1JU/edit#heading=h.i9vy93lgu2j)
+* responded to anamika about last week of gsoc
+* met with mpower and hrw for their host org checkin
+
+## 8/23/17
+* [bits of freedom](https://docs.google.com/document/d/19KzLMDDRckCcjLGagf96YJ9XG5ctkFkQmizxTnUAz7o/edit#)
 
 * look at Arthur's PR
 * carlos invitation letter
