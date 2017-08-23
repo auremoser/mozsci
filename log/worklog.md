@@ -2255,6 +2255,7 @@
 * merged [hassanpy's work](https://github.com/auremoser/sg-events/pull/12)
 * chatted with abby about situations with fellows
 * asked mandy about PTO and travel approval requests
+* added comments to [contract bugs for science](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624) + [owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
 
 * look at Arthur's PR
 * carlos invitation letter
