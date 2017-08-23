@@ -2263,6 +2263,7 @@
 * sorted things in folders for [owf fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LublBkNXdnVkE0aDA)
 * sorted things in folders for [science fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuX2VOV0Vwa1RrdzQ)
 * [merged anamika's pull request](https://github.com/mozillascience/studyGroupEvents/pull/14)
+* updated breakfast meeting with Amy
 
 * look at Arthur's PR
 * carlos invitation letter
