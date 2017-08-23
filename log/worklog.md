@@ -2260,6 +2260,8 @@
 * looked into booking travel for mozfest
 * setup [science fellows budget document](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit?ts=599dc5d3#gid=1063471283)  with Alexei
 * setup [2017 owf fellows budget docuement](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
+* sorted things in folders for [owf fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LublBkNXdnVkE0aDA)
+* sorted things in folders for [science fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuX2VOV0Vwa1RrdzQ)
 
 * look at Arthur's PR
 * carlos invitation letter
