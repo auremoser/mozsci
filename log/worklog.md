@@ -2258,6 +2258,8 @@
 * added comments to [contract bugs for science](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624) + [owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
 * filled out news nerd survey 
 * looked into booking travel for mozfest
+* setup [science fellows budget document](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit?ts=599dc5d3#gid=1063471283)  with Alexei
+* setup [2017 owf fellows budget docuement](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
 
 * look at Arthur's PR
 * carlos invitation letter
@@ -2343,6 +2345,8 @@ TO DOS
 	* [OWF host org debrief](https://mozilla.github.io/content/open-web-fellows-report/#lessons-learned)
 	* [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 	* [contracts/mous](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
+	* [science fellows budget document](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit?ts=599dc5d3#gid=1063471283)
+	* [2017 owf fellows budget document](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
 
 	ONBOARDING
 	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
