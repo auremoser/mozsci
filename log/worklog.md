@@ -2262,6 +2262,7 @@
 * setup [2017 owf fellows budget docuement](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
 * sorted things in folders for [owf fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LublBkNXdnVkE0aDA)
 * sorted things in folders for [science fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuX2VOV0Vwa1RrdzQ)
+* [merged anamika's pull request](https://github.com/mozillascience/studyGroupEvents/pull/14)
 
 * look at Arthur's PR
 * carlos invitation letter
