@@ -2252,6 +2252,9 @@
 
 ## 8/23/17
 * [bits of freedom](https://docs.google.com/document/d/19KzLMDDRckCcjLGagf96YJ9XG5ctkFkQmizxTnUAz7o/edit#)
+* merged [hassanpy's work](https://github.com/auremoser/sg-events/pull/12)
+* chatted with abby about situations with fellows
+* asked mandy about PTO and travel approval requests
 
 * look at Arthur's PR
 * carlos invitation letter
