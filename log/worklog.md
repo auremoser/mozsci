@@ -2264,6 +2264,10 @@
 * sorted things in folders for [science fellowship](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuX2VOV0Vwa1RrdzQ)
 * [merged anamika's pull request](https://github.com/mozillascience/studyGroupEvents/pull/14)
 * updated breakfast meeting with Amy
+* meeting with Amanda to discuss travel arrangements.
+* added kirstie to wrangler calls and bios
+* lots of emails and catchup
+
 
 * look at Arthur's PR
 * carlos invitation letter
