@@ -2273,6 +2273,7 @@
 * meeting with abigail, rizwan and amy about start dates
 * meeting with [1:1 OWF checkins - esra'a](https://docs.google.com/document/d/1N9vzsSvtgim12BZcj2xDMzxtRXYf_5nbmkDm6w4ZdAI/edit#)
 * helping anamika debug a gsoc issue with her dashboard repo
+* email to request fellows' information for contracts etcet
 
 
 * look at Arthur's PR
