@@ -2265,9 +2265,13 @@
 * [merged anamika's pull request](https://github.com/mozillascience/studyGroupEvents/pull/14)
 * updated breakfast meeting with Amy
 * meeting with Amanda to discuss travel arrangements.
-* added kirstie to wrangler calls and bios
+* [added kirstie](https://docs.google.com/spreadsheets/d/1RyDQ1BF3gYLMj9Koy9gqEbB_LQoQQa0opVLfOgNzt_I/edit#gid=0) to wrangler calls and bios
 * lots of emails and catchup
 * approved some fellows' travel
+* added a bunch of comments [in rizwan's planning doc](https://docs.google.com/document/d/1JCzRfkSU_vWuF50SmYvN81XbCkOkY2Wr8X6yzrvhg1I/edit)
+* feedback to amanda about swag
+* meeting with abigail, rizwan and amy about start dates
+* meeting with [esra'a](https://docs.google.com/document/d/1N9vzsSvtgim12BZcj2xDMzxtRXYf_5nbmkDm6w4ZdAI/edit#)
 
 
 * look at Arthur's PR
