@@ -2267,6 +2267,7 @@
 * meeting with Amanda to discuss travel arrangements.
 * added kirstie to wrangler calls and bios
 * lots of emails and catchup
+* approved some fellows' travel
 
 
 * look at Arthur's PR
