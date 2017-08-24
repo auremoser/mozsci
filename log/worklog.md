@@ -2271,7 +2271,8 @@
 * added a bunch of comments [in rizwan's planning doc](https://docs.google.com/document/d/1JCzRfkSU_vWuF50SmYvN81XbCkOkY2Wr8X6yzrvhg1I/edit)
 * feedback to amanda about swag
 * meeting with abigail, rizwan and amy about start dates
-* meeting with [esra'a](https://docs.google.com/document/d/1N9vzsSvtgim12BZcj2xDMzxtRXYf_5nbmkDm6w4ZdAI/edit#)
+* meeting with [1:1 OWF checkins - esra'a](https://docs.google.com/document/d/1N9vzsSvtgim12BZcj2xDMzxtRXYf_5nbmkDm6w4ZdAI/edit#)
+* helping anamika debug a gsoc issue with her dashboard repo
 
 
 * look at Arthur's PR
