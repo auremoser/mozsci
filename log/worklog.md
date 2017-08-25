@@ -2275,8 +2275,18 @@
 * helping anamika debug a gsoc issue with her dashboard repo
 * email to request fellows' information for contracts etcet
 * onboarding details to abby
-* 
+* invited elizabeth to oct community call
+* feedback to [anamika about her dashboard](https://github.com/mozillascience/studyGroupStats/issues/1)
 
+## 8/25/17
+* lawyer responses
+* anamika [issue feedback](https://github.com/mozillascience/studyGroupStats/issues/1#issuecomment-324835086)
+* attached templates for fellows for [science](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624)
+* wrote to Bram about contract date
+* wrote to Maya about contract date
+* wrote to Rishab about green card and contract date
+* checkin with [teon](https://public.etherpad-mozilla.org/p/2016-fellow-review)
+* finished invitation letters [updated in this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 
 * look at Arthur's PR
 * carlos invitation letter
