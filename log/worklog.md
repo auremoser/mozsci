@@ -2274,6 +2274,8 @@
 * meeting with [1:1 OWF checkins - esra'a](https://docs.google.com/document/d/1N9vzsSvtgim12BZcj2xDMzxtRXYf_5nbmkDm6w4ZdAI/edit#)
 * helping anamika debug a gsoc issue with her dashboard repo
 * email to request fellows' information for contracts etcet
+* onboarding details to abby
+* 
 
 
 * look at Arthur's PR
@@ -2369,6 +2371,7 @@ TO DOS
 	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
 	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
 	* [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0)
+	* [planning spreadsheets]()
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
