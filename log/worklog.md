@@ -2287,6 +2287,8 @@
 * wrote to Rishab about green card and contract date
 * checkin with [teon](https://public.etherpad-mozilla.org/p/2016-fellow-review)
 * finished invitation letters [updated in this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
+* sent 4 fellows from MSL and OWF their letters, [updated bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
+* drafted tech policy invites and added to bug
 
 * look at Arthur's PR
 * carlos invitation letter
