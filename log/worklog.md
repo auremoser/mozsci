@@ -2278,7 +2278,7 @@
 * invited elizabeth to oct community call
 * feedback to [anamika about her dashboard](https://github.com/mozillascience/studyGroupStats/issues/1)
 
-## 8/25/17
+## 8/25/17 - 8/27/17
 * lawyer responses
 * anamika [issue feedback](https://github.com/mozillascience/studyGroupStats/issues/1#issuecomment-324835086)
 * attached templates for fellows for [science](https://bugzilla.mozilla.org/show_bug.cgi?id=1384624)
@@ -2289,17 +2289,20 @@
 * finished invitation letters [updated in this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 * sent 4 fellows from MSL and OWF their letters, [updated bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
 * drafted tech policy invites and added to bug
+* draft agreements for Maya, Bram, Freddy, Nasma, Sarah, Carlos
+* wrote back to Aleks about info
+* wrote to BoF about Aleks' situation
+
+* populate remaining OWF contracts and post for stephen
+* get through mozfest session assessments
+* write to bits of freedom and aleks with updates on legal decisions
+* make invitation letter for Aleksandar (for Mozfest + Onboarding)
+* Write to BoF and Aleksandar clearing both parties on the conclusions we've drawn from this meeting (start date, arrangement etcet
+* MOZFEST PROPOSALS
+
 
 * look at Arthur's PR
-* carlos invitation letter
-* orlando invitation letter
-* sarah kiden invitation letter
-* amel invitation letter
-
 * checklist for fellows followup with mandy
-* get back to amanda about space
-
-* draft invitation letter for sarah for canada (onboarding)
 * interviews blog post for fellows
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
