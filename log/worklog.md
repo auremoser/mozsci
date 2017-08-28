@@ -2304,6 +2304,7 @@
 - Maya  
 - Bram 
 * gave feedback on [mozfest session proposals](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=412225134)
+* updated [pakistan study group](https://mrsaito.github.io/studyGroup/) on map and website, added to leads and targets
 
 * populate remaining OWF contracts and post for stephen
 * get through mozfest session assessments
