@@ -2293,6 +2293,18 @@
 * wrote back to Aleks about info
 * wrote to BoF about Aleks' situation
 
+## 8/28/17
+* comms with Bof and aleks
+* working on [letters of invitation](https://bugzilla.mozilla.org/show_bug.cgi?id=1390236)
+* OWF contracts for 
+- Rishab 
+- Freddy 
+- Sarah 
+- Nasma 
+- Maya  
+- Bram 
+* gave feedback on [mozfest session proposals](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=412225134)
+
 * populate remaining OWF contracts and post for stephen
 * get through mozfest session assessments
 * write to bits of freedom and aleks with updates on legal decisions
