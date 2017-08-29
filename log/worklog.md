@@ -2320,6 +2320,7 @@
 * sent invitation letters to Amel
 * responded to lawyers
 * wrote to rizwan about talking to m.d. and processing contracts
+* added my top 10 choices for [open innovation at mozfest](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
 
 
 * look at Arthur's PR
