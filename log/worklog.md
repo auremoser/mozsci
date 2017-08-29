@@ -2312,6 +2312,14 @@
 * make invitation letter for Aleksandar (for Mozfest + Onboarding)
 * Write to BoF and Aleksandar clearing both parties on the conclusions we've drawn from this meeting (start date, arrangement etcet
 * MOZFEST PROPOSALS
+* hotel confirmation with amanda [stuff](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
+
+## 8/29/17
+* interview with Passion over pay
+* worked on last two contract uploads to our owf bug
+* sent invitation letters to Amel
+* responded to lawyers
+* wrote to rizwan about talking to m.d. and processing contracts
 
 
 * look at Arthur's PR
@@ -2321,12 +2329,6 @@
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
 
 
-
-
-TO DOS
-
-
-* subcategorize mozfest sessions: https://github.com/MozillaFoundation/mozfest-program-2017/issues
 
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
@@ -2352,7 +2354,6 @@ TO DOS
 * catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * send advisor followup email with fellows accomplishments
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-* fix up [gsoc etherpad for Monday](https://public.etherpad-mozilla.org/p/sg-gsoc-checkin)
 * use metadat.es domain for quant self projects
 
 * BOSTON WOW
