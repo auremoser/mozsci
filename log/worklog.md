@@ -2324,6 +2324,16 @@
 * filled out AAAS survey
 * approved Carlos' travel
 * submitted GSOC evaluation for Anamika
+* sent a bio and annoucement email to OWF fellows
+
+## 8/30/17 - 8/31/17
+* went through and weeded mozfest top 10, wrangler call and session acceptance emails
+* two apps, AAAS team correspondence
+* got back to Cori about bio
+* carlos' canadian visa research
+* got back to Elizabeth Sylvan about the [Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017#lineNumber=71)
+* managed evaluations and congratulations for [gsoc project for study groups](https://mozillascience.github.io/studyGroupStats/)
+* sent details to Zannah about Anamika's work as a GSOC student
 
 
 * look at Arthur's PR
@@ -2331,9 +2341,6 @@
 * interviews blog post for fellows
 * flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
 * [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
-
-
-
 * map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
 	* use fellows conf template
 	* big events (onboarding, mozfest, workweek)
