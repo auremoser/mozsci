@@ -2336,6 +2336,7 @@
 * sent details to Zannah about Anamika's work as a GSOC student
 
 
+* flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
 * look at Arthur's PR
 * checklist for fellows followup with mandy
 * interviews blog post for fellows
@@ -2375,6 +2376,9 @@
 
 * MOZFEST
 	* [open innovation folder](https://drive.google.com/drive/folders/0BwZzmiG9MvT4WW9lcmMydWFwV2c)
+	* [open innovation sessions sheet](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
+	* [Fellows at Mozfest schedule](https://docs.google.com/spreadsheets/d/1wXTcPOAm-X8CJgTE5ajT1hSIehvYDn_IepHESy82dO8/edit?ts=5994837b#gid=467091265)
+	* [Fellows at Mozfest hotels](https://docs.google.com/spreadsheets/d/1uIBPqtGnClnORofszlVHtsGS0_pJEWn6w9XNmYmyha0/edit#gid=0)
 	* [diy physical spaces](https://drive.google.com/drive/folders/0BwZzmiG9MvT4SzV4YzJMUWozLWM)
 	* [mozfest proposals](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit?ts=59398c08#gid=0)
 	* [data detox proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/196#issuecomment-317429569)
