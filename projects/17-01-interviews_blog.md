@@ -1,5 +1,13 @@
 ## Fellows Interview Blog
 
+It's been a busy summer for the Mozilla Science Lab. We traveled with our 2016 fellows to their offboarding in South Africa, ran two consecutive Working Open Workshops in Cape Town and Boston, launched our mini-grants program, hosted two Google Summer of Code students working on our website and stats about our Study Groups, and selected two new fellows for our 2017-2018 cohort supported by new funding from the Siegel Family Endowment.
+
+This week, we'll be announcing our new fellows, after a challenging few months of deliberation on what was an overwhelming and exceptionally qualified applicant pool. Before we do that, we wanted to take some time to reflect on our alumni fellows for 2017 and all the marvels of their year as part of the Mozilla Science Lab family. 
+
+Each year, we ask our fellows to get to know eachother remotely through fellow-to-fellows 30-minute interviews online. We transcribe these thereafter and pull the best, brightest, and funniest quotes. Below you can browse the results of those mining efforts, and learn a little more about our past cohort before we announce the new one.
+
+Enjoy!
+
 Teon
 
 Danielle Robinson interviewed Teon Brooks for their fellows exercises. Here 

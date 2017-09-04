@@ -2336,37 +2336,31 @@
 * sent details to Zannah about Anamika's work as a GSOC student
 
 
-* flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
-* look at Arthur's PR
-* checklist for fellows followup with mandy
-* interviews blog post for fellows
-* flesh out community call etherpad [here](https://public.etherpad-mozilla.org/p/sciencelab-calls-aug10-2017)
-* [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
-* map next year course of activities - aug 2nd (MSL) - aug 9th (OWF)
-	* use fellows conf template
-	* big events (onboarding, mozfest, workweek)
-	* milestones (applications, interviewing)
-	* things that you're doing throughout month
-* make fellows repo fellows-class-2017 + gitter
-* flesh out [onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
-* put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
-* put fellows in touch with host organizations
-* write host organizations about decisions
-* develop community development prospectus for fellowship programs
+## TODO
+* mozfest processing (last picks by tomorrow) + [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
+* book travel for mozfest
+* followup with Story + host orgs on to-do sheet (sept. 23rd due)
+* interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
+* get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
-* write interviews blog post for fellows [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
-* review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
+
+
+GDI announcement / catering
+Syllabus
 
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
-* copy D&S on followup with jG
-* get fellows to book travel for mozfest
-* communicate about onboardings
-* write to Aleks about agreement and taxes
-* catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * send advisor followup email with fellows accomplishments
+* flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
+* checklist for fellows followup with mandy
+* look at Arthur's PR
+* make fellows repo fellows-class-2017 + gitter
+* put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
+* develop community development prospectus for fellowship programs
+* review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
+* catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-* use metadat.es domain for quant self projects
+
 
 * BOSTON WOW
 	* [Schedule](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1p44P8icZwnUVHMDMjLFHJSJ-6ntiUe9MCx70Y-8RRT0/edit?usp=sharing_eip&ts=595fe7d5)
