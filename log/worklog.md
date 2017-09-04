@@ -2348,10 +2348,10 @@
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
 * update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 
-
-GDI announcement / catering
+GDI announcement
 Syllabus
 
+* 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for 
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
