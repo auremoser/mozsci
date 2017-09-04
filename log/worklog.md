@@ -2334,6 +2334,10 @@
 * got back to Elizabeth Sylvan about the [Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017#lineNumber=71)
 * managed evaluations and congratulations for [gsoc project for study groups](https://mozillascience.github.io/studyGroupStats/)
 * sent details to Zannah about Anamika's work as a GSOC student
+* added to Paul's [visioning exercise](https://docs.google.com/presentation/d/1BjmDSmCq2ft4UUJyIzjEZzfKpr4-q5rDjCAC2n3Ycag/edit#slide=id.g24921d7ba6_0_0)
+* triaged open innovation sessions [final 10](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
+* open innovation meeting w/ wrangler team
+* got back to Beatrice from Aspiration tech about host org onboarding
 
 
 ## TODO
