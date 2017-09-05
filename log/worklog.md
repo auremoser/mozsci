@@ -2342,10 +2342,10 @@
 
 ## 9/5/17
 * email with fellows about bios for today
-* compiled issue for Open Web fellows' bios
-* compiled issue for Science fellows' bios
+* compiled issue for [Open Web fellows' bios](https://github.com/mozilla/advocacy.mozilla.org/issues/381)
+* compiled issue for [Science fellows' bios](https://github.com/mozilla/science.mozilla.org/issues/654)
 * corresponded with lawyers
-* lots of mozfest open innovation triage
+* lots of [mozfest open innovation triage](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
 * rescheduled meeting with amel and antonio for november paris WOW
 * pinged michael d about contracts for remaining fellows
 * volunteered to host senior fellows' meetup at data & society for whiskey wednesday
