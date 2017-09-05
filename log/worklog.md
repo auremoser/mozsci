@@ -2340,6 +2340,18 @@
 * got back to Beatrice from Aspiration tech about host org onboarding
 
 
+## 9/5/17
+* email with fellows about bios for today
+* compiled issue for Open Web fellows' bios
+* compiled issue for Science fellows' bios
+* corresponded with lawyers
+* lots of mozfest open innovation triage
+* rescheduled meeting with amel and antonio for november paris WOW
+* pinged michael d about contracts for remaining fellows
+* volunteered to host senior fellows' meetup at data & society for whiskey wednesday
+
+
+
 ## TODO
 * mozfest processing (last picks by tomorrow) + [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
 * book travel for mozfest
