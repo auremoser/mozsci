@@ -2354,6 +2354,9 @@
 * sent out gdi event annoucncemnt
 * attended amy's session on okr 2.2
 * filled out [okr deep dive survey](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSeXFA77eo1wMEJGoqr-WdatXLWq5tnm9nB0h17FZL7W4035yQ/formResponse)
+* responded to sarah's email about grant allocations for Mozfest
+* compiled counts and figures for fellows' costs
+* added to [cori's cocktail party](https://docs.google.com/spreadsheets/d/1oLqjdRsGQWVIuAoxB4XPK6rwDGGpjhR9wvwSlHSJS_I/edit#gid=0)
 
 
 ## TODO

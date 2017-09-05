@@ -1,0 +1,10 @@
+## SCIENCE FELLOWS BIOS
+
+Name: Chris Hartgerink
+Twitter: https://twitter.com/chartgerink
+Blog: http://onsnetwork.org/chartgerink/
+Bio: Chris is an applied statistics PhD-candidate at Tilburg University, as part of the Metaresearch group. He has contributed to open science projects such as the Reproducibility Project: Psychology, tries to develop open-source software for scientists, and does research on detecting data fabrication in science. He is particularly interested in how the scholarly system can be adapted to become sustainable, healthy scholarly environment with permissive use of content, which also aligns the needs of science and scientists instead of creating a perverse system that promotes unreliable science. He initiated Liberate Science to work towards such a system.
+
+Name: Amel Ghouila
+Twitter: https://twitter.com/AmelGhouila
+Bio: A computer scientist by background, Amel earned her PhD in Bioinformatics and is currently a bioinformatician at Institut Pasteur de Tunis, where she works on the frame of the pan-African bioinformatics network H3ABionet supporting researchers and their projects while developing bioinformatics capacity throughout Africa. Amel is passionate about knowledge  transfer and working open to foster collaborations and innovation in the biomedical research field. She is also passionate about empowering and educating young girls, she launched the Technovation Challenge Tunisian chapter to help Tunisian girls learn how to address challenges in their communities by designing mobile applications.
