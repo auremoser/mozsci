@@ -2357,6 +2357,9 @@
 * responded to sarah's email about grant allocations for Mozfest
 * compiled counts and figures for fellows' costs
 * added to [cori's cocktail party](https://docs.google.com/spreadsheets/d/1oLqjdRsGQWVIuAoxB4XPK6rwDGGpjhR9wvwSlHSJS_I/edit#gid=0)
+* updated [stipend doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=5992444f#gid=0)
+* elevated Carlos' visa issue to Rizwan and Amy
+* waded through an insane list of issues from github about mozfest
 
 
 ## TODO
