@@ -2349,7 +2349,7 @@
 * rescheduled meeting with amel and antonio for november paris WOW
 * pinged michael d about contracts for remaining fellows
 * volunteered to host senior fellows' meetup at data & society for whiskey wednesday
-
+* booked flight for Mozfest and Host org onboarding
 
 
 ## TODO
