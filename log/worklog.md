@@ -2349,18 +2349,20 @@
 * rescheduled meeting with amel and antonio for november paris WOW
 * pinged michael d about contracts for remaining fellows
 * volunteered to host senior fellows' meetup at data & society for whiskey wednesday
-* booked flight for Mozfest and Host org onboarding
+* booked flight for Mozfest and Host org onboarding + airbnb
+* compiled issue for [network site](https://github.com/mozilla/network/issues/715)
+* sent out gdi event annoucncemnt
+* attended amy's session on okr 2.2
+* filled out [okr deep dive survey](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSeXFA77eo1wMEJGoqr-WdatXLWq5tnm9nB0h17FZL7W4035yQ/formResponse)
 
 
 ## TODO
-* mozfest processing (last picks by tomorrow) + [mozfest proposal overview tagging](https://docs.google.com/spreadsheets/d/1trGKpHn_U1v_GVoFLb7-ET0D6l7zV1Zm7lk4qWEAxNM/edit#gid=0)
-* book travel for mozfest
+
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
-* update website for [advocacy](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 
-GDI announcement
+
 Syllabus
 
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for 
