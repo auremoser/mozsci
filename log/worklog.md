@@ -2368,6 +2368,11 @@
 * working on visa issues for carlos and nasma
 * bio updates for the fellowships
 * worked through [schedule](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0) for onboarding with Amy
+* gave some feedback on the [candidates for coordinator role](https://docs.google.com/document/d/1RYg3WaVcWOdQ17z5Rx1UrGgM7KOmJjkEyCREGDibRl8/edit#)
+* met with Sarah, Kirstie, Jenn, Mehan about [open innovation call]()
+* 1:1 with Amy
+* talking points to Jessi for funders
+
 
 
 ## TODO
@@ -2378,6 +2383,8 @@
 * checkin with rishab for onboarding
 * introduce fellows to all company ford cc'd
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
+* remind host orgs to book travel for mozfest by x date
+* reach out to kevin, lotta, jesse about announcements of the fellow
 
 
 
