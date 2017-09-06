@@ -2372,6 +2372,7 @@
 * met with Sarah, Kirstie, Jenn, Mehan about [open innovation call]()
 * 1:1 with Amy
 * talking points to Jessi for funders
+* wrote to fragomen about carlos' visa
 
 
 
