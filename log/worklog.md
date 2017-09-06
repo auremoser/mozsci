@@ -2362,16 +2362,34 @@
 * waded through an insane list of issues from github about mozfest
 
 
+## 9/6/17
+* meeting with MB
+* meeting with Beatrice of aspiration tech
+* working on visa issues for carlos and nasma
+* bio updates for the fellowships
+* worked through [schedule](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=0) for onboarding with Amy
+
+
 ## TODO
 
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
+* checkin with rishab for onboarding
+* introduce fellows to all company ford cc'd
+* 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 
+
+
+* get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
+
+Michael
+
+Up to 4 rooms for Ford
 
 Syllabus
 
-* 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for 
+
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
