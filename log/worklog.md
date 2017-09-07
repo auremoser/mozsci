@@ -2384,6 +2384,10 @@
 * arrangements for SVA course this evening
 * met with steph for 1:1
 * merged arthur's spectacular [PR](https://github.com/mozillascience/studyGroup/pull/92)
+* submitted a pull request for [fellow' bios for science](https://github.com/mozilla/science.mozilla.org/pull/655)
+* sent epic finance email to fellows for owf and msl (direct deposit, info about reimbursements and expensify)
+* worked on advocacy website modifications
+
 
 
 
