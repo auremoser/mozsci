@@ -2019,6 +2019,7 @@
 * put together [goal and objectives doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit) with titles for amy
 * meeting about goals and roles with amy
 * meetig with sarah about fellowship goals and roles
+* sent fellows (OWF and MSL) finance info and direct deposit form for alexei
 
 ## 7/27/17
 
@@ -2381,6 +2382,8 @@
 * arrangements for tech exch fellows at Mozfest w/ Kristin [shared doc](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=751152421)
 * arrangements for d&s work  on Friday
 * arrangements for SVA course this evening
+* met with steph for 1:1
+* merged arthur's spectacular [PR](https://github.com/mozillascience/studyGroup/pull/92)
 
 
 
