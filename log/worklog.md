@@ -2374,6 +2374,14 @@
 * talking points to Jessi for funders
 * wrote to fragomen about carlos' visa
 
+## 9/7/17
+* flight approvals
+* arrangements for London lodging
+* email reminder about gdi event
+* arrangements for tech exch fellows at Mozfest w/ Kristin [shared doc](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=751152421)
+* arrangements for d&s work  on Friday
+* arrangements for SVA course this evening
+
 
 
 ## TODO
