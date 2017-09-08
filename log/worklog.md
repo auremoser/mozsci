@@ -2388,11 +2388,21 @@
 * sent epic finance email to fellows for owf and msl (direct deposit, info about reimbursements and expensify)
 * worked on advocacy website modifications
 
+## 9/8/17
+* lots of emails about Mozfest/Open Innovation, Fellows' onboarding, fellows announcement
+* wrote to Carlos about his remote attendance at Fellows' onboarding
+* processed some direct deposit forms for fellows through Alexei
+* grants meeting
+* meeting on the pasteur wow with zannah, antonio, steph
+* followup tasks for pasteur wow and rescheduling of followup meeting
+* hotel confirmations with esme for mozfest
+
 
 
 
 ## TODO
-
+* MONDAY - Send fellows' onboarding survey, 
+* send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
