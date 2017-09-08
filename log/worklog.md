@@ -2396,12 +2396,17 @@
 * meeting on the pasteur wow with zannah, antonio, steph
 * followup tasks for pasteur wow and rescheduling of followup meeting
 * hotel confirmations with esme for mozfest
+* email to kevin and lotta about comms
+* stephen's invites for interviews for the program help candidates
+* meeting with amy
+* meeting with d&s about logisitics for whiskey wednesday
 
 
 
 
 ## TODO
 * MONDAY - Send fellows' onboarding survey, 
+* send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite
 * send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
