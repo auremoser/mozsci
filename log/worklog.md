@@ -2401,6 +2401,7 @@
 * meeting with amy
 * meeting with d&s about logisitics for whiskey wednesday
 * added fellows' bios [2017-fellows-owf](https://github.com/mozilla/advocacy.mozilla.org/pull/382)
+* requested alan to PR
 
 
 
