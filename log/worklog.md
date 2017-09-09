@@ -2400,7 +2400,7 @@
 * stephen's invites for interviews for the program help candidates
 * meeting with amy
 * meeting with d&s about logisitics for whiskey wednesday
-
+* added fellows' bios [2017-fellows-owf](https://github.com/mozilla/advocacy.mozilla.org/pull/382)
 
 
 
