@@ -2402,6 +2402,7 @@
 * meeting with d&s about logisitics for whiskey wednesday
 * added fellows' bios [2017-fellows-owf](https://github.com/mozilla/advocacy.mozilla.org/pull/382)
 * requested alan to PR
+* gave requested feedback on this [mozfest sesh](https://github.com/MozillaFoundation/mozfest-program-2017/issues/189)
 
 
 
