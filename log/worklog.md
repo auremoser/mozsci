@@ -2404,6 +2404,13 @@
 * requested alan to PR
 * gave requested feedback on this [mozfest sesh](https://github.com/MozillaFoundation/mozfest-program-2017/issues/189)
 
+## 9/9/17
+* [science site blog post for fellows]( https://science.mozilla.org/blog/2017-science-fellows/)
+* [event post for october community call](https://science.mozilla.org/programs/events/community-call-oct-12-11-et)
+* lots of emails about travel for aleks and others
+* [open innovation meeting](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* canceled meeting with Steph
+
 
 
 ## TODO
