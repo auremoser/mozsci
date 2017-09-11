@@ -20,7 +20,7 @@ Host Org: Hollaback!
 Bio: Sarah is a data activist, operational security trainer, and programmer. Her work lies at the intersection of tech, human rights, and transformative justice. She’s collaborated with activists, journalists, grassroots social movements, and NGOs in the US and MENA region on digital security, ethical data & privacy, and data-driven storytelling. Sarah grew up in Lebanon and holds a B.A. in International Relations from Brown University.
 
 Name: Carlos Guerra
-Twitter:
+Twitter: [cguerrave](https://twitter.com/cguerrave)
 Host Org: Derechos Digitales
 Bio: Carlos works in information security training and auditing Human Rights defender organizations and independent media outlets in Latin America. He is one of the founders of Venezuela Inteligente, an NGO focused on the application of new technologies to promote participation and accountability. With this organization Carlos has worked in technical Internet censorship monitoring and Human Rights violations documentation. Carlos is particularly interested in Organizational Security, threat modelling, Human Rights incident documentation, electoral monitoring, technical censorship, surveillance and security controls. Carlos will be supporting Derechos Digitales by developing research, awareness and education projects on privacy, surveillance, security and compliance online.
 

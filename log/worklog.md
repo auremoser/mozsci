@@ -2410,6 +2410,8 @@
 * lots of emails about travel for aleks and others
 * [open innovation meeting](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 * canceled meeting with Steph
+* updated our blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
+* attended monthly internal call
 
 
 
