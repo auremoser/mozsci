@@ -2412,11 +2412,16 @@
 * canceled meeting with Steph
 * updated our blog [content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=627543605)
 * attended monthly internal call
+* melissa's o.k.r. call
+* interview new teammate
+* blog [fellows thing with kevin](https://docs.google.com/document/d/1tZNAHVaUy95CwG_fF05bSAtcSafA0XsE1EUlmDKoh9I/edit?ts=59b6f5c6)
+* worked on aleksandar's egencia issue
+* added to fellowships [learnings doc](https://docs.google.com/document/d/1vX46FYAwATpvqpMrw63fxL1_COKOYPtNOuSJ6Ihqf8g/edit)
 
 
 
 ## TODO
-* MONDAY - Send fellows' onboarding survey, 
+* Wednesday - Send fellows' onboarding survey, 
 * send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite
 * send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
