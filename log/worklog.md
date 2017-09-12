@@ -2418,6 +2418,16 @@
 * worked on aleksandar's egencia issue
 * added to fellowships [learnings doc](https://docs.google.com/document/d/1vX46FYAwATpvqpMrw63fxL1_COKOYPtNOuSJ6Ihqf8g/edit)
 
+## 9/10/17
+* email, scheduling, onboarding details to funders
+* lots of emails for fellow related activities
+* chats with amanda about logistics
+* scheduling time with freedman consulting
+* added a Study Group Event to django
+* updated events page; logged [events bug for alan](https://github.com/mozilla/science.mozilla.org/issues/656)
+* responded to graphics request from Kevin for [fellows graphics]()
+* [mofo staff call](https://docs.google.com/document/d/1A1bAbnyASpsjkkeUXNj7VYWxx7aqBx_NCGyy_B4peuc/edit)
+
 
 
 ## TODO
