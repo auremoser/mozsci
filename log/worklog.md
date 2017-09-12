@@ -2428,10 +2428,13 @@
 * responded to graphics request from Kevin for [fellows graphics]()
 * [mofo staff call](https://docs.google.com/document/d/1A1bAbnyASpsjkkeUXNj7VYWxx7aqBx_NCGyy_B4peuc/edit)
 * sent study group africa update and etherpad to african contacts
+* sent selvon details
+* tech talk with jlin - specifics for setting up remote fellows, remote participants, record sessions for wednesday thursday 
 
 
 
 ## TODO
+* sent factoids about tardigrades and flipchart requirements to Amanda
 * Wednesday - Send fellows' onboarding survey, 
 * send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite
 * send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
@@ -2516,7 +2519,8 @@ Syllabus
 	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
 	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
 	* [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0)
-	* [planning spreadsheets]()
+	* [planning spreadsheets](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit?ts=59b7159b#gid=1390598546)
+	* [senior fellows' meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 
 	FELLOWS
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
