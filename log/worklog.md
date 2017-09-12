@@ -2427,6 +2427,7 @@
 * updated events page; logged [events bug for alan](https://github.com/mozilla/science.mozilla.org/issues/656)
 * responded to graphics request from Kevin for [fellows graphics]()
 * [mofo staff call](https://docs.google.com/document/d/1A1bAbnyASpsjkkeUXNj7VYWxx7aqBx_NCGyy_B4peuc/edit)
+* sent study group africa update and etherpad to african contacts
 
 
 
