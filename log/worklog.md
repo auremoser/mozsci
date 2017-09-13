@@ -2441,6 +2441,13 @@
 * open innovation updates
 * senior fellows invite for D&S
 * [grant meeting](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit) with kalpana
+* update to invite list for d&s [here](https://docs.google.com/spreadsheets/d/1oLqjdRsGQWVIuAoxB4XPK6rwDGGpjhR9wvwSlHSJS_I/edit#gid=0) associated email to rizwan, amy and cori
+* network story telling chat with chris
+* sent scott the [meta information](https://css-tricks.com/essential-meta-tags-social-media/) for fbook cards
+* updates to the survey so fellows can fill it out
+* copious PRs and updates to fellows' bios
+* details to cynthia about logistics for jenny at the onboarding
+* closed issues related to science and advocacy sites
 
 
 
@@ -2450,8 +2457,6 @@
 
 * #mozfellows hashtag - tweet from science accounts, personal account
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
-* post blog for science
-* send update to fellows
 * sent factoids about tardigrades and flipchart requirements to Amanda
 * Wednesday - Send fellows' onboarding survey, 
 * send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite: https://www.eventbrite.com/e/ww-with-special-guests-from-mozilla-tickets-37814509215
