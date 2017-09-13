@@ -2437,12 +2437,19 @@
 * update fellows blogs and bios
 * pr to [update rebecca's blog](https://github.com/mozilla/advocacy.mozilla.org/pull/389)
 * [fellowships checkin](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* lots of website updates
+* open innovation updates
+* senior fellows invite for D&S
+* [grant meeting](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit) with kalpana
 
 
 
 
 ## TODO
+* send Kalpana info about RSVPs for onboarding
+
 * #mozfellows hashtag - tweet from science accounts, personal account
+* add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * post blog for science
 * send update to fellows
 * sent factoids about tardigrades and flipchart requirements to Amanda
