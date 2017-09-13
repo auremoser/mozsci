@@ -2431,7 +2431,7 @@
 * sent selvon details about booking travel, coordinated expensify wiht alexei
 * tech talk with jlin - specifics for setting up remote fellows, remote participants, record sessions for wednesday thursday 
 * interview for support position!
-* 
+
 
 ## 9/13/17
 * update fellows blogs and bios
@@ -2448,6 +2448,7 @@
 * copious PRs and updates to fellows' bios
 * details to cynthia about logistics for jenny at the onboarding
 * closed issues related to science and advocacy sites
+* commented on [scott's pr](https://github.com/mozilla/advocacy.mozilla.org/pull/391)
 
 
 
