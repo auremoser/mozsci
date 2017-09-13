@@ -2428,15 +2428,26 @@
 * responded to graphics request from Kevin for [fellows graphics]()
 * [mofo staff call](https://docs.google.com/document/d/1A1bAbnyASpsjkkeUXNj7VYWxx7aqBx_NCGyy_B4peuc/edit)
 * sent study group africa update and etherpad to african contacts
-* sent selvon details
+* sent selvon details about booking travel, coordinated expensify wiht alexei
 * tech talk with jlin - specifics for setting up remote fellows, remote participants, record sessions for wednesday thursday 
+* interview for support position!
+* 
+
+## 9/13/17
+* update fellows blogs and bios
+* pr to [update rebecca's blog](https://github.com/mozilla/advocacy.mozilla.org/pull/389)
+* [fellowships checkin](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+
 
 
 
 ## TODO
+* #mozfellows hashtag - tweet from science accounts, personal account
+* post blog for science
+* send update to fellows
 * sent factoids about tardigrades and flipchart requirements to Amanda
 * Wednesday - Send fellows' onboarding survey, 
-* send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite
+* send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite: https://www.eventbrite.com/e/ww-with-special-guests-from-mozilla-tickets-37814509215
 * send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
@@ -2450,12 +2461,6 @@
 
 
 * get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
-
-Michael
-
-Up to 4 rooms for Ford
-
-Syllabus
 
 
 * send out newsletter updates
