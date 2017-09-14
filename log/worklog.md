@@ -2452,12 +2452,18 @@
 * invites to fellows' onboarding guests
 * response to amanda about schedule f'up
 
-
+## 9/14/17
+* space wrangler calls [notes](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* meeting with amy
+* lots of onboarding work
 
 
 
 ## TODO
 * send Kalpana info about RSVPs for onboarding
+* availability fo etienne and berhan
+* kevin persona building
+* send to jenny
 
 * #mozfellows hashtag - tweet from science accounts, personal account
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
