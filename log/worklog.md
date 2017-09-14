@@ -2449,6 +2449,9 @@
 * details to cynthia about logistics for jenny at the onboarding
 * closed issues related to science and advocacy sites
 * commented on [scott's pr](https://github.com/mozilla/advocacy.mozilla.org/pull/391)
+* invites to fellows' onboarding guests
+* response to amanda about schedule f'up
+
 
 
 
