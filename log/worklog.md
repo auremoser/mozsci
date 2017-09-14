@@ -2456,6 +2456,9 @@
 * space wrangler calls [notes](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * meeting with amy
 * lots of onboarding work
+* ama about mozfest
+* reached out to etienne and berhan about lightning talks
+* worked on badge text
 
 
 
