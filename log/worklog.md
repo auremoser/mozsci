@@ -2458,12 +2458,16 @@
 * lots of onboarding work
 * ama about mozfest
 * reached out to etienne and berhan about lightning talks
-* worked on badge text
+* worked on badge text to Amanda for onboarding
+* [staff schedule for Mozfest](https://public.etherpad-mozilla.org/p/festival.MozFest.brownbag17)
+* interview with other candidate for help role
+* update on [budget for kalpana + amy](https://docs.google.com/spreadsheets/d/1O85JnCOIRdh3Qx6mAvzC0XIokXiGhIfIzvKYSEWaa0s/edit?ts=59badd64#gid=0)
 
 
 
 ## TODO
 * send Kalpana info about RSVPs for onboarding
+* festival@mozilla.org - titus' tickets (send email address)
 * availability fo etienne and berhan
 * kevin persona building
 * send to jenny
@@ -2509,6 +2513,7 @@
 	* [Invites](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 
 * MOZFEST
+	* [staff schedule for Mozfest](https://public.etherpad-mozilla.org/p/festival.MozFest.brownbag17)
 	* [open innovation folder](https://drive.google.com/drive/folders/0BwZzmiG9MvT4WW9lcmMydWFwV2c)
 	* [open innovation sessions sheet](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
 	* [Fellows at Mozfest schedule](https://docs.google.com/spreadsheets/d/1wXTcPOAm-X8CJgTE5ajT1hSIehvYDn_IepHESy82dO8/edit?ts=5994837b#gid=467091265)
