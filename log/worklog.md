@@ -2471,6 +2471,8 @@
 * email to wow pasteur team about schedule updates in the [pasteur planning doc]()
 * provided context and help on amy's draft [script for the program](https://docs.google.com/document/d/1Y1FVNTV5OOvPmeYh_HJb8_LzzuR36vW7VuFBD4xdHGc/edit?ts=59bbec3e)
 * sent sarah 7 recommendations for board meeting at mozfest
+* updated OWF [faq document](https://docs.google.com/document/d/1WLfmXOtIO4rtynR1pi6ekO0-NMjRFkVtLea3T8_KJ3o/edit#)
+* submitted PR for updating OWF website with FAQ info
 
 
 
