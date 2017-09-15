@@ -2470,6 +2470,7 @@
 * email to maya about train travel reimbursement
 * email to wow pasteur team about schedule updates in the [pasteur planning doc]()
 * provided context and help on amy's draft [script for the program](https://docs.google.com/document/d/1Y1FVNTV5OOvPmeYh_HJb8_LzzuR36vW7VuFBD4xdHGc/edit?ts=59bbec3e)
+* sent sarah 7 recommendations for board meeting at mozfest
 
 
 
