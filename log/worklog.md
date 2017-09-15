@@ -2473,33 +2473,28 @@
 * sent sarah 7 recommendations for board meeting at mozfest
 * updated OWF [faq document](https://docs.google.com/document/d/1WLfmXOtIO4rtynR1pi6ekO0-NMjRFkVtLea3T8_KJ3o/edit#)
 * submitted [PR](https://github.com/mozilla/advocacy.mozilla.org/pull/392) for updating OWF website with FAQ information
+* jlin av email
 
 
 
 
 ## TODO
+* followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * send Kalpana info about RSVPs for onboarding
 * festival@mozilla.org - titus' tickets (send email address)
 * availability fo etienne and berhan
-* kevin persona building
+* kevin + lotta - persona building
 * send to jenny
 
-* #mozfellows hashtag - tweet from science accounts, personal account
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * sent factoids about tardigrades and flipchart requirements to Amanda
-* Wednesday - Send fellows' onboarding survey, 
-* send out whiskey wed things 2-3 weeks in advance - tuesday the eventbrite: https://www.eventbrite.com/e/ww-with-special-guests-from-mozilla-tickets-37814509215
-* send antonio logos / svg for wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
-* followup with Story + host orgs on to-do sheet (sept. 23rd due)
+* wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
+
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
 * checkin with rishab for onboarding
-* introduce fellows to all company ford cc'd
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 * remind host orgs to book travel for mozfest by x date
-* reach out to kevin, lotta, jesse about announcements of the fellow
-
-
 
 * get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
 
@@ -2514,7 +2509,6 @@
 * put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * develop community development prospectus for fellowship programs
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
-* catchup on last two [space wrangler calls](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 
 
