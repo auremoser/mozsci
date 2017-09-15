@@ -2463,6 +2463,15 @@
 * interview with other candidate for help role
 * update on [budget for kalpana + amy](https://docs.google.com/spreadsheets/d/1O85JnCOIRdh3Qx6mAvzC0XIokXiGhIfIzvKYSEWaa0s/edit?ts=59badd64#gid=0)
 
+## 9/15/17
+* meeting about [legal considerations](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit)
+* email to aleks and fragomen about visa
+* email to rebecca about hotel
+* email to maya about train travel reimbursement
+* email to wow pasteur team about schedule updates in the [pasteur planning doc]()
+* provided context and help on amy's draft [script for the program](https://docs.google.com/document/d/1Y1FVNTV5OOvPmeYh_HJb8_LzzuR36vW7VuFBD4xdHGc/edit?ts=59bbec3e)
+
+
 
 
 ## TODO
