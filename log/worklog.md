@@ -2489,6 +2489,7 @@
 *  maria/derechos digitales (email reminder about MOU terms)
 * email start draft to aleks about other terms
 * emailed sarah k about visa for Toronto
+* put together PI [Alumni mini-grants strategy](https://docs.google.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit#)
 
 
 
@@ -2496,6 +2497,8 @@
 * get amy draft on pi plan
 * egencia cancelation for aleksandar - toronto
 
+* WEDNESDAY email fellows schedule
+* WEDNESDAY email host orgs reminder about workplans
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * send Kalpana info about RSVPs for onboarding
 * festival@mozilla.org - titus' tickets (send email address)
