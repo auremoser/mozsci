@@ -2475,6 +2475,9 @@
 * submitted [PR](https://github.com/mozilla/advocacy.mozilla.org/pull/392) for updating OWF website with FAQ information
 * jlin av email
 
+##9/17/17
+* sent out 21 Mozfest gallery responses to session facillitators for the gallery
+* wrote invites for folks attending our onboarding
 
 
 
