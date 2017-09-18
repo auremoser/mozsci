@@ -2485,6 +2485,10 @@
 * called egencia on behalf of aleksandar to cancel flight
 * wrote back to lawyers about Aleks
 * wrangler email update with to dos
+* note to abby about [host org mou](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
+*  maria/derechos digitales (email reminder about MOU terms)
+* email start draft to aleks about other terms
+* emailed sarah k about visa for Toronto
 
 
 
@@ -2503,6 +2507,7 @@
 * sent factoids about tardigrades and flipchart requirements to Amanda
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 
+* revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
 * checkin with rishab for onboarding
