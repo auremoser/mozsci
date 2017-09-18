@@ -2478,11 +2478,19 @@
 ##9/17/17
 * sent out 21 Mozfest gallery responses to session facillitators for the gallery
 * wrote invites for folks attending our onboarding
+* sent summary text to Lucie
+* wrote a lot of emails about mozfest, steffania's stipend
+* open innovation [checkin](https://public.etherpad-mozilla.org/p/mozfest-openinnovation#lineNumber=79)
+* times sent to phia for property management
+* called egencia on behalf of aleksandar to cancel flight
+* wrote back to lawyers about Aleks
+* wrangler email update with to dos
 
 
 
 ## TODO
 * get amy draft on pi plan
+* egencia cancelation for aleksandar - toronto
 
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * send Kalpana info about RSVPs for onboarding
