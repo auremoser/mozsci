@@ -2482,6 +2482,8 @@
 
 
 ## TODO
+* get amy draft on pi plan
+
 * followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * send Kalpana info about RSVPs for onboarding
 * festival@mozilla.org - titus' tickets (send email address)
