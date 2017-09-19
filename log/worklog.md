@@ -2492,7 +2492,12 @@
 * put together PI [Alumni mini-grants strategy](https://docs.google.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit#)
 * update [katt taylor on service now ticket](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=0f09534a13e00f00472ed2f18144b0a3)
 
-
+## 9/19/17
+* change sarah's twitter on advocacy website
+* information about rush visas
+* updated aleksandar's visa situation
+* got back to steffania about mozfest
+* updated [mozfest session materials](https://github.com/MozillaFoundation/mozfest-program-2017/issues/231)
 
 ## TODO
 * get amy draft on pi plan
