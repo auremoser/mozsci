@@ -2498,6 +2498,7 @@
 * updated aleksandar's visa situation
 * got back to steffania about mozfest
 * updated [mozfest session materials](https://github.com/MozillaFoundation/mozfest-program-2017/issues/231)
+* sent event agenda plans [public](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding) to fellowships team for onboarding
 
 ## TODO
 * get amy draft on pi plan
