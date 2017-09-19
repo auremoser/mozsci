@@ -2499,10 +2499,15 @@
 * got back to steffania about mozfest
 * updated [mozfest session materials](https://github.com/MozillaFoundation/mozfest-program-2017/issues/231)
 * sent event agenda plans [public](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding) to fellowships team for onboarding
+* checkin with rishab, carlos
+* calendar invite to checkin with Aleksandar
+* hotel covereage for natalia with esme
+* responded to [npscience's github requests](https://github.com/MozillaFoundation/mozfest-program-2017/issues/574#issuecomment-330501623)
 
 ## TODO
-* get amy draft on pi plan
-* egencia cancelation for aleksandar - toronto
+
+* THURSDAYegencia cancelation for Carlos - toronto
+* rishab, carlos and aleksandar's AV invites
 
 * WEDNESDAY email fellows schedule
 * WEDNESDAY email host orgs reminder about workplans
