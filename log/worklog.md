@@ -2527,11 +2527,18 @@
 * created [BPL worklplan](https://docs.google.com/document/d/122qrUARlwVoowC7sgbNZztOOML-kIbuXbdX-RhVFOXs/edit?usp=sharing)
 * updated [internal master with details for new lead of BPL stuff](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=1070323498)
 * rishab, carlos and aleksandar's AV invites, preemptive for Orlando + Sarah
+* sent email to all fellows about onboarding next week, logistics, hotel confirmations etcet
+* [hotel list]()
+* sent email to cynthia about the cc for jenny
+* sent email to each host organization about work plan reminders
+* checked in with Amanda about various logistics
+* submitted a [gratitude for amanda](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfhbWNJ6RCVJuL88lBazVkk8FEkBThCsmji18rJX1fKPIe0BA/formResponse)
+
 
 ## TODO
 
-* THURSDAY - egencia cancelation for Carlos - toronto
-* rishab, carlos and aleksandar's AV invites
+* THURSDAY - egencia cancelation for Carlos - toronto, move flight for sarah, cancel for orlando?
+* fill out david giles meeting stuff
 
 create a folder for the fellows' onboarding with:
 - stipend overview document
