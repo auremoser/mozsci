@@ -2506,13 +2506,16 @@
 * took two hours to fill out strategy document and answered some questions for [rizwan on fellowship country counts](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c15156#)
 * sent agenda to Jenny's [assistant](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
 * updated monday restaurant details for onboarding
-* filled out [fellows record]() spreadsheet
+* filled out [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0) spreadsheet
 * finished out learning forum sessions and sent to open innovation team
 * sent welcome invite to 11 facilitators
 * responded to comments in rizwan's strategy doc
 * sent a reminder to Michael for contracts
 
 ## 9/20/17
+* drafted letter of support for Marc Galland
+* sent letter of support to Steph
+* sent out fellowship role to alumni fellows
 
 ## TODO
 
