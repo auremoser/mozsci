@@ -2526,6 +2526,7 @@
 * met with David Giles, updating his info in the docs for OWF, replacement for Story
 * created [BPL worklplan](https://docs.google.com/document/d/122qrUARlwVoowC7sgbNZztOOML-kIbuXbdX-RhVFOXs/edit?usp=sharing)
 * updated [internal master with details for new lead of BPL stuff](https://docs.google.com/spreadsheets/d/15PvtRbJVJxwPnov6NY7cvMCAlSTxvv0hdFPStZSIpS8/edit#gid=1070323498)
+* rishab, carlos and aleksandar's AV invites, preemptive for Orlando + Sarah
 
 ## TODO
 
