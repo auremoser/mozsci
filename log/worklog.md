@@ -2518,11 +2518,20 @@
 * sent out fellowship role to alumni fellows
 * meeting with Aleksandar about fellowships
 * sent Jlin update AV email for onboarding next week
+* sent Kevin fellows' spotlight details
+* confirmed some dates with Ann Marie
+* wrote to sarah about contract caveat
+* wrote back to abby and lawyers about contracts
+* updated [bug] with sarah's details
 
 ## TODO
 
 * THURSDAY - egencia cancelation for Carlos - toronto
 * rishab, carlos and aleksandar's AV invites
+
+create a folder for the fellows' onboarding with:
+- stipend overview document
+- tax and immigration considerations
 
 * WEDNESDAY email fellows schedule
 * WEDNESDAY email host orgs reminder about workplans
