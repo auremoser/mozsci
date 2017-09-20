@@ -2512,6 +2512,8 @@
 * responded to comments in rizwan's strategy doc
 * sent a reminder to Michael for contracts
 
+## 9/20/17
+
 ## TODO
 
 * THURSDAY - egencia cancelation for Carlos - toronto
