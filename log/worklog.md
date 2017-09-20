@@ -2503,10 +2503,18 @@
 * calendar invite to checkin with Aleksandar
 * hotel covereage for natalia with esme
 * responded to [npscience's github requests](https://github.com/MozillaFoundation/mozfest-program-2017/issues/574#issuecomment-330501623)
+* took two hours to fill out strategy document and answered some questions for [rizwan on fellowship country counts](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c15156#)
+* sent agenda to Jenny's [assistant](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
+* updated monday restaurant details for onboarding
+* filled out [fellows record]() spreadsheet
+* finished out learning forum sessions and sent to open innovation team
+* sent welcome invite to 11 facilitators
+* responded to comments in rizwan's strategy doc
+* sent a reminder to Michael for contracts
 
 ## TODO
 
-* THURSDAYegencia cancelation for Carlos - toronto
+* THURSDAY - egencia cancelation for Carlos - toronto
 * rishab, carlos and aleksandar's AV invites
 
 * WEDNESDAY email fellows schedule
