@@ -2516,6 +2516,8 @@
 * drafted letter of support for Marc Galland
 * sent letter of support to Steph
 * sent out fellowship role to alumni fellows
+* meeting with Aleksandar about fellowships
+* sent Jlin update AV email for onboarding next week
 
 ## TODO
 
