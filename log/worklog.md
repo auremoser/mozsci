@@ -2534,6 +2534,17 @@
 * checked in with Amanda about various logistics
 * submitted a [gratitude for amanda](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfhbWNJ6RCVJuL88lBazVkk8FEkBThCsmji18rJX1fKPIe0BA/formResponse)
 
+## 9/21/17
+* call with dirk at BPL to go over workplans
+* call with mozfest wranglers [here](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* updates to open innovation etherpad
+* updates to [wrangler final schedule](https://public.etherpad-mozilla.org/p/mozfest-openinnovation) based on copious emails from participants
+* created debriefs next week
+* added pop details to debriefs
+* added wine wednesdays to schedule for toronto office onboarding next week
+* updated details for carlos' contract in bug
+
+
 
 ## TODO
 
