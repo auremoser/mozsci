@@ -2535,7 +2535,8 @@
 * submitted a [gratitude for amanda](https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfhbWNJ6RCVJuL88lBazVkk8FEkBThCsmji18rJX1fKPIe0BA/formResponse)
 
 ## 9/21/17
-* call with dirk at BPL to go over workplans
+* fill out david giles meeting stuff
+* call with david giles at BPL to go over workplans
 * call with mozfest wranglers [here](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * updates to open innovation etherpad
 * updates to [wrangler final schedule](https://public.etherpad-mozilla.org/p/mozfest-openinnovation) based on copious emails from participants
@@ -2543,29 +2544,30 @@
 * added pop details to debriefs
 * added wine wednesdays to schedule for toronto office onboarding next week
 * updated details for carlos' contract in bug
-
+* [x] followup with Steph about Siegel attendance and adjusted schedule
+* [x]followup with Cynthia about amended schedule for Jenny
+* [x] confirm changes with Amy + Rizwan and then white-out the blue parts in the schedule
+* [x] setup optional calendar assignments for internal EOD debriefs
+* meeting with amanda about mozfest
+* updated bug for [carlos' contract](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334) + emailed abby
 
 
 ## TODO
 
-* THURSDAY - egencia cancelation for Carlos - toronto, move flight for sarah, cancel for orlando?
-* fill out david giles meeting stuff
+ONBOARDING
 
-create a folder for the fellows' onboarding with:
-- stipend overview document
-- tax and immigration considerations
+* FRIDAY - egencia cancelation for Carlos - toronto, move flight for sarah, cancel for orlando?
+* cancel fellows flights
+* prepare any remaining sessions 
+* create a folder for the fellows' onboarding with:
+	* stipend overview document
+	* tax and immigration considerations
 
-* WEDNESDAY email fellows schedule
-* WEDNESDAY email host orgs reminder about workplans
-* followup with Story + host orgs on to-do sheet (sept. 23rd due)
 * send Kalpana info about RSVPs for onboarding
 * festival@mozilla.org - titus' tickets (send email address)
-* availability fo etienne and berhan
 * kevin + lotta - persona building
-* send to jenny
 
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
-* sent factoids about tardigrades and flipchart requirements to Amanda
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
