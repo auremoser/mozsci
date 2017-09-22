@@ -2558,6 +2558,9 @@
 * pull request for faq updates to the [advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/394)
 * last minute logistics with Alexei and Amanda about Sunday credit card
 * yay, all fellows agreements sent for signature
+* reminder email to remoties
+* meetign with joey
+* emails for voqal fellowship
 
 
 
