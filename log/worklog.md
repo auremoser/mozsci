@@ -2554,6 +2554,9 @@
 ## 9/22/17
 * emailed sarah and orlando about visas
 * updated [bug for last remaining contracts](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+* checkin about hotel rooms with esme for [mozfest fellows hotels](https://docs.google.com/spreadsheets/d/1uIBPqtGnClnORofszlVHtsGS0_pJEWn6w9XNmYmyha0/edit#gid=0)
+* pull request for faq updates to the [advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/394)
+* last minute logistics with Alexei and Amanda about Sunday credit card
 
 
 
