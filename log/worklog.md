@@ -2553,6 +2553,8 @@
 
 ## 9/22/17
 * emailed sarah and orlando about visas
+* updated [bug for last remaining contracts](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+
 
 
 ## TODO
