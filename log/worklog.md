@@ -2561,6 +2561,9 @@
 * reminder email to remoties
 * meetign with joey
 * emails for voqal fellowship
+* updated location data in table for [fellowship report](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c26f90#)
+* got back to Beatrice with broader strategy and fellowship history documents for the Host Org onboarding
+
 
 
 
