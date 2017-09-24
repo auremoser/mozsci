@@ -2562,8 +2562,7 @@
 * meetign with joey
 * emails for voqal fellowship
 * updated location data in table for [fellowship report](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c26f90#)
-* got back to Beatrice with broader strategy and fellowship history documents for the Host Org onboarding
-
+* get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
 
 
 
@@ -2571,8 +2570,6 @@
 
 ONBOARDING
 
-* FRIDAY - egencia cancelation for Carlos - toronto, move flight for sarah, cancel for orlando?
-* cancel fellows flights
 * prepare any remaining sessions 
 * create a folder for the fellows' onboarding with:
 	* stipend overview document
@@ -2585,6 +2582,9 @@ ONBOARDING
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 
+
+* OCT 5 FINISH FELLOWS' RECORD [here](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
+
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
@@ -2592,7 +2592,7 @@ ONBOARDING
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 * remind host orgs to book travel for mozfest by x date
 
-* get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
+
 
 
 * send out newsletter updates
