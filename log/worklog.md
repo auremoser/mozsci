@@ -2564,6 +2564,15 @@
 * updated location data in table for [fellowship report](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c26f90#)
 * get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
 
+## 9/23/17
+* sent welcome email
+* flew to Toronto
+* setup the room and swag with steph
+* ordered bagels
+* made arrangements for evening sit-down
+* lots of github issues for Mozfest
+* 
+
 
 
 ## TODO
@@ -2592,15 +2601,11 @@ ONBOARDING
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 * remind host orgs to book travel for mozfest by x date
 
-
-
-
 * send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
 * flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
-* checklist for fellows followup with mandy
-* look at Arthur's PR
+
 * make fellows repo fellows-class-2017 + gitter
 * put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * develop community development prospectus for fellowship programs
