@@ -2571,7 +2571,7 @@
 * ordered bagels
 * made arrangements for evening sit-down
 * lots of github issues for Mozfest
-* 
+* workweek prep/onboarding
 
 
 
