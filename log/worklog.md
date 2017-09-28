@@ -2564,7 +2564,7 @@
 * updated location data in table for [fellowship report](https://docs.google.com/document/d/1zC-Mdpl43pC55XbV9RyT4YoqCl0YWEDF5nQ3DhvDvz0/edit?ts=59c26f90#)
 * get beatrice aspiration meeting - share lessons learned, share template workplan, list of outcomes/goals for the event and also for the year of fellowships bullet points (measurable things the determine success)
 
-## 9/23/17
+## 9/23/17 - 9/24/17
 * sent welcome email
 * flew to Toronto
 * setup the room and swag with steph
@@ -2572,6 +2572,7 @@
 * made arrangements for evening sit-down
 * lots of github issues for Mozfest
 * workweek prep/onboarding
+* logistics with fellows, overviews of ldaps and other considerations
 
 
 
