@@ -2573,6 +2573,9 @@
 * lots of github issues for Mozfest
 * workweek prep/onboarding
 * logistics with fellows, overviews of ldaps and other considerations
+* updated [mofo electives](https://docs.google.com/document/d/1nzWkmlUA_v1JqLJTz79cQowM3kYZplhmKxocaCG8Qvg/edit)
+
+* sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
 
 
 
