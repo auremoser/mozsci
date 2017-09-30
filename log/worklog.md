@@ -2574,6 +2574,7 @@
 * workweek prep/onboarding
 * logistics with fellows, overviews of ldaps and other considerations
 * updated [mofo electives](https://docs.google.com/document/d/1nzWkmlUA_v1JqLJTz79cQowM3kYZplhmKxocaCG8Qvg/edit)
+* updated [metrics contact list for science lab metrics](https://docs.google.com/spreadsheets/d/1oqdxmz3iGLHIOdn0XrEtUS-AF-NCqpBWAK1WrwZkRjc/edit?ts=59cf1653#gid=0)
 
 * sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
 
