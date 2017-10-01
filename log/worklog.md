@@ -2580,6 +2580,7 @@
 
 ## 9/25/17
 * thank you notes to all guest speakers last week
+* sent community call speaker invites
 
 
 * sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
