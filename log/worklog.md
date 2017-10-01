@@ -2581,6 +2581,7 @@
 ## 9/25/17
 * thank you notes to all guest speakers last week
 * sent community call speaker invites
+* gave rizwan feedback on his [fellowships strategy doc](https://docs.google.com/document/d/1dPmysL8RCH6ybriMf420m1mGF1W72uH2inEiHmL3o-Q/edit?ts=59c8dc09#)
 
 
 * sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
