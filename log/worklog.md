@@ -2575,6 +2575,12 @@
 * logistics with fellows, overviews of ldaps and other considerations
 * updated [mofo electives](https://docs.google.com/document/d/1nzWkmlUA_v1JqLJTz79cQowM3kYZplhmKxocaCG8Qvg/edit)
 * updated [metrics contact list for science lab metrics](https://docs.google.com/spreadsheets/d/1oqdxmz3iGLHIOdn0XrEtUS-AF-NCqpBWAK1WrwZkRjc/edit?ts=59cf1653#gid=0)
+* backlog of emails lots
+* x send Kalpana info about RSVPs for onboarding
+
+## 9/25/17
+* thank you notes to all guest speakers last week
+
 
 * sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
 
@@ -2584,14 +2590,13 @@
 
 ONBOARDING
 
+* archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
+)
 * prepare any remaining sessions 
 * create a folder for the fellows' onboarding with:
 	* stipend overview document
 	* tax and immigration considerations
 
-* send Kalpana info about RSVPs for onboarding
-* festival@mozilla.org - titus' tickets (send email address)
-* kevin + lotta - persona building
 
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
