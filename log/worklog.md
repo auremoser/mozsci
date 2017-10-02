@@ -2582,9 +2582,10 @@
 * thank you notes to all guest speakers last week
 * sent community call speaker invites
 * gave rizwan feedback on his [fellowships strategy doc](https://docs.google.com/document/d/1dPmysL8RCH6ybriMf420m1mGF1W72uH2inEiHmL3o-Q/edit?ts=59c8dc09#)
+* updated [rsvp sheet](https://docs.google.com/spreadsheets/d/1zkKEyulUfiwu340k913AiuTO0SGDEWaxqOc--FAXipo/edit?ts=59d24482#gid=1187488622)
+* sent introduction to Beatrice- sent email from [aspiration](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting) to all
+* filled out [more dietary constraints for owf](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 
-
-* sent email from aspiration: https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting
 
 
 
@@ -2603,7 +2604,7 @@ ONBOARDING
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 
-
+* [SENIOR FELLOWS MEETING October 3rd and 4th meeting](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 * OCT 5 FINISH FELLOWS' RECORD [here](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
 
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
