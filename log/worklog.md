@@ -2585,6 +2585,8 @@
 * updated [rsvp sheet](https://docs.google.com/spreadsheets/d/1zkKEyulUfiwu340k913AiuTO0SGDEWaxqOc--FAXipo/edit?ts=59d24482#gid=1187488622)
 * sent introduction to Beatrice- sent email from [aspiration](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting) to all
 * filled out [more dietary constraints for owf](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+* gave feedback on the [mozilla research grants](https://screendoor.dobt.co/mozilla-research/mozilla-research-grants-2017h2/admin/responses/64)
+* went through host org onboarding [survey details](https://docs.google.com/spreadsheets/d/1ZnqsVbwCWbIDpC_qE4ZBQLn3hKBOvPmPLUM65H5pW-U/edit#gid=1071258836)
 
 
 
