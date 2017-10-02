@@ -2587,6 +2587,8 @@
 * filled out [more dietary constraints for owf](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 * gave feedback on the [mozilla research grants](https://screendoor.dobt.co/mozilla-research/mozilla-research-grants-2017h2/admin/responses/64)
 * went through host org onboarding [survey details](https://docs.google.com/spreadsheets/d/1ZnqsVbwCWbIDpC_qE4ZBQLn3hKBOvPmPLUM65H5pW-U/edit#gid=1071258836)
+* completed open web fellows' [individual sheets](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?ts=59d25e00#gid=1016761308)
+* worked on the [fellows' record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0) a bit
 
 
 
