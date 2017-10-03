@@ -2604,6 +2604,7 @@
 * planned some dinner logistics with ann marie and amanda for mozfest
 * asked kalpana about Étienne's budget line
 * figured out [science fair tables for mozfest](https://docs.google.com/spreadsheets/d/1afGyoZ895OLCCpqyyVI3fVM3kHTzGCvBVyMCXuxrhGE/edit#gid=1786934830)
+* added [rsvps for fellows' dinner here](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=876912213)
 
 
 
@@ -2627,8 +2628,7 @@ ONBOARDING
 
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
-* get on Amy's email about doing collective intelligence/strategy, plan for PI solution, finalize OWF work stuff
-* checkin with rishab for onboarding
+
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 * remind host orgs to book travel for mozfest by x date
 
