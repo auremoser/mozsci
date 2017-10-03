@@ -2600,6 +2600,8 @@
 * checked in about study group call with Zannah
 * working on finance forms for alexei
 * checkin with amanda about logistics for mozfest week
+* wrote to CERN webfest winner about mozfest table
+* planned some dinner logistics with ann marie and amanda for mozfest
 
 
 
