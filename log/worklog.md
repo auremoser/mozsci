@@ -2603,6 +2603,7 @@
 * wrote to CERN webfest winner about mozfest table
 * planned some dinner logistics with ann marie and amanda for mozfest
 * asked kalpana about Étienne's budget line
+* figured out [science fair tables for mozfest](https://docs.google.com/spreadsheets/d/1afGyoZ895OLCCpqyyVI3fVM3kHTzGCvBVyMCXuxrhGE/edit#gid=1786934830)
 
 
 
