@@ -2589,6 +2589,8 @@
 * went through host org onboarding [survey details](https://docs.google.com/spreadsheets/d/1ZnqsVbwCWbIDpC_qE4ZBQLn3hKBOvPmPLUM65H5pW-U/edit#gid=1071258836)
 * completed open web fellows' [individual sheets](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?ts=59d25e00#gid=1016761308)
 * worked on the [fellows' record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0) a bit
+* setup science community call invite.
+* update on [study group PR](https://github.com/mozillascience/studyGroup/pull/93) perhaps closing because tons of changes meant for a specific fork
 
 
 
