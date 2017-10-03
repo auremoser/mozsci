@@ -2592,6 +2592,14 @@
 * setup science community call invite.
 * update on [study group PR](https://github.com/mozillascience/studyGroup/pull/93) perhaps closing because tons of changes meant for a specific fork
 
+## 10/3/17
+
+* met with Matthew about [pulse email](https://docs.google.com/document/d/18gBuYGFUmzvnJdFJd-B5hHWFY4n5SJm_mUI_2ykpySI/edit#)
+* some fellowship host org onboarding dietary arrangements
+* closed [pr for study groups](https://github.com/mozillascience/studyGroup/pull/93)
+* checked in about study group call with Zannah
+* working on finance forms for alexei
+* checkin with amanda about logistics for mozfest week
 
 
 
