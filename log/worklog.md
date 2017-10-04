@@ -2605,8 +2605,11 @@
 * asked kalpana about Étienne's budget line
 * figured out [science fair tables for mozfest](https://docs.google.com/spreadsheets/d/1afGyoZ895OLCCpqyyVI3fVM3kHTzGCvBVyMCXuxrhGE/edit#gid=1786934830)
 * added [rsvps for fellows' dinner here](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=876912213)
-
-
+* closed service hub [request](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=564481d813697e40472ed2f18144b0b9)
+* visa question with Sarah
+* mapping course for ITP developed with alumni fellow [joey](https://docs.google.com/document/d/1T_fAFdDIwijLCQeV3m5ZYLbZ917pmudBMWmazpVYGho/edit#)
+* calendar invite for abby and amy and rizwan to discuss travel stipends
+* calendar invite for abby and maria to discuss carlos and derechos
 
 ## TODO
 
