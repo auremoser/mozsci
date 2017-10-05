@@ -2610,8 +2610,34 @@
 * mapping course for ITP developed with alumni fellow [joey](https://docs.google.com/document/d/1T_fAFdDIwijLCQeV3m5ZYLbZ917pmudBMWmazpVYGho/edit#)
 * calendar invite for abby and amy and rizwan to discuss travel stipends
 * calendar invite for abby and maria to discuss carlos and derechos
+* sent etienne details about his flight
+* added to [mozfest guidebook bot](https://builder.guidebook.com/#/guides/114124/)
+
+## 10/4/17 - 10/5/17
+* fleshed out [mozfest schedule](https://docs.google.com/spreadsheets/d/1wXTcPOAm-X8CJgTE5ajT1hSIehvYDn_IepHESy82dO8/edit?ts=5994837b#gid=467091265)
+* working on arrangement with Derechos Digitales
+* coordinating fellows' expenses with alexei
+* met with abby and maria for carlos' contract
+* attended senior fellows meetup
+* submitted expense report
+* completed list of sessions for [science fair at mozfest](https://docs.google.com/spreadsheets/d/1afGyoZ895OLCCpqyyVI3fVM3kHTzGCvBVyMCXuxrhGE/edit#gid=1786934830)
+
 
 ## TODO
+
+Brett / Cori email about joint onboarding
+
+Clear schedule for thurs/fri
+Create slides for [senior fellows meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
+
+
+ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
+
+- not facilitating visas for non-tentpole events
+- some metric for feedback, provide a letter of invitation/justification for your work
+- we fund travel related to your fellowship where you are speaking/facilitating
+- does this bring up work auth issues
+- discretionary ceiling 2,000
 
 ONBOARDING
 
@@ -2720,18 +2746,7 @@ ONBOARDING
 	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 
-	* Interviews will be scheduled and held from M 6/19 to Th 6/29 
-	>> Mozilla and host organizations will participate in the interviews (60 minute slots)
-	>> Host organizations will send their top two choices and comments to Mozilla by F 6/30
 
-	* Mozilla will review the candidate selections and notes; as well as
-	>> Reference check the selected candidates, and 
-	>> Confirm visa (working status) of selected candidates 
-
-	* Mozilla will sign off on the selected candidates and notify the host organizations 
-	* Mozilla will notify the selected candidates and send out the Fellowship Contract
-
-* fellows - write up template emails
 
 * Blogs
 	* x interviews
@@ -2768,6 +2783,8 @@ ONBOARDING
 	* [tallinn doc](https://docs.google.com/document/d/1sO_pinsNEuwhq-MIBaWdxjSEkTZVE4g0P21PWFIWerM/edit#)
 	* [italian tweets for mozfest](https://docs.google.com/document/d/1LUAQMSTveVF6RBd2MEf3b-8_ueekhtL0c8_QYA7qzgk/edit)
 	* [stipends doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=594bdec5#gid=0)
+
+
 
 
 * get back to image providers with book
