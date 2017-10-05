@@ -2621,6 +2621,8 @@
 * attended senior fellows meetup
 * submitted expense report
 * completed list of sessions for [science fair at mozfest](https://docs.google.com/spreadsheets/d/1afGyoZ895OLCCpqyyVI3fVM3kHTzGCvBVyMCXuxrhGE/edit#gid=1786934830)
+* sent amina and sarah e-troduction
+* helped sarah a with a booking
 
 
 ## TODO
