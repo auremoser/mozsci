@@ -2613,7 +2613,7 @@
 * sent etienne details about his flight
 * added to [mozfest guidebook bot](https://builder.guidebook.com/#/guides/114124/)
 
-## 10/4/17 - 10/5/17
+## 10/4/17 - 10/6/17
 * fleshed out [mozfest schedule](https://docs.google.com/spreadsheets/d/1wXTcPOAm-X8CJgTE5ajT1hSIehvYDn_IepHESy82dO8/edit?ts=5994837b#gid=467091265)
 * working on arrangement with Derechos Digitales
 * coordinating fellows' expenses with alexei
@@ -2624,6 +2624,7 @@
 * sent amina and sarah e-troduction
 * helped sarah a with a booking
 * processed reimbursement for nasma
+* attend senior fellows [group](https://docs.google.com/document/d/13VOj5rUDU9Wf6qgqHmNFyyqKHf8EYijeqVMpx98Y95Q/edit#)
 
 
 ## TODO
