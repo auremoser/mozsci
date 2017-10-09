@@ -2631,14 +2631,14 @@
 * agenda edit for [Study Groups Africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * setup [etherpad](https://public.etherpad-mozilla.org/p/mozfest-openinnovation) for open innovation checkin
 * updated [data detox bar info](https://public.etherpad-mozilla.org/p/MozFestDataDetox)
+* booked travel for all hands
 
 
 ## TODO
 
-Brett / Cori email about joint onboarding
+- session point leads, add names of facilitators for the sessions you're leading here: 
+https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
 
-Clear schedule for thurs/fri
-Create slides for [senior fellows meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 
 
 ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
