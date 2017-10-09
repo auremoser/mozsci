@@ -2633,6 +2633,9 @@
 * updated [data detox bar info](https://public.etherpad-mozilla.org/p/MozFestDataDetox)
 * booked travel for all hands
 * completed all hands registration
+* checked in again on Nasma's expenses
+* checked on freddy's LDAP
+* sent out some updates for the open innovation spatial planning team
 
 
 ## TODO
