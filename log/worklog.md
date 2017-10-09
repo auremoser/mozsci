@@ -2636,6 +2636,7 @@
 * checked in again on Nasma's expenses
 * checked on freddy's LDAP
 * sent out some updates for the open innovation spatial planning team
+* setup zine checkin groups and calendar invites for [this weeks' zine checkins](https://public.etherpad-mozilla.org/p/2017-mozfellows-zines)
 
 
 ## TODO
