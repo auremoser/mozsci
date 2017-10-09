@@ -2637,6 +2637,8 @@
 * checked on freddy's LDAP
 * sent out some updates for the open innovation spatial planning team
 * setup zine checkin groups and calendar invites for [this weeks' zine checkins](https://public.etherpad-mozilla.org/p/2017-mozfellows-zines)
+* response on [role doc](https://docs.google.com/document/d/1u8U4V4ONPg7Msh7xtglp0k7cLetSZLy74B8hSY47uIg/edit)
+* checkin with ma about role
 
 
 ## TODO
