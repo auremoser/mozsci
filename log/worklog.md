@@ -2632,6 +2632,7 @@
 * setup [etherpad](https://public.etherpad-mozilla.org/p/mozfest-openinnovation) for open innovation checkin
 * updated [data detox bar info](https://public.etherpad-mozilla.org/p/MozFestDataDetox)
 * booked travel for all hands
+* completed all hands registration
 
 
 ## TODO
