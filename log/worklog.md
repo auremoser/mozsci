@@ -2629,6 +2629,8 @@
 ## 10/9/17
 * resolved comments in the [Mozilla Fellowships stipend](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit?ts=59dae76a) doc
 * agenda edit for [Study Groups Africa call](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* setup [etherpad](https://public.etherpad-mozilla.org/p/mozfest-openinnovation) for open innovation checkin
+* updated [data detox bar info](https://public.etherpad-mozilla.org/p/MozFestDataDetox)
 
 
 ## TODO
