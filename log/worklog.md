@@ -2626,6 +2626,9 @@
 * processed reimbursement for nasma
 * attend senior fellows [group](https://docs.google.com/document/d/13VOj5rUDU9Wf6qgqHmNFyyqKHf8EYijeqVMpx98Y95Q/edit#)
 
+## 10/9/17
+* resolved comments in the [Mozilla Fellowships stipend](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit?ts=59dae76a) doc
+
 
 ## TODO
 
