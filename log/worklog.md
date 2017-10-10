@@ -2640,6 +2640,17 @@
 * response on [role doc](https://docs.google.com/document/d/1u8U4V4ONPg7Msh7xtglp0k7cLetSZLy74B8hSY47uIg/edit)
 * checkin with ma about role
 
+## 10/10/17
+* Call egencia for sarah's flight: 24983859847 (from entebbe, uganda, not cape town)
+* email logistics
+* mofo [staff call](https://air.mozilla.org/mofo-staff-call-oct-2017/)
+* tidied up [skill share doc for fellows](https://docs.google.com/spreadsheets/d/1uTbcTcKe0j7PFkhc-H9gSV7DEsxdrrgTY_CfjsavDvo/edit#gid=0)
+* recommended NYC fellows for Empire JS
+* mozfest checkin meeting with fellowships team
+
+* invite fellows to events for mozfest
+* contracts sheet update for alexei
+* email esme and amanda/ann marie with the [fellows programs hotel doc](https://docs.google.com/spreadsheets/d/1uIBPqtGnClnORofszlVHtsGS0_pJEWn6w9XNmYmyha0/edit#gid=0) vs the travel [stipends doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=59809115&pli=1#gid=885380107)
 
 ## TODO
 
