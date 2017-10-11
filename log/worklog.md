@@ -2647,12 +2647,35 @@
 * tidied up [skill share doc for fellows](https://docs.google.com/spreadsheets/d/1uTbcTcKe0j7PFkhc-H9gSV7DEsxdrrgTY_CfjsavDvo/edit#gid=0)
 * recommended NYC fellows for Empire JS
 * mozfest checkin meeting with fellowships team
+* community call - checked with jlin about support for airmo
+* updated posting for call on [event listing](https://science.mozilla.org/programs/events/community-call-oct-12-11-et)
+* posted [blog for science on community call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017)
+* submitted trusted tester [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdTn9lktGWC47EbC-EkBmjA7x0dUiXx3ULH66T6_G_XGMNZ_Q/formResponse) for citizen lab security tool beta
+* met with joey about itp class on apis and fellows' collabs for teaching
+* email esme and amanda/ann marie with the [fellows programs hotel doc](https://docs.google.com/spreadsheets/d/1uIBPqtGnClnORofszlVHtsGS0_pJEWn6w9XNmYmyha0/edit#gid=0) vs the travel [stipends doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=59809115&pli=1#gid=885380107)
+* updated new speakers for the science lab community call
+* wrote to science fellows about attendance and section
+* wrote to lou woodley about attendance and section
+
+## 10/11/17
+* community call posting updates
+* responded to two study group leads funding requests/ emails
+* tweets about community call
+* speaker reminder about community call
+* meeting with ford funders
+* fellowships team meeting
+* followup with gallery and shed sessions
+
+## TODO
+
+* wrote to speakers about reminder
+* scheduled tweets for tomorrow
+* fleshed out etherpad
+
+* update marc's comment for let's make open science exhibition for [guidebook](https://mozfest.slack.com/messages/G7GHRLD7H/details/)
 
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
-* email esme and amanda/ann marie with the [fellows programs hotel doc](https://docs.google.com/spreadsheets/d/1uIBPqtGnClnORofszlVHtsGS0_pJEWn6w9XNmYmyha0/edit#gid=0) vs the travel [stipends doc](https://docs.google.com/spreadsheets/d/1HaIZPQA1VsUQPDCo8UsDc38xyeGHyBJOTW3aCKxK30Q/edit?ts=59809115&pli=1#gid=885380107)
-
-## TODO
 
 - session point leads, add names of facilitators for the sessions you're leading here: 
 https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
