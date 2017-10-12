@@ -2665,8 +2665,14 @@
 * meeting with ford funders
 * fellowships team meeting
 * followup with gallery and shed sessions
+* slack updates, booking for orlando
+
+## 10/12/17
+* [Mozilla Science Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017)
+* [Mozfest Wrangler Call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 
 ## TODO
+* facilitators references: https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit#gid=1668486205
 
 * wrote to speakers about reminder
 * scheduled tweets for tomorrow
