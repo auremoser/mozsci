@@ -2688,6 +2688,10 @@
 * collaborated on [ei pa pa's submission to sig chi](https://confs.precisionconference.com/~sigchi/)
 * sent bram travel info for Austin
 * got back to maya about all-hands
+* meeting with Amy to checkin about host org onboarding
+* setup cal invite to checkin on invites with ann marie
+* wrote back to natalia about open innovation blogs
+
 
 ## TODO
 * MONDAY EMAIL TO FORD
