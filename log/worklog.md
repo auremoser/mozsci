@@ -2685,6 +2685,7 @@
 * checkin with angela about offices and nederlands
 * sent pulse message out to 2016 [OWF fellows](https://docs.google.com/document/d/18gBuYGFUmzvnJdFJd-B5hHWFY4n5SJm_mUI_2ykpySI/edit?ts=59dfb832)
 * provided feedback on [amy's doc about ford feedback](https://docs.google.com/document/d/1Jm1E9c9Hl8seAbhQNOXYBOI5EnzR9CdXrdt6sUYlxek/edit)
+* collaborated on [ei pa pa's submission to sig chi](https://confs.precisionconference.com/~sigchi/)
 
 ## TODO
 * MONDAY EMAIL TO FORD
