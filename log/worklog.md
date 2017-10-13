@@ -2673,16 +2673,26 @@
 * logistical emails/bill.com approvals, followup with freddy on ldap
 * thank you to speakers on community call
 * followup with ford info in our [doc](https://docs.google.com/document/d/1Jm1E9c9Hl8seAbhQNOXYBOI5EnzR9CdXrdt6sUYlxek/edit)
+* mozfellows [zine checkin](https://public.etherpad-mozilla.org/p/2017-mozfellows-zines)
+* email to dan about printing zines
+* rsvp'd for mozfest house, and amira's session
+* finished updated [facilitators' list for gallery/shed sessions in my purview](https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit#gid=1668486205)
+
+## 10/13/17
+* zine meetings
+* update marc's comment for let's make open science exhibition for [guidebook](https://mozfest.slack.com/messages/G7GHRLD7H/details/)
+* more updates to facilitator's list
+* checkin with angela about offices and nederlands
 
 ## TODO
-* facilitators references: https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit#gid=1668486205
 * MONDAY EMAIL TO FORD
+* email to Beatrice about FORD session coordination
 
 * wrote to speakers about reminder
 * scheduled tweets for tomorrow
 * fleshed out etherpad
 
-* update marc's comment for let's make open science exhibition for [guidebook](https://mozfest.slack.com/messages/G7GHRLD7H/details/)
+
 
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
