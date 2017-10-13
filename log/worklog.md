@@ -2691,6 +2691,7 @@
 * meeting with Amy to checkin about host org onboarding
 * setup cal invite to checkin on invites with ann marie
 * wrote back to natalia about open innovation blogs
+* sent fellows record items to rizwan
 
 
 ## TODO
