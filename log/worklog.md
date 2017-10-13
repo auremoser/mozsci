@@ -2670,9 +2670,13 @@
 ## 10/12/17
 * [Mozilla Science Community Call](https://public.etherpad-mozilla.org/p/sciencelab-calls-oct12-2017)
 * [Mozfest Wrangler Call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* logistical emails/bill.com approvals, followup with freddy on ldap
+* thank you to speakers on community call
+* followup with ford info in our [doc](https://docs.google.com/document/d/1Jm1E9c9Hl8seAbhQNOXYBOI5EnzR9CdXrdt6sUYlxek/edit)
 
 ## TODO
 * facilitators references: https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit#gid=1668486205
+* MONDAY EMAIL TO FORD
 
 * wrote to speakers about reminder
 * scheduled tweets for tomorrow
