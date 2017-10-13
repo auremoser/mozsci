@@ -2683,24 +2683,17 @@
 * update marc's comment for let's make open science exhibition for [guidebook](https://mozfest.slack.com/messages/G7GHRLD7H/details/)
 * more updates to facilitator's list
 * checkin with angela about offices and nederlands
+* sent pulse message out to 2016 [OWF fellows](https://docs.google.com/document/d/18gBuYGFUmzvnJdFJd-B5hHWFY4n5SJm_mUI_2ykpySI/edit?ts=59dfb832)
 
 ## TODO
 * MONDAY EMAIL TO FORD
 * email to Beatrice about FORD session coordination
-
-* wrote to speakers about reminder
-* scheduled tweets for tomorrow
-* fleshed out etherpad
-
-
 
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
 
 - session point leads, add names of facilitators for the sessions you're leading here: 
 https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
-
-
 
 ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 
@@ -2772,6 +2765,7 @@ ONBOARDING
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [Fellowship Tax and Immigration Considerations](https://docs.google.com/document/d/1RpaK4OjW_dHsW0hYwI3E24ZGqSAfLybsZXQlDQXuvQI/edit)
 	* [2017-2018 joint fellowships folder](https://drive.google.com/drive/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
+	* [fellowship engagement tracker](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit?usp=sharing_eil&ts=59e0f883)
 	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 	* [mandy's checklist](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
 	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
