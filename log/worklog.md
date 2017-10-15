@@ -2715,6 +2715,8 @@ ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k6
 - does this bring up work auth issues
 - discretionary ceiling 2,000
 
+* update [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
+
 ONBOARDING
 
 * archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
