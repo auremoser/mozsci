@@ -2695,6 +2695,7 @@
 * checked in on [zine progress](https://public.etherpad-mozilla.org/p/2017-mozfellows-zines#lineNumber=55)
 * responded to fellows' slack issues
 * cleared my issues queue for Mozfest
+* wrote to marc galland and steph about his grant reference letter
 
 
 ## TODO
