@@ -2692,6 +2692,9 @@
 * setup cal invite to checkin on invites with ann marie
 * wrote back to natalia about open innovation blogs
 * sent fellows record items to rizwan
+* checked in on [zine progress](https://public.etherpad-mozilla.org/p/2017-mozfellows-zines#lineNumber=55)
+* responded to fellows' slack issues
+* cleared my issues queue for Mozfest
 
 
 ## TODO
