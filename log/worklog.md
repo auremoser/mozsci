@@ -2702,6 +2702,8 @@
 * becca and sarah expensify issues
 * sent reminder for class on Thursday
 * mozfest [open innovation checkin with mehan](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
+* sent raegan details about equipment list to dan
+* added chris' zine to dropbox
 
 
 ## TODO
