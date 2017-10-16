@@ -2701,6 +2701,7 @@
 * bill.com approvals
 * becca and sarah expensify issues
 * sent reminder for class on Thursday
+* mozfest [open innovation checkin with mehan](https://public.etherpad-mozilla.org/p/mozfest-openinnovation)
 
 
 ## TODO
