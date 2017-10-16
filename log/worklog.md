@@ -2708,16 +2708,22 @@
 * caught up with richard and etienne about fellowships stuff
 * [aspiration tech meeting](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
 * meeting with [rizwan and amy about year 2 feedback to ford](https://docs.google.com/document/d/1Jm1E9c9Hl8seAbhQNOXYBOI5EnzR9CdXrdt6sUYlxek/edit)
+* meeting with 
+* zine checkins
+* inquired about Beatrice's hotel for next week
+* put time on amy's calendar to talk through feedback from host org onboarding
+* emailed back about All-hands rsvps
+* meeting with Ann marie about dates
+
 
 
 ## TODO
 * MONDAY EMAIL TO FORD
 	* email to ford - about topics/themes
-	* email to Beatrice about FORD session coordination
 	* get beatrice hotel from tuesday - weds 
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
-* put time on amy's calendar to talk through feedback from host org onboarding
+
 
 - session point leads, add names of facilitators for the sessions you're leading here: 
 https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
