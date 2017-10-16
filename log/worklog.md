@@ -2697,11 +2697,15 @@
 * cleared my issues queue for Mozfest
 * wrote to marc galland and steph about his grant reference letter
 
+## 10/16/17
+* bill.com approvals
+* becca and sarah expensify issues
+* sent reminder for class on Thursday
+
 
 ## TODO
 * MONDAY EMAIL TO FORD
 * email to Beatrice about FORD session coordination
-
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
 
@@ -2730,8 +2734,6 @@ ONBOARDING
 
 * add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
-
-* [SENIOR FELLOWS MEETING October 3rd and 4th meeting](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 * OCT 5 FINISH FELLOWS' RECORD [here](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
 
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
@@ -2740,7 +2742,6 @@ ONBOARDING
 * 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
 * remind host orgs to book travel for mozfest by x date
 
-* send out newsletter updates
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
 * flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
