@@ -2715,15 +2715,22 @@
 * emailed back about All-hands rsvps
 * meeting with Ann marie about dates
 
+## 10/17/17
+* got beatrice hotel through amanda
+* dietary restrictions to esme for fellows
+* some fellows chat stuff
+* zine reminders
+* lots of email prep for things to go out this week
+* [mozfest brownbag](https://public.etherpad-mozilla.org/p/mozfest17-brownbag)
+
 
 
 ## TODO
 * MONDAY EMAIL TO FORD
 	* email to ford - about topics/themes
-	* get beatrice hotel from tuesday - weds 
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
-
+* get equipment list to dan
 
 - session point leads, add names of facilitators for the sessions you're leading here: 
 https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
