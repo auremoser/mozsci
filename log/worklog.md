@@ -2725,16 +2725,20 @@
 * sent reminders to fellows for zines in slack!
 * meeting with Ann Marie and Amy about Mozfest
 * cleaned up inbox of Beatrice's requests and intro'd her to Ford
+* updated network site details [here](https://github.com/mozilla/network/issues/858#issuecomment-337386918)
 
 
 
 ## TODO
 * doc of emails to fellows, funders, host orgs
-* MONDAY EMAIL TO FORD
+* WEDNESDAY EMAIL TO FORD
 	* email to ford - about topics/themes
+	* email to host orgs about onboarding
+	* email to fellows about mozfest
+	* email to Kristin for Tech X Folks
+* email to dan about equipment for mozfest
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
-* get equipment list to dan
 
 - session point leads, add names of facilitators for the sessions you're leading here: 
 https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
