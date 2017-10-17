@@ -2723,10 +2723,13 @@
 * lots of email prep for things to go out this week
 * [mozfest brownbag](https://public.etherpad-mozilla.org/p/mozfest17-brownbag)
 * sent reminders to fellows for zines in slack!
+* meeting with Ann Marie and Amy about Mozfest
+* cleaned up inbox of Beatrice's requests and intro'd her to Ford
 
 
 
 ## TODO
+* doc of emails to fellows, funders, host orgs
 * MONDAY EMAIL TO FORD
 	* email to ford - about topics/themes
 * invite fellows to events for mozfest
