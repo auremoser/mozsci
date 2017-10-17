@@ -2722,6 +2722,7 @@
 * zine reminders
 * lots of email prep for things to go out this week
 * [mozfest brownbag](https://public.etherpad-mozilla.org/p/mozfest17-brownbag)
+* sent reminders to fellows for zines in slack!
 
 
 
