@@ -2731,11 +2731,12 @@
 ## 10/18/17
 * [doc of emails](https://docs.google.com/document/d/1VqTtSnO1_xFk8qwZLNhsHNBk_iwMgJudv-G4W7kGrOU/edit#) to fellows, funders, host orgs
 * meeting with beatrice about [host org onboarding](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
+* [itp class meeting](https://docs.google.com/document/d/1A_jJlTMLuCmqI1XiNxdbTz718maubdC3O3n3zr1JG3w/edit?ts=59dd9082#)
 
 
 
 ## TODO
-
+* update docs and do followup from [aspiration brainstorm](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
 * WEDNESDAY EMAIL TO FORD
 	* email to ford - about topics/themes
 	* email to host orgs about onboarding
