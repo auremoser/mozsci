@@ -2728,16 +2728,19 @@
 * updated network site details [here](https://github.com/mozilla/network/issues/858#issuecomment-337386918)
 * sent out open innovation equipment details to dan
 
+## 10/18/17
+* [doc of emails](https://docs.google.com/document/d/1VqTtSnO1_xFk8qwZLNhsHNBk_iwMgJudv-G4W7kGrOU/edit#) to fellows, funders, host orgs
+* meeting with beatrice about [host org onboarding](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
+
 
 
 ## TODO
-* doc of emails to fellows, funders, host orgs
+
 * WEDNESDAY EMAIL TO FORD
 	* email to ford - about topics/themes
 	* email to host orgs about onboarding
 	* email to fellows about mozfest
 	* email to Kristin for Tech X Folks
-* email to dan about equipment for mozfest
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
 
