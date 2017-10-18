@@ -2726,6 +2726,7 @@
 * meeting with Ann Marie and Amy about Mozfest
 * cleaned up inbox of Beatrice's requests and intro'd her to Ford
 * updated network site details [here](https://github.com/mozilla/network/issues/858#issuecomment-337386918)
+* sent out open innovation equipment details to dan
 
 
 
