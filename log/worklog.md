@@ -2752,6 +2752,9 @@
 * [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
 * sent last emails to alumns about pulse for Matthew [here](https://docs.google.com/document/d/18gBuYGFUmzvnJdFJd-B5hHWFY4n5SJm_mUI_2ykpySI/edit#), to tech x and to alumni science
 * check in about mozfest badges with sarah
+* reproducted [data add bug for pulse](https://www.mozillapulse.org/add)
+* checkin with amy
+* class prep and responses to emails
 
 
 ## TODO
