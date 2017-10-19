@@ -2732,16 +2732,29 @@
 * [doc of emails](https://docs.google.com/document/d/1VqTtSnO1_xFk8qwZLNhsHNBk_iwMgJudv-G4W7kGrOU/edit#) to fellows, funders, host orgs
 * meeting with beatrice about [host org onboarding](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
 * [itp class meeting](https://docs.google.com/document/d/1A_jJlTMLuCmqI1XiNxdbTz718maubdC3O3n3zr1JG3w/edit?ts=59dd9082#)
-
-
-
-## TODO
-* update docs and do followup from [aspiration brainstorm](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
-* WEDNESDAY EMAIL TO FORD
+* fixed up [host org schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
+* updated calendar for [host orgs according to beatrice's questions](https://docs.google.com/spreadsheets/d/1kRtHHrdDWL9ZLStiX2ZwwBJJTB_mlJbaKy-m-KBswME/edit#gid=224166911)
+* meeting with fellowships team to go over stuff
+* updated [attendee doc for host org onboarding](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
+* wrote back to lucie with supply needs for RSA
+* emails to all parties for next week
 	* email to ford - about topics/themes
 	* email to host orgs about onboarding
 	* email to fellows about mozfest
 	* email to Kristin for Tech X Folks
+* followup on all comments in the host org onboarding planning docs
+* invited folks to necessary docs
+* update docs and do followup from [aspiration brainstorm](https://public.etherpad-mozilla.org/p/AspirationOWFHostMeeting)
+
+## 10/19/17
+* lots of logistics for onboarding
+* [wrangler call](https://public.etherpad-mozilla.org/p/festival.Wranglercalls2017)
+* sent last emails to alumns about pulse for Matthew [here](https://docs.google.com/document/d/18gBuYGFUmzvnJdFJd-B5hHWFY4n5SJm_mUI_2ykpySI/edit#), to tech x and to alumni science
+
+
+## TODO
+
+* tweet mozilla science lab community call
 * invite fellows to events for mozfest
 * contracts sheet update for alexei
 
