@@ -2756,15 +2756,23 @@
 * checkin with amy
 * class prep and responses to emails
 
+## 10/20/17
+* meeting with mark and team
+* last minute expenses and logistics for the fellows
+* reachout to sara and brett about onboarding
+* email to privacy international about our attendance at mozfest
+* more materials stress for mozfest
+* put together [feedback etherpad for host org onboarding](https://public.etherpad-mozilla.org/p/2017-hostonboarding-gutcheck)
+* tweet mozilla science lab community call
+* intro between maya and laura at siegel
+* added [sarah's article](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/) to [fellows engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+
 
 ## TODO
 
-* tweet mozilla science lab community call
-* invite fellows to events for mozfest
+* reach out to rishab about MIT workshop first week in december
+* email fellows about day-to-day activities
 * contracts sheet update for alexei
-
-- session point leads, add names of facilitators for the sessions you're leading here: 
-https://docs.google.com/spreadsheets/d/1Bl-1SZIvX30CQeT9ajcesDsuZO5MTjlUF0U9gCW3kvs/edit?ts=59d66efc#gid=1668486205 
 
 ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 
@@ -2860,6 +2868,7 @@ ONBOARDING
 	* [senior fellows' meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 
 	FELLOWS
+	* [Fellows Engagement Tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [2017-2018 expenses](https://docs.google.com/spreadsheets/d/1EoE_bXwP4Dx90saNmPPuhiyUnKtZxFJf1h9EM41BwiE/edit#gid=355578658)
 	* [2016-2017 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuaklxX0MtdXZsLU0)
@@ -2899,7 +2908,7 @@ ONBOARDING
 		* [handoff](https://public.etherpad-mozilla.org/p/2017-fellows-handoff)
 		* [rizwan's gdoc](https://docs.google.com/document/d/1MPE6e-hkoCSOySEuNlgwJZJE5oPhVLnkMFaOMDeZ6z0/edit?ts=594ad885#)
 	* [secu skill share](https://public.etherpad-mozilla.org/p/mofo-secu)
-	* 
+	
 * DDD
 	* [brief](https://docs.google.com/document/d/1yr_xuWPpLx3N4CinQ-gs6zGhu5koEBlxieRkrC-5tcE/edit)
 	* [meeting](https://docs.google.com/document/d/14OmbnBeT5YsIIcpVKkbNllqQLNp9s1Ied2HK6nCnl0I/edit)
