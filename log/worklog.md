@@ -2770,56 +2770,38 @@
 
 ## TODO
 
+* add sboj to a gist
+* send fellows an email reminder about this week with [teach/learn spreadsheet](https://docs.google.com/spreadsheets/d/1uTbcTcKe0j7PFkhc-H9gSV7DEsxdrrgTY_CfjsavDvo/edit#gid=0)
+* get back to image providers with book
 * reach out to rishab about MIT workshop first week in december
-* email fellows about day-to-day activities
 * contracts sheet update for alexei
-
-ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
-
-- not facilitating visas for non-tentpole events
-- some metric for feedback, provide a letter of invitation/justification for your work
-- we fund travel related to your fellowship where you are speaking/facilitating
-- does this bring up work auth issues
-- discretionary ceiling 2,000
-
+* followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
+	* not facilitating visas for non-tentpole events
+	* some metric for feedback, provide a letter of invitation/justification for your work
+	* we fund travel related to your fellowship where you are speaking/facilitating
+	* does this bring up work auth issues
+	* discretionary ceiling 2,000
 * update [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
-
-ONBOARDING
-
-* archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
+* ONBOARDING archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
 )
-* prepare any remaining sessions 
-* create a folder for the fellows' onboarding with:
+* ONBOARDING create a folder for the fellows' onboarding with:
 	* stipend overview document
 	* tax and immigration considerations
-
-
-* add fellows tasks doc to the spreadsheet on onboarding (IHR, )
+* ONBOARDING add fellows tasks doc to the spreadsheet on onboarding (IHR, )
 * wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
 * OCT 5 FINISH FELLOWS' RECORD [here](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
-
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
-
-* 9/8 finish [strategy document](https://docs.google.com/a/mozilla.com/document/d/1jJfo6eP81yZ9KTpgXe4XMYLXggy68s8tSolpuXh6d54/edit?usp=sharing) for mini-grants program
-* remind host orgs to book travel for mozfest by x date
-
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
 * flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
-
 * make fellows repo fellows-class-2017 + gitter
 * put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * develop community development prospectus for fellowship programs
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
+* checklists, correspondence with beatrice about badges
 
-
-* BOSTON WOW
-	* [Schedule](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1p44P8icZwnUVHMDMjLFHJSJ-6ntiUe9MCx70Y-8RRT0/edit?usp=sharing_eip&ts=595fe7d5)
-	* [Site](https://github.com/mozillascience/WOW-Boston)
-	* [Templates](https://docs.google.com/document/d/1qWqJ4rvJJS0v-9XmELsy-2aHuaygGLWGGywCnR_xivc/edit)
-	* [Invites](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
 
 * MOZFEST
 	* [staff schedule for Mozfest](https://public.etherpad-mozilla.org/p/festival.MozFest.brownbag17)
@@ -2832,11 +2814,6 @@ ONBOARDING
 	* [data detox proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/196#issuecomment-317429569)
 	* [nerdcator proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/161)
 	* [ethics of open science research proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
-
-
-* Network
-	* [community feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeRKLn35kfPmxSND6Ye_hka0KDcdHcqm9x1n9g2d7_CKhSRXg/viewform)
-	* [comms doc for interviews](https://docs.google.com/document/d/1A3Buian1SiqB2lwxXJrzA3OHhTyPU-S7KZJUCOoJuTc/edit)
 
 * FELLOWSHIPS - OWF
 	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
@@ -2858,14 +2835,6 @@ ONBOARDING
 	* [science fellows budget document](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit?ts=599dc5d3#gid=1063471283)
 	* [2017 owf fellows budget document](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
 
-	ONBOARDING
-	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
-	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
-	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
-	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
-	* [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0)
-	* [planning spreadsheets](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit?ts=59b7159b#gid=1390598546)
-	* [senior fellows' meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 
 	FELLOWS
 	* [Fellows Engagement Tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
@@ -2890,11 +2859,24 @@ ONBOARDING
 	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 
+## EVENTS
 
+ONBOARDING
+	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
+	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
+	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
+	* [post survey](https://docs.google.com/a/mozillafoundation.org/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit)
+	* [onboarding attendance sheet](https://docs.google.com/spreadsheets/d/1Ebj01dToZ2wBIJkMlaNrSP2g0w92VQnJMkIRYf7YVRY/edit#gid=0)
+	* [planning spreadsheets](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit?ts=59b7159b#gid=1390598546)
+	* [senior fellows' meetup](https://docs.google.com/document/d/1yOmkhWCj1nDwXQXt_A9wc4Wt52kD9d2YYQOXaxW5l7s/edit)
 
-* Blogs
-	* x interviews
-* all hands
+* BOSTON WOW
+	* [Schedule](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1p44P8icZwnUVHMDMjLFHJSJ-6ntiUe9MCx70Y-8RRT0/edit?usp=sharing_eip&ts=595fe7d5)
+	* [Site](https://github.com/mozillascience/WOW-Boston)
+	* [Templates](https://docs.google.com/document/d/1qWqJ4rvJJS0v-9XmELsy-2aHuaygGLWGGywCnR_xivc/edit)
+	* [Invites](https://docs.google.com/spreadsheets/d/1iMvb7YNNxtvA0dduiyyVacPPofcmlB8KF4Uvj8Eoq8E/edit#gid=0)
+
+* ALL HANDS 2017
 	* all hands [fundamentals doc](https://docs.google.com/document/d/1Bl9eNJOJ9qLVLwsx4INQFpVjf3Le2HNxgs_7-Lm9VAs/edit)
 	* meet with Sandra - dev rel
 	* x meet with Open Innovation planning committee - mozfest
@@ -2931,8 +2913,6 @@ ONBOARDING
 
 
 
-* get back to image providers with book
-* review + integrate changes from [fellows' design debrief](https://public.etherpad-mozilla.org/p/2017-fellowship-design)
 
 
 
@@ -2974,12 +2954,7 @@ ONBOARDING
 * add Hao Zhu to list of particularly awesome folks (haozhu@hsl.harvard.edu)
 * get something on the [mozilla tech](https://medium.com/mozilla-tech) or [open innovation](https://medium.com/mozilla-open-innovation) medium channels , If you have any questions or topic ideas for the Tech publication please reach out to: devmarketingdt@mozilla.com For the Open Innovation publication, please contact pfinch@mozilla.com.
 
-### ALWAYS
-
-* ADD MORE STUDY GROUP LESSONS TO WEBSITE
-
 ##### Call Ideas
-
 
 * **February 2017** - Art Science
   * all people from visualized for Citizen science projects
