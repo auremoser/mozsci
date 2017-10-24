@@ -2819,6 +2819,7 @@
 	* [ethics of open science research proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
 
 * FELLOWSHIPS - OWF
+	* [2017 Host Org onboarding drive](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNXYwSWFTclc3X2s?usp=sharing)
 	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
 	* [Fellowship Tax and Immigration Considerations](https://docs.google.com/document/d/1RpaK4OjW_dHsW0hYwI3E24ZGqSAfLybsZXQlDQXuvQI/edit)
