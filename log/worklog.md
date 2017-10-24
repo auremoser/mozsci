@@ -2801,6 +2801,8 @@
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 * checklists, correspondence with beatrice about badges
+* printed copies of everything for Beatrice
+* worked on sending emails to fellows, hosts, ford
 
 
 * MOZFEST
