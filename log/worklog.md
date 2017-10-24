@@ -2767,6 +2767,7 @@
 * intro between maya and laura at siegel
 * added [sarah's article](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/) to [fellows engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * met with Lucie, Beatrice and others at the RSA to prep for tomorrow
+* created [2017 Host Org onboarding drive](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNXYwSWFTclc3X2s?usp=sharing)
 
 
 ## TODO
