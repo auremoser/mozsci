@@ -2768,15 +2768,17 @@
 * added [sarah's article](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/) to [fellows engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * met with Lucie, Beatrice and others at the RSA to prep for tomorrow
 * created [2017 Host Org onboarding drive](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNXYwSWFTclc3X2s?usp=sharing)
+* sent fellows an email reminder about this week with [teach/learn spreadsheet](https://docs.google.com/spreadsheets/d/1uTbcTcKe0j7PFkhc-H9gSV7DEsxdrrgTY_CfjsavDvo/edit#gid=0)
+* updated contracts sheets for [science fellows in alexei's budget doc](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=282753679)
+* updated contracts sheets for the [OWF fellows in alexei's budget doc](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1063471283)
 
 
 ## TODO
 
-* add sboj to a gist
-* send fellows an email reminder about this week with [teach/learn spreadsheet](https://docs.google.com/spreadsheets/d/1uTbcTcKe0j7PFkhc-H9gSV7DEsxdrrgTY_CfjsavDvo/edit#gid=0)
+
+
 * get back to image providers with book
 * reach out to rishab about MIT workshop first week in december
-* contracts sheet update for alexei
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
 	* some metric for feedback, provide a letter of invitation/justification for your work
