@@ -2756,7 +2756,7 @@
 * checkin with amy
 * class prep and responses to emails
 
-## 10/20/17
+## 10/20/17 - 10/24/17
 * meeting with mark and team
 * last minute expenses and logistics for the fellows
 * reachout to sara and brett about onboarding
@@ -2766,6 +2766,7 @@
 * tweet mozilla science lab community call
 * intro between maya and laura at siegel
 * added [sarah's article](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/) to [fellows engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+* met with Lucie, Beatrice and others at the RSA to prep for tomorrow
 
 
 ## TODO
