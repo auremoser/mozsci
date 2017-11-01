@@ -2782,10 +2782,9 @@
 
 
 ## TODO
-* day two of the host org onboarding
-* updating the events and sessions
-* define a process for fellows now
-* write to juan and steph about funders stuff
+* Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
+* [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
+
 
 * get back to image providers with book
 * reach out to rishab about MIT workshop first week in december
