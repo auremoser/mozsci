@@ -2772,10 +2772,18 @@
 * updated contracts sheets for [science fellows in alexei's budget doc](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=282753679)
 * updated contracts sheets for the [OWF fellows in alexei's budget doc](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1063471283)
 
+## 11/1/17
+* jon gruen chat about posted senior fellows role
+* [fellows team meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* followed up with juan and steph about stencil.la workshop on friday
+* worked on emails and inbox insanity
+
 
 ## TODO
 * day two of the host org onboarding
-
+* updating the events and sessions
+* define a process for fellows now
+* write to juan and steph about funders stuff
 
 * get back to image providers with book
 * reach out to rishab about MIT workshop first week in december
