@@ -2777,6 +2777,8 @@
 * [fellows team meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 * followed up with juan and steph about stencil.la workshop on friday
 * worked on emails and inbox insanity
+* updated mozillians profile for ldap login
+* responses about freedman outreach recommendations
 
 
 ## TODO
