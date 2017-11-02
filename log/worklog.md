@@ -2784,7 +2784,7 @@
 ## 11/2/17
 * caught up on a ton of listserv and community correspondence/expenses
 * updated Nasma's [travel dates for taxes and sponsorship]()
-* added feedback on [amy's exit survey for the fellows](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+* added feedback on [amy's exit survey](https://docs.google.com/forms/d/e/1FAIpQLSeRsHkypDAuGIvZVKhYWNfzyWyrnIFYUjif0E9SrwYj8Gl2gA/viewform) for the fellows [doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 
 
 
