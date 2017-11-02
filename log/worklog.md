@@ -2788,6 +2788,7 @@
 * responde to Esraa's ask for expense submission process; made [invoice template](https://docs.google.com/a/mozilla.com/document/d/1WhULfSVGSeLn3iHMVBGPonpuNIDjURwy6i17RZnIIWA/edit?usp=sharing)
 * shared last year's fellows materials with Cori for SF
 * setup a poll for the [fellows](https://mozilla.slack.com/archives/C4W55UHE3/p1509648369000362)
+* meeting with Amy for weekly 1:1
 
 
 
