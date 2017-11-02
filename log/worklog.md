@@ -2779,6 +2779,14 @@
 * worked on emails and inbox insanity
 * updated mozillians profile for ldap login
 * responses about freedman outreach recommendations
+* shared [job posting for senior fellows lead with amanda](https://careers.mozilla.org/position/gh/890435) chatted with jon about a rec for this
+
+## 11/2/17
+* caught up on a ton of listserv and community correspondence/expenses
+* updated Nasma's [travel dates for taxes and sponsorship]()
+* added feedback on [amy's exit survey for the fellows](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+
+
 
 
 ## TODO
