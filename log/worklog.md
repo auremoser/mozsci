@@ -2787,6 +2787,7 @@
 * added feedback on [amy's exit survey](https://docs.google.com/forms/d/e/1FAIpQLSeRsHkypDAuGIvZVKhYWNfzyWyrnIFYUjif0E9SrwYj8Gl2gA/viewform) for the fellows [doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 * responde to Esraa's ask for expense submission process; made [invoice template](https://docs.google.com/a/mozilla.com/document/d/1WhULfSVGSeLn3iHMVBGPonpuNIDjURwy6i17RZnIIWA/edit?usp=sharing)
 * shared last year's fellows materials with Cori for SF
+* setup a poll for the [fellows](https://mozilla.slack.com/archives/C4W55UHE3/p1509648369000362)
 
 
 
