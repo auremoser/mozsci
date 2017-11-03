@@ -2790,7 +2790,12 @@
 * setup a poll for the [fellows](https://mozilla.slack.com/archives/C4W55UHE3/p1509648369000362)
 * meeting with Amy for weekly 1:1
 
-
+## 11/3/17
+* travel stuff with nasma and bram
+* wrote to mandy about bugzilla account
+* submitted wpr it service request to fix bugzilla
+* stencil.la workshop at sloan
+* thank you emails to science and owf fellows
 
 
 ## TODO
