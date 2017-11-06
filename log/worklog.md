@@ -2802,6 +2802,9 @@
 * finally got bugzilla login to work with 2fa
 * created [addresses]() spreadsheet and contacts for legal
 * added ideas to [fellows at all hands doc](https://docs.google.com/spreadsheets/d/1IKfpskBMPayV1heS0EpCn_9OKnxZM3lZLTmlxGILDJs/edit#gid=0)
+* commended on [owf brief doc](https://docs.google.com/document/d/1pz0culkSdFKjvUXzUgmIEl9fsu4Y-5OfqUi-EqtlRcw/edit?ts=5a00b359)
+* met with Amy about OWF brief doc
+* thank yous to beatrice, esme, lucie
 
 
 ## TODO
