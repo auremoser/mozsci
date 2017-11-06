@@ -2796,6 +2796,12 @@
 * submitted wpr it service request to fix bugzilla
 * stencil.la workshop at sloan
 * thank you emails to science and owf fellows
+* edited [quant humanists course](https://docs.google.com/document/d/1on3aAHmt-PLjJmHJBERY4rIkEIPE4vazgnK3ayAj4UA/edit?ts=59ff7de2)
+* sent back details to maria from derechos digitales
+* scheduled meeting to checking with ann marie about projects
+* finally got bugzilla login to work with 2fa
+* created [addresses]() spreadsheet and contacts for legal
+* added ideas to [fellows at all hands doc](https://docs.google.com/spreadsheets/d/1IKfpskBMPayV1heS0EpCn_9OKnxZM3lZLTmlxGILDJs/edit#gid=0)
 
 
 ## TODO
