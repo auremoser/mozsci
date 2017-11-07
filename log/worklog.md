@@ -2808,12 +2808,20 @@
 
 ## 11/4/17
 * created agenda for [call with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017) about plan for the fellows
+* wrote paul's recommendation letter
+* started getting to work on host org templates
+* shared contract details with consultants for mou amendment
+* started drafting fellows action plan
+* created fellows' repo and stubbed out some initial files and updates
+* started working on fellows' activities outline for fellows record doc for ann marie
+* messaged Kalpana about ccc for fellows
 
 
 
 ## TODO
 * Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
+* host org engagement email, round up of materials
 
 
 * get back to image providers with book
