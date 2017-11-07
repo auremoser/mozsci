@@ -2806,6 +2806,10 @@
 * met with Amy about OWF brief doc
 * thank yous to beatrice, esme, lucie
 
+## 11/4/17
+* created agenda for [call with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017) about plan for the fellows
+
+
 
 ## TODO
 * Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
