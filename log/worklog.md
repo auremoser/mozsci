@@ -2825,6 +2825,7 @@
 * invited rishab to [media fellows event in boston](https://docs.google.com/spreadsheets/d/1Piu1DB_HAunFeF4d1-Njc2QPKxfcCvPrptG1dF84kLo/edit#gid=0)
 * sent email to kevin about esra'a's project
 * wrapped up fellows repo
+* approved some travel for ccc
 
 
 
