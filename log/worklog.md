@@ -2819,11 +2819,20 @@
 ## 11/8/17
 * worked on [study groups africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
 * 1.5 hr meeting with legal
-* sorted cc with kalpana and others
+* sorted cc with kalpana and what-kind-of-workshop-we-can-offer-to-help-preparing-the-participants-to-solve-the-challenges--tnlVOVLXWIzc
+* meeting with [fellowships team](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* meeting with [grants team](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
+* invited rishab to [media fellows event in boston](https://docs.google.com/spreadsheets/d/1Piu1DB_HAunFeF4d1-Njc2QPKxfcCvPrptG1dF84kLo/edit#gid=0)
+* sent email to kevin about esra'a's project
 
 
 
 ## TODO
+
+* milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
+	* what can we do to make the launch of those prjoect successful
+	* abigail/kevin/lotta
+
 * Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 * host org engagement email, round up of materials
