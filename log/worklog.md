@@ -2818,7 +2818,8 @@
 
 ## 11/8/17
 * worked on [study groups africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
-* 
+* 1.5 hr meeting with legal
+* sorted cc with kalpana and others
 
 
 
