@@ -2806,7 +2806,7 @@
 * met with Amy about OWF brief doc
 * thank yous to beatrice, esme, lucie
 
-## 11/4/17
+## 11/7/17
 * created agenda for [call with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017) about plan for the fellows
 * wrote paul's recommendation letter
 * started getting to work on host org templates
@@ -2815,6 +2815,10 @@
 * created fellows' repo and stubbed out some initial files and updates
 * started working on fellows' activities outline for fellows record doc for ann marie
 * messaged Kalpana about ccc for fellows
+
+## 11/8/17
+* worked on [study groups africa etherpad](https://public.etherpad-mozilla.org/p/mozilla-studygroup-leads-africa)
+* 
 
 
 
