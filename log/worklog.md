@@ -2824,6 +2824,7 @@
 * meeting with [grants team](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
 * invited rishab to [media fellows event in boston](https://docs.google.com/spreadsheets/d/1Piu1DB_HAunFeF4d1-Njc2QPKxfcCvPrptG1dF84kLo/edit#gid=0)
 * sent email to kevin about esra'a's project
+* wrapped up fellows repo
 
 
 
