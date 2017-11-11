@@ -2832,12 +2832,15 @@
 * approved expenses
 * created [doodle poll for host org quarterly checkins](https://doodle.com/poll/vbfd3byz3hueaden)
 * shared this with hans and others
+* fellows' email drafting
+
 
 
 
 
 ## TODO
 
+* get ann marie offboarding things surveys
 * milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
 	* what can we do to make the launch of those prjoect successful
 	* abigail/kevin/lotta
@@ -2876,7 +2879,6 @@
 * checklists, correspondence with beatrice about badges
 * printed copies of everything for Beatrice
 * worked on sending emails to fellows, hosts, ford
-* fellows' email draft
 
 
 * MOZFEST
