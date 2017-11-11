@@ -2827,6 +2827,13 @@
 * wrapped up fellows repo
 * approved some travel for ccc
 
+## 11/9/17
+* gave feedback on [amy's mvp doc for ford](https://docs.google.com/document/d/1pz0culkSdFKjvUXzUgmIEl9fsu4Y-5OfqUi-EqtlRcw/edit)
+* approved expenses
+* created [doodle poll for host org quarterly checkins](https://doodle.com/poll/vbfd3byz3hueaden)
+* shared this with hans and others
+
+
 
 
 ## TODO
@@ -2841,7 +2848,6 @@
 
 
 * get back to image providers with book
-* reach out to rishab about MIT workshop first week in december
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
 	* some metric for feedback, provide a letter of invitation/justification for your work
@@ -2870,6 +2876,7 @@
 * checklists, correspondence with beatrice about badges
 * printed copies of everything for Beatrice
 * worked on sending emails to fellows, hosts, ford
+* fellows' email draft
 
 
 * MOZFEST
