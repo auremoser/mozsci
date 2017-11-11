@@ -2833,13 +2833,15 @@
 * created [doodle poll for host org quarterly checkins](https://doodle.com/poll/vbfd3byz3hueaden)
 * shared this with hans and others
 * fellows' email drafting
-
+* fixed open data primers build issue in travis for steph
+* fellows announcement email about calls etcet
 
 
 
 
 ## TODO
 
+* fellows' call: https://public.etherpad-mozilla.org/p/2017-fellows
 * get ann marie offboarding things surveys
 * milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
 	* what can we do to make the launch of those prjoect successful
