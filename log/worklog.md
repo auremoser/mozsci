@@ -2837,7 +2837,8 @@
 * fellows announcement email about calls etcet
 * applied to cartodb ambassador's program
 
-
+## 11/13/17
+* sent allow post-onboarding review for host orgs, setup [doodle poll](https://doodle.com/poll/vbfd3byz3hueaden	) for quarterly calls
 
 
 ## TODO
@@ -2851,7 +2852,7 @@
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 * host org engagement email, round up of materials
 
-
+* check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 * get back to image providers with book
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
