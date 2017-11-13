@@ -2835,18 +2835,18 @@
 * fellows' email drafting
 * fixed open data primers build issue in travis for steph
 * fellows announcement email about calls etcet
+* applied to cartodb ambassador's program
 
 
 
 
 ## TODO
 
-* fellows' call: https://public.etherpad-mozilla.org/p/2017-fellows
+* fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 * get ann marie offboarding things surveys
 * milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
 	* what can we do to make the launch of those prjoect successful
 	* abigail/kevin/lotta
-
 * Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 * host org engagement email, round up of materials
