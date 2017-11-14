@@ -2843,10 +2843,14 @@
 * culture amp survey
 * designed some workweek milestones: https://public.etherpad-mozilla.org/p/2017-fellows-workweek-milestones
 * [internal call for quantum day](https://air.mozilla.org/monthly-internal-call-november-2017/)
+* responded to cori's ask about fellows' date tracking
+* drafted [milestones for the fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-milestones)
+* responded to Sara and Rebecca and several fellows' side-emails
 
 
 ## TODO
 
+* log all hands travel in this sheet for OWF + Science fellows: https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1016761308
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 * get ann marie offboarding things surveys
 * milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
