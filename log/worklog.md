@@ -2846,6 +2846,8 @@
 * responded to cori's ask about fellows' date tracking
 * drafted [milestones for the fellows' workweek](https://public.etherpad-mozilla.org/p/2017-fellows-workweek-milestones)
 * responded to Sara and Rebecca and several fellows' side-emails
+* made placeholder zine folder for sarah
+* emailed abby and amy about [cipit bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
 
 
 ## TODO
