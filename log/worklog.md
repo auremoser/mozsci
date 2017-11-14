@@ -2840,6 +2840,8 @@
 ## 11/13/17
 * sent allow post-onboarding review for host orgs, setup [doodle poll](https://doodle.com/poll/vbfd3byz3hueaden	) for quarterly calls
 * filled out personal [OKR goals](https://docs.google.com/spreadsheets/d/109bQuBnIi6RK3vQ6ijYHa_O3yMj32A5R4AXEaccxLJk/edit#gid=1121165176)
+* culture amp survey
+* designed some workweek milestones: https://public.etherpad-mozilla.org/p/2017-fellows-workweek-milestones
 
 
 ## TODO
