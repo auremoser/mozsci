@@ -2839,6 +2839,7 @@
 
 ## 11/13/17
 * sent allow post-onboarding review for host orgs, setup [doodle poll](https://doodle.com/poll/vbfd3byz3hueaden	) for quarterly calls
+* filled out personal [OKR goals](https://docs.google.com/spreadsheets/d/109bQuBnIi6RK3vQ6ijYHa_O3yMj32A5R4AXEaccxLJk/edit#gid=1121165176)
 
 
 ## TODO
@@ -2850,7 +2851,6 @@
 	* abigail/kevin/lotta
 * Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
-* host org engagement email, round up of materials
 
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 * get back to image providers with book
