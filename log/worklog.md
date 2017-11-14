@@ -2848,6 +2848,7 @@
 * responded to Sara and Rebecca and several fellows' side-emails
 * made placeholder zine folder for sarah
 * emailed abby and amy about [cipit bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
+* updated some fellows' record entries
 
 
 ## TODO
