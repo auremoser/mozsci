@@ -2849,6 +2849,14 @@
 * made placeholder zine folder for sarah
 * emailed abby and amy about [cipit bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1256463)
 * updated some fellows' record entries
+* updated [fellows call for friday](https://public.etherpad-mozilla.org/p/2017-fellows)
+
+
+## 11/15/17
+* mozfest staff survey
+* approved bills for alexei
+* responded to a few bugzilla posts
+* registered remote work expenses for internet
 
 
 ## TODO
