@@ -2871,10 +2871,12 @@
 	* [-] Laurian Gridnoc
 	* [x] Nicole Hughes
 * finishe up some todos in my [checkin doc with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017)
+* filled out all hands travel in [owf sheet](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1016761308)
+* filled out all hands travel in [science sheet](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=1063471283)
 
 ## TODO
 
-* log all hands travel in this sheet for OWF + Science fellows: https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1016761308
+
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
