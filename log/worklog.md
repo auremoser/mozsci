@@ -2857,20 +2857,30 @@
 * approved bills for alexei
 * responded to a few bugzilla posts
 * registered remote work expenses for internet
+* cleared out inbox of outstanding requests
+* got ann marie offboarding surveys from the science fellows during our checkin
+* fleshed out [fellows' record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a01cdf1#gid=0) for 
+	* [x] Berhan Taye
+	* [x] Jennifer Helsby
+	* [x] An Me Chung
+	* [-] Cori Zarek
+	* [x] Stijn Debrouere
+	* [x] Cole Gillespie
+	* [x] Mark Boas
+	* [x] Dan Schultz
+	* [-] Laurian Gridnoc
+	* [x] Nicole Hughes
 
 
 ## TODO
 
 * log all hands travel in this sheet for OWF + Science fellows: https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1016761308
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
-* get ann marie offboarding things surveys
-* milestones for workweek w/ ann marie (dates confirmed booking travel) - goals to send to the team
-	* what can we do to make the launch of those prjoect successful
-	* abigail/kevin/lotta
-* Aurelia and Ann Marie to put together comms strategy across focus area re: biweekly emails +aurelia@mozillafoundation.org
+
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
+
 * get back to image providers with book
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
