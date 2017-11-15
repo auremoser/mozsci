@@ -2870,7 +2870,7 @@
 	* [x] Dan Schultz
 	* [-] Laurian Gridnoc
 	* [x] Nicole Hughes
-
+* finishe up some todos in my [checkin doc with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017)
 
 ## TODO
 
