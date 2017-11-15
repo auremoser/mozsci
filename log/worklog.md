@@ -2873,6 +2873,7 @@
 * finishe up some todos in my [checkin doc with ann marie](https://public.etherpad-mozilla.org/p/fellows-plan-2017)
 * filled out all hands travel in [owf sheet](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1016761308)
 * filled out all hands travel in [science sheet](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=1063471283)
+* applied to the Data & Society [news and media workshop](https://docs.google.com/forms/d/e/1FAIpQLSfGqKhUrrWdK9EKw9cSKr4Oj-vUy_csr1_Lvb1PtlzPFg-dKA/formResponse) in december at Data & Society
 
 ## TODO
 
