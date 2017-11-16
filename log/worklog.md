@@ -2851,7 +2851,6 @@
 * updated some fellows' record entries
 * updated [fellows call for friday](https://public.etherpad-mozilla.org/p/2017-fellows)
 
-
 ## 11/15/17
 * mozfest staff survey
 * approved bills for alexei
@@ -2878,14 +2877,15 @@
 ## 11/16/17
 * gave feedback on [amy's alumni doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 * answered some queries about tax forms and expenses
+* added code of conduct, contributing instructions, and issue template to the [mozfellows repo](https://github.com/MozillaFoundation/mozfellows-2017)
+* update fellows' repo with issue template part of [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
+* helped Alicia with some story engine stuff
+* wrote email to alexei on behalf of cori for a spreadsheet to track fellows travel dates
 
 ## TODO
 
 
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
-* update fellows' repo with issue template
-* [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
-
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 
 * get back to image providers with book
@@ -2895,15 +2895,12 @@
 	* we fund travel related to your fellowship where you are speaking/facilitating
 	* does this bring up work auth issues
 	* discretionary ceiling 2,000
-* update [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
 * ONBOARDING archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
 )
 * ONBOARDING create a folder for the fellows' onboarding with:
 	* stipend overview document
 	* tax and immigration considerations
 * ONBOARDING add fellows tasks doc to the spreadsheet on onboarding (IHR, )
-* wow, update website - [checkin](https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#)
-* OCT 5 FINISH FELLOWS' RECORD [here](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit#gid=0)
 * revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
 * interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 * write up gsoc email soliciting feedback on our dashboard
@@ -2914,9 +2911,6 @@
 * develop community development prospectus for fellowship programs
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
-* checklists, correspondence with beatrice about badges
-* printed copies of everything for Beatrice
-* worked on sending emails to fellows, hosts, ford
 
 
 * MOZFEST
