@@ -2881,6 +2881,7 @@
 * update fellows' repo with issue template part of [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 * helped Alicia with some story engine stuff
 * wrote email to alexei on behalf of cori for a spreadsheet to track fellows travel dates
+* [1:1 meeting with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
 ## TODO
 
