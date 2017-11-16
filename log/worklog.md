@@ -2884,7 +2884,15 @@
 
 ## TODO
 
+* host org application thinking with Kalpana
+* DEC 1 - exec spreadsheet for everyone
+	* Create - a spreadsheet for host orgs leadership (lower priority for first draft)
+	* Ideas for engagement that you think would resonate with their execs
+	* Limitations/parameters (ie reach out should come from Mark, etc)
+	* Audience - Amy, Rizwan, Mark, Sarah
+	* Timeline - To complete by Dec 1? // Scope // Just for 2017 (OWF)
 
+* ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 
