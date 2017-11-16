@@ -2875,11 +2875,15 @@
 * filled out all hands travel in [science sheet](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=1063471283)
 * applied to the Data & Society [news and media workshop](https://docs.google.com/forms/d/e/1FAIpQLSfGqKhUrrWdK9EKw9cSKr4Oj-vUy_csr1_Lvb1PtlzPFg-dKA/formResponse) in december at Data & Society
 
+## 11/16/17
+* gave feedback on [amy's alumni doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+* answered some queries about tax forms and expenses
+
 ## TODO
 
 
 * fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
-
+* update fellows' repo with issue template
 * [define a process](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) for fellows engagine with us
 
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
