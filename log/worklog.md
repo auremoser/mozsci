@@ -2883,6 +2883,11 @@
 * wrote email to alexei on behalf of cori for a spreadsheet to track fellows travel dates
 * [1:1 meeting with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
+## 11/17/17
+* updated [owf budgets](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1063471283) and [science budgets](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=1063471283) with tracking info
+* [fellows call](https://public.etherpad-mozilla.org/p/2017-fellows)
+* check in on host org [doodle poll](https://doodle.com/poll/vbfd3byz3hueaden) encouraged remaining hosts to sign up
+
 ## TODO
 
 * host org application thinking with Kalpana
@@ -2894,7 +2899,7 @@
 	* Timeline - To complete by Dec 1? // Scope // Just for 2017 (OWF)
 
 * ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
-* fellows' call, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
+* plan next fellows' call nov 30, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 
 * get back to image providers with book
