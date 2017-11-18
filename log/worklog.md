@@ -2887,6 +2887,9 @@
 * updated [owf budgets](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1063471283) and [science budgets](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit#gid=1063471283) with tracking info
 * [fellows call](https://public.etherpad-mozilla.org/p/2017-fellows)
 * check in on host org [doodle poll](https://doodle.com/poll/vbfd3byz3hueaden) encouraged remaining hosts to sign up
+* commented on [apis doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=5a0f6cb2) for amy
+* wrote to maya about flight booking
+* evaluated [objectives spreadsheet](https://docs.google.com/spreadsheets/d/109bQuBnIi6RK3vQ6ijYHa_O3yMj32A5R4AXEaccxLJk/edit#gid=1121165176) edits for amy
 
 ## TODO
 
