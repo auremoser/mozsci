@@ -2890,6 +2890,7 @@
 * commented on [apis doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=5a0f6cb2) for amy
 * wrote to maya about flight booking
 * evaluated [objectives spreadsheet](https://docs.google.com/spreadsheets/d/109bQuBnIi6RK3vQ6ijYHa_O3yMj32A5R4AXEaccxLJk/edit#gid=1121165176) edits for amy
+* made [host org information tracker](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit#gid=0)
 
 ## TODO
 
