@@ -2897,16 +2897,12 @@
 * cleared notifications on some bugzilla work
 * staff call [notes](https://docs.google.com/document/d/1YCszUvjzV-AHqmgQlcZv-64Ui50aZQWzUO08mArv1gA/edit)
 * reminders to fellows about our call on Friday [notes](https://public.etherpad-mozilla.org/p/2017-fellows#lineNumber=197)
+* WOW pasteur meeting, updated WOW Pasteur [website](https://mozillascience.github.io/WOW-Pasteur/)
+* edited [host org information tracker](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit#gid=0)
 
 ## TODO
-
+* review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
 * host org application thinking with Kalpana
-* DEC 1 - exec spreadsheet for everyone
-	* Create - a spreadsheet for host orgs leadership (lower priority for first draft)
-	* Ideas for engagement that you think would resonate with their execs
-	* Limitations/parameters (ie reach out should come from Mark, etc)
-	* Audience - Amy, Rizwan, Mark, Sarah
-	* Timeline - To complete by Dec 1? // Scope // Just for 2017 (OWF)
 
 * ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
 * plan next fellows' call nov 30, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
