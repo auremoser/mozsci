@@ -2892,6 +2892,12 @@
 * evaluated [objectives spreadsheet](https://docs.google.com/spreadsheets/d/109bQuBnIi6RK3vQ6ijYHa_O3yMj32A5R4AXEaccxLJk/edit#gid=1121165176) edits for amy
 * made [host org information tracker](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit#gid=0)
 
+## 11/20/17
+* work on aleks' paperwork feedback to fragomen
+* cleared notifications on some bugzilla work
+* staff call [notes](https://docs.google.com/document/d/1YCszUvjzV-AHqmgQlcZv-64Ui50aZQWzUO08mArv1gA/edit)
+* reminders to fellows about our call on Friday [notes](https://public.etherpad-mozilla.org/p/2017-fellows#lineNumber=197)
+
 ## TODO
 
 * host org application thinking with Kalpana
