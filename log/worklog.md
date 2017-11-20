@@ -2902,6 +2902,7 @@
 * created [event](https://science.mozilla.org/programs/events/wow-paris-2017) for WOW paris
 * cleaned up site with more details 
 * cleaned up [wow speaker slide deck](https://docs.google.com/presentation/d/1gqszFbmvZ1tBheFqGvUsufn7cpeKtLY4_C_ZJrIcpnM/edit#slide=id.g28abcddc33_0_2492)
+* created [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) and calendar event for 12/12; emailed hosts and included updated mou warning
 
 ## TODO
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
