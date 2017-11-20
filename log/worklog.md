@@ -2899,6 +2899,9 @@
 * reminders to fellows about our call on Friday [notes](https://public.etherpad-mozilla.org/p/2017-fellows#lineNumber=197)
 * WOW pasteur meeting, updated WOW Pasteur [website](https://mozillascience.github.io/WOW-Pasteur/)
 * edited [host org information tracker](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit#gid=0)
+* created [event](https://science.mozilla.org/programs/events/wow-paris-2017) for WOW paris
+* cleaned up site with more details 
+* cleaned up [wow speaker slide deck](https://docs.google.com/presentation/d/1gqszFbmvZ1tBheFqGvUsufn7cpeKtLY4_C_ZJrIcpnM/edit#slide=id.g28abcddc33_0_2492)
 
 ## TODO
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
