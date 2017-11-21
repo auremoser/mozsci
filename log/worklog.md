@@ -2909,7 +2909,7 @@
 * reviewed schedule for host orgs and adjusted etherpad for checkin
 * wrote back to jean about franklin furnace comms training
 * chatted with Alan about updates to production workflow
-* meeting with Amy for 1:1
+* meeting with [Amy for 1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
 ## TODO
 * write to host orgs about contracts for bug
