@@ -2904,7 +2904,17 @@
 * cleaned up [wow speaker slide deck](https://docs.google.com/presentation/d/1gqszFbmvZ1tBheFqGvUsufn7cpeKtLY4_C_ZJrIcpnM/edit#slide=id.g28abcddc33_0_2492)
 * created [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) and calendar event for 12/12; emailed hosts and included updated mou warning
 
+## 11/21/17
+* caught up on some bill.com stuff
+* reviewed schedule for host orgs and adjusted etherpad for checkin
+* wrote back to jean about franklin furnace comms training
+* chatted with Alan about updates to production workflow
+* meeting with Amy for 1:1
+
 ## TODO
+* write to host orgs about contracts for bug
+* update [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
+* review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
 * host org application thinking with Kalpana
 
