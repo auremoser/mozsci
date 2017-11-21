@@ -2910,6 +2910,7 @@
 * wrote back to jean about franklin furnace comms training
 * chatted with Alan about updates to production workflow
 * meeting with [Amy for 1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* [quant humanists](https://docs.google.com/document/d/10HCAlYjWG2UtjCXg5B6ismZavZFIcMgG7vHPzGXyysE/edit?ts=5a097852)
 
 ## TODO
 * write to host orgs about contracts for bug
