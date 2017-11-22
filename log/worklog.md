@@ -2918,6 +2918,7 @@
 * cleared some inbox issues
 * thank you note to lucie from MozHouse
 * added some deadlines for workweek
+* updated [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212) with Seth as signatory
 
 
 ## TODO
