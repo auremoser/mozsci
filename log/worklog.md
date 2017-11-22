@@ -2914,7 +2914,16 @@
 * sent mou warning to all [host orgs in bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * update to Kevin on fellows at all hands
 
+## 11/22/17
+* cleared some inbox issues
+* thank you note to lucie from MozHouse
+* added some deadlines for workweek
+
+
 ## TODO
+* send mayu flubber
+* DEC 15 - workweek schedule
+* get fellows invites out for the next several weeks
 * write to host orgs about contracts for bug
 * update [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
