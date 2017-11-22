@@ -2919,10 +2919,15 @@
 * thank you note to lucie from MozHouse
 * added some deadlines for workweek
 * updated [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212) with Seth as signatory
+* sent [w8 ben](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) to all fellows traveling to the US during the term of their fellowship
+* fixed open data primers travis issue
+* meeting with [fellowships team](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* meeting with kalpana about fluxx expectations
 
 
 ## TODO
 * send mayu flubber
+* get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 * DEC 15 - workweek schedule
 * get fellows invites out for the next several weeks
 * write to host orgs about contracts for bug
