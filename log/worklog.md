@@ -2941,7 +2941,6 @@
 * plan next fellows' call nov 30, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
 * check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
 
-* get back to image providers with book
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
 	* some metric for feedback, provide a letter of invitation/justification for your work
