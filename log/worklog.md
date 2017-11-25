@@ -2923,6 +2923,7 @@
 * fixed open data primers travis issue
 * meeting with [fellowships team](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 * meeting with kalpana about fluxx expectations
+* wrote letter to clara about paris wow
 
 
 ## TODO
