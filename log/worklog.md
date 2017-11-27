@@ -2926,20 +2926,21 @@
 * wrote letter to clara about paris wow
 
 ## 11/27/17
-* created invites and etherpads for all fellows' calls:
+* created etherpads for all fellows' calls:
 	* [Group 1](https://public.etherpad-mozilla.org/p/2017-fellows-g1)
 	* [Group 2](https://public.etherpad-mozilla.org/p/2017-fellows-g2)
 	* [Group 3](https://public.etherpad-mozilla.org/p/2017-fellows-g3)
-
-
+* send mayu flubber
+* write to host orgs about contracts for bug
+* get fellows cal invites out for the next several weeks of checkins
 
 
 ## TODO
-* send mayu flubber
+
 * get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 * DEC 15 - workweek schedule
-* get fellows invites out for the next several weeks
-* write to host orgs about contracts for bug
+
+
 * update [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
