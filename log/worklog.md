@@ -2925,6 +2925,14 @@
 * meeting with kalpana about fluxx expectations
 * wrote letter to clara about paris wow
 
+## 11/27/17
+* created invites and etherpads for all fellows' calls:
+	* [Group 1](https://public.etherpad-mozilla.org/p/2017-fellows-g1)
+	* [Group 2](https://public.etherpad-mozilla.org/p/2017-fellows-g2)
+	* [Group 3](https://public.etherpad-mozilla.org/p/2017-fellows-g3)
+
+
+
 
 ## TODO
 * send mayu flubber
