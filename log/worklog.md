@@ -2936,15 +2936,13 @@
 * movement org [okr checkin](https://docs.google.com/document/d/106m8uNAC2NothJ1QWszlj5b6rHSpYNaZ4fXvmCOClzk/edit#heading=h.4644py9t06vn)
 * reviewed [10 page mofo strategy brief](https://drive.google.com/file/d/1I4l7ly86cZgmfm4ehkyPGpX7IubJCTXQ/view)
 * helped steph troubleshoot some [primer stuff](https://github.com/mozillascience/open-data-primers/pull/9/files)
+* updated [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
 
 
 ## TODO
 
 * get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 * DEC 15 - workweek schedule
-
-
-* update [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
 * host org application thinking with Kalpana
