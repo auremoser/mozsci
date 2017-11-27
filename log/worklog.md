@@ -2933,6 +2933,7 @@
 * send mayu flubber
 * write to host orgs about contracts for bug
 * get fellows cal invites out for the next several weeks of checkins
+* movement org [okr checkin](https://docs.google.com/document/d/106m8uNAC2NothJ1QWszlj5b6rHSpYNaZ4fXvmCOClzk/edit#heading=h.4644py9t06vn)
 
 
 ## TODO
@@ -2946,9 +2947,7 @@
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
 * host org application thinking with Kalpana
 
-* ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
-* plan next fellows' call nov 30, update etherpad: https://public.etherpad-mozilla.org/p/2017-fellows
-* check in on host org doodle poll: https://doodle.com/poll/vbfd3byz3hueaden	
+* ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)	
 
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
@@ -2967,14 +2966,13 @@
 * write up gsoc email soliciting feedback on our dashboard
 * send advisor followup email with fellows accomplishments
 * flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
-* make fellows repo fellows-class-2017 + gitter
 * put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
 * develop community development prospectus for fellowship programs
 * review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 
 
-* MOZFEST
+* MOZFEST 2017
 	* [staff schedule for Mozfest](https://public.etherpad-mozilla.org/p/festival.MozFest.brownbag17)
 	* [open innovation folder](https://drive.google.com/drive/folders/0BwZzmiG9MvT4WW9lcmMydWFwV2c)
 	* [open innovation sessions sheet](https://docs.google.com/spreadsheets/d/1vH265Uez43EHCvvoTUiOzWV-kn_vtvufz1wrSvkFP-Y/edit#gid=553139853)
