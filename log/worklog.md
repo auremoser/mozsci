@@ -2934,6 +2934,7 @@
 * write to host orgs about contracts for bug
 * get fellows cal invites out for the next several weeks of checkins
 * movement org [okr checkin](https://docs.google.com/document/d/106m8uNAC2NothJ1QWszlj5b6rHSpYNaZ4fXvmCOClzk/edit#heading=h.4644py9t06vn)
+* reviewed [10 page mofo strategy brief](https://drive.google.com/file/d/1I4l7ly86cZgmfm4ehkyPGpX7IubJCTXQ/view)
 
 
 ## TODO
