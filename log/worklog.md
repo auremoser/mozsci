@@ -2951,6 +2951,11 @@
 * added some farewells to [chris' doc](https://docs.google.com/document/d/1xpVL08jNydu_0fE4dr9IE5KleZgsZQG9tzqFAGJ2HzQ/edit)
 * got back to bram about blog details
 * shared [udemy course signup](https://mozillafoundation.udemy.com/)
+* put together fluxx docs for Kalpana
+	* [FLUXX workflow for host orgs](https://docs.google.com/spreadsheets/d/1IIWLXdv388MLDavx3be3ryJz1y0_U7Z8Sg2OQbrAsbQ/edit#gid=0)
+	* [FLUXX application questions for host orgs](https://docs.google.com/a/mozilla.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit?usp=sharing)
+	* [FLUXX drive with all documentation](https://drive.google.com/open?id=1W8NfwYI01uOQBebsMlWITRZrNZCP1VSX)
+* created invite for kalpana and fellowships team to discuss application launch for owf
 
 
 
