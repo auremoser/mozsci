@@ -2943,6 +2943,13 @@
 * responded to [ford brief](https://docs.google.com/document/d/1iHNIHwg9-ilMJ0iav7cjZ1gh-p7-XBwPGo9voeowivQ/edit?ts=5a1df0c9)
 * responded to additions and commentary on [kpi doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=5a1df169)
 
+## 11/29/17
+* Feedback on alumni proposal doc for ford
+* sent recommendations to Meghan for sexual harrassment panel event next week
+* reviewed [rizwan's documents for movement growth](https://docs.google.com/document/d/1V5ryoJANRgd9Ch5SHvuoukSWkuGrQbp0qfy3EWSnb5w/edit?usp=sharing)
+* added feedback to [tais' doc materials](https://docs.google.com/document/d/1OMV92Dc16-ngvCBsMqNd6DeWQSUKIqCq736u2NnvygM/edit) + watched [wireframes walkthrough](https://taisdesouzalessa.github.io/fellowship-pages/)
+
+
 
 ## TODO
 
@@ -2951,6 +2958,9 @@
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
 * host org application thinking with Kalpana
+* fellows' email:
+	* all hands
+	* workweek travel bookings
 
 * ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)	
 
