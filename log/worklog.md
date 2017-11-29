@@ -2938,6 +2938,9 @@
 * helped steph troubleshoot some [primer stuff](https://github.com/mozillascience/open-data-primers/pull/9/files)
 * updated [host org list](https://docs.google.com/spreadsheets/d/16amcJ0yJV0P-vWhge7wcUZ9yV0to6JrDtFkvr_9r1rw/edit?ts=5a0f6b15#gid=0) with roles anyone else have strategic initiatives
 
+## 11/28/17
+* pto day
+
 
 ## TODO
 
