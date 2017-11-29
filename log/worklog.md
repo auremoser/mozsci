@@ -2940,6 +2940,8 @@
 
 ## 11/28/17
 * pto day
+* responded to [ford brief](https://docs.google.com/document/d/1iHNIHwg9-ilMJ0iav7cjZ1gh-p7-XBwPGo9voeowivQ/edit?ts=5a1df0c9)
+* responded to additions and commentary on [kpi doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=5a1df169)
 
 
 ## TODO
