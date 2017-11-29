@@ -2948,6 +2948,7 @@
 * sent recommendations to Meghan for sexual harrassment panel event next week
 * reviewed [rizwan's documents for movement growth](https://docs.google.com/document/d/1V5ryoJANRgd9Ch5SHvuoukSWkuGrQbp0qfy3EWSnb5w/edit?usp=sharing)
 * added feedback to [tais' doc materials](https://docs.google.com/document/d/1OMV92Dc16-ngvCBsMqNd6DeWQSUKIqCq736u2NnvygM/edit) + watched [wireframes walkthrough](https://taisdesouzalessa.github.io/fellowship-pages/)
+* added some farewells to [chris' doc](https://docs.google.com/document/d/1xpVL08jNydu_0fE4dr9IE5KleZgsZQG9tzqFAGJ2HzQ/edit)
 
 
 
