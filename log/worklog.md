@@ -2965,7 +2965,7 @@
 * 1:1 with Amy
 * chatted with ann marie about printing new zines!
 * wrote updates and announcements in the [fellows call pads](https://public.etherpad-mozilla.org/p/2017-fellows-g3)
-* intro to benoi
+* intro to benoit to Paris wow crew
 * chatted with sarah a and setup meeting
 * poll for udemy courses in fellows chat
 * solicited Maya's zine
