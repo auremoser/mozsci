@@ -2968,6 +2968,7 @@
 * intro to benoi
 * chatted with sarah a and setup meeting
 * poll for udemy courses in fellows chat
+* solicited Maya's zine
 
 
 ## TODO
