@@ -2962,6 +2962,9 @@
 * monitoring WOW twitter for paris
 * added to [OSF framework for paris wow](https://osf.io/ujkqt/)
 * added plan for [fellows comms to ann marie's email](https://docs.google.com/document/d/1eDxfHhNsjcBPuWsgc4FdHQ0vplUmj-PzfE53e1J4xvs/edit)
+* 1:1 with Amy
+* chatted with ann marie about printing new zines!
+* wrote updates and announcements in the [fellows call pads](https://public.etherpad-mozilla.org/p/2017-fellows-g3)
 
 
 ## TODO
