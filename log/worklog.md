@@ -2956,7 +2956,11 @@
 	* [FLUXX application questions for host orgs](https://docs.google.com/a/mozilla.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit?usp=sharing)
 	* [FLUXX drive with all documentation](https://drive.google.com/open?id=1W8NfwYI01uOQBebsMlWITRZrNZCP1VSX)
 * created invite for kalpana and fellowships team to discuss application launch for owf
+* activated [civic hall membership](https://civichall.spaces.nexudus.com/en/profile)
 
+## 11/30/17
+* monitoring WOW twitter for paris
+* added to [OSF framework for paris wow](https://osf.io/ujkqt/)
 
 
 ## TODO
@@ -2965,7 +2969,6 @@
 * DEC 15 - workweek schedule
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
-* host org application thinking with Kalpana
 * fellows' email:
 	* all hands
 	* workweek travel bookings
