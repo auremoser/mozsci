@@ -2961,6 +2961,7 @@
 ## 11/30/17
 * monitoring WOW twitter for paris
 * added to [OSF framework for paris wow](https://osf.io/ujkqt/)
+* added plan for [fellows comms to ann marie's email](https://docs.google.com/document/d/1eDxfHhNsjcBPuWsgc4FdHQ0vplUmj-PzfE53e1J4xvs/edit)
 
 
 ## TODO
