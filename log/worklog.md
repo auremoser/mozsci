@@ -2980,6 +2980,9 @@
 * [kpi and metrics feedback info](https://docs.google.com/document/d/17QNbZejWenGDvnqvCD5ZqpkxdwzCGwurRoW5fV1U2C8/edit)
 	* [kpi doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=59e8df29)
 	* [impact assessment framework](https://drive.google.com/file/d/1qKw-R2gya_7fGTv0rk216QhYtA1FO4Q4/view)
+* created [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
+* submitted [wpr issue for carlos' approvals](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=1faea49ddbbacf002887110b0b961971)
+* reviewed [mozilla annual report](https://www.mozilla.org/en-US/foundation/annualreport/2016/)
 
 
 ## TODO
