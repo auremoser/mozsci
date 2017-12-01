@@ -2978,6 +2978,8 @@
 * fellows' call 2 [group 1](https://public.etherpad-mozilla.org/p/2017-fellows-g1)
 * [org amendments](https://docs.google.com/document/d/1XgqP7nPQxAKWpoSGhZ5ngU78MYDjRSt9ryixrrai_kc/edit) w/ fellow
 * [kpi and metrics feedback info](https://docs.google.com/document/d/17QNbZejWenGDvnqvCD5ZqpkxdwzCGwurRoW5fV1U2C8/edit)
+	* [kpi doc](https://docs.google.com/document/d/1QW2SltXHcRC2n8MHT0nIM02dlquDpcIqN1RzYlgpETE/edit?ts=59e8df29)
+	* [impact assessment framework](https://drive.google.com/file/d/1qKw-R2gya_7fGTv0rk216QhYtA1FO4Q4/view)
 
 
 ## TODO
