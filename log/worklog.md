@@ -2983,6 +2983,7 @@
 * created [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 * submitted [wpr issue for carlos' approvals](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=1faea49ddbbacf002887110b0b961971)
 * reviewed [mozilla annual report](https://www.mozilla.org/en-US/foundation/annualreport/2016/)
+* shared zine resources with Ann Marie
 
 
 ## TODO
@@ -2999,7 +3000,9 @@
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
-	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)	
+	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)
+	* [fundamentals doc](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy)
+	* [fluxx login](https://mozilla.fluxx.io/user_sessions/new)	
 
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
