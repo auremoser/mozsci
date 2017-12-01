@@ -2970,6 +2970,13 @@
 * poll for udemy courses in fellows chat
 * solicited Maya's zine
 
+## 12/1/17
+* hosted first fellows' call in [jitsi](https://public.etherpad-mozilla.org/p/2017-fellows-g2)
+* feedback on amy's [goals for All Hands](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)
+* responded to [fellows' email for all hands comments/suggestions](https://docs.google.com/document/d/1eDxfHhNsjcBPuWsgc4FdHQ0vplUmj-PzfE53e1J4xvs/edit?ts=5a20783b)
+* started giving feedback on [alumni strategy documentation](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+* fellows' call 2 [group 1](https://public.etherpad-mozilla.org/p/2017-fellows-g1)
+
 
 ## TODO
 
@@ -2981,7 +2988,9 @@
 	* all hands
 	* workweek travel bookings
 
-* ALL HANDS - work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)	
+* ALL HANDS 
+	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
+	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)	
 
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
