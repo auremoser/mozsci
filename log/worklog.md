@@ -2976,11 +2976,15 @@
 * responded to [fellows' email for all hands comments/suggestions](https://docs.google.com/document/d/1eDxfHhNsjcBPuWsgc4FdHQ0vplUmj-PzfE53e1J4xvs/edit?ts=5a20783b)
 * started giving feedback on [alumni strategy documentation](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 * fellows' call 2 [group 1](https://public.etherpad-mozilla.org/p/2017-fellows-g1)
+* [org amendments](https://docs.google.com/document/d/1XgqP7nPQxAKWpoSGhZ5ngU78MYDjRSt9ryixrrai_kc/edit) w/ fellow
+* [kpi and metrics feedback info](https://docs.google.com/document/d/17QNbZejWenGDvnqvCD5ZqpkxdwzCGwurRoW5fV1U2C8/edit)
 
 
 ## TODO
 
 * get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
+* close udemy poll
+* get back to ann marie with zine package
 * DEC 15 - workweek schedule
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
