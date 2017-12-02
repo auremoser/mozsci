@@ -2984,6 +2984,10 @@
 * submitted [wpr issue for carlos' approvals](https://mozilla.service-now.com/sp?id=ticket&table=facilities_request&sys_id=1faea49ddbbacf002887110b0b961971)
 * reviewed [mozilla annual report](https://www.mozilla.org/en-US/foundation/annualreport/2016/)
 * shared zine resources with Ann Marie
+* fellows' email:
+	* all hands
+	* workweek travel bookings
+* updated budget doc for new fellows' bookings
 
 
 ## TODO
@@ -2994,9 +2998,7 @@
 * DEC 15 - workweek schedule
 * review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 * review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
-* fellows' email:
-	* all hands
-	* workweek travel bookings
+
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
