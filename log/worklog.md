@@ -2988,6 +2988,7 @@
 	* all hands
 	* workweek travel bookings
 * updated budget doc for new fellows' bookings
+* sent process reminder to kasia for fellows' repo
 
 
 ## TODO
