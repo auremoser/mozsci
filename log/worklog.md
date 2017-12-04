@@ -2992,6 +2992,11 @@
 
 ## 12/4/17
 * provided feedback on [alumni strategy doc for amy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+* feedback to kristin on [open trons position](https://opentrons.recruitee.com/o/product-scientist)
+* meeting with marc galland and overview/feedback on our PLoS paper for Open Science
+* reminder chats with bram and other fellows vis-a-vis their participation in all hands
+* feedback on contract information
+* orientation and training at civic hall for co-working partnership with Mozilla
 
 
 ## TODO
