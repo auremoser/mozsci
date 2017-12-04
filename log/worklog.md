@@ -2990,6 +2990,9 @@
 * updated budget doc for new fellows' bookings
 * sent process reminder to kasia for fellows' repo
 
+## 12/4/17
+* provided feedback on [alumni strategy doc for amy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
+
 
 ## TODO
 
