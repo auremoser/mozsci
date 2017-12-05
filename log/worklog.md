@@ -3003,6 +3003,8 @@
 * chats with fellows about travel bookings and us dates
 * approving travel dates and expenses
 * meeting with natasha from [Serrapilheira](https://serrapilheira.org/en/) institute in brazil to talk about program development
+* booked flights for san francisco workweek
+* doctor's appointment
 
 
 ## TODO
