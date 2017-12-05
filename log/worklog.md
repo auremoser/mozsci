@@ -3010,6 +3010,7 @@
 * plugged [kasia's ask](https://mozilla.slack.com/archives/C4W55UHE3/p1512513237000115) in the fellows' repo
 * followup on offer letter stuffs
 * response to natasha and punt to steph for [open science in brazil](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) initiatives
+* added some details to the fellows' record
 
 
 ## TODO
