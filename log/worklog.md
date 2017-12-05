@@ -3008,6 +3008,8 @@
 * comments on [all hands doc involvement](https://docs.google.com/spreadsheets/d/1OqPhnR3hIa3sVUGazfnK-ctq5JN0KfoI8fRh-ZYv3Cc/edit?ts=5a26d98a#gid=499264887)
 * dealt with mozillascience unsuscribe mailing list issue
 * plugged [kasia's ask](https://mozilla.slack.com/archives/C4W55UHE3/p1512513237000115) in the fellows' repo
+* followup on offer letter stuffs
+* response to natasha and punt to steph for [open science in brazil](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) initiatives
 
 
 ## TODO
