@@ -2998,6 +2998,12 @@
 * feedback on contract information
 * orientation and training at civic hall for co-working partnership with Mozilla
 
+## 12/15/17
+* lots of docs, working on clarifying things for all hands
+* chats with fellows about travel bookings and us dates
+* approving travel dates and expenses
+* meeting with natasha from [Serrapilheira](https://serrapilheira.org/en/) institute in brazil to talk about program development
+
 
 ## TODO
 
