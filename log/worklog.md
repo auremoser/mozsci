@@ -3005,6 +3005,9 @@
 * meeting with natasha from [Serrapilheira](https://serrapilheira.org/en/) institute in brazil to talk about program development
 * booked flights for san francisco workweek
 * doctor's appointment
+* comments on [all hands doc involvement](https://docs.google.com/spreadsheets/d/1OqPhnR3hIa3sVUGazfnK-ctq5JN0KfoI8fRh-ZYv3Cc/edit?ts=5a26d98a#gid=499264887)
+* dealt with mozillascience unsuscribe mailing list issue
+* plugged [kasia's ask](https://mozilla.slack.com/archives/C4W55UHE3/p1512513237000115) in the fellows' repo
 
 
 ## TODO
@@ -3013,8 +3016,8 @@
 * close udemy poll
 * get back to ann marie with zine package
 * DEC 15 - workweek schedule
-* review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
-* review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
+
+
 
 
 * ALL HANDS 
@@ -3022,6 +3025,8 @@
 	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)
 	* [fundamentals doc](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy)
 	* [fluxx login](https://mozilla.fluxx.io/user_sessions/new)	
+	* review [all hands schedule](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy) communicate with fellows about their requirements
+	* review [post-fellowship strategy](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#heading=h.owci54f9v4me)
 
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
