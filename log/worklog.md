@@ -3010,13 +3010,14 @@
 * plugged [kasia's ask](https://mozilla.slack.com/archives/C4W55UHE3/p1512513237000115) in the fellows' repo
 * followup on offer letter stuffs
 * response to natasha and punt to steph for [open science in brazil](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) initiatives
-* added some details to the fellows' record
+* get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 
 
 ## TODO
 
-* get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
+
 * close udemy poll
+* travel and accommodations for IFF
 * get back to ann marie with zine package
 * DEC 15 - workweek schedule
 
