@@ -3017,6 +3017,7 @@
 * worked through email, checked in with christos about speaking at nyu in february
 * finalized fellows' workweek booking
 * sent out fellows' dinner invite for Nasma + nyc fellows
+* got back to Michael about ccc attendees
 
 
 ## TODO
