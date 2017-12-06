@@ -3016,7 +3016,7 @@
 * attended the 2018 Ford Trends Summit, tweeted about esra'a
 * worked through email, checked in with christos about speaking at nyu in february
 * finalized fellows' workweek booking
-
+* sent out fellows' dinner invite for Nasma + nyc fellows
 
 
 ## TODO
