@@ -3012,7 +3012,7 @@
 * response to natasha and punt to steph for [open science in brazil](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) initiatives
 * get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 
-## 13/16/17
+## 12/16/17
 * attended the 2018 Ford Trends Summit, tweeted about esra'a
 * worked through email, checked in with christos about speaking at nyu in february
 * finalized fellows' workweek booking
@@ -3021,8 +3021,10 @@
 * sent fellow's flux stuff to tais, matthew, jesse
 * [team call](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) with fellowhships team
 * started making arrangements for IFF
-* ping amy about the 
+* ping amy about the situations in toronto
 
+## 12/17/17
+* all hands [survey response](https://goo.gl/forms/0XQiGn4Pl2SAgCUw2)
 
 ## TODO
 
