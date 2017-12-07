@@ -3025,6 +3025,7 @@
 
 ## 12/17/17
 * all hands [survey response](https://goo.gl/forms/0XQiGn4Pl2SAgCUw2)
+* reviewed [austin leadership teams details for meeting](https://docs.google.com/document/d/1Bi4xRSIC0_LWkm2DIfbx3mWtzYiLPQNn_NXsi4TO4CA/edit?ts=5a2961a)
 
 ## TODO
 
@@ -3041,6 +3042,8 @@
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
+	* logic [model](https://docs.google.com/spreadsheets/d/1PSLc0MOHzpaQLF-v62CXCInEPOQNDMQ-kBM7MzajY-U/edit?ts=5a296efa#gid=432556863) for leadership team
+	* template for [wednesday](https://docs.google.com/document/d/1Bi4xRSIC0_LWkm2DIfbx3mWtzYiLPQNn_NXsi4TO4CA/edit?ts=5a2961a8)
 	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)
 	* [fundamentals doc](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy)
 	* [fluxx login](https://mozilla.fluxx.io/user_sessions/new)	
