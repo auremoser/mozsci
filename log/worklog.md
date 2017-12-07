@@ -3018,10 +3018,16 @@
 * finalized fellows' workweek booking
 * sent out fellows' dinner invite for Nasma + nyc fellows
 * got back to Michael about ccc attendees
+* sent fellow's flux stuff to tais, matthew, jesse
+* [team call](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit) with fellowhships team
+* started making arrangements for IFF
+* ping amy about the 
 
 
 ## TODO
 
+* send message with fellows call references
+* fill out activity
 
 * close udemy poll
 * travel and accommodations for IFF
