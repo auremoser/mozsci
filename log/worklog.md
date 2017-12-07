@@ -3037,7 +3037,7 @@
 * get back to ann marie with zine package
 * DEC 15 - workweek schedule
 
-
+* reach out to fellows about a blog for Science blog
 
 
 * ALL HANDS 
