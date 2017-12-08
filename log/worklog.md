@@ -3037,24 +3037,26 @@
 * reviewed blog post with kevin for mid east tunes
 * reached out to mozilla research grant champions offering support
 * plugged minigrants on twitter and over email
-
-* reminder email to fellows
+* reach out to fellows about a blog for Science blog
+* ping rebecca about ccc
+* get back to ann marie with zine package
+* wrote to pepe about group registration for IFF
 * reached out to bram about work week
+* assemble fellows etherpads and reminders for friday
+	* https://public.etherpad-mozilla.org/p/2017-fellows-g1-12-15
+	* https://public.etherpad-mozilla.org/p/2017-fellows-g2-12-15
+	* https://public.etherpad-mozilla.org/p/2017-fellows-g3-12-15
+* send message with fellows call references
 
 
 ## TODO
 
-* send message with fellows call references
+
 * fill out activity map
-
-
-* travel and accommodations for IFF
-* get back to ann marie with zine package
+* write rest api - daniel goddemeyer
+	* reach out 
+* travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
-
-* reach out to fellows about a blog for Science blog
-* assemble fellows etherpads and reminders for friday
-* ping rebecca about ccc
 * ping sarah about ccc bookings and hollaback situation
 
 
