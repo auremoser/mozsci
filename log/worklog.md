@@ -3047,11 +3047,11 @@
 	* https://public.etherpad-mozilla.org/p/2017-fellows-g2-12-15
 	* https://public.etherpad-mozilla.org/p/2017-fellows-g3-12-15
 * send message with fellows call references
-
+* made an issue for [fellows calls](https://github.com/auremoser/mozsci/issues/4)
 
 ## TODO
 
-
+* email reminder to host org leads about tuesday call
 * fill out activity map
 * write rest api - daniel goddemeyer
 	* reach out 
