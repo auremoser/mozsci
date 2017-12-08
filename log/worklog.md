@@ -3061,6 +3061,8 @@
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
 	* logic [model](https://docs.google.com/spreadsheets/d/1PSLc0MOHzpaQLF-v62CXCInEPOQNDMQ-kBM7MzajY-U/edit?ts=5a296efa#gid=432556863) for leadership team
+	* [2018 objectives + krs](https://docs.google.com/presentation/d/1NU8Nx280ErJNTLmccYbIrf1AS3NoEbw-owv8K6MUuKM/edit#slide=id.g2b1f7c90a3_0_0)
+	* [okr brainstorming working doc](https://docs.google.com/document/d/1tFwfgB0MxWqjQiU9gNowAjF0BQSZ6Q49VRYTfe9w-tA/edit)
 	* template for [wednesday](https://docs.google.com/document/d/1Bi4xRSIC0_LWkm2DIfbx3mWtzYiLPQNn_NXsi4TO4CA/edit?ts=5a2961a8)
 	* supdate [goals for team](https://docs.google.com/document/d/1Lp-yWSM-eFYr8a-rbZxSHf2ZZagb4tQSZSUKPmWv6o4/edit)
 	* [fundamentals doc](https://docs.google.com/document/d/1TNUwFq2IBNpf6mMypFZXBIm8_-v7e8IdPQ6vTQr-PDo/edit#heading=h.wrkojx1bojy)
