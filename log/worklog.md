@@ -3026,18 +3026,36 @@
 ## 12/17/17
 * all hands [survey response](https://goo.gl/forms/0XQiGn4Pl2SAgCUw2)
 * reviewed [austin leadership teams details for meeting](https://docs.google.com/document/d/1Bi4xRSIC0_LWkm2DIfbx3mWtzYiLPQNn_NXsi4TO4CA/edit?ts=5a2961a)
+* close udemy poll
+* meeting with Amy
+* brainstorming last minute on zines
+
+## 12/18/17
+
+* printed Maya's zine
+* curriculum meeting with joey
+* reviewed blog post with kevin for mid east tunes
+* reached out to mozilla research grant champions offering support
+* plugged minigrants on twitter and over email
+
+* reminder email to fellows
+* reached out to bram about work week
+
 
 ## TODO
 
 * send message with fellows call references
-* fill out activity
+* fill out activity map
 
-* close udemy poll
+
 * travel and accommodations for IFF
 * get back to ann marie with zine package
 * DEC 15 - workweek schedule
 
 * reach out to fellows about a blog for Science blog
+* assemble fellows etherpads and reminders for friday
+* ping rebecca about ccc
+* ping sarah about ccc bookings and hollaback situation
 
 
 * ALL HANDS 
