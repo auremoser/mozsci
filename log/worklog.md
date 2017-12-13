@@ -2998,7 +2998,7 @@
 * feedback on contract information
 * orientation and training at civic hall for co-working partnership with Mozilla
 
-## 12/15/17
+## 12/5/17
 * lots of docs, working on clarifying things for all hands
 * chats with fellows about travel bookings and us dates
 * approving travel dates and expenses
@@ -3012,7 +3012,7 @@
 * response to natasha and punt to steph for [open science in brazil](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) initiatives
 * get feedback to ann marie on [ben chartoff](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a15e21d#gid=0)
 
-## 12/16/17
+## 12/6/17
 * attended the 2018 Ford Trends Summit, tweeted about esra'a
 * worked through email, checked in with christos about speaking at nyu in february
 * finalized fellows' workweek booking
@@ -3023,14 +3023,14 @@
 * started making arrangements for IFF
 * ping amy about the situations in toronto
 
-## 12/17/17
+## 12/7/17
 * all hands [survey response](https://goo.gl/forms/0XQiGn4Pl2SAgCUw2)
 * reviewed [austin leadership teams details for meeting](https://docs.google.com/document/d/1Bi4xRSIC0_LWkm2DIfbx3mWtzYiLPQNn_NXsi4TO4CA/edit?ts=5a2961a)
 * close udemy poll
 * meeting with Amy
 * brainstorming last minute on zines
 
-## 12/18/17
+## 12/8/17
 
 * printed Maya's zine
 * curriculum meeting with joey
@@ -3048,6 +3048,13 @@
 	* https://public.etherpad-mozilla.org/p/2017-fellows-g3-12-15
 * send message with fellows call references
 * made an issue for [fellows calls](https://github.com/auremoser/mozsci/issues/4)
+* host org reminder call email
+
+## 12/12/17
+* first day of all hands
+* host org checkin bimonthly
+* checkin with select OWF fellows on projects
+* filled out [when is good poll](http://whenisgood.net/gzyhyfq) with Steph
 
 ## TODO
 
