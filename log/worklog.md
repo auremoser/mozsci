@@ -3055,6 +3055,7 @@
 * host org checkin bimonthly
 * checkin with select OWF fellows on projects
 * filled out [when is good poll](http://whenisgood.net/gzyhyfq) with Steph
+* followup email recap to host orgs about call
 
 ## TODO
 
