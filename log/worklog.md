@@ -3069,6 +3069,10 @@
 * ping sarah about ccc bookings and hollaback situation
 
 
+
+* WORKWEEK 2018
+	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
+	* [agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
 * CCC
 	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
 
