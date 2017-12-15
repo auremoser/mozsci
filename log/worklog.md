@@ -3052,21 +3052,24 @@
 
 ## 12/12/17
 * first day of all hands
-* host org checkin bimonthly
+* [host org checkin bimonthly](https://public.etherpad-mozilla.org/p/2017-hostorgs)
 * checkin with select OWF fellows on projects
 * filled out [when is good poll](http://whenisgood.net/gzyhyfq) with Steph
 * followup email recap to host orgs about call
 
 ## TODO
 
-* email reminder to host org leads about tuesday call
 * fill out activity map
 * write rest api - daniel goddemeyer
 	* reach out 
 * travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
+* Jan 15 - host org application launch
 * ping sarah about ccc bookings and hollaback situation
 
+
+* CCC
+	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
