@@ -3056,6 +3056,7 @@
 * checkin with select OWF fellows on projects
 * filled out [when is good poll](http://whenisgood.net/gzyhyfq) with Steph
 * followup email recap to host orgs about call
+* made a first pass at [amel's blogpost](https://docs.google.com/document/d/1mAXfcwBtt12KsMLimuF0s-nNHFHeyjVsg8DCXx5t1uk/edit)
 
 ## TODO
 
