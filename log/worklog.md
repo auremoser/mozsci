@@ -3060,6 +3060,7 @@
 
 ## TODO
 
+* work with kalpana about the fluxx_todos.md
 * fill out activity map
 * write rest api - daniel goddemeyer
 	* reach out 
@@ -3067,8 +3068,11 @@
 * DEC 15 - workweek schedule
 * Jan 15 - host org application launch
 * ping sarah about ccc bookings and hollaback situation
+* share impact evaluation with Steph McV and Amy
 
 
+FLUXX
+* [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
 
 * WORKWEEK 2018
 	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
