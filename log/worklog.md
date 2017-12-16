@@ -3058,6 +3058,7 @@
 * followup email recap to host orgs about call
 * made a first pass at [amel's blogpost](https://docs.google.com/document/d/1mAXfcwBtt12KsMLimuF0s-nNHFHeyjVsg8DCXx5t1uk/edit)
 * filled out [hopscotch feedback form](https://www.surveygizmo.com/s3/4052279/Hopscotch-Internal-Feedback-Form)
+* got back to kristin about OWF and tech x fellows' event at IFF
 
 ## TODO
 
