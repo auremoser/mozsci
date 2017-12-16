@@ -3057,11 +3057,16 @@
 * filled out [when is good poll](http://whenisgood.net/gzyhyfq) with Steph
 * followup email recap to host orgs about call
 * made a first pass at [amel's blogpost](https://docs.google.com/document/d/1mAXfcwBtt12KsMLimuF0s-nNHFHeyjVsg8DCXx5t1uk/edit)
+* filled out [hopscotch feedback form](https://www.surveygizmo.com/s3/4052279/Hopscotch-Internal-Feedback-Form)
 
 ## TODO
 
+* remind amy to talk to marketing about fellows films in January
+
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
+* sign job comp review
+* IFF travel
 * work with kalpana about the fluxx_todos.md
 * fill out activity map
 * write rest api - daniel goddemeyer
@@ -3070,6 +3075,7 @@
 * DEC 15 - workweek schedule
 * Jan 15 - host org application launch
 * ping sarah about ccc bookings and hollaback situation
+
 * share impact evaluation with Steph McV and Amy
 
 
