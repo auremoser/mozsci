@@ -3061,6 +3061,7 @@
 ## TODO
 
 * review fellows' etherpads - email them about IFF
+* follow up on WOW draft with Amel
 * work with kalpana about the fluxx_todos.md
 * fill out activity map
 * write rest api - daniel goddemeyer
