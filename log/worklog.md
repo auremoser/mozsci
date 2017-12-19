@@ -3062,12 +3062,16 @@
 
 ## 12/19/17
 * culture amp survey
+* budget checks for nasma's diversity/inclusion event
+* ping kevin about security planner feature
+* sent along impact eval to amy and steph
+
 
 
 ## TODO
 
-* remind amy to talk to marketing about fellows films in January
-
+* meet with daniel on skype
+* update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
 * sign job comp review
@@ -3083,6 +3087,8 @@
 
 * share impact evaluation with Steph McV and Amy
 
+* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table )
+
 
 FLUXX
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
@@ -3092,6 +3098,9 @@ FLUXX
 	* [agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
 * CCC
 	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
+	* [brownbag brainstorm doc](https://docs.google.com/document/d/1MZ-VODBE0B4ziW2H3yZIdVJ6aTNBMCLIGFXDKUqQruU/edit)
+	* [fellows' workweek](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395ae0)
+	* [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
