@@ -3065,7 +3065,8 @@
 * budget checks for nasma's diversity/inclusion event
 * ping kevin about security planner feature
 * sent along impact eval to amy and steph
-
+* checked in on CCC report with rebecca
+* checked with michael about ccc report
 
 
 ## TODO
