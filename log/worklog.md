@@ -3060,6 +3060,10 @@
 * filled out [hopscotch feedback form](https://www.surveygizmo.com/s3/4052279/Hopscotch-Internal-Feedback-Form)
 * got back to kristin about OWF and tech x fellows' event at IFF
 
+## 12/19/17
+* culture amp survey
+
+
 ## TODO
 
 * remind amy to talk to marketing about fellows films in January
