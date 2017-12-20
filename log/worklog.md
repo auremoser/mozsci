@@ -3067,6 +3067,9 @@
 * sent along impact eval to amy and steph
 * checked in on CCC report with rebecca
 * checked with michael about ccc report
+* submitted reimbursements for accounting
+* notarized danielle's accountability plan
+* wrote update to fellows on ccc plans
 
 
 ## TODO
