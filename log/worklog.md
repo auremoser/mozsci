@@ -3061,7 +3061,7 @@
 * got back to kristin about OWF and tech x fellows' event at IFF
 
 ## 12/19/17
-* culture amp survey
+* staff mofo survey
 * budget checks for nasma's diversity/inclusion event
 * ping kevin about security planner feature
 * sent along impact eval to amy and steph
@@ -3069,28 +3069,31 @@
 * checked with michael about ccc report
 * submitted reimbursements for accounting
 * notarized danielle's accountability plan
-* wrote update to fellows on ccc plans
+* wrote update to fellows on ccc 
+* share impact evaluation with Steph McV and Amy
+
+## 12/20/17
+* wrote back to aleks' about expenses and contracts
+* approved and reviewed bill.com invoices
+* sent along sa's clarifying doc.
+* corrected aleks' contract bug in [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+* culture amp survey
+* grades submitted!
 
 
 ## TODO
 
-* meet with daniel on skype
+* followup with SA and HB
+* meet with daniel on skype - write rest api - daniel goddemeyer
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
 * sign job comp review
-* IFF travel
 * work with kalpana about the fluxx_todos.md
 * fill out activity map
-* write rest api - daniel goddemeyer
-	* reach out 
 * travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
 * Jan 15 - host org application launch
-* ping sarah about ccc bookings and hollaback situation
-
-* share impact evaluation with Steph McV and Amy
-
 * choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table )
 
 
