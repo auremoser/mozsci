@@ -3071,15 +3071,27 @@
 * notarized danielle's accountability plan
 * wrote update to fellows on ccc 
 * share impact evaluation with Steph McV and Amy
+* sign job comp review
 
-## 12/20/17
+## 12/20/17 - 12/21/17
 * wrote back to aleks' about expenses and contracts
 * approved and reviewed bill.com invoices
 * sent along sa's clarifying doc.
 * corrected aleks' contract bug in [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
 * culture amp survey
 * grades submitted!
-
+* enrolled in Trinet election benefits
+* sent IFF [booking reservation](https://internetfreedomfestival.org/wp-content/uploads/2017/11/Final-IFF-Accomodation-List.pdf) for fellows
+* sent along [host org resourcing list](https://docs.google.com/spreadsheets/d/1nJQHQqPmI3EWP7vflhLVd7Rc9OsB26jbhbD6ngr0EEE/edit#gid=810394473) to comms and amy for Ford
+* sent along followup with to-dos from the Ford meeting
+* responded to matthew about network site and started
+* reservation for all of us to meet on [mozilla site content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
+* ford meeting about videos
+* emailed amanda about iff reservations
+* feedback and assets sent on Ford Videos
+* responded to aleks about visa paperwork
+* responded to ann marie about bookings for hotels
+* contacted chris about password stuffs
 
 ## TODO
 
@@ -3088,7 +3100,8 @@
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
-* sign job comp review
+
+* freddy's zine
 * work with kalpana about the fluxx_todos.md
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
