@@ -3093,6 +3093,7 @@
 * responded to ann marie about bookings for hotels
 * contacted chris about password stuffs
 * filled out [ann marie's all hands survey](https://docs.google.com/forms/u/1/d/e/1FAIpQLScglaOVPQH9BcdhrN996RXmIvFB0dBxiGBw-MCGbv0IxITg9g/formResponse)
+* added activities to [proposed comms calendar](https://docs.google.com/document/d/1oSOfn8gqb7GFT-dQnvJ1Iq38KfIqWytDN000BmVimHQ/edit?ts=5a3ad128)
 
 ## TODO
 
