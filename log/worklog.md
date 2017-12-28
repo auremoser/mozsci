@@ -3095,6 +3095,9 @@
 * filled out [ann marie's all hands survey](https://docs.google.com/forms/u/1/d/e/1FAIpQLScglaOVPQH9BcdhrN996RXmIvFB0dBxiGBw-MCGbv0IxITg9g/formResponse)
 * added activities to [proposed comms calendar](https://docs.google.com/document/d/1oSOfn8gqb7GFT-dQnvJ1Iq38KfIqWytDN000BmVimHQ/edit?ts=5a3ad128)
 
+## 12/28/17
+* accepted [ACM paper for hacking time-bounded events](http://www.scomminc.com/acm/submissions/submission.cfm?grid=sigchi4&eid=44584306000107&eid2=670107) post-review
+
 ## TODO
 
 * followup with SA and HB
