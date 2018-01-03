@@ -11,13 +11,23 @@
 * wrote up recap of WOW Paris [blog](https://science.mozilla.org/blog/recap-wow-paris/), sent to abby and steph for draft review
 * updated [msl blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=512231723) for Paris wow blog post
 * added [osf collection from paris wow to blog and email draft](https://osf.io/ujkqt/)
+* setup fluxx application for monday + made [fluxx drive for host orgs](https://drive.google.com/open?id=1W8NfwYI01uOQBebsMlWITRZrNZCP1VSX)
+	* put together revised [application questions](https://docs.google.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit#bookmark=id.4navuixwk6j4)
+	* made [landing page doc]()
+	* notes doc with quesitons and [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+	* incumbent host org [contacts doc](https://docs.google.com/spreadsheets/d/15vqQ-84DG38y7RIBYqWR99XEye389MPsbLO0B8IRCAM/edit#gid=0)
+* sent date update to Sarah Allen via Ann Marie
+* [Fellowships team biweekly meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+
 
 ## TODO
-
+* publish science blog on 1/4 and tweet
 * work with kalpana about the fluxx_todos.md
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
+
+* fluxx blog post and FAQS for OWF host orgs
 
 * wow pasteur wrap up post to all mofo
 * fill out activity map
