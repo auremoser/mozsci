@@ -4,6 +4,9 @@
 * wrote back to Joana about her account
 * wrote to chris de c about cc info for hotel bookings for fellows
 * cleaned up new worklog and developed for 2018
+* sent group internal msg about the [video feedback](https://vimeo.com/249411244)
+* scheduled followup email to fellows for CCC
+* wrote to steph about community call ideas
 
 ## TODO
 
