@@ -10,7 +10,7 @@
 * reminded abby about [invitation letter for workweek](https://docs.google.com/document/d/1toa8Fynfy95lWWUpOD6Emx2iGIRVT2X09NFS5D4cENA/edit?ts=5a2ef836)
 * wrote up recap of WOW Paris [blog](https://science.mozilla.org/blog/recap-wow-paris/), sent to abby and steph for draft review
 * updated [msl blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=512231723) for Paris wow blog post
-
+* added [osf collection from paris wow to blog and email draft](https://osf.io/ujkqt/)
 
 ## TODO
 
