@@ -3097,12 +3097,17 @@
 
 ## 12/28/17
 * accepted [ACM paper for hacking time-bounded events](http://www.scomminc.com/acm/submissions/submission.cfm?grid=sigchi4&eid=44584306000107&eid2=670107) post-review
+* meet with daniel on skype - write rest api - daniel goddemeyer
+
+## 1/3/17
+* wrote back to Joana about her account
+* wrote to chris de c about cc info for hotel bookings for fellows
+* 
 
 ## TODO
 
-* followup with SA and HB
-* meet with daniel on skype - write rest api - daniel goddemeyer
 * update fellows' agenda for workweek
+* remind abby about [invitation letter for workweek](https://docs.google.com/document/d/1toa8Fynfy95lWWUpOD6Emx2iGIRVT2X09NFS5D4cENA/edit?ts=5a2ef836)
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
 
