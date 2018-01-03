@@ -7,23 +7,28 @@
 * sent group internal msg about the [video feedback](https://vimeo.com/249411244)
 * scheduled followup email to fellows for CCC
 * wrote to steph about community call ideas
+* reminded abby about [invitation letter for workweek](https://docs.google.com/document/d/1toa8Fynfy95lWWUpOD6Emx2iGIRVT2X09NFS5D4cENA/edit?ts=5a2ef836)
+* wrote up recap of WOW Paris [blog](https://science.mozilla.org/blog/recap-wow-paris/), sent to abby and steph for draft review
+* updated [msl blog content calendar](https://docs.google.com/spreadsheets/d/18IACe9eSaDXkILieeQYmDHxCsM9pBNOqFFDtswzdG98/edit#gid=512231723) for Paris wow blog post
+
 
 ## TODO
 
+* work with kalpana about the fluxx_todos.md
 * update fellows' agenda for workweek
-* remind abby about [invitation letter for workweek](https://docs.google.com/document/d/1toa8Fynfy95lWWUpOD6Emx2iGIRVT2X09NFS5D4cENA/edit?ts=5a2ef836)
 * review fellows' etherpads - email them about IFF
 * follow up on WOW draft with Amel
 
-* freddy's zine
-* work with kalpana about the fluxx_todos.md
+* wow pasteur wrap up post to all mofo
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
 * Jan 15 - host org application launch
-* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table )
+* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
+* freddy's zine
 
-FLUXX
+**FLUXX**
+
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
 
 * WORKWEEK 2018
