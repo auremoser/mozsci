@@ -30,6 +30,7 @@
 * sent email response to steph about community call speaker suggestions
 * wow pasteur wrap up post draft to all mofo, sent to steph and abby for approvals
 * call with Kristin about IFF planning and arrangments 
+* setup accountability plan for [approval by legal](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit)
 
 ## TODO
 
