@@ -29,6 +29,7 @@
 * setup community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)
 * sent email response to steph about community call speaker suggestions
 * wow pasteur wrap up post draft to all mofo, sent to steph and abby for approvals
+* call with Kristin about IFF planning and arrangments 
 
 ## TODO
 
@@ -36,7 +37,7 @@
 * work with kalpana about the fluxx_todos.md
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
-
+* IFF booking, and reach out to solana, melissa, kalpana about budget
 * fluxx blog post and FAQS for OWF host orgs
 
 
