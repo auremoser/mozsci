@@ -13,19 +13,29 @@
 * added [osf collection from paris wow to blog and email draft](https://osf.io/ujkqt/)
 * setup fluxx application for monday + made [fluxx drive for host orgs](https://drive.google.com/open?id=1W8NfwYI01uOQBebsMlWITRZrNZCP1VSX)
 	* put together revised [application questions](https://docs.google.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit#bookmark=id.4navuixwk6j4)
-	* made [landing page doc]()
+	* made [landing page doc](https://docs.google.com/a/mozillafoundation.org/document/d/1vkoklTufTFZe512hOqlcuW7BIgBBimrsbyVg9SKwf6k/edit?usp=drive_web)
 	* notes doc with quesitons and [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 	* incumbent host org [contacts doc](https://docs.google.com/spreadsheets/d/15vqQ-84DG38y7RIBYqWR99XEye389MPsbLO0B8IRCAM/edit#gid=0)
 * sent date update to Sarah Allen via Ann Marie
 * [Fellowships team biweekly meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 
 
+## 1/4/18
+* fluent program committee reviews [20](https://conferences.oreilly.com/fluent/fl-ca/user/account )
+* publish [science blog](https://science.mozilla.org/blog/recap-wow-paris) on 1/4 and [tweet](https://twitter.com/MozillaScience/status/948898231823585280)
+* follow up on WOW draft with Amel
+* requested office from service now
+* edited border letter for carlos, sent to rizwan for signature, thanked abby for upload
+* setup community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)
+* sent email response to steph about community call speaker suggestions
+
+
 ## TODO
-* publish science blog on 1/4 and tweet
+
+* get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
-* follow up on WOW draft with Amel
 
 * fluxx blog post and FAQS for OWF host orgs
 
