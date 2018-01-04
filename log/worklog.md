@@ -34,13 +34,14 @@
 ## TODO
 
 * get back to emily with details this week (1 pager)
+* send ford the list of all host orgs for promotions
 * work with kalpana about the fluxx_todos.md
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * IFF booking, and reach out to solana, melissa, kalpana about budget
 * fluxx blog post and FAQS for OWF host orgs
 
-
+* work through hype plan
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
