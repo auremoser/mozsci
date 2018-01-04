@@ -21,7 +21,7 @@
 
 
 ## 1/4/18
-* fluent program committee reviews [20](https://conferences.oreilly.com/fluent/fl-ca/user/account )
+* fluent program committee reviews [20](https://conferences.oreilly.com/fluent/fl-ca/user/account)
 * publish [science blog](https://science.mozilla.org/blog/recap-wow-paris) on 1/4 and [tweet](https://twitter.com/MozillaScience/status/948898231823585280)
 * follow up on WOW draft with Amel
 * requested office from service now
@@ -32,16 +32,18 @@
 * call with Kristin about IFF planning and arrangments 
 * setup accountability plan for [approval by legal](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit)
 * emailed marc galland about meetup in the city
+* send ford the list of all host orgs for promotions
+* meeting with [amy 1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
 ## TODO
 
 * get back to emily with details this week (1 pager)
-* send ford the list of all host orgs for promotions
-* work with kalpana about the fluxx_todos.md
+* work with kalpana about the fluxx_todos.md - blog post and tech guide
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
 * IFF booking, and reach out to solana, melissa, kalpana about budget
 * fluxx blog post and FAQS for OWF host orgs
+* followup on nasma digital inclusion conf
 
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * fill out activity map
