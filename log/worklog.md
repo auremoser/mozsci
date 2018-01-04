@@ -28,7 +28,7 @@
 * edited border letter for carlos, sent to rizwan for signature, thanked abby for upload
 * setup community call [etherpad](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)
 * sent email response to steph about community call speaker suggestions
-
+* wow pasteur wrap up post draft to all mofo, sent to steph and abby for approvals
 
 ## TODO
 
@@ -39,7 +39,7 @@
 
 * fluxx blog post and FAQS for OWF host orgs
 
-* wow pasteur wrap up post to all mofo
+
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
 * DEC 15 - workweek schedule
@@ -53,7 +53,9 @@
 
 * WORKWEEK 2018
 	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
-	* [agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
+	* [old-agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
+	* [registration](https://docs.google.com/spreadsheets/d/1XXr26aOBNl8C2BF84j9336atOGJKAVase0OhroKHU-g/edit#gid=1599984752)
+	* [new-agenda](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395a7b#)
 * CCC
 	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
 	* [brownbag brainstorm doc](https://docs.google.com/document/d/1MZ-VODBE0B4ziW2H3yZIdVJ6aTNBMCLIGFXDKUqQruU/edit)
