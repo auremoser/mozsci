@@ -31,6 +31,7 @@
 * wow pasteur wrap up post draft to all mofo, sent to steph and abby for approvals
 * call with Kristin about IFF planning and arrangments 
 * setup accountability plan for [approval by legal](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit)
+* emailed marc galland about meetup in the city
 
 ## TODO
 
@@ -42,10 +43,9 @@
 * IFF booking, and reach out to solana, melissa, kalpana about budget
 * fluxx blog post and FAQS for OWF host orgs
 
-* work through hype plan
+* work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
-* DEC 15 - workweek schedule
 * Jan 15 - host org application launch
 * choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * freddy's zine
