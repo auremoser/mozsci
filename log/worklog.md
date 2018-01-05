@@ -37,6 +37,8 @@
 
 ## 1/5/18
 * joined [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
+* created [slide template](https://docs.google.com/presentation/d/1t7QL068XICufI69G8XEfptHjgAV2iQ3aEgxRvoYfhHc/edit#slide=id.p) for sharing and future presentations
+
 
 ## TODO
 
