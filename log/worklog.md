@@ -35,6 +35,9 @@
 * send ford the list of all host orgs for promotions
 * meeting with [amy 1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
+## 1/5/18
+* joined [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
+
 ## TODO
 
 * get back to emily with details this week (1 pager)
@@ -138,6 +141,7 @@
 	* calendar of activities (in the readme?)
 	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
+	*  [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
 
 ### EVENTS
 
