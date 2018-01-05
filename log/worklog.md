@@ -39,7 +39,7 @@
 * joined [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
 * created [slide template](https://docs.google.com/presentation/d/1t7QL068XICufI69G8XEfptHjgAV2iQ3aEgxRvoYfhHc/edit#slide=id.p) for sharing and future presentations
 * joined [mofo fellows google group](https://groups.google.com/a/mozillafoundation.org/forum/#!forum/fellowships)
-
+* responded to amy's [application question additions](https://docs.google.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit?ts=5a4eb844)
 
 ## TODO
 
