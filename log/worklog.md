@@ -41,14 +41,21 @@
 * joined [mofo fellows google group](https://groups.google.com/a/mozillafoundation.org/forum/#!forum/fellowships)
 * responded to amy's [application question additions](https://docs.google.com/document/d/1um6DWyeQPDb_d6aV00wZgViJXjDQ3BzaPyduipP-VkI/edit?ts=5a4eb844)
 * made adjustments to [accountability plan](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit?ts=5a4ec0be)
+* emailed IFF about rate type
+* wrote to solana and melissa about attending iff and plans with kristin
+* wrot to kalpana about iff budget
+* regained login to django site! whoot
+	* created event for community call for science
+
+* website meeting for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
+* sent invitation letter to Carlos for workweek
 
 ## TODO
-
+* populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
 * update fellows' agenda for workweek
 * review fellows' etherpads - email them about IFF
-* IFF booking, and reach out to solana, melissa, kalpana about budget
 * fluxx blog post and FAQS for OWF host orgs
 * followup on nasma digital inclusion conf
 
