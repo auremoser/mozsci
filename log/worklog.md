@@ -38,6 +38,7 @@
 ## 1/5/18
 * joined [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
 * created [slide template](https://docs.google.com/presentation/d/1t7QL068XICufI69G8XEfptHjgAV2iQ3aEgxRvoYfhHc/edit#slide=id.p) for sharing and future presentations
+* joined [mofo fellows google group](https://groups.google.com/a/mozillafoundation.org/forum/#!forum/fellowships)
 
 
 ## TODO
@@ -143,7 +144,10 @@
 	* calendar of activities (in the readme?)
 	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
-	*  [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
+
+	ALUMNI
+	* [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
+	* [mofo fellows google group](https://groups.google.com/a/mozillafoundation.org/forum/#!forum/fellowships)
 
 ### EVENTS
 
