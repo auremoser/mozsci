@@ -62,6 +62,7 @@
 * meeting about workweek with Ann Marie 
 * meeting with the fluxx team
 * added to the [leadership program doc](https://docs.google.com/document/d/1yy64XOoFM2H16UA6BVd5gyH_pFy4p5PxQX32VYSuQxo/edit?ts=5a53a5b2) per rizwan's request
+* added comment to [tais's query on the site doc](https://docs.google.com/document/d/1dVRxKDmSIkrJdKhPqxHzhrByJ6fFkf0eCsQgm12sckI/edit?ts=5a53d1e0)
 
 
 ## TODO
