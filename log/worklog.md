@@ -53,6 +53,9 @@
 ## 1/6/18
 * resolved changes to [work status doc](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit?ts=5a4e430a)
 
+## 1/8/18
+* go through some initial copy suggestions for [Mofo Fellowships Site](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit?ts=5a50102c)
+
 ## TODO
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
