@@ -55,13 +55,18 @@
 
 ## 1/8/18
 * go through some initial copy suggestions for [Mofo Fellowships Site](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit?ts=5a50102c)
+* drafted blog announcement for [open web fellowship hosts](https://docs.google.com/document/d/1jKSz12ZDIPFG7R6RGEfacL9Kb7Rf1BoF3qUSd2PWz-I/edit)
+* security planner blog by the end of the week
+* setup community call [event for feb](https://science.mozilla.org/programs/events/community-call-feb-8-11-et)
+* emailed jlin and steph about AirMozilla slot
+
 
 ## TODO
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
 * update fellows' agenda for workweek
-* review fellows' etherpads - email them about IFF
+* review fellows' etherpads, make new ones for friday - email them about IFF
 * fluxx blog post and FAQS for OWF host orgs
 * followup on nasma digital inclusion conf
 
