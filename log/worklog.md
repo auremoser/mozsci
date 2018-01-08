@@ -59,9 +59,11 @@
 * security planner blog by the end of the week
 * setup community call [event for feb](https://science.mozilla.org/programs/events/community-call-feb-8-11-et)
 * emailed jlin and steph about AirMozilla slot
+* meeting about workweek with Ann Marie
 
 
 ## TODO
+* check on maya's booking for iff
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
