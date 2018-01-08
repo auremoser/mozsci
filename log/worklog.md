@@ -63,6 +63,10 @@
 
 
 ## TODO
+
+* reach out to paul for a meeting about fluxx
+* reach out to kevin about the blog post followup
+
 * create 2017 [workweek survey](https://docs.google.com/forms/d/1TzvGZEE27g-u8Zar0QRnMyREIHfrIgMcW845fT_Vh6s/edit)
 * email folks for onboarding
 * help ann marie with schedule: 
