@@ -59,10 +59,14 @@
 * security planner blog by the end of the week
 * setup community call [event for feb](https://science.mozilla.org/programs/events/community-call-feb-8-11-et)
 * emailed jlin and steph about AirMozilla slot
-* meeting about workweek with Ann Marie
+* meeting about workweek with Ann Marie 
 
 
 ## TODO
+* create 2017 [workweek survey](https://docs.google.com/forms/d/1TzvGZEE27g-u8Zar0QRnMyREIHfrIgMcW845fT_Vh6s/edit)
+* email folks for onboarding
+* help ann marie with schedule: 
+	* [onboarding host survey](https://docs.google.com/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit#responses)
 * check on maya's booking for iff
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
