@@ -82,10 +82,11 @@
 * updated [airmo link](https://air.mozilla.org/mozilla-science-lab-february-2018-bi-monthly-community-call-20180208/) in science lab community call event
 * submitted change to hub request
 * responded to margharita about request for iff funds, forward to mel
+* responded to Alan's site request
 
 
 ## TODO
-
+* email melissa and raegan about advocacy.mozilla
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 
 * reach out to kevin about the blog post followup
