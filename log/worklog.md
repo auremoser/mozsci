@@ -70,6 +70,10 @@
 * updated travel [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 * did granular counts of science lab stats for [rizwan's requested numbers](https://docs.google.com/document/d/1yy64XOoFM2H16UA6BVd5gyH_pFy4p5PxQX32VYSuQxo/edit?ts=5a543c9a#heading=h.5n4softnxqnd)
 * cataloged applicants in our [science candidate spreadsheet](https://docs.google.com/spreadsheets/d/1duyIxvptbbwv7-BxZ1-Gq1OLM8stHlVC0MBHbmKiGm0/edit#gid=0)
+* sent amy responses to all of ford's questions
+* responded with availability for friday meeting with Ford
+* sent invitations for all fellows workweek and recruitment date milestones to amy, ann marie, steph, melissa for FYI in gcal
+* put together [airbnb list for iff](Calendar invites for these dates send to Melissa, Amy, Ann Marie, Steph on 1/9/18)
 
 
 ## TODO
