@@ -66,6 +66,7 @@
 
 ## 1/9/18
 * approved freddy's travel for workweek and linux meetup
+* added more edits to the [accountability doc](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit?ts=5a4e430a)
 
 
 ## TODO
@@ -96,17 +97,19 @@
 **FLUXX**
 
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
+* [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
 * WORKWEEK 2018
 	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
 	* [old-agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
 	* [registration](https://docs.google.com/spreadsheets/d/1XXr26aOBNl8C2BF84j9336atOGJKAVase0OhroKHU-g/edit#gid=1599984752)
 	* [new-agenda](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395a7b#)
+	* [fellows' workweek](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395ae0)
+	* [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 * CCC
 	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
 	* [brownbag brainstorm doc](https://docs.google.com/document/d/1MZ-VODBE0B4ziW2H3yZIdVJ6aTNBMCLIGFXDKUqQruU/edit)
-	* [fellows' workweek](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395ae0)
-	* [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
+	
 
 
 
@@ -116,8 +119,7 @@
 	* we fund travel related to your fellowship where you are speaking/facilitating
 	* does this bring up work auth issues
 	* discretionary ceiling 2,000
-* ONBOARDING archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1
-)
+* ONBOARDING archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1)
 * ONBOARDING create a folder for the fellows' onboarding with:
 	* stipend overview document
 	* tax and immigration considerations
