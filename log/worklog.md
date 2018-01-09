@@ -67,6 +67,7 @@
 ## 1/9/18
 * approved freddy's travel for workweek and linux meetup
 * added more edits to the [accountability doc](https://docs.google.com/document/d/1FsNDa48sEv0l6qGQUAZpY6flBHhek10eg12opWb9KJU/edit?ts=5a4e430a)
+* updated travel [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 
 
 ## TODO
