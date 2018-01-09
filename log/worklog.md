@@ -74,11 +74,13 @@
 * responded with availability for friday meeting with Ford
 * sent invitations for all fellows workweek and recruitment date milestones to amy, ann marie, steph, melissa for FYI in gcal
 * put together [airbnb list for iff](Calendar invites for these dates send to Melissa, Amy, Ann Marie, Steph on 1/9/18)
+* reach out to paul for a meeting about fluxx
 
 
 ## TODO
 
-* reach out to paul for a meeting about fluxx
+* get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
+
 * reach out to kevin about the blog post followup
 
 * create 2017 [workweek survey](https://docs.google.com/forms/d/1TzvGZEE27g-u8Zar0QRnMyREIHfrIgMcW845fT_Vh6s/edit)
@@ -89,7 +91,7 @@
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
-* update fellows' agenda for workweek
+
 * review fellows' etherpads, make new ones for friday - email them about IFF
 * fluxx blog post and FAQS for OWF host orgs
 * followup on nasma digital inclusion conf
