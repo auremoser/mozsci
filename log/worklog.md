@@ -77,6 +77,11 @@
 * reach out to paul for a meeting about fluxx
 * messaged lotta and kevin about comms for the open web fellowship applications
 * reviewed kevin's awesome [security planner blogpost](https://docs.google.com/document/d/1jKSz12ZDIPFG7R6RGEfacL9Kb7Rf1BoF3qUSd2PWz-I/edit?usp=sharing)
+* responded to kevin's [awesome comms plan for the fellows](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
+* created a [hub request for science lab community call](https://mozilla.service-now.com/sp?id=sc_cat_item&sys_id=02668a1113f872007b5450782244b03d)
+* updated [airmo link](https://air.mozilla.org/mozilla-science-lab-february-2018-bi-monthly-community-call-20180208/) in science lab community call event
+* submitted change to hub request
+* responded to margharita about request for iff funds, forward to mel
 
 
 ## TODO
@@ -107,6 +112,7 @@
 
 **FLUXX**
 
+* [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
