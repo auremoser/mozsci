@@ -75,6 +75,8 @@
 * sent invitations for all fellows workweek and recruitment date milestones to amy, ann marie, steph, melissa for FYI in gcal
 * put together [airbnb list for iff](Calendar invites for these dates send to Melissa, Amy, Ann Marie, Steph on 1/9/18)
 * reach out to paul for a meeting about fluxx
+* messaged lotta and kevin about comms for the open web fellowship applications
+* reviewed kevin's awesome [security planner blogpost](https://docs.google.com/document/d/1jKSz12ZDIPFG7R6RGEfacL9Kb7Rf1BoF3qUSd2PWz-I/edit?usp=sharing)
 
 
 ## TODO
