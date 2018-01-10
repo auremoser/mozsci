@@ -99,14 +99,16 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-1-12)
 * wrote draft email for fellows
 * responded to [hub ticket](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=6ce84175db6387802887110b0b961979) request for all fellows
+* retweeted [GOSH community roadmap](https://twitter.com/GOSHCommunity/status/950776131166318593)
 
 ## TODO
+* followup with michael to confirm availability for Friday
+
 * email melissa and raegan about advocacy.mozilla
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 
 
-* create 2017 [workweek survey](https://docs.google.com/forms/d/1TzvGZEE27g-u8Zar0QRnMyREIHfrIgMcW845fT_Vh6s/edit)
-* email folks for onboarding
+* email folks for workweek
 * help ann marie with schedule: 
 	* [onboarding host survey](https://docs.google.com/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit#responses)
 * check on maya's booking for iff
