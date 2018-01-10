@@ -104,6 +104,8 @@
 * check on maya's booking for iff
 * meeting with julita on template for science lab call
 * made some plans for feb and april community calls, invited luis felipe to speak, sent steph the speakers template
+* reviewed [fluxx test spreadsheet from kalpana](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
+* put together [application feedback doc](https://docs.google.com/document/d/1XJKkIutIZBmH_G5Nx1sJxMbaPyWres8dEXt88DM8aW0/edit?usp=sharing) for Kalpana for initial application process
 
 ## TODO
 * followup with michael to confirm availability for Friday
