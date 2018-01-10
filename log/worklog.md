@@ -88,7 +88,9 @@
 * travel approvals for workweek flights
 * correspondence with margharita
 * meeting scheduled with the community call air mozilla team about our call in february
-* 
+* reached out to partners for support
+
+* updated travel [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0) + [ann marie's budget](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 
 
 ## TODO
