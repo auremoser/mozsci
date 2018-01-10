@@ -89,15 +89,21 @@
 * correspondence with margharita
 * meeting scheduled with the community call air mozilla team about our call in february
 * reached out to partners for support
-
+* added [diane's activity to workweek schedule](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=303461792)
+* lunch with fellow Chris and coworking
 * updated travel [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0) + [ann marie's budget](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
+* created [work week survey](https://goo.gl/forms/Re6fWPh4SxkQ3tNT2)
+* created etherpads for friday fellows' call
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-1-12)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-12)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-1-12)
+* wrote draft email for fellows
 
 
 ## TODO
 * email melissa and raegan about advocacy.mozilla
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 
-* reach out to kevin about the blog post followup
 
 * create 2017 [workweek survey](https://docs.google.com/forms/d/1TzvGZEE27g-u8Zar0QRnMyREIHfrIgMcW845fT_Vh6s/edit)
 * email folks for onboarding
