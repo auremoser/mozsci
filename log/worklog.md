@@ -103,6 +103,7 @@
 * sent open science post to all MozSci subscribers about GOSH
 * check on maya's booking for iff
 * meeting with julita on template for science lab call
+* made some plans for feb and april community calls, invited luis felipe to speak, sent steph the speakers template
 
 ## TODO
 * followup with michael to confirm availability for Friday
@@ -321,6 +322,23 @@
 * **June 2017** - Reproducibility + Rescue
 	* Initiative for Open Citations: https://i4oc.org
 	* Reproducitiblity guide by [ROpenSci](http://ropensci.github.io/reproducibility-guide/)
+
+* **February 2018** - Open Publishing
+	* Initiative for Open Citations: https://i4oc.org
+	* Travis from pub pub
+	* Jess Polka ASAP Bio
+	* Richard / Danielle on Science Fair
+	* Kamila Markram on #OA and sustainability
+	* Jens Nielsen on the future of scientific publishing (nielsenj@chalmers.se)
+	* Travis Rich from PubPub
+	* Someone from the O'Reilly Open Books project, Community Press or the Whole Internet User's * Guide
+	* Someone from PLOS ONE, Nature’s Scientific Reports, and Biomed Central’s Genome Biology, or eLife Sciences (like Naomi Penfold)
+	* Someone from Internet Archive/WayBack // Creative Commons
+	* Our mini-grants winners for an update on pre-print journal clubs
+	* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
+	* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+* **April 2018** - open hardware
+	* Luis Felipe R. Murillo, [GOSH roadmap](http://openhardware.science/global-open-science-hardware-roadmap/)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
