@@ -84,6 +84,12 @@
 * responded to margharita about request for iff funds, forward to mel
 * responded to Alan's site request
 
+## 1/10/18
+* travel approvals for workweek flights
+* correspondence with margharita
+* meeting scheduled with the community call air mozilla team about our call in february
+* 
+
 
 ## TODO
 * email melissa and raegan about advocacy.mozilla
