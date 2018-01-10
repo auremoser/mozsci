@@ -100,25 +100,22 @@
 * wrote draft email for fellows
 * responded to [hub ticket](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=6ce84175db6387802887110b0b961979) request for all fellows
 * retweeted [GOSH community roadmap](https://twitter.com/GOSHCommunity/status/950776131166318593)
+* sent open science post to all MozSci subscribers about GOSH
+* check on maya's booking for iff
+* meeting with julita on template for science lab call
 
 ## TODO
 * followup with michael to confirm availability for Friday
 
 * email melissa and raegan about advocacy.mozilla
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
-
-
 * email folks for workweek
 * help ann marie with schedule: 
 	* [onboarding host survey](https://docs.google.com/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit#responses)
-* check on maya's booking for iff
+
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
-
-* review fellows' etherpads, make new ones for friday - email them about IFF
-* fluxx blog post and FAQS for OWF host orgs
-* followup on nasma digital inclusion conf
 
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * fill out activity map
