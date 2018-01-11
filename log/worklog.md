@@ -118,6 +118,8 @@
 * pinged Kristina and Kalpana for assets and url for cfp site
 * send message to abby about lingering visas for aleks and sarah
 * chose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - Feb 15th 9-9:30 pm based on availablity
+* made suggestions for interview candidates to Kevin
+* retweeted Security Planner blog
 
 ## TODO
 * followup with michael to confirm availability for Friday
