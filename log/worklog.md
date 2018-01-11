@@ -120,11 +120,12 @@
 * chose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - Feb 15th 9-9:30 pm based on availablity
 * made suggestions for interview candidates to Kevin
 * retweeted Security Planner blog
-* wrote to hans about meeting up i NL
+* wrote to hans about meeting up in NL
 * updated fellows' activities in Rizwan's [report doc to the executive team](https://docs.google.com/presentation/d/1swhiGd6t9O_MAlRtTqEDGIaDJsHalckFMZuPd2FCB38/edit?ts=5a577c6a#slide=id.g290eacd9d5_0_52)
 * got back to abby with fluxx edit doc
 * approved some bill.com requests
 * submitted [owf issue for site updates](https://github.com/mozilla/advocacy.mozilla.org/issues/493)
+
 
 ## TODO
 * followup with michael to confirm availability for Friday
