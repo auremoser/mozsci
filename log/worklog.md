@@ -120,6 +120,7 @@
 * chose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - Feb 15th 9-9:30 pm based on availablity
 * made suggestions for interview candidates to Kevin
 * retweeted Security Planner blog
+* wrote to hans about meeting up i NL
 
 ## TODO
 * followup with michael to confirm availability for Friday
