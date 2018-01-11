@@ -112,6 +112,8 @@
 * added [numbers to jesse's report for OWF](https://docs.google.com/document/d/1kWtAGfNXAcF0ZQvZl7xosdQwiGoY0SQj3J8rIZIaiXY/edit?ts=5a565fe4)
 * commented potential solution on study group orientation [issue](https://github.com/mozillascience/study-group-orientation/pull/33)
 * responded to amel's roadmap of activities for the next few months
+* started issue for [advocacy site](https://github.com/mozilla/advocacy.mozilla.org/issues/new)
+* pinged Kristina and Kalpana for assets and url for cfp site
 
 ## TODO
 * followup with michael to confirm availability for Friday
