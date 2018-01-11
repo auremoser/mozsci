@@ -107,20 +107,23 @@
 * reviewed [fluxx test spreadsheet from kalpana](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 * put together [application feedback doc](https://docs.google.com/document/d/1XJKkIutIZBmH_G5Nx1sJxMbaPyWres8dEXt88DM8aW0/edit?usp=sharing) for Kalpana for initial application process
 * submitted update to [kalpana's feedback doc](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit?ts=5a56536d#gid=0)
+* email jofish for workweek
 
 ## 1/11/18
 * added [numbers to jesse's report for OWF](https://docs.google.com/document/d/1kWtAGfNXAcF0ZQvZl7xosdQwiGoY0SQj3J8rIZIaiXY/edit?ts=5a565fe4)
 * commented potential solution on study group orientation [issue](https://github.com/mozillascience/study-group-orientation/pull/33)
 * responded to amel's roadmap of activities for the next few months
 * started issue for [advocacy site](https://github.com/mozilla/advocacy.mozilla.org/issues/new)
+* email melissa and raegan about advocacy.mozilla
 * pinged Kristina and Kalpana for assets and url for cfp site
+* send message to abby about lingering visas for aleks and sarah
+* chose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - Feb 15th 9-9:30 pm based on availablity
 
 ## TODO
 * followup with michael to confirm availability for Friday
-
-* email melissa and raegan about advocacy.mozilla
+* send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
-* email folks for workweek
+
 * help ann marie with schedule: 
 	* [onboarding host survey](https://docs.google.com/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit#responses)
 
