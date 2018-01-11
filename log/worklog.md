@@ -106,6 +106,10 @@
 * made some plans for feb and april community calls, invited luis felipe to speak, sent steph the speakers template
 * reviewed [fluxx test spreadsheet from kalpana](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 * put together [application feedback doc](https://docs.google.com/document/d/1XJKkIutIZBmH_G5Nx1sJxMbaPyWres8dEXt88DM8aW0/edit?usp=sharing) for Kalpana for initial application process
+* submitted update to [kalpana's feedback doc](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit?ts=5a56536d#gid=0)
+
+## 1/11/18
+* added [numbers to jesse's report for OWF](https://docs.google.com/document/d/1kWtAGfNXAcF0ZQvZl7xosdQwiGoY0SQj3J8rIZIaiXY/edit?ts=5a565fe4)
 
 ## TODO
 * followup with michael to confirm availability for Friday
