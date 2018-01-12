@@ -127,23 +127,30 @@
 * submitted [owf issue for site updates](https://github.com/mozilla/advocacy.mozilla.org/issues/493)
 
 
-## TODO
+
+## 1/12/18
+* worked on application question alts with kalpana
+* resolved some wow scheduling with amel for Tunis!
+* e-troduced Kevin to Maria Paz for profile article
+* reminder question about advocacy site in production channel
+* put together agenda for meeting with [mb](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#) + emailed out to folks
+* provided [chris with feedback on his blockchain post](https://medium.com/@chartgerink/1540c4ac9bdb)
 * followup with michael to confirm availability for Friday
+* [fellows call g2 done](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-12)
+* meeting about [quant humanists progress](https://docs.google.com/document/d/10HCAlYjWG2UtjCXg5B6ismZavZFIcMgG7vHPzGXyysE/edit?ts=5a576880#)
+
+## TODO
+
 * send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
-
-* help ann marie with schedule: 
-	* [onboarding host survey](https://docs.google.com/forms/d/1r3HIS-OF6JqvcZEgSKplwjvSn8DDncXrXHFpxt_WWXA/edit#responses)
-
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
-
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * fill out activity map
 * travel and accommodations for IFF (on hold until further notice)
 * Jan 15 - host org application launch
-* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
+* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - feb 16
 * freddy's zine
 
 **FLUXX**
