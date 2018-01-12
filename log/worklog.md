@@ -139,10 +139,18 @@
 * [fellows call g2 done](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-12)
 * meeting about [quant humanists progress](https://docs.google.com/document/d/10HCAlYjWG2UtjCXg5B6ismZavZFIcMgG7vHPzGXyysE/edit?ts=5a576880#)
 * messed around with advocacy site for a bit, tried to fix, pinged alan
-* 
+* [fellows call g1](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-12)
+* call with mb, setup followup meeting
+* remind fellows about ford outreach in slack
+* created [poll to assess interview coaching for fellows](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384)
+* updated comms plan with [ford link to videos](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
+
 
 ## TODO
 
+* followup with michael and ford about comms plan for host orgs
+* get link for videos from jessica
+* get informal polls from the fellows about who might like to be involved
 * send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
