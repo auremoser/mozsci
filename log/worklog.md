@@ -138,6 +138,8 @@
 * followup with michael to confirm availability for Friday
 * [fellows call g2 done](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-12)
 * meeting about [quant humanists progress](https://docs.google.com/document/d/10HCAlYjWG2UtjCXg5B6ismZavZFIcMgG7vHPzGXyysE/edit?ts=5a576880#)
+* messed around with advocacy site for a bit, tried to fix, pinged alan
+* 
 
 ## TODO
 
@@ -147,9 +149,6 @@
 * get back to emily with details this week (1 pager)
 * work with kalpana about the fluxx_todos.md - blog post and tech guide
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
-* fill out activity map
-* travel and accommodations for IFF (on hold until further notice)
-* Jan 15 - host org application launch
 * choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - feb 16
 * freddy's zine
 
