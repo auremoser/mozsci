@@ -128,6 +128,7 @@
 * emailed m to setup a meeting about [shared plan](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
 * updated [application guide](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#) with questions for host orgs
 * reviewed alan's [pr for the advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/494#event-1423389915)
+* completed tests and provided feedback on the [workflow document for Kalpana](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 
 
 
