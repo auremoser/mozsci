@@ -125,6 +125,7 @@
 * got back to abby with fluxx edit doc
 * approved some bill.com requests
 * submitted [owf issue for site updates](https://github.com/mozilla/advocacy.mozilla.org/issues/493)
+* emailed m to setup a meeting about [shared plan](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
 
 
 
@@ -144,6 +145,7 @@
 * remind fellows about ford outreach in slack
 * created [poll to assess interview coaching for fellows](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384)
 * updated comms plan with [ford link to videos](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
+* adjusted [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#) and added guide to Kevin's blog post
 
 
 ## TODO
@@ -162,11 +164,13 @@
 
 **FLUXX**
 
+* [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
 * WORKWEEK 2018
+	* [hotel reservation doc](https://docs.google.com/spreadsheets/d/1ZBxXMzaSUQvMjAlmYZg2n2132U1BfcAUvHTFf_mcOj4/edit#gid=0)
 	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
 	* [old-agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
 	* [registration](https://docs.google.com/spreadsheets/d/1XXr26aOBNl8C2BF84j9336atOGJKAVase0OhroKHU-g/edit#gid=1599984752)
