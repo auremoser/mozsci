@@ -127,6 +127,7 @@
 * submitted [owf issue for site updates](https://github.com/mozilla/advocacy.mozilla.org/issues/493)
 * emailed m to setup a meeting about [shared plan](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
 * updated [application guide](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#) with questions for host orgs
+* reviewed alan's [pr for the advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/494#event-1423389915)
 
 
 
