@@ -156,6 +156,7 @@
 * wrote to kalpana about host org invitations
 * responded to alan's issue request for [pulse urls](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * messaged Cade about password manager 101 session
+* checked in with fragomen on Sarah K's visa
 
 
 ## TODO
@@ -175,8 +176,18 @@
 
 * [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
-* [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1fjRCQJ2kWklOjyqxqPst53s8c803SL0i2kLr3EvHF6I/edit#gid=0)
+* [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+
+* OFFBOARDING 2018
+	Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
+
+	* Maya Wagoner (Brooklyn Public Library
+	* Carlos Guerra (Derechos * Digitales)
+	* Orlando del Aguila (Majal)
+	* Nasma Ahmed (MPower)
+	* Rebecca Ricks (Human Rights Watch)
+	* Sarah Kiden (Research ICT Africa)
 
 * WORKWEEK 2018
 	* [hotel reservation doc](https://docs.google.com/spreadsheets/d/1ZBxXMzaSUQvMjAlmYZg2n2132U1BfcAUvHTFf_mcOj4/edit#gid=0)
