@@ -154,12 +154,13 @@
 * met with Hans in Amsterdam!
 * reminded alan about the host org application launch
 * wrote to kalpana about host org invitations
+* responded to alan's issue request for [pulse urls](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
+* messaged Cade about password manager 101 session
 
 
 ## TODO
-
+* get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * followup with michael and ford about comms plan for host orgs
-* get link for videos from jessica
 * get informal polls from the fellows about who might like to be involved
 * send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
