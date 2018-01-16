@@ -150,6 +150,11 @@
 * updated comms plan with [ford link to videos](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * adjusted [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#) and added guide to Kevin's blog post
 
+## 1/16/17
+* met with Hans in Amsterdam!
+* reminded alan about the host org application launch
+* wrote to kalpana about host org invitations
+
 
 ## TODO
 
