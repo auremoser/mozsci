@@ -157,6 +157,13 @@
 * responded to alan's issue request for [pulse urls](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * messaged Cade about password manager 101 session
 * checked in with fragomen on Sarah K's visa
+* sent michael and jean a recap of interested fellows for offboarding
+* sent reminder to staff to promote the fellows' host org app in slack
+	* [tweet](https://twitter.com/mozilla/status/953268941291446272)
+	* [blog](https://medium.com/read-write-participate/host-an-open-internet-activist-7e22374221c9)
+* sent sarah kiden the password overview presentation from cade
+* met with oli from world brain
+* email reminder to host orgs to reapply
 
 
 ## TODO
