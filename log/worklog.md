@@ -170,6 +170,9 @@
 * reviewed [text for auto replies](https://docs.google.com/document/d/1_8rXblDkWm4bON1GhRgjihFtCAAcjT0O5FvYGnLKtRc/edit?ts=5a5e0af0) in fluxx
 * responded to some host org application questions
 * filled out the [agenda for today's chckin call](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* submitted wellness
+* responded to many emails!
+* added suggestions to the [alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 
 
 
@@ -187,7 +190,7 @@
 * freddy's zine
 
 **FLUXX**
-
+* [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
 * [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
