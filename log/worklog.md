@@ -150,7 +150,7 @@
 * updated comms plan with [ford link to videos](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * adjusted [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#) and added guide to Kevin's blog post
 
-## 1/16/17
+## 1/16/18
 * met with Hans in Amsterdam!
 * reminded alan about the host org application launch
 * wrote to kalpana about host org invitations
@@ -164,6 +164,13 @@
 * sent sarah kiden the password overview presentation from cade
 * met with oli from world brain
 * email reminder to host orgs to reapply
+* meeting with Marc Galland and Mateusz
+
+## 1/17/18
+* reviewed [text for auto replies](https://docs.google.com/document/d/1_8rXblDkWm4bON1GhRgjihFtCAAcjT0O5FvYGnLKtRc/edit?ts=5a5e0af0) in fluxx
+* responded to some host org application questions
+* filled out the [agenda for today's chckin call](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+
 
 
 ## TODO
