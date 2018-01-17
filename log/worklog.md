@@ -177,6 +177,7 @@
 
 
 ## TODO
+* get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * followup with michael and ford about comms plan for host orgs
 * get informal polls from the fellows about who might like to be involved
