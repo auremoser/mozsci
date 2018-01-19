@@ -175,12 +175,16 @@
 * added suggestions to the [alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit#)
 
 ## 1/19/18
+
 * update [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#)
 * reviewed rizwan's KR email for tuesday's meeting
 * checked into [budget and pinged about future meeting](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
+* read through unifying mozilla brand freedman report (downloaded)
+* setup host org [etherpad](https://public.etherpad-mozilla.org/)p/2017-hostorgs + sent out call invite for Feb 15th
 
 
 ## TODO
+* go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
@@ -189,8 +193,6 @@
 * send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
-* get back to emily with details this week (1 pager)
-* work with kalpana about the fluxx_todos.md - blog post and tech guide
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - feb 16
 * freddy's zine
