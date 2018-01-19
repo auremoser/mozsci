@@ -177,6 +177,7 @@
 ## 1/19/18
 * update [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#)
 * reviewed rizwan's KR email for tuesday's meeting
+* checked into [budget and pinged about future meeting](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
 
 
 ## TODO
