@@ -186,6 +186,7 @@
 ## 1/22/18
 * invitation letter for amel
 * lots of bill.com approvals
+* sent amel signed invitation letter
 
 
 ## TODO
