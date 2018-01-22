@@ -181,6 +181,11 @@
 * checked into [budget and pinged about future meeting](https://docs.google.com/spreadsheets/d/1Gdec6CbkpYRp8denMjGCcWowjn-FtlJKwy_y-5JU7Q4/edit#gid=0)
 * read through unifying mozilla brand freedman report (downloaded)
 * setup host org [etherpad](https://public.etherpad-mozilla.org/)p/2017-hostorgs + sent out call invite for Feb 15th
+* commented on Tais' issue for the [fellows nav](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
+
+## 1/22/18
+* invitation letter for amel
+* lots of bill.com approvals
 
 
 ## TODO
@@ -188,7 +193,7 @@
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
-* followup with michael and ford about comms plan for host orgs
+* host org call [etherpad flesh out](https://public.etherpad-mozilla.org/p/2017-hostorgs) before feb
 * get informal polls from the fellows about who might like to be involved
 * send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
