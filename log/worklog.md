@@ -188,7 +188,7 @@
 * lots of bill.com approvals
 * sent amel signed invitation letter
 * sent steph AAAS fellowship report with Science Lab inclusion
-
+* tweeted [net policy blog](https://blog.mozilla.org/netpolicy/2018/01/16/host-open-internet-activist/) for host org applications
 
 
 ## TODO
