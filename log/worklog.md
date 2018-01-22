@@ -187,6 +187,8 @@
 * invitation letter for amel
 * lots of bill.com approvals
 * sent amel signed invitation letter
+* sent steph AAAS fellowship report with Science Lab inclusion
+
 
 
 ## TODO
