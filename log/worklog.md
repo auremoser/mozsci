@@ -189,9 +189,44 @@
 * sent amel signed invitation letter
 * sent steph AAAS fellowship report with Science Lab inclusion
 * tweeted [net policy blog](https://blog.mozilla.org/netpolicy/2018/01/16/host-open-internet-activist/) for host org applications
+* [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* meeting about [science fellows offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
+* freedman report checkin meeting
+* merged [pr of portuguese translation from Arthur Sampaio](https://github.com/mozillascience/study-group-orientation/pull/33)
+* cleaned up some formating on the [community engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+* drafted business visitor invite for Julia, sent to Melissa for approvals
+* sent troubleshooting log to james for microsoft products
+* emailed ccc fellows about status of blog
+
+## 1/23/17
+* sent steph template for community call invite
+* responded to aleks' visa approval, yay
+* caught up on some emails
+* meeting with CSS and Danielle for fellows' workweek planning
+* added things to activity tracker
+	* [aleks' blog](https://blog.r3bl.me/en/the-city-whose-name-i-cannot-mention/)
+	* [rishab's paper](https://fellowsworkweek.splashthat.com/)
+	* [rebecca's fastco piece](https://www.fastcodesign.com/90157501/how-widely-do-companies-share-user-data-heres-a-chilling-glimpse)
+* sent julia her invitation letter signed by rizwan
+* [leadership programs team call](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
+* [fellows' blogpost](https://docs.google.com/document/d/1Jd4BBCDCBqguvMNfVHoHXQSaO7sZ4Sp58DNU9TTcRm0/edit) for ccc punted to kevin
+* sent email to amira about recruitment and fellows offboarding ideas
+* printed 20 copies of freddy's zine
+* invision updates for fellowships website
 
 
 ## TODO
+* tweet portuguese translation help from Arthur
+* from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+Write about offboarding to contacts
+Reach out to D&S about RN
+Reach out to individuals promo-ing fellows
+
+
+
+* followup with questions for [science offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
+* send out a few promotional emails to Amira
+
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
@@ -203,7 +238,7 @@
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - feb 16
-* freddy's zine
+
 
 **FLUXX**
 * [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
