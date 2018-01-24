@@ -221,6 +221,12 @@
 * updated [engagement tracker for blockchain for science post](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * added feedback to project call script for monday
 * added revision suggestions to [PLoS paper](https://www.overleaf.com/10537738kmrzzrkhsnqc#/51206508/) on study groups
+* made fellows etherpads for Friday and sent out reminder email
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-1-26)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-26)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-1-26)
+* added KR adjustments to theory of change section in our 2018 okrs [doc](https://docs.google.com/document/d/1_e5eRQn63wNcwRHOLJOYr_Bjsnd-sRJ1q1JKhLPRZlg/edit#)
+* meeting with E about H and [moving forward with accountability](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
 
 ## TODO
 * tweet portuguese translation help from Arthur
@@ -232,19 +238,15 @@ Reach out to individuals promo-ing fellows
 
 
 * followup with questions for [science offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
-* send out a few promotional emails to Amira
 
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * host org call [etherpad flesh out](https://public.etherpad-mozilla.org/p/2017-hostorgs) before feb
-* get informal polls from the fellows about who might like to be involved
-* send email to host orgs about the application for 2018 OWF hosts - MONDAY - and about call on [feb 15th](https://doodle.com/poll/nvfwyigtwpexb7zb#table)
 * get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
-* choose date for [host org checkins](https://doodle.com/poll/nvfwyigtwpexb7zb#table) - feb 16
 
 
 **FLUXX**
