@@ -229,6 +229,7 @@
 * meeting with E about H and [moving forward with accountability](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
 * setup meeting to followup in two weeks
 * gave ann marie the agreement clause in our photo relationship with the fellows
+* followed up with amira, juan, sara about [fellows' offboarding location potential](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70) followed up on issue
 
 ## TODO
 * tweet portuguese translation help from Arthur
