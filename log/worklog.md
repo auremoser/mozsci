@@ -227,6 +227,8 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-1-26)
 * added KR adjustments to theory of change section in our 2018 okrs [doc](https://docs.google.com/document/d/1_e5eRQn63wNcwRHOLJOYr_Bjsnd-sRJ1q1JKhLPRZlg/edit#)
 * meeting with E about H and [moving forward with accountability](https://docs.google.com/document/d/1Fx3J55GGMh071IEcA_LnY79CKDIqOD1ou6fjdUxj6A0/edit)
+* setup meeting to followup in two weeks
+* gave ann marie the agreement clause in our photo relationship with the fellows
 
 ## TODO
 * tweet portuguese translation help from Arthur
