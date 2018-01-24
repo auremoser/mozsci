@@ -214,6 +214,10 @@
 * printed 20 copies of freddy's zine
 * invision updates for fellowships website
 
+## 1/24/18
+* provided feedback on [fellows' newsletter](https://docs.google.com/presentation/d/1IvymkfNCX3gvk1dswcJcVpowzJhhg0bqLQD6nXZIUn0/edit#slide=id.g2f25cefe32_0_78)
+* got back into the gitter chats and caught up with community members
+* wrote back to james about microsoft office woes
 
 ## TODO
 * tweet portuguese translation help from Arthur
