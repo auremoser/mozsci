@@ -219,6 +219,8 @@
 * got back into the gitter chats and caught up with community members
 * wrote back to james about microsoft office woes
 * updated [engagement tracker for blockchain for science post](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+* added feedback to project call script for monday
+* added revision suggestions to [PLoS paper](https://www.overleaf.com/10537738kmrzzrkhsnqc#/51206508/) on study groups
 
 ## TODO
 * tweet portuguese translation help from Arthur
