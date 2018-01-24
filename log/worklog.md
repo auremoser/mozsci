@@ -218,6 +218,7 @@
 * provided feedback on [fellows' newsletter](https://docs.google.com/presentation/d/1IvymkfNCX3gvk1dswcJcVpowzJhhg0bqLQD6nXZIUn0/edit#slide=id.g2f25cefe32_0_78)
 * got back into the gitter chats and caught up with community members
 * wrote back to james about microsoft office woes
+* updated [engagement tracker for blockchain for science post](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 
 ## TODO
 * tweet portuguese translation help from Arthur
