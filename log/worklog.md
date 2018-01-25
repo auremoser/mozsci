@@ -241,6 +241,9 @@
 * followed-up with questions for [science offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
 * wrote to abby about templates for grant reporting
 * chatted with jen about opportunities to promote host org applications
+* meeting with team about workweek
+* reviewed stats for [funding proposal](https://docs.google.com/document/d/1cKywLu_goRs9CJeraaLKGToy0XvMmh1gxk-qgTq-_KQ/edit?ts=5a6a2255) via jessie
+* meeting with fp
 
 ## TODO
 * tweet portuguese translation help from Arthur
