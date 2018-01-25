@@ -244,6 +244,7 @@
 * meeting with team about workweek
 * reviewed stats for [funding proposal](https://docs.google.com/document/d/1cKywLu_goRs9CJeraaLKGToy0XvMmh1gxk-qgTq-_KQ/edit?ts=5a6a2255) via jessie
 * meeting with fp
+* put together [outreach email template](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.pyaau33xojfh) for host org outreach
 
 ## TODO
 * tweet portuguese translation help from Arthur
