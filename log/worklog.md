@@ -235,18 +235,19 @@
 
 
 ## 1/25/18
-
+* chatted with roxanne at Red cross about fellow solicitation
+* wrote back to [lapstep](https://www.labstep.com/) about programs and opportunities
+* responded to plos paper asks and ideas about
+* followed-up with questions for [science offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
+* wrote to abby about templates for grant reporting
+* chatted with jen about opportunities to promote host org applications
 
 ## TODO
 * tweet portuguese translation help from Arthur
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
-Write about offboarding to contacts
+
 Reach out to D&S about RN
 Reach out to individuals promo-ing fellows
-
-
-
-* followup with questions for [science offboarding](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
 
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
