@@ -245,8 +245,12 @@
 * reviewed stats for [funding proposal](https://docs.google.com/document/d/1cKywLu_goRs9CJeraaLKGToy0XvMmh1gxk-qgTq-_KQ/edit?ts=5a6a2255) via jessie
 * meeting with fp
 * put together [outreach email template](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.pyaau33xojfh) for host org outreach
+* wrote to PI about host org application
+
 
 ## TODO
+
+* intro ann marie to teon and danielle
 * tweet portuguese translation help from Arthur
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
