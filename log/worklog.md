@@ -233,7 +233,6 @@
 * added a bunch of activities to the [sf workweek agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek#lineNumber=360)
 * updated fellows' etherpads with pechakucha talks this week
 
-
 ## 1/25/18
 * chatted with roxanne at Red cross about fellow solicitation
 * wrote back to [lapstep](https://www.labstep.com/) about programs and opportunities
@@ -246,6 +245,7 @@
 * meeting with fp
 * put together [outreach email template](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.pyaau33xojfh) for host org outreach
 * wrote to PI about host org application
+* reached out to D&S about RN
 
 
 ## TODO
@@ -254,7 +254,7 @@
 * tweet portuguese translation help from Arthur
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
-Reach out to D&S about RN
+
 Reach out to individuals promo-ing fellows
 
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
