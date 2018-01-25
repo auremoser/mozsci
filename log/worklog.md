@@ -233,6 +233,10 @@
 * added a bunch of activities to the [sf workweek agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek#lineNumber=360)
 * updated fellows' etherpads with pechakucha talks this week
 
+
+## 1/25/18
+
+
 ## TODO
 * tweet portuguese translation help from Arthur
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
