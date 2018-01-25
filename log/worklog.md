@@ -230,6 +230,8 @@
 * setup meeting to followup in two weeks
 * gave ann marie the agreement clause in our photo relationship with the fellows
 * followed up with amira, juan, sara about [fellows' offboarding location potential](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70) followed up on issue
+* added a bunch of activities to the [sf workweek agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek#lineNumber=360)
+* updated fellows' etherpads with pechakucha talks this week
 
 ## TODO
 * tweet portuguese translation help from Arthur
