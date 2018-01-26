@@ -250,7 +250,7 @@
 ## 1/26/18
 * attended fellows call [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-26)
 * pinged fellows about call
-* checked in 
+* sent labstep an appointment for feb 6
 
 ## TODO
 
