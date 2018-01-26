@@ -251,6 +251,8 @@
 * attended fellows call [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-1-26)
 * pinged fellows about call
 * sent labstep an appointment for feb 6
+* attended fellows call [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-1-26)
+* patched the engagement tracker with updates from fellows' workshops
 
 ## TODO
 
