@@ -253,11 +253,14 @@
 * sent labstep an appointment for feb 6
 * attended fellows call [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-1-26)
 * patched the engagement tracker with updates from fellows' workshops
+* fellows [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-1-26)
+* intro ann marie to teon and danielle
+* tweeted portuguese translation help from Arthur
+* reached out to Katharina and Jofish about Host org applications
+* checked in with jen c about advocacy promotions
 
 ## TODO
 
-* intro ann marie to teon and danielle
-* tweet portuguese translation help from Arthur
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
 
