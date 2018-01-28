@@ -3337,15 +3337,25 @@ ONBOARDING
 * **October 2017** - Data
 	* open data curriculum
 	* transportation data working group - * Elizabeth L. Zeitler, elzeitler@gmail.com, AAAS Science and Technology Policy Fellow (met at RDA)
+
+* **June 2017** - Reproducibility + Rescue
+	* Reproducitiblity guide by [ROpenSci](http://ropensci.github.io/reproducibility-guide/)
+* **February 2018** - Open Publishing
+	* Initiative for Open Citations: https://i4oc.org
 	* Travis from pub pub
 	* Jess Polka ASAP Bio
-* **June 2017** - Reproducibility + Rescue
-	* Initiative for Open Citations: https://i4oc.org
-	* Reproducitiblity guide by [ROpenSci](http://ropensci.github.io/reproducibility-guide/)
+	* Richard / Danielle on Science Fair
+	* Kamila Markram on #OA and sustainability
+	* Jens Nielsen on the future of scientific publishing (nielsenj@chalmers.se)
+	* Travis Rich from PubPub
+	* Someone from the O'Reilly Open Books project, Community Press or the Whole Internet User's * Guide
+	* Someone from PLOS ONE, Nature’s Scientific Reports, and Biomed Central’s Genome Biology, or eLife Sciences (like Naomi Penfold)
+	* Someone from Internet Archive/WayBack // Creative Commons
+	* Our mini-grants winners for an update on pre-print journal clubs
+	* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
+	* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 
-* Bill Mills on Docker for Study Group Call
-* Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
-* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
+
 * Patchwork - Github: http://patchwork.github.io/
 * David Bloom - open biodiversity datasets: http://vertnet.org/about/about.html
 * Open Data Barometer - http://opendatabarometer.org/
