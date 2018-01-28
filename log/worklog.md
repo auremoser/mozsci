@@ -264,6 +264,8 @@
 * connected becca to pau
 * put together visa border letter for aleks
 * sent along approvals for equipment to Sarah K
+* scheduled stereo semantics for July 21st at HOPE
+* got back to jesse about site content for the fellows
 
 ## TODO
 
