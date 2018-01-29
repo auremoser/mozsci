@@ -266,10 +266,15 @@
 * sent along approvals for equipment to Sarah K
 * scheduled stereo semantics for July 21st at HOPE
 * got back to jesse about site content for the fellows
+* wrote becca's recommendation letter for berkman
+* open fellows' week
 
 ## TODO
 
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* get travel for fluent conference
+* finish tax uploads	
+* 
 
 
 Reach out to individuals promo-ing fellows
