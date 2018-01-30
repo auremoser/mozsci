@@ -268,6 +268,7 @@
 * got back to jesse about site content for the fellows
 * wrote becca's recommendation letter for berkman
 * open fellows' week
+* updated fellows' [profiles in pulse](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 
 ## TODO
 
