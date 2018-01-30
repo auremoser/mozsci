@@ -270,6 +270,7 @@
 * open fellows' week
 * updated fellows' [profiles in pulse](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * added to budget for [iff](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=358669218)
+* filled out [fellowship application questions and timeline](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.rqtzmovso1uu)
 
 ## TODO
 
@@ -290,8 +291,15 @@ Reach out to individuals promo-ing fellows
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
+**OWF ALUMNI**
+
+* [Ford MVP Brief](https://docs.google.com/document/d/1y0HJYYl0sd_BbILyf0hOru3mAoHEOB7364YOHncNYy4/edit?ts=5a1ee9b6)
+* [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
+* 
+
 
 **FLUXX**
+* [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
 * [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
 * [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
