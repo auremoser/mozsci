@@ -269,6 +269,7 @@
 * wrote becca's recommendation letter for berkman
 * open fellows' week
 * updated fellows' [profiles in pulse](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
+* added to budget for [iff](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=358669218)
 
 ## TODO
 
