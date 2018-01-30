@@ -271,9 +271,11 @@
 * updated fellows' [profiles in pulse](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * added to budget for [iff](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=358669218)
 * filled out [fellowship application questions and timeline](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.rqtzmovso1uu)
+* wrote sarah k's recommendation letter for berkman
+*
 
 ## TODO
-
+* review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * get travel for fluent conference
 * finish tax uploads	
