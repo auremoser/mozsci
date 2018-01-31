@@ -276,13 +276,24 @@
 * put together [owf application questions](https://docs.google.com/document/d/1Qk3RnE-fHy_b1puVxnQdjs1H3PgRWVZ-7fFkVFeq77Y/edit) + [science application questions](https://docs.google.com/document/d/1k0a8v_XpZ9U6uhODsn0Mwzs8bcfykXqDe9By_co-bM0/edit)
 * made grant reporting template for [host orgs](https://docs.google.com/document/d/1dahWanZKk6wLFEThxe7hUgyv51j1ECB-9YuDKfH1cZE/edit?usp=sharing) from [original grant template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf)
 
+## 1/30/18
+* worked on [feedback freedman doc for rizwan](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
+* sent bio to amel for tunis conference
+* emails with abby for host org recruitment
+* tweets about fellows's projects
+
 ## TODO
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * get travel for fluent conference
-* finish tax uploads	
-* 
+* finish tax uploads
+
+* ideas for recruitment	
+	* challenging fellows - termination
+	* interview questions on collaboration
+	* upload a video in 2 min for presentation
+	* flash grants
 
 
 Reach out to individuals promo-ing fellows
