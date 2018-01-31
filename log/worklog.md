@@ -281,6 +281,7 @@
 * sent bio to amel for tunis conference
 * emails with abby for host org recruitment
 * tweets about fellows's projects
+* updated [fellows' engagement tracker for CCC](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 
 ## TODO
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
