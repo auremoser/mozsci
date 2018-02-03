@@ -285,6 +285,9 @@
 * updated [fellows' engagement tracker for CCC](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * updated pulse profile urls in issue from matthew
 * added to Alumni [Offboarding Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+* approved some travel
+* wrote back to MB about travel dates for workweek
+* added feedback to the [debrief doc](https://docs.google.com/document/d/1qbivzHsTRUBAN8MCLtAgv1KOxTWJJfzw3HZWWo4UuM8/edit)
 
 ## TODO
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
@@ -311,7 +314,7 @@ Reach out to individuals promo-ing fellows
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
-**OWF ALUMNI + OFFBOARDING**
+**OWF ALUMNI + Offboarding**
 
 * [Ford MVP Brief](https://docs.google.com/document/d/1y0HJYYl0sd_BbILyf0hOru3mAoHEOB7364YOHncNYy4/edit?ts=5a1ee9b6)
 * [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
