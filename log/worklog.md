@@ -288,6 +288,7 @@
 * approved some travel
 * wrote back to MB about travel dates for workweek
 * added feedback to the [debrief doc](https://docs.google.com/document/d/1qbivzHsTRUBAN8MCLtAgv1KOxTWJJfzw3HZWWo4UuM8/edit)
+* added a comment to [mavis' issues about urls for the fellowships website](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-362727920)
 
 ## TODO
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
