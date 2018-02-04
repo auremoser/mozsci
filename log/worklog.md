@@ -291,6 +291,11 @@
 * added a comment to [mavis' issues about urls for the fellowships website](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-362727920)
 * messaged matthew about hang's photo issue
 
+## 2/4/18
+* gave feedback on workweek debrief doc
+* sent message to Indunil about his [study group pilot project](http://mywebproject.azurewebsites.net/contindex)
+* looked into tickets for fluent
+
 ## TODO
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
