@@ -300,6 +300,10 @@
 * submited deletions to the MozillaScience mailing list database
 * sent steph a reminder about the community call preparations this week including template emails
 * filled out all host org recommendations in the [3 yr strat doc](https://docs.google.com/spreadsheets/d/1U-hdOzk4A5FJKW8M9LvdNp_rrQW-ItDidQfgdQxyf20/edit?ts=5a77a464#gid=0)
+* added particular counts to [amy's recruitment plan](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#)
+* added host org ask for [mozfest](https://public.etherpad-mozilla.org/p/2017-hostorgs)
+* sent sarah w a template email for soliciting host orgs
+* sent followup to hb and sa about evolving fellowship
 
 ## TODO
 
