@@ -296,7 +296,13 @@
 * sent message to Indunil about his [study group pilot project](http://mywebproject.azurewebsites.net/contindex)
 * looked into tickets for fluent
 
+## 2/5/18
+* submited deletions to the MozillaScience mailing list database
+* sent steph a reminder about the community call preparations this week including template emails
+* filled out all host org recommendations in the [3 yr strat doc](https://docs.google.com/spreadsheets/d/1U-hdOzk4A5FJKW8M9LvdNp_rrQW-ItDidQfgdQxyf20/edit?ts=5a77a464#gid=0)
+
 ## TODO
+
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
