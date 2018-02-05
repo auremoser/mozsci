@@ -304,9 +304,11 @@
 * added host org ask for [mozfest](https://public.etherpad-mozilla.org/p/2017-hostorgs)
 * sent sarah w a template email for soliciting host orgs
 * sent followup to hb and sa about evolving fellowship
+* filled out [workweek feedback doc](https://docs.google.com/forms/d/e/1FAIpQLSfzC1AfmzH0HyA5_c4t6CnfmZgC-h032vpGSzXCiWgusQUSOg/formResponse)
 
 ## TODO
 
+* report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
