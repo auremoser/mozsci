@@ -305,6 +305,7 @@
 * sent sarah w a template email for soliciting host orgs
 * sent followup to hb and sa about evolving fellowship
 * filled out [workweek feedback doc](https://docs.google.com/forms/d/e/1FAIpQLSfzC1AfmzH0HyA5_c4t6CnfmZgC-h032vpGSzXCiWgusQUSOg/formResponse)
+* added feedback to [fellowship positioning and communications doc](https://docs.google.com/document/d/1KOHx2WuNN62bNLXFoKuOdq-BRYwHkaGqy_G9KYQkR8Q/edit#)
 
 ## TODO
 
