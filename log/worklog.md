@@ -312,6 +312,7 @@
 
 ## 2/5/18
 * added visa [invitation letters doc for sarah](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit) to abby for consideration
+* meeting with labstep folks
 
 
 ## TODO
