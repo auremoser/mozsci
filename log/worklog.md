@@ -309,6 +309,11 @@
 * provided feedback on all of the fellows who have been surveyed [in the past](https://docs.google.com/spreadsheets/d/1U-hdOzk4A5FJKW8M9LvdNp_rrQW-ItDidQfgdQxyf20/edit?ts=5a78f2d7#gid=0)
 * asked Sarah Kiden questions about her visa invitation letter
 
+
+## 2/5/18
+* added visa [invitation letters doc for sarah](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit) to abby for consideration
+
+
 ## TODO
 
 * give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
