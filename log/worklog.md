@@ -318,6 +318,7 @@
 * followed up with labstep with resources
 * got back to zannah and matthew about global sprint planning
 * sent a followup to alexei and josh about carlos' expensify account
+* updated [science lab calls wiki](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives) + listing of participants/speakers on the [website](https://science.mozilla.org/programs/events/community-call-feb-8-11-et)
 
 
 ## TODO
