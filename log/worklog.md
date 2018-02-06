@@ -317,6 +317,7 @@
 * meeting with labstep about community for science
 * followed up with labstep with resources
 * got back to zannah and matthew about global sprint planning
+* sent a followup to alexei and josh about carlos' expensify account
 
 
 ## TODO
@@ -581,6 +582,7 @@ Reach out to individuals promo-ing fellows
 	* Matt Conlen, [538 and open science](https://twitter.com/mathisonian)
 * **April 2018** - open hardware
 	* Luis Felipe R. Murillo, [GOSH roadmap](http://openhardware.science/global-open-science-hardware-roadmap/)
+	* Jake Schofield of Labstep on reproducible experimentation
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
