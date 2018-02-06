@@ -306,9 +306,12 @@
 * sent followup to hb and sa about evolving fellowship
 * filled out [workweek feedback doc](https://docs.google.com/forms/d/e/1FAIpQLSfzC1AfmzH0HyA5_c4t6CnfmZgC-h032vpGSzXCiWgusQUSOg/formResponse)
 * added feedback to [fellowship positioning and communications doc](https://docs.google.com/document/d/1KOHx2WuNN62bNLXFoKuOdq-BRYwHkaGqy_G9KYQkR8Q/edit#)
+* provided feedback on all of the fellows who have been surveyed [in the past](https://docs.google.com/spreadsheets/d/1U-hdOzk4A5FJKW8M9LvdNp_rrQW-ItDidQfgdQxyf20/edit?ts=5a78f2d7#gid=0)
+* asked Sarah Kiden questions about her visa invitation letter
 
 ## TODO
 
+* give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
 * report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
