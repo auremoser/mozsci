@@ -313,6 +313,8 @@
 ## 2/5/18
 * added visa [invitation letters doc for sarah](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit) to abby for consideration
 * meeting with labstep folks
+* debrief session on [workweek](https://docs.google.com/document/d/1qbivzHsTRUBAN8MCLtAgv1KOxTWJJfzw3HZWWo4UuM8/edit#)
+* meeting with labstep about community for science
 
 
 ## TODO
