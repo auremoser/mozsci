@@ -315,6 +315,8 @@
 * meeting with labstep folks
 * debrief session on [workweek](https://docs.google.com/document/d/1qbivzHsTRUBAN8MCLtAgv1KOxTWJJfzw3HZWWo4UuM8/edit#)
 * meeting with labstep about community for science
+* followed up with labstep with resources
+* got back to zannah and matthew about global sprint planning
 
 
 ## TODO
