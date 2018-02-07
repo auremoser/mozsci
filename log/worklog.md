@@ -321,7 +321,7 @@
 * updated [science lab calls wiki](https://wiki.mozilla.org/ScienceLab/Calls#Call_archives) + listing of participants/speakers on the [website](https://science.mozilla.org/programs/events/community-call-feb-8-11-et)
 * updated [engagement tracker for Rishab's talk](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * followed up with the [public interest tech job board](https://docs.google.com/document/d/1LNn9yxeHkkyGCzWvV7hd2IyXbu3hJx9ATspVXm-VP4M/edit?ts=5a7a52a0) on Amy's oppenheim doc
-
+* shared community call with the fellows
 
 
 ## TODO
