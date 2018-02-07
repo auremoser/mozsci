@@ -325,7 +325,12 @@
 
 ## 2/7/18
 * reviewed changes for [dd blog post](https://docs.google.com/document/d/1DBPmeFpw0mbVdl-zmjhgmu-XiIuzxUjo-i4v13iPs-g/edit)
-* platform feedback loop meeting with abby and matthew went over [cms guide](https://mzl.la/cms-guide) + [cms login](https://foundation.mozilla.org/admin)
+* platform feedback loop meeting with abby and matthew went over [cms guide](https://mzl.la/cms-guide) + [cms login](https://foundation.mozilla.org/admin) + [miti example page](https://foundation.mozilla.org/opportunity/miti/)
+* followed up with abby about sarah's visa letter
+* correspondence with sarah a about meetings and checkins this week
+* forwarded citizen lab
+* added a question about biomedical to the science questions in the [recruitment doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#)
+* sent dates emails to all ford fellows for offboarding
 
 ## TODO
 
