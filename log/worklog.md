@@ -331,6 +331,7 @@
 * forwarded citizen lab
 * added a question about biomedical to the science questions in the [recruitment doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#)
 * sent dates emails to all ford fellows for offboarding
+* gave feedback on [fellowships team objectives](https://docs.google.com/spreadsheets/d/1aZ8bRrBB855mAiT-1nd_u1YZmlmSouqk7VFCORRcO-Y/edit?ts=5a7b7861#gid=1121165176) doc
 
 ## TODO
 
