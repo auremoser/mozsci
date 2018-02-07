@@ -325,7 +325,7 @@
 
 ## 2/7/18
 * reviewed changes for [dd blog post](https://docs.google.com/document/d/1DBPmeFpw0mbVdl-zmjhgmu-XiIuzxUjo-i4v13iPs-g/edit)
-* platform feedback loop meeting with abby and matthew
+* platform feedback loop meeting with abby and matthew went over [cms guide](https://mzl.la/cms-guide) + [cms login](https://foundation.mozilla.org/admin)
 
 ## TODO
 
