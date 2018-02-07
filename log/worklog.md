@@ -310,7 +310,7 @@
 * asked Sarah Kiden questions about her visa invitation letter
 
 
-## 2/5/18
+## 2/6/18
 * added visa [invitation letters doc for sarah](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit) to abby for consideration
 * meeting with labstep folks
 * debrief session on [workweek](https://docs.google.com/document/d/1qbivzHsTRUBAN8MCLtAgv1KOxTWJJfzw3HZWWo4UuM8/edit#)
@@ -323,6 +323,9 @@
 * followed up with the [public interest tech job board](https://docs.google.com/document/d/1LNn9yxeHkkyGCzWvV7hd2IyXbu3hJx9ATspVXm-VP4M/edit?ts=5a7a52a0) on Amy's oppenheim doc
 * shared community call with the fellows
 
+## 2/7/18
+* reviewed changes for [dd blog post](https://docs.google.com/document/d/1DBPmeFpw0mbVdl-zmjhgmu-XiIuzxUjo-i4v13iPs-g/edit)
+* platform feedback loop meeting with abby and matthew
 
 ## TODO
 
