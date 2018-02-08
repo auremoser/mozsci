@@ -339,10 +339,20 @@
 
 ## 2/8/17
 * bimonthly science lab community call [prep](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)
+* tweeted about call and shared the recording on air mozilla
+* tweeted a stream of tweets about [host org applications](https://twitter.com/auremoser/status/961609136533368832)
 * updated travel budget for iff and approved some flights [here](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 * responded to invites and meetings for hb and sa checkins
 * replied to nathan about scheduling
 * attended fellowships team overview with [freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
+* weekly meeting with Amy [doc](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+
+
+
+* email to michael about recruitment and dates
+* kevin about host org application ama
+* email to fellows about call reminders and vidyo setup
+* adopt 4 things in [action plan for freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
 
 ## TODO
 
