@@ -356,6 +356,7 @@
 * reach out to strategic folks at the foundation for applications
 * kevin about host org application ama
 * created etherpad with [sarah's checkin](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
+* created [project checkin time with sarah](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
 
 * adopt 4 things in [action plan for freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
 
