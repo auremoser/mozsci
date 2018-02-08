@@ -346,12 +346,17 @@
 * replied to nathan about scheduling
 * attended fellowships team overview with [freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
 * weekly meeting with Amy [doc](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
-
-
-
+* chat with Astra and Debt Collective about applying to be a host org
 * email to michael about recruitment and dates
+* emailed fellows about checkin calls and updated their etherpads with events:
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-9)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-2-9)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-9)
+
+* reach out to strategic folks at the foundation for applications
 * kevin about host org application ama
-* email to fellows about call reminders and vidyo setup
+* created etherpad with [sarah's checkin](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
+
 * adopt 4 things in [action plan for freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
 
 ## TODO
