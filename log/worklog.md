@@ -337,6 +337,13 @@
 * fixed sarah's letter and [sent to Rizwan for signature](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit)
 * reached out about citizen lab summer institute
 
+## 2/8/17
+* bimonthly science lab community call [prep](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)
+* updated travel budget for iff and approved some flights [here](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
+* responded to invites and meetings for hb and sa checkins
+* replied to nathan about scheduling
+* attended fellowships team overview with [freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
+
 ## TODO
 
 * give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
