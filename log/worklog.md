@@ -334,6 +334,8 @@
 * gave feedback on [fellowships team objectives](https://docs.google.com/spreadsheets/d/1aZ8bRrBB855mAiT-1nd_u1YZmlmSouqk7VFCORRcO-Y/edit?ts=5a7b7861#gid=1121165176) doc
 * reached out to audrey about coworking and a checking related to RN
 * added to Matthew's [dev ops issue for static maps](https://github.com/MozillaFoundation/mofo-devops/issues/573)
+* fixed sarah's letter and [sent to Rizwan for signature](https://docs.google.com/document/d/1lSIn1rASPIuPHmoGWg1RlnHvZyiI7Ck9yA6wBhcSGtc/edit)
+* reached out about citizen lab summer institute
 
 ## TODO
 
