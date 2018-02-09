@@ -371,6 +371,8 @@
 * fellowship call [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-9) + [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-9)
 * gave feedback on [fellowships topic document from Rizwan](https://docs.google.com/document/d/1aTmU9CMDvWICnXjpjXxziGyIn9YKjKLBcyyOF10MgaQ/edit#)
 * updated [host org hype doc](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#) with details
+* created [host org ama](https://public.etherpad-mozilla.org/p/2018-hostorg-ama) plan for next week + [tweets](https://twitter.com/auremoser/status/962099533491720193)
+* added ideas to the [internet health report roadshow doc](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1&usp=gmail#gid=1512182335)
 
 ## TODO
 
