@@ -370,6 +370,7 @@
 * chatted with julia about ai now project and host org application
 * fellowship call [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-9) + [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-9)
 * gave feedback on [fellowships topic document from Rizwan](https://docs.google.com/document/d/1aTmU9CMDvWICnXjpjXxziGyIn9YKjKLBcyyOF10MgaQ/edit#)
+* updated [host org hype doc](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#) with details
 
 ## TODO
 
