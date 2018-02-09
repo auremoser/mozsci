@@ -359,6 +359,17 @@
 * created [project checkin time with sarah](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
 * adopted 4 things in [action plan for freedman report](https://docs.google.com/document/d/1TOhGAwpUXH_bh4XEJzWpGF9fINau6mfaw-gii9lDkag/edit#)
 
+
+## 2/9/18
+* fellowship call * [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-2-9)
+* responded to sarah with her invitation letters for IFF
+* wrote back about OKR2 working group list
+* made appt with ia now to talk about their application
+* pinged kevin about ama possibilities
+* wrote to sarah allen about recruitment process based on her questiosn
+* chatted with julia about ai now project and host org application
+* fellowship call [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-9) + [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-9)
+
 ## TODO
 
 * give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
