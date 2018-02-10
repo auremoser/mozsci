@@ -639,6 +639,7 @@ Reach out to individuals promo-ing fellows
 * **April 2018** - open hardware
 	* Luis Felipe R. Murillo, [GOSH roadmap](http://openhardware.science/global-open-science-hardware-roadmap/)
 	* Jake Schofield of Labstep on reproducible experimentation
+	* Mozilla [iodide-project](https://github.com/iodide-project/iodide)
 
 * Bill Mills on Docker for Study Group Call
 * Someone from [science journal at google](https://makingscience.withgoogle.com/science-journal/)
