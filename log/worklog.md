@@ -374,6 +374,7 @@
 * created [host org ama](https://public.etherpad-mozilla.org/p/2018-hostorg-ama) plan for next week + [tweets](https://twitter.com/auremoser/status/962099533491720193)
 * added ideas to the [internet health report roadshow doc](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1&usp=gmail#gid=1512182335)
 * emailed all host organizations individually on the [2017](https://docs.google.com/spreadsheets/d/1nJQHQqPmI3EWP7vflhLVd7Rc9OsB26jbhbD6ngr0EEE/edit#gid=810394473) list
+* signed the [amp letter](https://github.com/amp-letter/amp-letter.github.io)
 
 ## TODO
 
