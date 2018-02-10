@@ -379,6 +379,7 @@
 * added feedback to fellows call [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-2-9)
 * messaged mel about 2016 email addresses
 * emailed Kalpana about sending messages to draft fluxx candidates per [checkin with as](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* wrote back to Oli about worldbrain community plan
 
 ## TODO
 
