@@ -381,6 +381,7 @@
 * emailed Kalpana about sending messages to draft fluxx candidates per [checkin with as](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * wrote back to Oli about worldbrain community plan
 * applied for [scientist sentinels](https://docs.google.com/forms/d/e/1FAIpQLScxX4nq36NZio5F4lxqe6ptrQqTOHVpzvx0w_8urddqIaeA4Q/formResponse)
+* comments on dat project prop
 
 ## TODO
 
