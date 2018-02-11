@@ -382,6 +382,7 @@
 * wrote back to Oli about worldbrain community plan
 * applied for [scientist sentinels](https://docs.google.com/forms/d/e/1FAIpQLScxX4nq36NZio5F4lxqe6ptrQqTOHVpzvx0w_8urddqIaeA4Q/formResponse)
 * comments on dat project prop
+* reviewed two papers for the hackathon chi workshop
 
 ## TODO
 
