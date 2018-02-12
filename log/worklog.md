@@ -391,22 +391,21 @@
 * reposed [host org hype doc](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#) into announcements @
 * wrote to kevin and kalpana about last week push for applications
 * put together personalized [outreach list for 2018](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit#gid=0)
+* fleshed out [iff checkin contacts list](https://docs.google.com/spreadsheets/d/1EnXGHrg-pwO7up8rj8dbLiWa8tQUB8dr9eyStlcKrYs/edit#gid=1648313302) + emailed Kristin
+* correspondence with a few host org applicants
+* meeting with nick from sparc about application process
+* got back to kevin about fellows'post fellowship details
 
 ## TODO
 
-* give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
+* flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
+
 * report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * get travel for fluent conference
 * finish tax uploads
-
-* ideas for recruitment	
-	* challenging fellows - termination
-	* interview questions on collaboration
-	* upload a video in 2 min for presentation
-	* flash grants
 
 
 Reach out to individuals promo-ing fellows
@@ -434,6 +433,12 @@ Reach out to individuals promo-ing fellows
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+
+* ideas for recruitment	
+	* challenging fellows - termination
+	* interview questions on collaboration
+	* upload a video in 2 min for presentation
+	* flash grants
 
 * OFFBOARDING 2018
 	Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
