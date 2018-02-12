@@ -395,6 +395,7 @@
 * correspondence with a few host org applicants
 * meeting with nick from sparc about application process
 * got back to kevin about fellows'post fellowship details
+* reached out to 2015-2016
 
 ## TODO
 
@@ -433,6 +434,8 @@ Reach out to individuals promo-ing fellows
 * [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
 * [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+* [outreach list](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit?usp=sharing)
+* [hype plan-sharable](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#)
 
 * ideas for recruitment	
 	* challenging fellows - termination
