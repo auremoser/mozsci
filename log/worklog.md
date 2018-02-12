@@ -384,6 +384,10 @@
 * comments on dat project prop
 * reviewed two papers for the hackathon chi workshop
 
+## 2/11/18
+* [host org ama]()
+* meeting with mozfest/events team to coordinate [mozfest participation](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
+
 ## TODO
 
 * give feedback on the [roadshow plan from amanda](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
