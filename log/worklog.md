@@ -387,6 +387,10 @@
 ## 2/11/18
 * [host org ama](https://public.etherpad-mozilla.org/p/2018-hostorg-ama)
 * meeting with mozfest/events team to coordinate [mozfest participation](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
+* chatted with Kalpana about re-inserting [application landing page](https://docs.google.com/document/d/1vkoklTufTFZe512hOqlcuW7BIgBBimrsbyVg9SKwf6k/edit)
+* reposed [host org hype doc](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#) into announcements @
+* wrote to kevin and kalpana about last week push for applications
+* put together personalized [outreach list for 2018](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit#gid=0)
 
 ## TODO
 
