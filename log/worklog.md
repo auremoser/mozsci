@@ -385,7 +385,7 @@
 * reviewed two papers for the hackathon chi workshop
 
 ## 2/11/18
-* [host org ama]()
+* [host org ama](https://public.etherpad-mozilla.org/p/2018-hostorg-ama)
 * meeting with mozfest/events team to coordinate [mozfest participation](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
 
 ## TODO
