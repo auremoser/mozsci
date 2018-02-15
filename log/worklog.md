@@ -417,9 +417,16 @@
 * put together community call [guide](https://docs.google.com/document/d/1GWmxu-0d8a0jGG2ov3edaUmelylzAUHswIwQFSahyrE/edit#) and shared with Danielle and Steph
 * introduced Teon and Marcos to Sarah and Erika for Mozretreat and Mozfest respectively
 * cleaned out inbox queries about host org application call
+* checkin with [ff](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
+* looked at [vidyo connection and performance feedback](https://docs.google.com/spreadsheets/d/1sQN3KJ3aFzb485XlpFu56GOGQ_CYtHJfi-6M2l_Y5yY/edit?ts=5a85c29f#gid=0)
 
 ## TODO
 
+* to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
+	* connection to aleks
+	* schedule next checkin week after iff
+	* spreadsheet of orgs
+	* spitfire outreach
 * add fellows' projects to pulse: https://medium.com/tag/open-web-fellow/latest
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
 
