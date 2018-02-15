@@ -397,6 +397,24 @@
 * got back to kevin about fellows'post fellowship details
 * reached out to 2015-2016
 
+## 2/13/18
+* hangout with bas to talk about fellowships
+* chatted with Nick from SPARC
+*  put together agenda for [web dev checkin with amel](https://public.etherpad-mozilla.org/p/2018-unicef-webdev)
+* scheduled meeting for web dev checkin
+* announced [host org application in announcements](https://mozilla.slack.com/archives/C027LFU20/p1518542582000708)
+* assembled [host org justification and strategy doc](https://docs.google.com/document/d/1ocb3QPHeasVT2a8xXTbCxy3Deep3d5PTAsipZCekYbc/edit)
+
+## 2/14/18
+* filled out report for okr2
+* updated [roadmap for internet health report](https://docs.google.com/spreadsheets/d/1JC9vpEiVngMzhs3VnVY8UoOW3qYSoMV-0HN-yCSrMPc/edit?ts=5a3939ad&pli=1#gid=1512182335)
+* lots of emails, application prep, outreach and doc work
+* reached out to policy folks for promoting open web fellowship
+
+## 2/15/18
+* meeting with Dawn and Matt of [Edgi](https://hackmd.io/EYFgJg7AhgxgzCAtHAbGAnIkwx0cdARinzggFMJCwQAGYKWoA===?both)
+* answered application fitness question [counts of applications](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a84bf50#heading=h.g9sygqyyjwig)
+
 ## TODO
 
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
@@ -414,9 +432,7 @@ Reach out to individuals promo-ing fellows
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
-* get alan URL for [all pulse profiles](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
 * host org call [etherpad flesh out](https://public.etherpad-mozilla.org/p/2017-hostorgs) before feb
-* get moving on [workweek help asks](https://docs.google.com/spreadsheets/d/1Eg1BB4XeJTkp1yvwUdKL-wneVnF73GFonsMZhUMv2Cc/edit#gid=0)
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
