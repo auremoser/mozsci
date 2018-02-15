@@ -414,9 +414,13 @@
 ## 2/15/18
 * meeting with Dawn and Matt of [Edgi](https://hackmd.io/EYFgJg7AhgxgzCAtHAbGAnIkwx0cdARinzggFMJCwQAGYKWoA===?both)
 * answered application fitness question [counts of applications](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a84bf50#heading=h.g9sygqyyjwig)
+* put together community call [guide](https://docs.google.com/document/d/1GWmxu-0d8a0jGG2ov3edaUmelylzAUHswIwQFSahyrE/edit#) and shared with Danielle and Steph
+* introduced Teon and Marcos to Sarah and Erika for Mozretreat and Mozfest respectively
+* cleaned out inbox queries about host org application call
 
 ## TODO
 
+* add fellows' projects to pulse: https://medium.com/tag/open-web-fellow/latest
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
 
 * report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
