@@ -425,6 +425,8 @@
 * created [doodle poll for next host org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
 * messaged fellows about spitfire and offboarding dates
 * put together [application process doc](https://docs.google.com/document/d/1YiN6BtdopOaAV2N31zXVvrEX8HAcDnxqFWmzlA1P6rg/edit#)
+* updated Amy's 1:1 documentation with the process plan
+* created rubric sheet for rec hosts
 
 
 ## TODO
