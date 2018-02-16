@@ -419,9 +419,17 @@
 * cleaned out inbox queries about host org application call
 * checkin with [ff](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
 * looked at [vidyo connection and performance feedback](https://docs.google.com/spreadsheets/d/1sQN3KJ3aFzb485XlpFu56GOGQ_CYtHJfi-6M2l_Y5yY/edit?ts=5a85c29f#gid=0)
+* host org [checkin]()
+* approved orlando's flights for ford meeting in mexico city
+* meeting with ford + amy 
+* created [doodle poll for next host org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
+* messaged fellows about spitfire and offboarding dates
+* put together [application process doc](https://docs.google.com/document/d/1YiN6BtdopOaAV2N31zXVvrEX8HAcDnxqFWmzlA1P6rg/edit#)
+
 
 ## TODO
-
+* flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* Aurelia to write to ford with shortlist on Friday and to team about our fellowships group with criteria and ford (save for after call with rizwan).
 * to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
 	* connection to aleks
 	* schedule next checkin week after iff
@@ -430,6 +438,7 @@
 * add fellows' projects to pulse: https://medium.com/tag/open-web-fellow/latest
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
 
+* confirm date selection for [April Host Org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
 * report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
@@ -463,6 +472,7 @@ Reach out to individuals promo-ing fellows
 * [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 * [outreach list](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit?usp=sharing)
 * [hype plan-sharable](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#)
+* [host org app process doc](https://docs.google.com/document/d/1YiN6BtdopOaAV2N31zXVvrEX8HAcDnxqFWmzlA1P6rg/edit#)
 
 * ideas for recruitment	
 	* challenging fellows - termination
