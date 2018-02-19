@@ -419,7 +419,7 @@
 * cleaned out inbox queries about host org application call
 * checkin with [ff](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
 * looked at [vidyo connection and performance feedback](https://docs.google.com/spreadsheets/d/1sQN3KJ3aFzb485XlpFu56GOGQ_CYtHJfi-6M2l_Y5yY/edit?ts=5a85c29f#gid=0)
-* host org [checkin]()
+* host org [checkin](https://public.etherpad-mozilla.org/p/2017-hostorgs)
 * approved orlando's flights for ford meeting in mexico city
 * meeting with ford + amy 
 * created [doodle poll for next host org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
@@ -428,6 +428,11 @@
 * updated Amy's 1:1 documentation with the process plan
 * created rubric sheet for rec hosts
 
+
+## 2/16/18
+* followed up with kristin about iff planning
+* processed applicaitons and added to rubric
+* met with Amy and rizwan to discuss development
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
