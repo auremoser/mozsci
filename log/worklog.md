@@ -435,15 +435,21 @@
 * met with Amy and rizwan to discuss development
 * met with Mark
 * reviewed application and fleshed out spreadsheet
+* Aurelia to write to ford with shortlist on Friday and to team about our fellowships group with criteria and ford (save for after call with rizwan).
 
 ## 2/20/18
 * met with Sarah about her final project [took notes](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
 * reviewed applications
 * adjusted [okr 2 specs](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
+* adjusted aleks' contract terms requested updated financials from our [accounting spreadsheet](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=705968087)
+* chatted with Lainie about fellows' call opportunities
+* fleshed out [okr h1 reporting doc for rizwan](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
+* completed application spreadsheet with meta details, reconciled with outreach spreadsheet for an understanding of application repeats, updated stats
+
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
-* Aurelia to write to ford with shortlist on Friday and to team about our fellowships group with criteria and ford (save for after call with rizwan).
+
 * to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
 	* connection to aleks
 	* schedule next checkin week after iff
@@ -458,15 +464,10 @@
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 * from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * get travel for fluent conference
-* finish tax uploads
-
-
-Reach out to individuals promo-ing fellows
 
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
 * finish workflow and questions for kalpana for fellowship application
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
-* host org call [etherpad flesh out](https://public.etherpad-mozilla.org/p/2017-hostorgs) before feb
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
@@ -476,6 +477,9 @@ Reach out to individuals promo-ing fellows
 * [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
 * [Offboarding + Alumni Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
+**OKR 2**
+* [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
+* [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 
 **FLUXX**
 * [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
