@@ -433,6 +433,13 @@
 * followed up with kristin about iff planning
 * processed applicaitons and added to rubric
 * met with Amy and rizwan to discuss development
+* met with Mark
+* reviewed application and fleshed out spreadsheet
+
+## 2/20/18
+* met with Sarah about her final project [took notes](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
+* reviewed applications
+* adjusted [okr 2 specs](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
