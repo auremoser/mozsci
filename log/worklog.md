@@ -452,6 +452,15 @@
 * approved/disputed a bunch of expenses
 * reviewed revised contracts for Aleks and BoF, passed abby some details
 * reviewed applications for ho
+* reached out to Hans about details for contracts
+* setup community call hub and air mozilla requests for Code for Science and Society
+* emailed narjess about Embassy talk in Tunis
+* got back to amel about flight arrangements
+* got back to citizen lab about summer institute grant options
+* chatted with ruzanna about updated actuals for the fellows
+* reviewed kristin's email to the fellows, looks excellent for IFF
+* reconfirmed iff mixer budget with melissa and kalpana
+* back and forth about budget for spitfire consultancy
 
 
 
