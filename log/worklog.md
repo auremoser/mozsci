@@ -445,6 +445,14 @@
 * chatted with Lainie about fellows' call opportunities
 * fleshed out [okr h1 reporting doc for rizwan](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * completed application spreadsheet with meta details, reconciled with outreach spreadsheet for an understanding of application repeats, updated stats
+* meeting with ole team about application questions
+* responded to mdf and melissa about Iff
+
+## 2/21/18
+* approved/disputed a bunch of expenses
+* reviewed revised contracts for Aleks and BoF, passed abby some details
+* reviewed applications for ho
+
 
 
 ## TODO
