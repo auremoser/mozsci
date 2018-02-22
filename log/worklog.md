@@ -475,6 +475,8 @@
 * pinged steph about offboarding plans for [science fellows](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
 * corrected hub time for [css call](https://mozilla.service-now.com/auth_redirect.do?sysparm_url=https%3A%2F%2Fauth.mozilla.auth0.com%2Fsamlp%2F5gtZrLu2eyAapp1BgQsF11rhdPNt2lGP%3FSAMLRequest%3DlVJNc9owFPwrHt39IWEHosHMODBpmaHUDbSH3IT1AM3Ikqsnk6a%252FPkaQSXpoOj1K2n27b1dTFK1mHa96fzQP8LMH9NGvVhvkl5eS9M5wK1AhN6IF5L7hm%252BrLirMk452z3jZWk6hCBOeVNXNrsG%252FBbcCdVAPfH1YlOXrfIU%252FT1v5WWosEL2%252BxsU9JY9vUiFMnDpBIS6LF4EAZcR71RhSDveSVfT5kgXe22KXFwT%252B6Vc%252FguRJdR%252B8O3%252FCeUneU9doz%252Fakm0b11DYQVS7IXGoFEy0VJNus5G%252Bfspiny3a7Jd1LSPc3HRTEaTSZwU7D97QDEWiCqE7xREXtYGvTC%252BJKwjE7ijMWMbemY5zmno%252BQ2Kx5JVF%252FDuVNGKnP4OMndBYT883Zbx%252FXXzTYMOCkJbj2g%252Fy%252FEH%252BAwBDiMJrNpqJIH3%252B59ux9bEq%252BVktk%252FtKfpe4WrXsfPvpeL2mrVPEeV1vZp7kD4YRfvegi1tML%252F3QRNaLhRMt4HKIdWKF1J6QCRpLOr7p%252Ffd%252FYC%26RelayState%3Dhttps%253A%252F%252Fmozilla.service-now.com%252Fsp%253Fid%253Dticket%2526table%253Dx_mozr2_event_designer_request%2526sys_id%253Dd07a47ebdbdc1f002887110b0b96190c) chatted with julita
 * confirmed probably tz for offboarding with steph
+* meeting with Joanna about nyu guest talk next week
+* okr working group [meeting](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
