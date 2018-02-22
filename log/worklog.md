@@ -472,7 +472,7 @@
 	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-23)
 	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-2-23)
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-23)
-
+* pinged steph about offboarding plans for [science fellows](https://docs.google.com/document/d/1q_qDP5h5Zp13DhiNewqDcFgVP9KkXZseQ3Dzy-JRD5A/edit?ts=5a660b70)
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
