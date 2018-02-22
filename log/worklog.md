@@ -477,6 +477,7 @@
 * confirmed probably tz for offboarding with steph
 * meeting with Joanna about nyu guest talk next week
 * okr working group [meeting](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
+* sent email to mark and juan about additional funding opps
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
