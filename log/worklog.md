@@ -461,12 +461,17 @@
 * reviewed kristin's email to the fellows, looks excellent for IFF
 * reconfirmed iff mixer budget with melissa and kalpana
 * back and forth about budget for spitfire consultancy
+* meeting with Seth + Audrey about D&S work
 
 ## 2/22/18
 * went through budget calcs for owfs, wrote to alexei
 * transferred hans' calcs to abby for contract adjustments
 * wrote back to seth about equipment budget
-
+* updated [iff calculation sheet](https://docs.google.com/spreadsheets/d/1EnXGHrg-pwO7up8rj8dbLiWa8tQUB8dr9eyStlcKrYs/edit#gid=1648313302) for Sarah's sitch
+* put together etherpads for friday calls, updated invites, sent out reminders
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-2-23)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-2-23)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-2-23)
 
 
 ## TODO
