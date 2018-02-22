@@ -453,7 +453,7 @@
 * reviewed revised contracts for Aleks and BoF, passed abby some details
 * reviewed applications for ho
 * reached out to Hans about details for contracts
-* setup community call hub and air mozilla requests for Code for Science and Society
+* setup [community call hub](https://mozilla.service-now.com/sp?sys_id=d07a47ebdbdc1f002887110b0b96190c&view=sp&id=ticket&table=x_mozr2_event_designer_request) and air mozilla requests for [Code for Science and Society](https://public.etherpad-mozilla.org/p/CodeforScienceandSociety-Community-Call-2018-03-01)
 * emailed narjess about Embassy talk in Tunis
 * got back to amel about flight arrangements
 * got back to citizen lab about summer institute grant options
@@ -461,6 +461,11 @@
 * reviewed kristin's email to the fellows, looks excellent for IFF
 * reconfirmed iff mixer budget with melissa and kalpana
 * back and forth about budget for spitfire consultancy
+
+## 2/22/18
+* went through budget calcs for owfs, wrote to alexei
+* transferred hans' calcs to abby for contract adjustments
+* wrote back to seth about equipment budget
 
 
 
