@@ -481,6 +481,7 @@
 * added project call for participation to fellows' checkin etherpads for [global sprint](https://foundation.mozilla.org/opportunity/global-sprint/for-project-leads/)
 * created issue to remove [host org applications from advocacy site](https://github.com/mozilla/advocacy.mozilla.org/issues/514)
 * sent overture email to spitfire
+* filled out [global sprint survey](https://docs.google.com/forms/d/e/1FAIpQLSeJCM2cRNWHFtZjJeYIXMghiMzbVLL73eGpy8KSkLQoy6O_qQ/formResponse)
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
