@@ -479,6 +479,8 @@
 * okr working group [meeting](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
 * sent email to mark and juan about additional funding opps
 * added project call for participation to fellows' checkin etherpads for [global sprint](https://foundation.mozilla.org/opportunity/global-sprint/for-project-leads/)
+* created issue to remove [host org applications from advocacy site](https://github.com/mozilla/advocacy.mozilla.org/issues/514)
+* sent overture email to spitfire
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
