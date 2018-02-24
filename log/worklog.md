@@ -482,6 +482,15 @@
 * created issue to remove [host org applications from advocacy site](https://github.com/mozilla/advocacy.mozilla.org/issues/514)
 * sent overture email to spitfire
 * filled out [global sprint survey](https://docs.google.com/forms/d/e/1FAIpQLSeJCM2cRNWHFtZjJeYIXMghiMzbVLL73eGpy8KSkLQoy6O_qQ/formResponse)
+* completed my data protection course for litmus
+
+## 2/23/18
+* fellows calls + updates starting at 7am
+* promoted Joana/Hang/Becca's project for chupadatos and fbook ads
+* responded to ann marie about bugs for contracts and details for supplements/stipends
+* arranged meeting with spitfire for next week
+* responded to fluent conf with travel stipulations
+* tax emails for alexei
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
