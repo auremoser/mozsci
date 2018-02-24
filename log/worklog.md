@@ -491,6 +491,7 @@
 * arranged meeting with spitfire for next week
 * responded to fluent conf with travel stipulations
 * tax emails for alexei
+* connected Suchana to Terah
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
