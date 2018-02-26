@@ -493,6 +493,8 @@
 * tax emails for alexei
 * connected Suchana to Terah
 * finished slides for [mozilla dev talk on tuesday](https://mzl.la/nyu-moz)
+* tax form followup
+* fund spreadsheet update for jesse
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
