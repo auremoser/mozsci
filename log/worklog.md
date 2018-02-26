@@ -509,9 +509,11 @@
 * removed reference on website for [cfp via scott](https://github.com/mozilla/advocacy.mozilla.org/issues/514#issuecomment-368582446)
 * mofo [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
 * filled out the Moz strategy [survey](https://qsurvey.mozilla.com/s3/Mozilla-Foundation-2016-2018-Strategy-evaluation)
+* put together invitation letter pairing for [hans](https://docs.google.com/document/d/1yphs8JnGfi-WMzE8IVSJ-N877dsruOaxJLiUVgGs8q4/edit) sent to legal for approvals
 
 ## TODO
-* WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5)
+* write michael from ford about anchors
+* WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5) + [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
 * to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
