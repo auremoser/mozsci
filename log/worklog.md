@@ -502,7 +502,9 @@
 * reviewed docs for taxes for alexei
 * [watched monthly internal call](https://air.mozilla.org/monthly-internal-call-february-2018/)
 * rescheduled checkin with meghan
-* 
+* added text for angles for anchor orgs
+* staff meeting prep meeting with kevin and lotta
+* montly meeting with SA and HB
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
