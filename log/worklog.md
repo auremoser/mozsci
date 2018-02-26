@@ -505,6 +505,8 @@
 * added text for angles for anchor orgs
 * staff meeting prep meeting with kevin and lotta
 * montly meeting with SA and HB
+* approved bill.com requests
+* removed reference on website for [cfp via scott](https://github.com/mozilla/advocacy.mozilla.org/issues/514#issuecomment-368582446)
 
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
