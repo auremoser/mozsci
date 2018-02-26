@@ -511,6 +511,7 @@
 * filled out the Moz strategy [survey](https://qsurvey.mozilla.com/s3/Mozilla-Foundation-2016-2018-Strategy-evaluation)
 * put together invitation letter pairing for [hans](https://docs.google.com/document/d/1yphs8JnGfi-WMzE8IVSJ-N877dsruOaxJLiUVgGs8q4/edit) sent to legal for approvals
 * reviewed ann marie's [mozilla fellows doc](https://docs.google.com/document/d/1EMVL5CEul7cazUj6qPc_VxpFU4bJ1lnzj6V8Ic5TsHE/edit)
+* reviewed [ihr privacy doc](https://docs.google.com/document/d/1iYHKtdWcfeFbzBhbLkJsPrcU5uz_Ezd2UPxk16bn0Vw/edit)
 
 ## TODO
 * write michael from ford about anchors
