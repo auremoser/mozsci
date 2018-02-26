@@ -496,6 +496,14 @@
 * tax form followup
 * fund spreadsheet update for jesse
 
+## 2/26/18
+* prep meeting with SA
+* reviewed comms about aleks contract
+* reviewed docs for taxes for alexei
+* [watched monthly internal call](https://air.mozilla.org/monthly-internal-call-february-2018/)
+* rescheduled checkin with meghan
+* 
+
 ## TODO
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
