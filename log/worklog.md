@@ -518,6 +518,7 @@
 * worked on visa letters for offboarding
 * attended [leadership team call](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
 * reviewed [investing in leaders presentation](https://docs.google.com/presentation/d/1SNizCzApdvxCtddyagxpZkN85o89pXzn2O9bd-suzUg/edit#slide=id.g31ef1bdcd3_0_0)
+* caught up on [community gitter](https://gitter.im/ArthurSampaio)
 
 ## TODO
 * write michael from ford about anchors
