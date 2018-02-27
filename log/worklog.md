@@ -521,9 +521,11 @@
 * caught up on [community gitter](https://gitter.im/ArthurSampaio)
 * got back to Bram about CanWISP
 * got back to Jean and Michael about current candidates
+* put together detailed [budget estimates](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 
 ## TODO
 * write michael from ford about anchors
+* add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
 * WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5) + [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 
