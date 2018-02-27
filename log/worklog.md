@@ -522,6 +522,7 @@
 * got back to Bram about CanWISP
 * got back to Jean and Michael about current candidates
 * put together detailed [budget estimates](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
+* fleshed out [comments to the staff call doc tomorrow](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit?ts=5a95b1b5)
 
 ## TODO
 * write michael from ford about anchors
