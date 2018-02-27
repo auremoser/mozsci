@@ -513,6 +513,12 @@
 * reviewed ann marie's [mozilla fellows doc](https://docs.google.com/document/d/1EMVL5CEul7cazUj6qPc_VxpFU4bJ1lnzj6V8Ic5TsHE/edit)
 * reviewed [ihr privacy doc](https://docs.google.com/document/d/1iYHKtdWcfeFbzBhbLkJsPrcU5uz_Ezd2UPxk16bn0Vw/edit)
 
+## 2/27/18
+* gave talk at [nyu cs](https://docs.google.com/presentation/d/1IMlIkMlDEqLfZnQFWxGiU4L9-94xiNnK9FWPeBqXEyE/edit#slide=id.g322758f6b1_0_2722)
+* worked on visa letters for offboarding
+* attended [leadership team call](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
+* reviewed [investing in leaders presentation](https://docs.google.com/presentation/d/1SNizCzApdvxCtddyagxpZkN85o89pXzn2O9bd-suzUg/edit#slide=id.g31ef1bdcd3_0_0)
+
 ## TODO
 * write michael from ford about anchors
 * WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5) + [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
