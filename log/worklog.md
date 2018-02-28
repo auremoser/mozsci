@@ -524,8 +524,22 @@
 * put together detailed [budget estimates](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
 * fleshed out [comments to the staff call doc tomorrow](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit?ts=5a95b1b5)
 
+## 2/28/18
+* moderated[staff call](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
+* updated invite letter to hans signed and supporting visa applicaiton
+* contract discussions for BoF with abby
+* swag solicitation for Bram w/ Abby/Becca
+* canceled our grants checkin meeting
+* gave stephen context for contracts that abby just submitted for Bof and aleks
+* added ideas to Jean's [doc for OWF job placement](https://docs.google.com/document/d/1egsxa1SpFo6aEsY0ECtyawgJQNkGmlSnghxWXx30dXQ/edit)
+* arrangements for flight to tunis with amel for open science code camp
+
 ## TODO
+* update Tais about the link
+* send hype plan to kevin
+* put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
 * write michael from ford about anchors
+* NEXT WEEK add to [mozilla pulse](https://www.mozillapulse.org/entry/) with fellows' videos
 * add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
 * WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5) + [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
@@ -671,6 +685,7 @@
 	* calendar of activities (in the readme?)
 	* onboarding documentation for host orgs
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
+	* [2017 Budget for all fellows](https://docs.google.com/spreadsheets/d/1opJVD43pMaJ5EdmMyxvjhDnlfJddAvxmeqN_iZSYzSg/edit#gid=1600931047)
 
 	ALUMNI
 	* [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
