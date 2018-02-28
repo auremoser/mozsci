@@ -539,6 +539,8 @@
 * added [sarah to stipend doc that mel graciously shared](https://docs.google.com/spreadsheets/d/1TElxbGJQ0N3ZAwgtqZpx8v9JyZKE0L_aehqY3sN9StA/edit#gid=0)
 * added expenses to [spreadsheet for upcoming conferences](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * [created report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit) for aleks and shared it with him over email, due after IFF
+* sent feedback solicitations to Solana, Kasia, Kevin, Sara for fellowship program candidate selection
+
 
 ## TODO
 * update Tais about the link for application fellows
