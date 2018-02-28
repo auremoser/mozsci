@@ -537,6 +537,7 @@
 * sent emails to Hans and Aleks to expect contract amendments from Stephen; noted this in the [expenses spreadsheet for Ruzanna's calcs](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1325950318)
 * fellowships and awards [planning meeting](https://docs.google.com/presentation/d/1b0flmmXRzUP9-KXLRb3J8LhsYpHlJZX7WGZ56cIKJgA/edit?ts=5a960ee0#slide=id.g32470acf0e_0_44)
 * added [sarah to stipend doc that mel graciously shared](https://docs.google.com/spreadsheets/d/1TElxbGJQ0N3ZAwgtqZpx8v9JyZKE0L_aehqY3sN9StA/edit#gid=0)
+* added expenses to [spreadsheet for upcoming conferences](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 
 ## TODO
 * update Tais about the link for application fellows
