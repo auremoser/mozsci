@@ -538,6 +538,7 @@
 * fellowships and awards [planning meeting](https://docs.google.com/presentation/d/1b0flmmXRzUP9-KXLRb3J8LhsYpHlJZX7WGZ56cIKJgA/edit?ts=5a960ee0#slide=id.g32470acf0e_0_44)
 * added [sarah to stipend doc that mel graciously shared](https://docs.google.com/spreadsheets/d/1TElxbGJQ0N3ZAwgtqZpx8v9JyZKE0L_aehqY3sN9StA/edit#gid=0)
 * added expenses to [spreadsheet for upcoming conferences](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* [created report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit) for aleks and shared it with him over email, due after IFF
 
 ## TODO
 * update Tais about the link for application fellows
@@ -546,8 +547,8 @@
 * write michael from ford about anchors
 * NEXT WEEK add to [mozilla pulse](https://www.mozillapulse.org/entry/) with fellows' videos
 * add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
-* WEDS - Add to [Staff call](https://docs.google.com/presentation/d/1eZ1SiFx4ZD5N-jhNAUPq3VtuZJ28g0hrajJtS1OofUc/edit?disco=AAAABoV7YEw&ts=5a9467f5) + [montly call plan privacy + secu edition](https://docs.google.com/document/d/12KZy-ujhn2LAGKQTT5dQdC3WuAt2avstAxiJ0cuRV9c/edit)
 * flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 
 * to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
 	* connection to aleks
