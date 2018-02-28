@@ -534,9 +534,10 @@
 * added ideas to Jean's [doc for OWF job placement](https://docs.google.com/document/d/1egsxa1SpFo6aEsY0ECtyawgJQNkGmlSnghxWXx30dXQ/edit)
 * arrangements for flight to tunis with amel for open science code camp
 * added to [fellowship team meeting notes](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* sent emails to Hans and Aleks to expect contract amendments from Stephen; noted this in the [expenses spreadsheet for Ruzanna's calcs](https://docs.google.com/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit#gid=1325950318)
 
 ## TODO
-* update Tais about the link
+* update Tais about the link for application fellows
 * send hype plan to kevin
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
 * write michael from ford about anchors
