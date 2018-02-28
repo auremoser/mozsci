@@ -533,6 +533,7 @@
 * gave stephen context for contracts that abby just submitted for Bof and aleks
 * added ideas to Jean's [doc for OWF job placement](https://docs.google.com/document/d/1egsxa1SpFo6aEsY0ECtyawgJQNkGmlSnghxWXx30dXQ/edit)
 * arrangements for flight to tunis with amel for open science code camp
+* added to [fellowship team meeting notes](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 
 ## TODO
 * update Tais about the link
