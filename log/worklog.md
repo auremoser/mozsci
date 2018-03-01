@@ -542,6 +542,12 @@
 * sent feedback solicitations to Solana, Kasia, Kevin, Sara for fellowship program candidate selection
 * added comment to [fellows directory](https://github.com/mozilla/foundation.mozilla.org/issues/955)
 
+## 3/1/18
+* responded to Narjess about embassy cancelation
+* sent job rec to OWF fellows from MB
+* researched assets for stickers
+* code for science [community call](https://public.etherpad-mozilla.org/p/CodeforScienceandSociety-Community-Call-2018-03-01)
+
 ## TODO
 * update Tais about the link for application fellows
 * send hype plan to kevin
@@ -572,6 +578,10 @@
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+
+**TUNIS**
+Enoki - dat website forkable: https://enoki.site/
+https://codemirror-multicore.glitch.me/
 
 **OWF ALUMNI + Offboarding**
 
