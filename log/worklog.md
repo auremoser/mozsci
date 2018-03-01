@@ -540,7 +540,7 @@
 * added expenses to [spreadsheet for upcoming conferences](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * [created report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit) for aleks and shared it with him over email, due after IFF
 * sent feedback solicitations to Solana, Kasia, Kevin, Sara for fellowship program candidate selection
-
+* added comment to [fellows directory](https://github.com/mozilla/foundation.mozilla.org/issues/955)
 
 ## TODO
 * update Tais about the link for application fellows
