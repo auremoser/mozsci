@@ -559,9 +559,14 @@
 * set about EFF address send to AT for missing mail/visa issue
 * shared [pulse profile list for fellows](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293) with ann marie
 * worked on supporting documentation for fluxx for kalpana + legal
+* created all [fluxx documentation]() for kalpana's review
+* responded to tais' ask about [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a99c384#gid=0)
+* sent email to Abby and Kevin for legal and comms review
+* updated [reviewer form](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 
 ## TODO
-* update Tais about the link for application fellows
+* update Tais about the link for application fellows: https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185
+* email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 * send hype plan to kevin
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
 * write michael from ford about anchors
@@ -621,6 +626,13 @@ https://codemirror-multicore.glitch.me/
 	* interview questions on collaboration
 	* upload a video in 2 min for presentation
 	* flash grants
+
+**FELLOWSHIP PROGRAMMING @)!**
+
+* [open leadership offering](https://public.etherpad-mozilla.org/p/openleadership-offering18)
+* IHR editing
+* Pulse profiles
+* Comms features on R/W/P
 
 * OFFBOARDING 2018
 	Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
