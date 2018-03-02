@@ -559,27 +559,23 @@
 * set about EFF address send to AT for missing mail/visa issue
 * shared [pulse profile list for fellows](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293) with ann marie
 * worked on supporting documentation for fluxx for kalpana + legal
-* created all [fluxx documentation]() for kalpana's review
+* created all [fluxx documentation](https://drive.google.com/drive/u/0/folders/0B6_ZVUFx2WHHczRPSHFHUTRRaUE) for kalpana's review
 * responded to tais' ask about [fellows record](https://docs.google.com/spreadsheets/d/1y_J9EI_Grxd9omK-HivMZErixPaEvia7frHiOJ25zTY/edit?ts=5a99c384#gid=0)
 * sent email to Abby and Kevin for legal and comms review
 * updated [reviewer form](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
+* responded to social link ticket to mmavis and tais
+* reviewed [sunset study groups email](https://docs.google.com/document/d/1OlztoGM685ZFB3kgif7_ypB3EeHO84yC5ZRoM4uxTto/edit?ts=5a99e2c0) from steph
 
 ## TODO
-* update Tais about the link for application fellows: https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185
+* update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
+* get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 * send hype plan to kevin
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
-* write michael from ford about anchors
 * NEXT WEEK add to [mozilla pulse](https://www.mozillapulse.org/entry/) with fellows' videos
 * add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
-* flesh out selection process and criteria (https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 
-* to dos from [ff meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#)
-	* connection to aleks
-	* schedule next checkin week after iff
-	* spreadsheet of orgs
-	* spitfire outreach
 * add fellows' projects to pulse: https://medium.com/tag/open-web-fellow/latest
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
 
@@ -591,8 +587,7 @@
 * get travel for fluent conference
 
 * go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
-* finish workflow and questions for kalpana for fellowship application
-* get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
+
 * populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
@@ -607,10 +602,12 @@ https://codemirror-multicore.glitch.me/
 * [Offboarding + Alumni Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
 **OKR 2**
+
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 
 **FLUXX**
+
 * [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
 * [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
 * [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
@@ -627,7 +624,7 @@ https://codemirror-multicore.glitch.me/
 	* upload a video in 2 min for presentation
 	* flash grants
 
-**FELLOWSHIP PROGRAMMING @)!**
+**FELLOWSHIP PROGRAMMING**
 
 * [open leadership offering](https://public.etherpad-mozilla.org/p/openleadership-offering18)
 * IHR editing
