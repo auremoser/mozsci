@@ -547,6 +547,18 @@
 * sent job rec to OWF fellows from MB
 * researched assets for stickers
 * code for science [community call](https://public.etherpad-mozilla.org/p/CodeforScienceandSociety-Community-Call-2018-03-01)
+* meeting with Spitfire
+* Global Sprint site coordination with Noel and Carto for NYC
+* followup for Code for Science call
+* email about availability and timezones, thanks to Melissa
+* ordered buttons for Bram's conference in Ontario
+* sent email to bram and steve about stickers
+
+## 3/2/18
+* introduced Vaibhav to Soren of beautiful rising
+* set about EFF address send to AT for missing mail/visa issue
+* shared [pulse profile list for fellows](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293) with ann marie
+* worked on supporting documentation for fluxx for kalpana + legal
 
 ## TODO
 * update Tais about the link for application fellows
