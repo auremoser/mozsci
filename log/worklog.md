@@ -566,6 +566,10 @@
 * responded to social link ticket to mmavis and tais
 * reviewed [sunset study groups email](https://docs.google.com/document/d/1OlztoGM685ZFB3kgif7_ypB3EeHO84yC5ZRoM4uxTto/edit?ts=5a99e2c0) from steph
 
+## 3/3/18
+* reading apps!
+* finished [slides for class](https://docs.google.com/presentation/d/1BX1bX_puR_ipcS0gXgeUrL6RGlbtTyeoi9pIdIlEjnQ/edit#slide=id.g349f224b12_0_642)
+
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
