@@ -569,6 +569,7 @@
 ## 3/3/18
 * reading apps!
 * finished [slides for class](https://docs.google.com/presentation/d/1BX1bX_puR_ipcS0gXgeUrL6RGlbtTyeoi9pIdIlEjnQ/edit#slide=id.g349f224b12_0_642)
+* update grading for students, finished monday slides
 
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
