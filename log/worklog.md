@@ -571,6 +571,11 @@
 * finished [slides for class](https://docs.google.com/presentation/d/1BX1bX_puR_ipcS0gXgeUrL6RGlbtTyeoi9pIdIlEjnQ/edit#slide=id.g349f224b12_0_642)
 * update grading for students, finished monday slides
 
+## 3/5/18
+* meeting with Ann Marie about scheduling meetings
+* update to steph and danielle about community call possibilities for April 12
+* followup with [joey on pulse profile](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
+
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
