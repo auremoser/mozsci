@@ -571,10 +571,14 @@
 * finished [slides for class](https://docs.google.com/presentation/d/1BX1bX_puR_ipcS0gXgeUrL6RGlbtTyeoi9pIdIlEjnQ/edit#slide=id.g349f224b12_0_642)
 * update grading for students, finished monday slides
 
+
 ## 3/5/18
 * meeting with Ann Marie about scheduling meetings
 * update to steph and danielle about community call possibilities for April 12
 * followup with [joey on pulse profile](https://github.com/mozilla/foundation.mozilla.org/issues/955#issuecomment-357365293)
+* wrote back to abby about application statuses
+* reviewed the [Hype Plan from Kevin around fellows' applications](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit?ts=5a9d913c#)
+* sent application stats and spreadsheets about comms to Kevin/Amy/Rizwan
 
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
