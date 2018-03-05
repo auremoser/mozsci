@@ -579,6 +579,10 @@
 * wrote back to abby about application statuses
 * reviewed the [Hype Plan from Kevin around fellows' applications](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit?ts=5a9d913c#)
 * sent application stats and spreadsheets about comms to Kevin/Amy/Rizwan
+* read through spitfire proposal
+* worked through comms suggestions on docs for kevin
+* answered brief funding questions
+* finished feedback for applications
 
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
