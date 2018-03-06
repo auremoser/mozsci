@@ -583,6 +583,9 @@
 * worked through comms suggestions on docs for kevin
 * answered brief funding questions
 * finished feedback for applications
+* sent updated list to amy of hosts
+* sent updated list with references to Amira, Melissa, Brett, Sara, Meghan, 
+
 
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
