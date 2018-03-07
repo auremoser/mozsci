@@ -584,7 +584,10 @@
 * answered brief funding questions
 * finished feedback for applications
 * sent updated list to amy of hosts
-* sent updated list with references to Amira, Melissa, Brett, Sara, Meghan, 
+* sent updated list with references to Amira, Melissa, Brett, Sara, Meghan
+
+## 3/7/18
+* sent email to kalpana about spitfire contracting
 
 
 ## TODO
