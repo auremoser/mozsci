@@ -598,6 +598,9 @@
 * responded to Juan with funding opportunities
 * updated Amy's [offboarding plans doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 * reviewed awesome [fellows bios doc from amc](https://docs.google.com/document/d/1_NUF0dMWsgvsPuOLCA1qFnYANadKaiO6123_suTjfYU/edit)
+* responded with hold on spitfire
+* responded to CFP questions from brett, abby, solana, melissa, meghan
+* processed ticket for tunis
 
 
 ## TODO
