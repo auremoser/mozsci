@@ -591,6 +591,7 @@
 * approved some bill.com requests
 * wrote back to Rishab about his bill approvals, again
 * reviewed [rishab's blogpost](https://docs.google.com/document/d/1-iBSz2XSut1dNkYEb6_aT0Ttasra5-lGGMdjm2q27dA/edit)
+* responded to additions to the [comms plan for fellows](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit?ts=5a9e9e38)
 
 
 ## TODO
