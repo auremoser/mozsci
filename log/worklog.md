@@ -597,6 +597,7 @@
 * responded to [rizwan's stipend proposal](https://docs.google.com/document/d/1UNX4RMUK-LZ6xNBlzWHGNJRCitEGn9lA6ZHaHBovC9k/edit?ts=5a9ee3c0)
 * responded to Juan with funding opportunities
 * updated Amy's [offboarding plans doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+* reviewed awesome [fellows bios doc from amc](https://docs.google.com/document/d/1_NUF0dMWsgvsPuOLCA1qFnYANadKaiO6123_suTjfYU/edit)
 
 
 ## TODO
