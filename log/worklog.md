@@ -595,6 +595,7 @@
 * responded to additions to the [comms plan for fellows](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit?ts=5a9e9e38)
 * responded to Dan Sutch about opportunities for fellows.
 * responded to [rizwan's stipend proposal](https://docs.google.com/document/d/1UNX4RMUK-LZ6xNBlzWHGNJRCitEGn9lA6ZHaHBovC9k/edit?ts=5a9ee3c0)
+* responded to Juan with funding opportunities
 
 
 ## TODO
