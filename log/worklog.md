@@ -588,6 +588,9 @@
 
 ## 3/7/18
 * sent email to kalpana about spitfire contracting
+* approved some bill.com requests
+* wrote back to Rishab about his bill approvals, again
+* reviewed [rishab's blogpost](https://docs.google.com/document/d/1-iBSz2XSut1dNkYEb6_aT0Ttasra5-lGGMdjm2q27dA/edit)
 
 
 ## TODO
