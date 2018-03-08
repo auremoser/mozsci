@@ -613,6 +613,7 @@
 * setup slots for interviews
 * sent ann marie interview process email
 * mozsprint [kickoff meeting](https://public.etherpad-mozilla.org/p/mozsprint2018kickoff)
+* responded to [matthew's question](https://github.com/mozilla/network-pulse-api/issues/312#issuecomment-371575132)
 
 ## TODO
  
