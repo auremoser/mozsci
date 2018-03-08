@@ -602,6 +602,12 @@
 * responded to CFP questions from brett, abby, solana, melissa, meghan
 * processed ticket for tunis
 
+## 3/8/18
+* put together additional interviewees
+* email debt climbing
+* landing page [feedback](https://docs.google.com/document/d/13QFhketbtk2oJAwJdFrNj4GDvdIltN_1OtiWcsQqg2c/edit?ts=5aa0737d)
+* requests to [legal feedback](https://docs.google.com/document/d/1NYK3a1J-EZhxodPQvAjhNmR0Egimh_ILI7rtjPGn3lk/edit)
+* added ideas to [global sprint kickoff site](https://public.etherpad-mozilla.org/p/mozsprint2018kickoff)
 
 ## TODO
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
