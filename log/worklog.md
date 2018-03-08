@@ -608,8 +608,19 @@
 * landing page [feedback](https://docs.google.com/document/d/13QFhketbtk2oJAwJdFrNj4GDvdIltN_1OtiWcsQqg2c/edit?ts=5aa0737d)
 * requests to [legal feedback](https://docs.google.com/document/d/1NYK3a1J-EZhxodPQvAjhNmR0Egimh_ILI7rtjPGn3lk/edit)
 * added ideas to [global sprint kickoff site](https://public.etherpad-mozilla.org/p/mozsprint2018kickoff)
+* meeting about fluxx
+* filled out email template in [templates doc](https://docs.google.com/document/d/1_8rXblDkWm4bON1GhRgjihFtCAAcjT0O5FvYGnLKtRc/edit#bookmark=id.g4r87m6c370e)
+* setup slots for interviews
+* sent ann marie interview process email
+* mozsprint [kickoff meeting](https://public.etherpad-mozilla.org/p/mozsprint2018kickoff)
 
 ## TODO
+ 
+NEXT STEPS
+- send interview invitations for Friday/Monday.
+- application guide: add "we know this is a two part app"
+- get back to kalpana with interview contacts for review
+- get back to tais about landing page
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
@@ -746,6 +757,7 @@ https://codemirror-multicore.glitch.me/
 
 
 	FELLOWS
+	* [2017-2018 fellows bios](https://docs.google.com/document/d/1_NUF0dMWsgvsPuOLCA1qFnYANadKaiO6123_suTjfYU/edit)
 	* [Fellows Engagement Tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
 	* [2017-2018 expenses](https://docs.google.com/spreadsheets/d/1EoE_bXwP4Dx90saNmPPuhiyUnKtZxFJf1h9EM41BwiE/edit#gid=355578658)
