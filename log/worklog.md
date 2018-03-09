@@ -615,6 +615,19 @@
 * mozsprint [kickoff meeting](https://public.etherpad-mozilla.org/p/mozsprint2018kickoff)
 * responded to [matthew's question](https://github.com/mozilla/network-pulse-api/issues/312#issuecomment-371575132)
 
+## 3/9/18
+* sent invites to all interview candidates
+* responded to Juan about funders and ideas
+* responded to presentation dec for rizwan
+* reached out to abby and alexei for aleks' stipend
+* responded to amira's questions about host orgs
+* reinforced interview invitation asks with kalpana
+* responded to some host orgs asks for interview slots
+* pinged Kalpana about spitfire contract
+* added comments to Rizwan's strat dec for Fellows/Wins
+* pinged alexei about Alek's grant
+* sent along dd form to hans
+
 ## TODO
  
 NEXT STEPS
