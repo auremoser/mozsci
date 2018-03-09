@@ -627,15 +627,17 @@
 * added comments to Rizwan's [strat dec](https://docs.google.com/presentation/d/1wgsk1cGzt8XDZplpXr8rqPyFBOUN0gLK20sqct1Eat8/edit#slide=id.g34abbb26c9_0_1167) for Fellows/Wins
 * pinged alexei about Alek's grant
 * sent along dd form to hans
+* followed up with spitfire
+* update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
+* asked [tais about intermediary pages](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
+
 
 ## TODO
  
 NEXT STEPS
-- send interview invitations for Friday/Monday.
 - application guide: add "we know this is a two part app"
 - get back to kalpana with interview contacts for review
 - get back to tais about landing page
-* update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 * send hype plan to kevin
