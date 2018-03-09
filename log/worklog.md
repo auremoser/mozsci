@@ -624,7 +624,7 @@
 * reinforced interview invitation asks with kalpana
 * responded to some host orgs asks for interview slots
 * pinged Kalpana about spitfire contract
-* added comments to Rizwan's strat dec for Fellows/Wins
+* added comments to Rizwan's [strat dec](https://docs.google.com/presentation/d/1wgsk1cGzt8XDZplpXr8rqPyFBOUN0gLK20sqct1Eat8/edit#slide=id.g34abbb26c9_0_1167) for Fellows/Wins
 * pinged alexei about Alek's grant
 * sent along dd form to hans
 
