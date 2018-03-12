@@ -642,6 +642,7 @@
 * interviews
 * [OKR 2 meetings](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#heading=h.gjdgxs)
 * scheduled BoF lunch
+* engagement [survey overview meeting](https://docs.google.com/document/d/1zqiSGimERZrTVE09e_9xoRkxT010bCZRMzMMoubdINc/edit)
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
