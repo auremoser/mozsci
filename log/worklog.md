@@ -638,7 +638,10 @@
 * voted [open science champions](bit.ly/2FIvwj2) for Amel
 * prepped for interviews 
 * responded to spitfire with contract adjustments
-
+* created sheet for ford grantees
+* interviews
+* [OKR 2 meetings](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#heading=h.gjdgxs)
+* scheduled BoF lunch
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
