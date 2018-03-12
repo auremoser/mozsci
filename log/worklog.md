@@ -630,14 +630,25 @@
 * followed up with spitfire
 * update Tais about the link for [application fellows](https://github.com/mozilla/foundation.mozilla.org/issues/1134#event-1501955185)
 * asked [tais about intermediary pages](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
+* responded to amira about mozfest research questions
+* gave Tais feedback on her [intermediary page proposal](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
+* added to travel dates spreadsheet for [2016 fellows](https://docs.google.com/spreadsheets/d/1EoE_bXwP4Dx90saNmPPuhiyUnKtZxFJf1h9EM41BwiE/edit#gid=697128427)
+
+## 3/10/18
+* voted [open science champions](bit.ly/2FIvwj2) for Amel
+* prepped for interviews 
 
 
 ## TODO
- 
+* get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
+* amiras' dates:  april 18-23rd if that is helpful. I'm at a conference and have a bunch of meetings but will definitely do my best!
+* email to use for fellows app: https://mzl.la/fellowship-application
 NEXT STEPS
 - application guide: add "we know this is a two part app"
 - get back to kalpana with interview contacts for review
 - get back to tais about landing page
+* FOR FORD - Another thing that would really help, but is not urgent, would be to get a brief explanation (a sentence or two) for each declined org that is a non-IF ford grantee (meaning they are a grantee of someone at ford other than me, lori, and alberto). 
+
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 * send hype plan to kevin
