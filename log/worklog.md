@@ -637,6 +637,7 @@
 ## 3/10/18
 * voted [open science champions](bit.ly/2FIvwj2) for Amel
 * prepped for interviews 
+* responded to spitfire with contract adjustments
 
 
 ## TODO
