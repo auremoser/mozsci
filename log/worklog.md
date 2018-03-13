@@ -652,6 +652,13 @@
 * added summary comments to fluxx from interviews
 * started adding OWF fellows videos:
 	* [berhan](https://www.mozillapulse.org/entry/624)
+	* [éireann](https://www.mozillapulse.org/entry/625)
+	* [étienne](https://www.mozillapulse.org/entry/626)
+	* [jen](https://www.mozillapulse.org/entry/627)
+	* [matt](https://www.mozillapulse.org/entry/628)
+	* [steffania](https://www.mozillapulse.org/entry/629)
+	* [suchana](https://www.mozillapulse.org/entry/630)
+	* [sid](https://www.mozillapulse.org/entry/631)
 * 
 
 ## TODO
