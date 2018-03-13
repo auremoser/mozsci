@@ -643,6 +643,16 @@
 * [OKR 2 meetings](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#heading=h.gjdgxs)
 * scheduled BoF lunch
 * engagement [survey overview meeting](https://docs.google.com/document/d/1zqiSGimERZrTVE09e_9xoRkxT010bCZRMzMMoubdINc/edit)
+* logged a [bug for Spitfire engagement](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
+
+## 3/11/18
+* scheduled interview with FSFe
+* worked on curriculum for Amel
+* prepped for interviews
+* added summary comments to fluxx from interviews
+* started adding OWF fellows videos:
+	* [berhan](https://www.mozillapulse.org/entry/624)
+* 
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
@@ -680,6 +690,9 @@ NEXT STEPS
 **TUNIS**
 Enoki - dat website forkable: https://enoki.site/
 https://codemirror-multicore.glitch.me/
+
+**WEBSITE**
+* [new project brief form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPxYeeXK6wog7YBP9qKM-pE7ntnEid54Ikw0CAkdDZxO5Q/viewform)
 
 **OWF ALUMNI + Offboarding**
 
