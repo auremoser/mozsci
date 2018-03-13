@@ -659,7 +659,11 @@
 	* [steffania](https://www.mozillapulse.org/entry/629)
 	* [suchana](https://www.mozillapulse.org/entry/630)
 	* [sid](https://www.mozillapulse.org/entry/631)
-* 
+* reached out to Kalpana for interview email response
+* prepared and sent out etherpads for fellows checkins on Friday
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-3-16)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-3-16)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-16)
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
