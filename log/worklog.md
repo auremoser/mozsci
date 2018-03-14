@@ -645,7 +645,7 @@
 * engagement [survey overview meeting](https://docs.google.com/document/d/1zqiSGimERZrTVE09e_9xoRkxT010bCZRMzMMoubdINc/edit)
 * logged a [bug for Spitfire engagement](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 
-## 3/11/18
+## 3/11/18 - 3/14/18
 * scheduled interview with FSFe
 * worked on curriculum for Amel
 * prepped for interviews
@@ -664,6 +664,8 @@
 	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-3-16)
 	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-3-16)
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-16)
+* team checkin meeting [here](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* responded to fellows questions/issues
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
