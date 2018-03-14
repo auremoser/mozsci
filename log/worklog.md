@@ -666,6 +666,7 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-16)
 * team checkin meeting [here](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 * responded to fellows questions/issues
+* gave Kevin more information about next fellows/hosts to profile
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
