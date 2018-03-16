@@ -645,7 +645,7 @@
 * engagement [survey overview meeting](https://docs.google.com/document/d/1zqiSGimERZrTVE09e_9xoRkxT010bCZRMzMMoubdINc/edit)
 * logged a [bug for Spitfire engagement](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 
-## 3/11/18 - 3/14/18
+## 3/11/18 - 3/16/18
 * scheduled interview with FSFe
 * worked on curriculum for Amel
 * prepped for interviews
@@ -667,6 +667,13 @@
 * team checkin meeting [here](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
 * responded to fellows questions/issues
 * gave Kevin more information about next fellows/hosts to profile
+* feedback to applicants
+* asked matthew about assets for all hands
+* ask kalpana about grant accommodations for maya
+
+## 3/16/18
+* wrote back to all threads about application status
+* added [Abby's feedback](https://docs.google.com/document/d/1Nm1RUCicXvEfBWeiJEbKJvJwe967g3gR3ynpQV4m8nc/edit) to the application bug section for Kalpana
 
 ## TODO
 * get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
