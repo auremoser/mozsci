@@ -674,22 +674,45 @@
 ## 3/16/18
 * wrote back to all threads about application status
 * added [Abby's feedback](https://docs.google.com/document/d/1Nm1RUCicXvEfBWeiJEbKJvJwe967g3gR3ynpQV4m8nc/edit) to the application bug section for Kalpana
+* updated orgs
+* prepped curriculum for [amel's workshop](https://github.com/auremoser/code-camp-18/)
+* write back to everyone
+* promote statuses in Fluxx
+* update spreadsheet
+* reviewed [managing host requests in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5aa92e99#heading=h.8v4vioqu6tak)
 
 ## TODO
-* get tais text for intermediary [page](https://github.com/mozilla/foundation.mozilla.org/issues/1134)
+* push changes to curriculum
+
+
+
+
+* get back to hosts with feedback
+
+* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+
+* updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
+* finish applicaiton [testing](https://docs.google.com/spreadsheets/d/1_zFZWU34JxsxnNpAwiFBMdcWntwDTqxi4O0BGmZXqc0/edit?ts=5aa7f344#gid=0)
+* cancel community call
+* daniel about ITP course
+* grades and slides for ITP
+* prix ars electronica
+* respond to tax thread
+
+
+**TUNIS**
+Enoki - dat website forkable: https://enoki.site/
+https://codemirror-multicore.glitch.me/
+
 * amiras' dates:  april 18-23rd if that is helpful. I'm at a conference and have a bunch of meetings but will definitely do my best!
 * email to use for fellows app: https://mzl.la/fellowship-application
 NEXT STEPS
-- application guide: add "we know this is a two part app"
-- get back to kalpana with interview contacts for review
-- get back to tais about landing page
 * FOR FORD - Another thing that would really help, but is not urgent, would be to get a brief explanation (a sentence or two) for each declined org that is a non-IF ford grantee (meaning they are a grantee of someone at ford other than me, lori, and alberto). 
 
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
-* send hype plan to kevin
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
-* NEXT WEEK add to [mozilla pulse](https://www.mozillapulse.org/entry/) with fellows' videos
+
 * add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 
@@ -700,17 +723,11 @@ NEXT STEPS
 * report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
-* from [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+
 * get travel for fluent conference
 
-* go through LOI [review stage](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5#heading=h.j9mwxh4ku8p5) for current queue'd application
-
-* populate website doc for [fellowships content](https://docs.google.com/document/d/1iiQ5lTFpAbEvRMYcNx9DqvaTmVjCE-AHwYh4PMtvveg/edit)
 * work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
 
-**TUNIS**
-Enoki - dat website forkable: https://enoki.site/
-https://codemirror-multicore.glitch.me/
 
 **WEBSITE**
 * [new project brief form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPxYeeXK6wog7YBP9qKM-pE7ntnEid54Ikw0CAkdDZxO5Q/viewform)
