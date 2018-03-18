@@ -681,18 +681,22 @@
 * update spreadsheet
 * reviewed [managing host requests in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5aa92e99#heading=h.8v4vioqu6tak)
 
-## TODO
-* push changes to curriculum
-
-
-
-
+## 3/19/18
 * get back to hosts with feedback
+* push changes to curriculum
+* gave workshop at Tunisian Technovation Conference for 60 girls!
+	* [agenda](https://docs.google.com/document/d/12ylAGxa63ajmWMegN-oyeT1yW7eDfQ16x3ajWvixJ_I/edit?ts=5aa985b4)
+	* [website]()
+	* [curriculum]()
 
-* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+
+## TODO
 
 * updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
+* GUIDELINES DOC, cc [amy's comment](https://docs.google.com/spreadsheets/d/1-pipUZTDnvs5T7px31vFd00DSK-2YnwsXoJKvsD5AjA/edit?ts=5aaad1ad#gid=1991359853)
 * finish applicaiton [testing](https://docs.google.com/spreadsheets/d/1_zFZWU34JxsxnNpAwiFBMdcWntwDTqxi4O0BGmZXqc0/edit?ts=5aa7f344#gid=0)
+* review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
+	* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 * cancel community call
 * daniel about ITP course
 * grades and slides for ITP
@@ -701,6 +705,7 @@
 
 
 **TUNIS**
+* Test HTML Knowledge
 Enoki - dat website forkable: https://enoki.site/
 https://codemirror-multicore.glitch.me/
 
