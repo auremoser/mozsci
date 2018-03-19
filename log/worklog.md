@@ -690,6 +690,13 @@
 	* [curriculum](https://mzl.la/cc-2018)
 * sent thank ou to amel
 * responded to tax thread
+* added tech exchange to fellowship documentation
+* followed up with Laura again
+* attended testing review call for apps
+
+* requirements (650-700 characters)
+* go through each application and make submission for each candidate type
+* review [application guide](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit?usp=sharing)
 
 ## TODO
 
