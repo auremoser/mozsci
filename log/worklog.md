@@ -686,9 +686,10 @@
 * push changes to curriculum
 * gave workshop at Tunisian Technovation Conference for 60 girls!
 	* [agenda](https://docs.google.com/document/d/12ylAGxa63ajmWMegN-oyeT1yW7eDfQ16x3ajWvixJ_I/edit?ts=5aa985b4)
-	* [website]()
-	* [curriculum]()
-
+	* [website](https://mzl.la/cc-site-2018)
+	* [curriculum](https://mzl.la/cc-2018)
+* sent thank ou to amel
+* responded to tax thread
 
 ## TODO
 
@@ -701,13 +702,13 @@
 * daniel about ITP course
 * grades and slides for ITP
 * prix ars electronica
-* respond to tax thread
+
 
 
 **TUNIS**
-* Test HTML Knowledge
-Enoki - dat website forkable: https://enoki.site/
-https://codemirror-multicore.glitch.me/
+* draft blog post for tunis
+https://mzl.la/cc-site-2018 - link to all slides/materials
+https://mzl.la/cc-2018 - link to all code
 
 * amiras' dates:  april 18-23rd if that is helpful. I'm at a conference and have a bunch of meetings but will definitely do my best!
 * email to use for fellows app: https://mzl.la/fellowship-application
