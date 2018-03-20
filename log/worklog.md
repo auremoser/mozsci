@@ -695,9 +695,10 @@
 * attended testing review call for apps
 * issue [102](https://github.com/mozilla/foundation.mozilla.org/issues/1202)
 * posted blog via kevin announcing hosts
-
 * emailed hosts about blog and application
-* 
+* sent message to kristin about tech x materials and the application 
+* sent along spitfire contract for review
+* worked on teh applicaiton guide
 
 * requirements (650-700 characters)
 * go through each application and make submission for each candidate type
@@ -708,6 +709,7 @@
 * prepared host org selection for Kristin, sent along with dates
 * wrote to legal about host org selections
 * updated fellowship application [guide with more details](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit)
+* updated our [bug on ss](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 
 
 ## TODO
