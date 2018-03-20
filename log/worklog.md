@@ -693,13 +693,25 @@
 * added tech exchange to fellowship documentation
 * followed up with Laura again
 * attended testing review call for apps
+* issue [102](https://github.com/mozilla/foundation.mozilla.org/issues/1202)
+* posted blog via kevin announcing hosts
+
+* emailed hosts about blog and application
+* 
 
 * requirements (650-700 characters)
 * go through each application and make submission for each candidate type
 * review [application guide](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit?usp=sharing)
+* notified hosts for blog posts
+* answered email about lcr's passport
+* responded to [spitfire bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
+* prepared host org selection for Kristin, sent along with dates
+* wrote to legal about host org selections
+* updated fellowship application [guide with more details](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit)
+
 
 ## TODO
-
+* figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 * updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
 * GUIDELINES DOC, cc [amy's comment](https://docs.google.com/spreadsheets/d/1-pipUZTDnvs5T7px31vFd00DSK-2YnwsXoJKvsD5AjA/edit?ts=5aaad1ad#gid=1991359853)
 * finish applicaiton [testing](https://docs.google.com/spreadsheets/d/1_zFZWU34JxsxnNpAwiFBMdcWntwDTqxi4O0BGmZXqc0/edit?ts=5aa7f344#gid=0)
