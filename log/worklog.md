@@ -713,6 +713,8 @@
 
 
 ## TODO
+* write [outreach copy on fellowship application launch](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd)
+
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 * updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
 * GUIDELINES DOC, cc [amy's comment](https://docs.google.com/spreadsheets/d/1-pipUZTDnvs5T7px31vFd00DSK-2YnwsXoJKvsD5AjA/edit?ts=5aaad1ad#gid=1991359853)
