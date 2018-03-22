@@ -699,9 +699,6 @@
 * sent message to kristin about tech x materials and the application 
 * sent along spitfire contract for review
 * worked on teh applicaiton guide
-
-* requirements (650-700 characters)
-* go through each application and make submission for each candidate type
 * review [application guide](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit?usp=sharing)
 * notified hosts for blog posts
 * answered email about lcr's passport
@@ -711,18 +708,30 @@
 * updated fellowship application [guide with more details](https://docs.google.com/document/d/1kTPH4KaLxrWHlQbPMvWL5_iT1sQCalW04w44PBkiyIM/edit)
 * updated our [bug on ss](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 
+## 3/21/18
+* update issue for [Advocacy application redirect](https://github.com/mozilla/advocacy.mozilla.org/issues/527)
+* approved issues in bill.com
+* submitted [pr for Science application redirect](https://github.com/mozilla/science.mozilla.org/pull/658)
+* corrected typos on [bricks blog](https://docs.google.com/document/d/12n-MawkohZXiXfU88Rw7p_JyivdU__iJAAZBfw7s0-M/edit#)
+* responded to ask for stipend allocations
+* met gs mapping meeting with zeemoz
+* meeting with sa to checkin on project
+
+## 3/22/18
+* added amendments to [tax email](https://docs.google.com/document/d/1Lh2pKL6rXG70on9w24BYtOjTgiMPOkSIYQtGEDh09H8/edit#)
+* submitted pull request for [advocacy site update](https://github.com/mozilla/advocacy.mozilla.org/pull/528)
+
+* posted blog on science site
 
 ## TODO
 * write [outreach copy on fellowship application launch](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd)
+* make [global sprint map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 * updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
-* GUIDELINES DOC, cc [amy's comment](https://docs.google.com/spreadsheets/d/1-pipUZTDnvs5T7px31vFd00DSK-2YnwsXoJKvsD5AjA/edit?ts=5aaad1ad#gid=1991359853)
-* finish applicaiton [testing](https://docs.google.com/spreadsheets/d/1_zFZWU34JxsxnNpAwiFBMdcWntwDTqxi4O0BGmZXqc0/edit?ts=5aa7f344#gid=0)
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 	* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 * cancel community call
-* daniel about ITP course
 * grades and slides for ITP
 * prix ars electronica
 
