@@ -721,7 +721,8 @@
 * added amendments to [tax email](https://docs.google.com/document/d/1Lh2pKL6rXG70on9w24BYtOjTgiMPOkSIYQtGEDh09H8/edit#)
 * submitted pull request for [advocacy site update](https://github.com/mozilla/advocacy.mozilla.org/pull/528)
 * updated project checkin for [sarah's work at hb](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
-* drafted emails for [host orgs](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd#)
+* drafted emails for [host orgs](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd#	)
+* reviewed nyc [stronger communities pitch](https://docs.google.com/document/d/12pHsLVXdH37RmdNm-Y47zOcH_D7S8l_q5m_aSHsmUiQ/edit)
 
 * posted blog on science site
 
