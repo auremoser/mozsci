@@ -734,6 +734,7 @@
 * commented on [spitfire contract scope of work](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 * created agenda for next week's call [here](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
 * updated [pr for trailing asterisk bug](https://github.com/mozilla/science.mozilla.org/pull/658)
+* wrote back to spitfire and shared our [bios doc of fellows](https://docs.google.com/document/d/1Er4BwCzKz3FaoTGJTtNBZgyTBdPNLpZN06r8rmkZM24/edit?usp=sharing)
 
 
 
