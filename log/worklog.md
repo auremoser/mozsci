@@ -724,18 +724,24 @@
 * drafted emails for [host orgs](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd#	)
 * reviewed nyc [stronger communities pitch](https://docs.google.com/document/d/12pHsLVXdH37RmdNm-Y47zOcH_D7S8l_q5m_aSHsmUiQ/edit)
 * contributed to [web literacy map](https://docs.google.com/document/d/1SEOHoE8QsCPd7Hv5OUdW5IVSj5AIHKBamS-hffwMZMY/edit#heading=h.lxdbm5cwufbd) with sarah
+* wrote [outreach copy on fellowship application launch](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd)
 
 ## 3/23/18
 * wrote to Tech X about opportunities and dates
 * answered some queries from applicants
 * wrote to previous host orgs
+* followed up with Spitfire to begin prep for fellows' talks
 * commented on [spitfire contract scope of work](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
+* created agenda for next week's call [here](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
+
+
 
 
 * posted blog on science site
 
 ## TODO
-* write [outreach copy on fellowship application launch](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd)
+* review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
+
 * make [global sprint map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
