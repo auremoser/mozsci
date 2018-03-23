@@ -728,6 +728,8 @@
 ## 3/23/18
 * wrote to Tech X about opportunities and dates
 * answered some queries from applicants
+* wrote to previous host orgs
+
 
 * posted blog on science site
 
