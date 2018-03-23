@@ -733,7 +733,7 @@
 * followed up with Spitfire to begin prep for fellows' talks
 * commented on [spitfire contract scope of work](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 * created agenda for next week's call [here](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
-
+* updated [pr for trailing asterisk bug](https://github.com/mozilla/science.mozilla.org/pull/658)
 
 
 
