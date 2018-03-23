@@ -723,6 +723,11 @@
 * updated project checkin for [sarah's work at hb](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
 * drafted emails for [host orgs](https://docs.google.com/document/d/1oadeXG_fV2FsJQ8W6rx1NawEexYkcXJStu4VqT4ILO8/edit?ts=5ab19acd#	)
 * reviewed nyc [stronger communities pitch](https://docs.google.com/document/d/12pHsLVXdH37RmdNm-Y47zOcH_D7S8l_q5m_aSHsmUiQ/edit)
+* contributed to [web literacy map](https://docs.google.com/document/d/1SEOHoE8QsCPd7Hv5OUdW5IVSj5AIHKBamS-hffwMZMY/edit#heading=h.lxdbm5cwufbd) with sarah
+
+## 3/23/18
+* wrote to Tech X about opportunities and dates
+* answered some queries from applicants
 
 * posted blog on science site
 
