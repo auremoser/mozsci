@@ -729,6 +729,7 @@
 * wrote to Tech X about opportunities and dates
 * answered some queries from applicants
 * wrote to previous host orgs
+* commented on [spitfire contract scope of work](https://bugzilla.mozilla.org/show_bug.cgi?id=1445047)
 
 
 * posted blog on science site
