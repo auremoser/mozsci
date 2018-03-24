@@ -735,6 +735,9 @@
 * created agenda for next week's call [here](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
 * updated [pr for trailing asterisk bug](https://github.com/mozilla/science.mozilla.org/pull/658)
 * wrote back to spitfire and shared our [bios doc of fellows](https://docs.google.com/document/d/1Er4BwCzKz3FaoTGJTtNBZgyTBdPNLpZN06r8rmkZM24/edit?usp=sharing)
+* individual eligiblity emails
+* put together initial blogs for host orgs
+* responded to [operational concerns](https://docs.google.com/document/d/10RC9FZYAnUyT_4n07SIP3FD-lqs6pLp-Y-tAAhReyUc/edit?ts=5ab5381c)
 
 
 
@@ -743,6 +746,7 @@
 * tweeted about the [science fellowship](https://twitter.com/MozillaScience/status/977173320859779073)
 
 ## TODO
+* send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
 * review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
 
 * make [global sprint map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
