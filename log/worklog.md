@@ -738,6 +738,7 @@
 * individual eligiblity emails
 * put together initial blogs for host orgs
 * responded to [operational concerns](https://docs.google.com/document/d/10RC9FZYAnUyT_4n07SIP3FD-lqs6pLp-Y-tAAhReyUc/edit?ts=5ab5381c)
+* added fellows [activities to engagement tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 
 
 
