@@ -742,6 +742,7 @@
 * submitted letter for Jinwei
 * posted [blog on science site](https://science.mozilla.org/blog/2018-fellows-cfp)
 * tweeted about the [science fellowship](https://twitter.com/MozillaScience/status/977173320859779073)
+* wrote to J an M about offboarding and ford grantee feedback
 
 ## TODO
 * to kalpana:
