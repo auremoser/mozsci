@@ -752,6 +752,7 @@
  	* created [map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
  * put together [exit interview doc](https://docs.google.com/document/d/1GS0V0mSJwUWHHruTOsEmMu-WD2PgNSdZjgps58Ypovs/edit)
  * reviewed Melissa's IFF email notes and responded in detail
+ * okr2 [call](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
 
 ## TODO
 * to kalpana:
