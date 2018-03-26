@@ -748,6 +748,10 @@
 * finished out [feedback spreadsheet](https://docs.google.com/spreadsheets/d/1ib7oM1MEMBMVPJ1KHlkmz-t3z6FZlhDdPsfY7RE2SI0/edit#gid=1913443810)
 * responded to applicants with quesitons
 * gave md a deadline for mous
+* updated [global sprint issue thread](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792)
+ 	* created [map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
+ * put together [exit interview doc](https://docs.google.com/document/d/1GS0V0mSJwUWHHruTOsEmMu-WD2PgNSdZjgps58Ypovs/edit)
+ * reviewed Melissa's IFF email notes and responded in detail
 
 ## TODO
 * to kalpana:
