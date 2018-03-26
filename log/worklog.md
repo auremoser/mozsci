@@ -754,7 +754,7 @@
  * reviewed Melissa's IFF email notes and responded in detail
  * okr2 [call](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
  * added [okr 2 update and wins to summary doc](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts%3D5a611d26%23gid%3D1833183122&source=calendar#gid=1512487064)
- * added to [website updates doc](https://docs.google.com/document/d/14qpOinhlGBH9cgfvar8tXLWf_uycyCQ12GRkzugDGaE/edit)
+ * added to [website updates doc](https://docs.google.com/document/d/14qpOinhlGBH9cgfvar8tXLWf_uycyCQ12GRkzugDGaE/edit) + had website meeting
 
 ## TODO
 * to kalpana:
