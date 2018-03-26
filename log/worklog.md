@@ -761,8 +761,10 @@
 2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
 3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
 
+* MARCH 29 - finish [okr 2 slides](https://docs.google.com/presentation/d/1o30zWcHUnaJMTZi70IXKeAqjcSU-WzCqhYO6_2uLpA0/edit#slide=id.g2b2dc27332_0_4)
+
 * send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
-* review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
+* review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit) + [formal agenda](https://docs.google.com/document/d/1ENOOFbBXSTOI5xW6Vn5aPaxoIXS0DDtj_4owzR-eisA/edit?usp=sharing)
 
 * make [global sprint map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
