@@ -744,6 +744,11 @@
 * tweeted about the [science fellowship](https://twitter.com/MozillaScience/status/977173320859779073)
 * wrote to J an M about offboarding and ford grantee feedback
 
+## 3/26/18
+* finished out [feedback spreadsheet](https://docs.google.com/spreadsheets/d/1ib7oM1MEMBMVPJ1KHlkmz-t3z6FZlhDdPsfY7RE2SI0/edit#gid=1913443810)
+* responded to applicants with quesitons
+* gave md a deadline for mous
+
 ## TODO
 * to kalpana:
 1) Final list of reviewers + their emails
