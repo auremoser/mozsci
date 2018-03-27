@@ -757,7 +757,6 @@
  * added to [website updates doc](https://docs.google.com/document/d/14qpOinhlGBH9cgfvar8tXLWf_uycyCQ12GRkzugDGaE/edit) + had website meeting
 
 ## 3/27/18
-
 * finished up map [edits](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792)
 * responded to applicant questions + host org questions
 * sent out etherpads for Friday's call and reminder to fellows
@@ -770,13 +769,17 @@
 * recruitment comms meeting
 * leadership program all hands meeting
 * staff call prep meeting
-* fellowship team and operations meeting
+* fellowship team and [operations meeting](https://docs.google.com/document/d/1v99iJfqOaR8MY3sjlSCwPgOppe6g7WfKZvQkrkDLeXQ/edit)
 * updated [candidate themes](https://docs.google.com/spreadsheets/d/1ib7oM1MEMBMVPJ1KHlkmz-t3z6FZlhDdPsfY7RE2SI0/edit#gid=676263712)
 * reviewed FF [checkin doc](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
+* updated [host matching drive](https://drive.google.com/drive/u/0/folders/1LKiDFqrDGj4R5PWrc4h19RBctDJQ3MqE)
+* reviewed [aleksandar's blogpost](https://docs.google.com/document/d/1DjJO-qBkrzR3hcs_yMBhqiO9-k66bpaVSyJom7i-1Yo/edit)
 
 
 
 ## TODO
+* ping jen from spitfire again
+
 * to kalpana:
 1) Final list of reviewers + their emails
 2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
@@ -810,7 +813,6 @@ https://mzl.la/cc-2018 - link to all code
 * matthew's [issue about fellowships](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
 
 NEXT STEPS
-* FOR FORD - Another thing that would really help, but is not urgent, would be to get a brief explanation (a sentence or two) for each declined org that is a non-IF ford grantee (meaning they are a grantee of someone at ford other than me, lori, and alberto). 
 
 * get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
 * email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
@@ -818,12 +820,9 @@ NEXT STEPS
 
 * add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
-
-* add fellows' projects to pulse: https://medium.com/tag/open-web-fellow/latest
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
 
 * confirm date selection for [April Host Org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
-* report to kalpana about fellows' application setup (triage, external reviewers) + [amy's doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit#) + exporting applications w/ pii removed
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
 * review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
 
