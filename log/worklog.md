@@ -756,6 +756,11 @@
  * added [okr 2 update and wins to summary doc](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts%3D5a611d26%23gid%3D1833183122&source=calendar#gid=1512487064)
  * added to [website updates doc](https://docs.google.com/document/d/14qpOinhlGBH9cgfvar8tXLWf_uycyCQ12GRkzugDGaE/edit) + had website meeting
 
+ ## 3/27/18
+ * finished up map [edits](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792)
+ * responded to applicant questions + host org questions
+ 
+
 ## TODO
 * to kalpana:
 1) Final list of reviewers + their emails
