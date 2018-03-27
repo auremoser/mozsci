@@ -775,7 +775,14 @@
 * updated [host matching drive](https://drive.google.com/drive/u/0/folders/1LKiDFqrDGj4R5PWrc4h19RBctDJQ3MqE)
 * reviewed [aleksandar's blogpost](https://docs.google.com/document/d/1DjJO-qBkrzR3hcs_yMBhqiO9-k66bpaVSyJom7i-1Yo/edit)
 
+contracts
+visas
+invitation letters
+budget tracking
+grant reporting
+(external) comms review
 
+process (what ar the tools and who to ping, what kind of operational docs should we have to mitigate weirdness) and product (how to set realistic deadlines) and people
 
 ## TODO
 * ping jen from spitfire again
