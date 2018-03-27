@@ -756,10 +756,25 @@
  * added [okr 2 update and wins to summary doc](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts%3D5a611d26%23gid%3D1833183122&source=calendar#gid=1512487064)
  * added to [website updates doc](https://docs.google.com/document/d/14qpOinhlGBH9cgfvar8tXLWf_uycyCQ12GRkzugDGaE/edit) + had website meeting
 
- ## 3/27/18
- * finished up map [edits](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792)
- * responded to applicant questions + host org questions
- 
+## 3/27/18
+
+* finished up map [edits](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792)
+* responded to applicant questions + host org questions
+* sent out etherpads for Friday's call and reminder to fellows
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-3-30)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-3-30)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-30)
+* updates in phonebook, expense approvals and submissions
+* updates to [ama etherpad](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* updated [1:1 with amy doc](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* recruitment comms meeting
+* leadership program all hands meeting
+* staff call prep meeting
+* fellowship team and operations meeting
+* updated [candidate themes](https://docs.google.com/spreadsheets/d/1ib7oM1MEMBMVPJ1KHlkmz-t3z6FZlhDdPsfY7RE2SI0/edit#gid=676263712)
+* reviewed FF [checkin doc](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
+
+
 
 ## TODO
 * to kalpana:
@@ -772,7 +787,6 @@
 * send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
 * review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit) + [formal agenda](https://docs.google.com/document/d/1ENOOFbBXSTOI5xW6Vn5aPaxoIXS0DDtj_4owzR-eisA/edit?usp=sharing)
 
-* make [global sprint map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 * updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
@@ -789,8 +803,12 @@
 https://mzl.la/cc-site-2018 - link to all slides/materials
 https://mzl.la/cc-2018 - link to all code
 
-* amiras' dates:  april 18-23rd if that is helpful. I'm at a conference and have a bunch of meetings but will definitely do my best!
+**FELLOWS FLUXX**
+* [comms plan](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
+* [newsletter posts](https://docs.google.com/spreadsheets/d/1bYoRL0tI71LJaYfSf8TRXzeF88p_m59kjmObkSf3N0k/edit#gid=0)
 * email to use for fellows app: https://mzl.la/fellowship-application
+* matthew's [issue about fellowships](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
+
 NEXT STEPS
 * FOR FORD - Another thing that would really help, but is not urgent, would be to get a brief explanation (a sentence or two) for each declined org that is a non-IF ford grantee (meaning they are a grantee of someone at ford other than me, lori, and alberto). 
 
@@ -828,7 +846,7 @@ NEXT STEPS
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 
-**FLUXX**
+**HOST ORG FLUXX**
 
 * [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
 * [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
