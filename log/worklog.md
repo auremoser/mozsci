@@ -789,27 +789,23 @@
 * followed up with spitfire
 * message to rizwan and team about host org wrap up
 * updated [agenda for call today](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit)
-
+* reviewed [alumni email comms](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5abbaaf2)
+* [tweeted](https://twitter.com/auremoser/status/979013101554143233) about Mozilla Fellowship AMA
+* canceled community call
 
 ## TODO
-* ping jen from spitfire again
 
 * to kalpana:
 1) Final list of reviewers + their emails
 2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
 3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
-
-
-
 * send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
 
 
-
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
-* updated [comms plan for monday](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 	* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
-* cancel community call
+
 * grades and slides for ITP
 * prix ars electronica
 
