@@ -792,6 +792,7 @@
 * reviewed [alumni email comms](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5abbaaf2)
 * [tweeted](https://twitter.com/auremoser/status/979013101554143233) about Mozilla Fellowship AMA
 * canceled community call
+* added [cfp to friday jobs newsletter](https://docs.google.com/spreadsheets/d/1bYoRL0tI71LJaYfSf8TRXzeF88p_m59kjmObkSf3N0k/edit#gid=0)
 
 ## TODO
 
