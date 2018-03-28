@@ -770,6 +770,13 @@
 * leadership program all hands meeting
 * staff call prep meeting
 * fellowship team and [operations meeting](https://docs.google.com/document/d/1v99iJfqOaR8MY3sjlSCwPgOppe6g7WfKZvQkrkDLeXQ/edit)
+	* contracts
+	* visas
+	* invitation letters
+	* budget tracking
+	* grant reporting
+	* (external) comms review
+	NEEDS: process (what ar the tools and who to ping, what kind of operational docs should we have to mitigate weirdness) and product (how to set realistic deadlines) and people
 * updated [candidate themes](https://docs.google.com/spreadsheets/d/1ib7oM1MEMBMVPJ1KHlkmz-t3z6FZlhDdPsfY7RE2SI0/edit#gid=676263712)
 * reviewed FF [checkin doc](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 * updated [host matching drive](https://drive.google.com/drive/u/0/folders/1LKiDFqrDGj4R5PWrc4h19RBctDJQ3MqE)
@@ -777,15 +784,11 @@
 
 ## 3/28/18
 * updated [faq drive](https://docs.google.com/document/d/1n0P-4imPZJcmgDXdITiAWz005zcdh8ie_M3_hX70F9M/edit?ts=5abac9cf#) for fellowships
+* MARCH 29 - finished [okr 2 slides](https://docs.google.com/presentation/d/1o30zWcHUnaJMTZi70IXKeAqjcSU-WzCqhYO6_2uLpA0/edit#slide=id.g2b2dc27332_0_4)
+* review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit) + [formal agenda](https://docs.google.com/document/d/1ENOOFbBXSTOI5xW6Vn5aPaxoIXS0DDtj_4owzR-eisA/edit?usp=sharing)
+* followed up with spitfire
+* message to rizwan and team about host org wrap up
 
-contracts
-visas
-invitation letters
-budget tracking
-grant reporting
-(external) comms review
-
-process (what ar the tools and who to ping, what kind of operational docs should we have to mitigate weirdness) and product (how to set realistic deadlines) and people
 
 ## TODO
 * ping jen from spitfire again
@@ -795,10 +798,10 @@ process (what ar the tools and who to ping, what kind of operational docs should
 2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
 3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
 
-* MARCH 29 - finish [okr 2 slides](https://docs.google.com/presentation/d/1o30zWcHUnaJMTZi70IXKeAqjcSU-WzCqhYO6_2uLpA0/edit#slide=id.g2b2dc27332_0_4)
+
 
 * send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
-* review [march 28 staff call slides](https://docs.google.com/presentation/d/11ZR4XhAXLHSD4dvF-avt39YRLdwlPccUGLDH0ZQ02KU/edit#slide=id.g342b4138f0_0_18) + [agenda](https://docs.google.com/document/d/1GeUJXp3vq_XRW9pKBQ4gw1KR2wXXvGVw4kK_0a8txgE/edit) + [formal agenda](https://docs.google.com/document/d/1ENOOFbBXSTOI5xW6Vn5aPaxoIXS0DDtj_4owzR-eisA/edit?usp=sharing)
+
 
 
 * figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
