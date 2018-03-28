@@ -775,6 +775,9 @@
 * updated [host matching drive](https://drive.google.com/drive/u/0/folders/1LKiDFqrDGj4R5PWrc4h19RBctDJQ3MqE)
 * reviewed [aleksandar's blogpost](https://docs.google.com/document/d/1DjJO-qBkrzR3hcs_yMBhqiO9-k66bpaVSyJom7i-1Yo/edit)
 
+## 3/28/18
+* updated [faq drive](https://docs.google.com/document/d/1n0P-4imPZJcmgDXdITiAWz005zcdh8ie_M3_hX70F9M/edit?ts=5abac9cf#) for fellowships
+
 contracts
 visas
 invitation letters
