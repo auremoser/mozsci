@@ -800,9 +800,9 @@
 * Added scheduling for May 31st [community call](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=42708606db23c7802887110b0b9619f2)
 * updated [engagement tracker with Becca's article](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 * updated [global sprint map](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792) with new colors for [live page](https://foundation.mozilla.org/opportunity/global-sprint/register/)
-
 * meeting with amc about [offboarding](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 * [ole meeting](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
+* filled out [ama etherpad from questions](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
 
 
 ## TODO
