@@ -799,9 +799,20 @@
 ## 3/29/18
 * Added scheduling for May 31st [community call](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=42708606db23c7802887110b0b9619f2)
 * updated [engagement tracker with Becca's article](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+* updated [global sprint map](https://github.com/mozilla/2018-global-sprint-planning/issues/27#issuecomment-374998792) with new colors for [live page](https://foundation.mozilla.org/opportunity/global-sprint/register/)
+
+* meeting with amc about [offboarding](https://public.etherpad-mozilla.org/p/open-web-offboarding)
+* [ole meeting](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
 
 
 ## TODO
+
+* Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
+* Ruzanna email budget
+* Looking into hotel block (fellows + host org leads)
+* Spreadsheet  with their names + travel dates [AMC]
+* Swag - watch the watchers / magnets
+* Dinner Reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 
 * followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
 
