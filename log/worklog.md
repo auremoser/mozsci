@@ -803,9 +803,16 @@
 * meeting with amc about [offboarding](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 * [ole meeting](https://public.etherpad-mozilla.org/p/FellowshipsOLE)
 * filled out [ama etherpad from questions](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* got back to a few applicants
+* emailed kristin about D&S
+* replied to scientist sentinels fellowship
+* attended [ok5](https://docs.google.com/document/d/1AB1158r6V3myBRPHLVONr-whJqbUCPIs4kpCqKRb1is/edit#) call on working open
+* submitted [carlos visa invite](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit) to casey + ann marie
+
 
 
 ## TODO
+* update websites to align with [faq](https://foundation.mozilla.org/opportunity/fellowships/)
 
 * Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
 * Ruzanna email budget
@@ -875,6 +882,7 @@ NEXT STEPS
 
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
+* [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
 
 **HOST ORG FLUXX**
 
@@ -951,6 +959,7 @@ NEXT STEPS
 ### GENERAL LINKS
 
 * FELLOWSHIPS - OWF
+	* [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
 	* [2017 Host Org onboarding drive](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNXYwSWFTclc3X2s?usp=sharing)
 	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
 	* [Aurelia Role Goal and Objectives Doc](https://docs.google.com/document/d/1xXP-RBGBW4rEObhenQlbd1HlN8iT-ZbaDwWm1Kd_1yw/edit)
