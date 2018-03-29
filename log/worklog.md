@@ -793,8 +793,17 @@
 * [tweeted](https://twitter.com/auremoser/status/979013101554143233) about Mozilla Fellowship AMA
 * canceled community call
 * added [cfp to friday jobs newsletter](https://docs.google.com/spreadsheets/d/1bYoRL0tI71LJaYfSf8TRXzeF88p_m59kjmObkSf3N0k/edit#gid=0)
+* grant [fellowships checkin](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
+
+
+## 3/29/18
+* Added scheduling for May 31st [community call](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=42708606db23c7802887110b0b9619f2)
+* updated [engagement tracker with Becca's article](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
+
 
 ## TODO
+
+* followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
 
 * to kalpana:
 1) Final list of reviewers + their emails
