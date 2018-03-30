@@ -817,15 +817,18 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-30)
 * fellowship emails
 * sent off question about budget for fellows offboarding
-
+* global sprint meeting with zannah
+* etroduce adam to jon
+* submitted pull request to [update the advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/529)
 
 
 
 ## TODO
 * update websites to align with [faq](https://foundation.mozilla.org/opportunity/fellowships/)
+* update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
-* Ruzanna email budget
+* x Ruzanna email budget
 * Looking into hotel block (fellows + host org leads)
 * Spreadsheet  with their names + travel dates [AMC]
 * Swag - watch the watchers / magnets
