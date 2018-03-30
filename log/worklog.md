@@ -816,6 +816,8 @@
 	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-3-30)
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-30)
 * fellowship emails
+* sent off question about budget for fellows offboarding
+
 
 
 
