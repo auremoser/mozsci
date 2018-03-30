@@ -810,6 +810,13 @@
 * submitted [carlos visa invite](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit) to casey + ann marie
 * meeting with SA and HB about [privacy/secu training](https://docs.google.com/presentation/d/1VLk7iaWLuhvP15ac5aiM653on2nZsbxTzsmvK59GVko/edit#slide=id.p4)
 
+## 3/30/18
+* Fellows checkins:
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-3-30)
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-3-30)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-3-30)
+* fellowship emails
+
 
 
 ## TODO
