@@ -808,6 +808,7 @@
 * replied to scientist sentinels fellowship
 * attended [ok5](https://docs.google.com/document/d/1AB1158r6V3myBRPHLVONr-whJqbUCPIs4kpCqKRb1is/edit#) call on working open
 * submitted [carlos visa invite](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit) to casey + ann marie
+* meeting with SA and HB about [privacy/secu training](https://docs.google.com/presentation/d/1VLk7iaWLuhvP15ac5aiM653on2nZsbxTzsmvK59GVko/edit#slide=id.p4)
 
 
 
