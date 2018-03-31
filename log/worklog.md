@@ -821,6 +821,7 @@
 * etroduce adam to jon
 * submitted pull request to [update the advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/529)
 * mozilla data collective [survey](http://www.surveygizmo.com/s3/4284879/Mozilla-Data-Collective-Engagement-Survey-March-2018)
+* tweeted about [mozilla turnes 20](https://twitter.com/auremoser/status/980085742209781760)
 
 
 
