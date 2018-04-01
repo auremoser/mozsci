@@ -824,7 +824,13 @@
 * tweeted about [mozilla turnes 20](https://twitter.com/auremoser/status/980085742209781760)
 * posted [ihr bug](https://github.com/MozillaFoundation/internet-health-report-2018-bugs/issues/24)
 * updated res
-* gave feedback on [week 6](https://docs.google.com/document/d/1tENLo6uYS6qvPNG374pVmquk_w4vEwCJdhRdreCZny0/edit?ts=5ab1b4a1)
+* gave feedback on [week 6-10](https://docs.google.com/document/d/1tENLo6uYS6qvPNG374pVmquk_w4vEwCJdhRdreCZny0/edit?ts=5ab1b4a1)
+* followed up with kalpana about Maya's surplus funds for her students
+* followed up with Steph and Danielle about AirMo registration for May 31st:
+	* New AirMozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E239343
+	* Legacy AirMozilla: https://air.mozilla.org/mozilla-science-lab-april-2018-bi-monthly-community-call/
+    * YouTube: https://www.youtube.com/watch?v=RFmDzHgZGNM
+  
 
 
 
