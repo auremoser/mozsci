@@ -822,6 +822,9 @@
 * submitted pull request to [update the advocacy site](https://github.com/mozilla/advocacy.mozilla.org/pull/529)
 * mozilla data collective [survey](http://www.surveygizmo.com/s3/4284879/Mozilla-Data-Collective-Engagement-Survey-March-2018)
 * tweeted about [mozilla turnes 20](https://twitter.com/auremoser/status/980085742209781760)
+* posted [ihr bug](https://github.com/MozillaFoundation/internet-health-report-2018-bugs/issues/24)
+* updated res
+* gave feedback on [week 6](https://docs.google.com/document/d/1tENLo6uYS6qvPNG374pVmquk_w4vEwCJdhRdreCZny0/edit?ts=5ab1b4a1)
 
 
 
