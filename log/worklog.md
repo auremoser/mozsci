@@ -830,7 +830,10 @@
 	* New AirMozilla: https://onlinexperiences.com/Launch/Event.htm?ShowKey=44908&DisplayItem=E239343
 	* Legacy AirMozilla: https://air.mozilla.org/mozilla-science-lab-april-2018-bi-monthly-community-call/
     * YouTube: https://www.youtube.com/watch?v=RFmDzHgZGNM
-  
+
+## 4/2/18
+* added sk's zine and closed some [fellows' repo issues](https://github.com/MozillaFoundation/mozfellows-2017)
+* answered some emails, chill
 
 
 
