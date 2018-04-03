@@ -840,6 +840,7 @@
 * responded to applicant from CPJ, fwd to TechX
 * checked in on [bof](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212) + [aleks](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334) bugs
 * requested change to date of [community call](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=d07a47ebdbdc1f002887110b0b96190c)
+* followed up with Narjess at the Embassy in Tunis
 
 
 
