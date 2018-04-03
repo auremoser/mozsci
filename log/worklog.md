@@ -834,6 +834,10 @@
 ## 4/2/18
 * added sk's zine and closed some [fellows' repo issues](https://github.com/MozillaFoundation/mozfellows-2017)
 * answered some emails, chill
+* remotee [rsvp](https://docs.google.com/forms/d/e/1FAIpQLSeBjWtXKhWLKxEahvdvalQNZoeEcqz-iy8km9Od-en5xkaugA/formResponse)
+* responded to applicant from CPJ, fwd to TechX
+* checked in on [bof](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212) + [aleks](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334) bugs
+
 
 
 
