@@ -841,6 +841,8 @@
 * checked in on [bof](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212) + [aleks](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334) bugs
 * requested change to date of [community call](https://mozilla.service-now.com/sp?id=ticket&table=x_mozr2_event_designer_request&sys_id=d07a47ebdbdc1f002887110b0b96190c)
 * followed up with Narjess at the Embassy in Tunis
+* responded to [sarah kiden's question about github](https://github.com/MozillaFoundation/mozfellows-2017/commit/8bcfe434a46ec37648ca063c8771006b1a2163e7#commitcomment-28379527)
+* answered some more fellows applicants
 
 
 
