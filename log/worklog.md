@@ -834,6 +834,7 @@
 ## 4/2/18
 * added sk's zine and closed some [fellows' repo issues](https://github.com/MozillaFoundation/mozfellows-2017)
 * answered some emails, chill
+* updated websites to align with [faq](https://foundation.mozilla.org/opportunity/fellowships/)
 
 ## 4/3/18
 * remotee [rsvp](https://docs.google.com/forms/d/e/1FAIpQLSeBjWtXKhWLKxEahvdvalQNZoeEcqz-iy8km9Od-en5xkaugA/formResponse)
@@ -843,18 +844,34 @@
 * followed up with Narjess at the Embassy in Tunis
 * responded to [sarah kiden's question about github](https://github.com/MozillaFoundation/mozfellows-2017/commit/8bcfe434a46ec37648ca063c8771006b1a2163e7#commitcomment-28379527)
 * answered some more fellows applicants
+* 1:1 with Ann Marie
+* 1:1 with Amy
+* followup with Kevin
+* check in with steph
+* reviewed [fellows + mozfest proposal](https://docs.google.com/document/d/1sUyq1ksbpJQCGqSCj2GgYY-YVgGJZMgNNyXCr_WjdGQ/edit?ts=5ac3c56a)
+* shared details with arliss about host orgs from previous cycles
 
 
 
 
 ## TODO
-* update websites to align with [faq](https://foundation.mozilla.org/opportunity/fellowships/)
+
+* Paris 12-18th + Marc/Mateusz (host global sprint in Amsterdam)
+
+* send [reviewers emails](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) (number of spaces, dates, training) = ping kalpana after for a date to go over process
+	* 11 open web 
+	* 10 tech policy
+	* 6 science
+	* dates : April 25th-May 11th, interviews by may 14th, decisions by May 25th
+	* training next week, sending out reviewer test version, by the end of next week
+
 * update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
+* fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
 * Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
 * x Ruzanna email budget
 * Looking into hotel block (fellows + host org leads)
-* Spreadsheet  with their names + travel dates [AMC]
+	* Spreadsheet  with their names + travel dates [AMC]
 * Swag - watch the watchers / magnets
 * Dinner Reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 
@@ -914,6 +931,7 @@ NEXT STEPS
 * [Ford MVP Brief](https://docs.google.com/document/d/1y0HJYYl0sd_BbILyf0hOru3mAoHEOB7364YOHncNYy4/edit?ts=5a1ee9b6)
 * [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
 * [Offboarding + Alumni Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+* [OWF hotel blocks](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 
 **OKR 2**
 
