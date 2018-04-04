@@ -865,7 +865,7 @@
 * meeting about offboarding for science fellows
 * sent OWF [alumni an email](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5ac3dfa4)
 * sent reminders to host orgs for group blogs
-* 
+* added to [fellows at mozfest doc](https://docs.google.com/document/d/1sUyq1ksbpJQCGqSCj2GgYY-YVgGJZMgNNyXCr_WjdGQ/edit)
 
 
 
