@@ -857,10 +857,11 @@
 * answered some cfp emails
 * worked on [global sprint map]()
 * worked on draft to Ford comms about the fellowships
-* close [host org doodle poll]()
+* close [host org doodle poll](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 	* created [etherapad](https://public.etherpad-mozilla.org/p/2017-hostorgs)
 	* updated calendar invites
 	* sent invitations to hosts and fellows to book travel
+* wrote to OWF host orgs and fellows about booking travel for offboarding
 
 
 
@@ -895,8 +896,6 @@
 3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
 * send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
 
-
-* figure out [host org checkin date](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 	* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
