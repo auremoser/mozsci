@@ -851,6 +851,18 @@
 * reviewed [fellows + mozfest proposal](https://docs.google.com/document/d/1sUyq1ksbpJQCGqSCj2GgYY-YVgGJZMgNNyXCr_WjdGQ/edit?ts=5ac3c56a)
 * shared details with arliss about host orgs from previous cycles
 
+## 4/4/18
+* fbook survey for jen
+* followed up about strategy retreat
+* answered some cfp emails
+* worked on [global sprint map]()
+* worked on draft to Ford comms about the fellowships
+* close [host org doodle poll]()
+	* created [etherapad](https://public.etherpad-mozilla.org/p/2017-hostorgs)
+	* updated calendar invites
+	* sent invitations to hosts and fellows to book travel
+
+
 
 
 
