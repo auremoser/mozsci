@@ -855,7 +855,7 @@
 * fbook survey for jen
 * followed up about strategy retreat
 * answered some cfp emails
-* worked on [global sprint map]()
+* worked on [global sprint map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
 * worked on draft to Ford comms about the fellowships
 * close [host org doodle poll](https://doodle.com/poll/3sfxk44qyfesxv73#table)
 	* created [etherapad](https://public.etherpad-mozilla.org/p/2017-hostorgs)
@@ -864,14 +864,17 @@
 * wrote to OWF host orgs and fellows about booking travel for offboarding
 * meeting about offboarding for science fellows
 * sent OWF [alumni an email](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5ac3dfa4)
+* sent reminders to host orgs for group blogs
+* 
 
 
 
 
 
 ## TODO
-
+* update fellows on cfp (email erika from open news)
 * Paris 12-18th + Marc/Mateusz (host global sprint in Amsterdam)
+* Aure to send email to fellows about booking travel and dates - wednesday next week
 
 * send [reviewers emails](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) (number of spaces, dates, training) = ping kalpana after for a date to go over process
 	* 11 open web 
