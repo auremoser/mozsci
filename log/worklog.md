@@ -862,6 +862,8 @@
 	* updated calendar invites
 	* sent invitations to hosts and fellows to book travel
 * wrote to OWF host orgs and fellows about booking travel for offboarding
+* meeting about offboarding for science fellows
+* sent OWF [alumni an email](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5ac3dfa4)
 
 
 
@@ -881,10 +883,10 @@
 * update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
-* Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
+* x Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
 * x Ruzanna email budget
 * Looking into hotel block (fellows + host org leads)
-	* Spreadsheet  with their names + travel dates [AMC]
+	* Spreadsheet  with their names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 * Swag - watch the watchers / magnets
 * Dinner Reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 
