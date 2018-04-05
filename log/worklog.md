@@ -875,6 +875,13 @@
 * followed up on Carlos Guerra letter of invitation for rights con
 * gave feedback on [offboarding doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 * wrote back about community call
+* updated [bits of freedom bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* sent response to Louis Felipe for Paris
+* scheduled meeting with Ams science park people
+* wrote back to Kevin about comms thread
+* wrote back to ford about blog collection
+* watched the [diversity data release town hall](https://air.mozilla.org/diversity-disclosure-town-hall-emea/)
+
 
 
 
