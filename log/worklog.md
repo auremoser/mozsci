@@ -881,6 +881,7 @@
 * wrote back to Kevin about comms thread
 * wrote back to ford about blog collection
 * watched the [diversity data release town hall](https://air.mozilla.org/diversity-disclosure-town-hall-emea/)
+* booked paris plans and responded to steph about them
 
 
 
@@ -888,8 +889,9 @@
 
 
 ## TODO
-* update fellows on cfp (email erika from open news)
-* Paris 12-18th + Marc/Mateusz (host global sprint in Amsterdam)
+* update fellows on cfp (email erika from open news) + update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
+* Hmmm.. what do you think about re-inviting those who have only applied once?
+* Marc/Mateusz (host global sprint in Amsterdam)
 * Aure to send email to fellows about booking travel and dates - wednesday next week
 
 * send [reviewers emails](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) (number of spaces, dates, training) = ping kalpana after for a date to go over process
