@@ -870,7 +870,9 @@
 
 ## 4/5/18
 * responded to budget thread
-* 
+* got back to meghan about ddd prints
+* wrote to steph about outreach to fellows
+* followed up on Carlos Guerra letter of invitation for rights con
 
 
 
