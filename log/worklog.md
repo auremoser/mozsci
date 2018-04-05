@@ -873,6 +873,8 @@
 * got back to meghan about ddd prints
 * wrote to steph about outreach to fellows
 * followed up on Carlos Guerra letter of invitation for rights con
+* gave feedback on [offboarding doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
+* wrote back about community call
 
 
 
