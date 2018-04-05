@@ -882,6 +882,10 @@
 * wrote back to ford about blog collection
 * watched the [diversity data release town hall](https://air.mozilla.org/diversity-disclosure-town-hall-emea/)
 * booked paris plans and responded to steph about them
+* setup meeting for community call decisions with danielle and steph
+* sent reminder to science fellows about offboarding and travel
+* submitted pull request for [logo updata to wikimedia](https://github.com/mozilla/advocacy.mozilla.org/pull/530)
+
 
 
 
@@ -889,8 +893,11 @@
 
 
 ## TODO
+
+* Dates: June 26th - June 29 (inclusive; travel on monday/saturday), Location: Fly into Dar-es-salaam, Tanzania(Julius Nyerere International Airport - DAR)
+Agenda: https://public.etherpad-mozilla.org/p/2018-offboarding
 * update fellows on cfp (email erika from open news) + update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
-* Hmmm.. what do you think about re-inviting those who have only applied once?
+	* Hmmm.. what do you think about re-inviting those who have only applied once?
 * Marc/Mateusz (host global sprint in Amsterdam)
 * Aure to send email to fellows about booking travel and dates - wednesday next week
 
@@ -924,6 +931,7 @@
 
 * grades and slides for ITP
 * prix ars electronica
+* summary of tunis trip in a blog
 
 
 
