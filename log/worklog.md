@@ -886,9 +886,19 @@
 * sent reminder to science fellows about offboarding and travel
 * submitted pull request for [logo updata to wikimedia](https://github.com/mozilla/advocacy.mozilla.org/pull/530)
 
-
-
-
+## 4/6/18
+* wrote back to kitty about fellowships via cori
+* adjusted [fellowship dates](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5ac69cdf#heading=h.crihcennrw3x)
+* expenses
+* wrote back to sarah k about her travel updates
+* send [reviewers emails](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) (number of spaces, dates, training) = ping kalpana after for a date to go over process
+	* 11 open web 
+	* 6 tech policy
+	* 6 science
+	* dates : April 25th-May 11th, interviews by may 14th, decisions by May 25th
+	* training next week, sending out reviewer test version, by the end of next week
+* updated open web [offboarding doc](https://public.etherpad-mozilla.org/p/open-web-offboarding) with sites and activities
+* updated the global sprint map
 
 
 
@@ -899,22 +909,14 @@ Agenda: https://public.etherpad-mozilla.org/p/2018-offboarding
 * update fellows on cfp (email erika from open news) + update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
 	* Hmmm.. what do you think about re-inviting those who have only applied once?
 * Marc/Mateusz (host global sprint in Amsterdam)
-* Aure to send email to fellows about booking travel and dates - wednesday next week
-
-* send [reviewers emails](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) (number of spaces, dates, training) = ping kalpana after for a date to go over process
-	* 11 open web 
-	* 10 tech policy
-	* 6 science
-	* dates : April 25th-May 11th, interviews by may 14th, decisions by May 25th
-	* training next week, sending out reviewer test version, by the end of next week
 
 * update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 
 * fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
-* x Sending out email 3/30 -> be there by Sunday night latest (book by next Friday April 6th)
-* x Ruzanna email budget
+OFFBOARDING
 * Looking into hotel block (fellows + host org leads)
 	* Spreadsheet  with their names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
+	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 * Swag - watch the watchers / magnets
 * Dinner Reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 
@@ -932,7 +934,6 @@ Agenda: https://public.etherpad-mozilla.org/p/2018-offboarding
 * grades and slides for ITP
 * prix ars electronica
 * summary of tunis trip in a blog
-
 
 
 **TUNIS**
