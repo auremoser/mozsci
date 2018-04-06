@@ -899,13 +899,14 @@
 	* training next week, sending out reviewer test version, by the end of next week
 * updated open web [offboarding doc](https://public.etherpad-mozilla.org/p/open-web-offboarding) with sites and activities
 * updated the global sprint map
+* book tickets for sci offboarding + updated [agenda](https://public.etherpad-mozilla.org/p/2018-offboarding)
 
 
 
 ## TODO
 
-* Dates: June 26th - June 29 (inclusive; travel on monday/saturday), Location: Fly into Dar-es-salaam, Tanzania(Julius Nyerere International Airport - DAR)
-Agenda: https://public.etherpad-mozilla.org/p/2018-offboarding
+
+Agenda: 
 * update fellows on cfp (email erika from open news) + update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
 	* Hmmm.. what do you think about re-inviting those who have only applied once?
 * Marc/Mateusz (host global sprint in Amsterdam)
