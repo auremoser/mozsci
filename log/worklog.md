@@ -900,47 +900,55 @@
 * updated open web [offboarding doc](https://public.etherpad-mozilla.org/p/open-web-offboarding) with sites and activities
 * updated the global sprint map
 * book tickets for sci offboarding + updated [agenda](https://public.etherpad-mozilla.org/p/2018-offboarding)
+* asked erika from open news about alumni emails
+* send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
 
+## 4/9/18
+* some emails to candidates with questions
+* organized files, prepped for class
+* added to [debrief meeting notes](https://docs.google.com/document/d/1iXVL0YPP6UnmqhLUwXINbDl3C4Se1j9oA5fT20qpsY8/edit)
 
 
 ## TODO
 
-
-Agenda: 
-* update fellows on cfp (email erika from open news) + update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
+**OUTREACH**
+* update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
 	* Hmmm.. what do you think about re-inviting those who have only applied once?
-* Marc/Mateusz (host global sprint in Amsterdam)
-
-* update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
-
-* fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
-OFFBOARDING
-* Looking into hotel block (fellows + host org leads)
-	* Spreadsheet  with their names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
-	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
-* Swag - watch the watchers / magnets
-* Dinner Reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
-
-* followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
-
-* to kalpana:
-1) Final list of reviewers + their emails
-2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
-3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
-* send reviewers and overture email with potential dates [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) + make sure the matrix is included
-
+* reach out to science alumni fellows
+* get travel for fluent conference
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
-	* finish offboarding [plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
-* grades and slides for ITP
-* prix ars electronica
-* summary of tunis trip in a blog
-
+**UPDATES**
+* followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
+* to kalpana:
+	1) Final list of reviewers + their emails [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
+	2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
+	3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
+* update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
+* fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
+* finish up host org matching docs in drive_web
 
 **TUNIS**
 * draft blog post for tunis
 https://mzl.la/cc-site-2018 - link to all slides/materials
 https://mzl.la/cc-2018 - link to all code
+
+**OFFBOARDING 2018**
+* Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
+	* Maya Wagoner (Brooklyn Public Library
+	* Carlos Guerra (Derechos * Digitales)
+	* Orlando del Aguila (Majal)
+	* Nasma Ahmed (MPower)
+	* Rebecca Ricks (Human Rights Watch)
+	* Sarah Kiden (Research ICT Africa)
+* flesh out [miniafrica tour](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour)
+* flesh out [science onboarding](https://public.etherpad-mozilla.org/p/2018-offboarding#lineNumber=19) 
+* look into hotel block (fellows + host org leads)
+	* spreadsheet  with names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
+	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
+* swag - watch the watchers / magnets
+* dinner reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
+* [offboarding plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
 **FELLOWS FLUXX**
 * [comms plan](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
@@ -948,30 +956,16 @@ https://mzl.la/cc-2018 - link to all code
 * email to use for fellows app: https://mzl.la/fellowship-application
 * matthew's [issue about fellowships](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
 
-NEXT STEPS
-
-* get back to alan about workflows for fluxx application button for [fellowship application](https://github.com/mozilla/foundation.mozilla.org/issues/964#issuecomment-358327267)
-* email reviewers with [reviewer role details](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
+**REPORTING**
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
-
-* add to prix [ars electronica](https://docs.google.com/document/d/1zbQNbWk71k3dxRQQX2efEeex5zyW_do5heumMQSZjTg/edit#heading=h.dr8ej6g33t0r)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
-* flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email hosts
-
-* confirm date selection for [April Host Org checkins](https://doodle.com/poll/3sfxk44qyfesxv73)
+* flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email host
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
-* review standard [reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?usp=sharing_eip&ts=5a6f76cf)
-
-* get travel for fluent conference
-
-* work through [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
-
 
 **WEBSITE**
 * [new project brief form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPxYeeXK6wog7YBP9qKM-pE7ntnEid54Ikw0CAkdDZxO5Q/viewform)
 
-**OWF ALUMNI + Offboarding**
-
+**OWF ALUMNI**
 * [Ford MVP Brief](https://docs.google.com/document/d/1y0HJYYl0sd_BbILyf0hOru3mAoHEOB7364YOHncNYy4/edit?ts=5a1ee9b6)
 * [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
 * [Offboarding + Alumni Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
@@ -983,55 +977,8 @@ NEXT STEPS
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 * [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
 
-**HOST ORG FLUXX**
 
-* [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
-* [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
-* [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
-* [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
-* [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
-* [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
-* [outreach list](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit?usp=sharing)
-* [hype plan-sharable](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#)
-* [host org app process doc](https://docs.google.com/document/d/1YiN6BtdopOaAV2N31zXVvrEX8HAcDnxqFWmzlA1P6rg/edit#)
-
-* ideas for recruitment	
-	* challenging fellows - termination
-	* interview questions on collaboration
-	* upload a video in 2 min for presentation
-	* flash grants
-
-**FELLOWSHIP PROGRAMMING**
-
-* [open leadership offering](https://public.etherpad-mozilla.org/p/openleadership-offering18)
-* IHR editing
-* Pulse profiles
-* Comms features on R/W/P
-
-* OFFBOARDING 2018
-	Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
-
-	* Maya Wagoner (Brooklyn Public Library
-	* Carlos Guerra (Derechos * Digitales)
-	* Orlando del Aguila (Majal)
-	* Nasma Ahmed (MPower)
-	* Rebecca Ricks (Human Rights Watch)
-	* Sarah Kiden (Research ICT Africa)
-
-* WORKWEEK 2018
-	* [hotel reservation doc](https://docs.google.com/spreadsheets/d/1ZBxXMzaSUQvMjAlmYZg2n2132U1BfcAUvHTFf_mcOj4/edit#gid=0)
-	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
-	* [old-agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
-	* [registration](https://docs.google.com/spreadsheets/d/1XXr26aOBNl8C2BF84j9336atOGJKAVase0OhroKHU-g/edit#gid=1599984752)
-	* [new-agenda](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395a7b#)
-	* [fellows' workweek](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395ae0)
-	* [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
-* CCC
-	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
-	* [brownbag brainstorm doc](https://docs.google.com/document/d/1MZ-VODBE0B4ziW2H3yZIdVJ6aTNBMCLIGFXDKUqQruU/edit)
-	
-
-
+**MISC.**
 
 * followup w/ abby on ADD TRAVEL DOC INFO to [stipend doc](https://docs.google.com/document/d/1BSf27k67axgKv9dwTgx7hcOuP6HQ5NpZ6cINZ223HCk/edit):
 	* not facilitating visas for non-tentpole events
@@ -1039,25 +986,12 @@ NEXT STEPS
 	* we fund travel related to your fellowship where you are speaking/facilitating
 	* does this bring up work auth issues
 	* discretionary ceiling 2,000
-* ONBOARDING archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1)
-* ONBOARDING create a folder for the fellows' onboarding with:
-	* stipend overview document
-	* tax and immigration considerations
-* ONBOARDING add fellows tasks doc to the spreadsheet on onboarding (IHR, )
-* revisit [host org mous for adjusted terms](https://docs.google.com/document/d/1RK5CouuH_Mf4ZkuoFuQw10-Xs1pbQc4a1eQje5PTvCA/edit?ts=59c01077)
-* interviews blog post for fellows + [history of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
-* write up gsoc email soliciting feedback on our dashboard
-* send advisor followup email with fellows accomplishments
-* flesh out onboarding details and work on travel info [here](https://docs.google.com/spreadsheets/d/1WiIbk4WoG-D8qMeBYJO8QaDgS1MbePnjI66YCnThc-0/edit#gid=1430004533)
-* put together [FLUXX grant documentation template for Kalpana](https://drive.google.com/drive/folders/0B7FKQQVpUabKbUpDUGhmS1ZnVmM)
-* develop community development prospectus for fellowship programs
-* review tech policy fellows [specialties](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_54)
 * figure out lvychao's [pr](https://github.com/auremoser/sg-events/pull/8/files) from forever ago
 
 
 ### GENERAL LINKS
 
-* FELLOWSHIPS - OWF
+**OWF**
 	* [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
 	* [2017 Host Org onboarding drive](https://drive.google.com/drive/folders/0B6_ZVUFx2WHHNXYwSWFTclc3X2s?usp=sharing)
 	* [OWF reflection dec](https://docs.google.com/presentation/d/12ikzB93u-jeH0FGDUMXJ0KBBn77BR8UNrzkmInbGFMk/edit#slide=id.g1e7e8a69c0_0_129)
@@ -1068,7 +1002,9 @@ NEXT STEPS
 	* [fellows onboarding checklist](https://docs.google.com/spreadsheets/d/1B9ogaKGqjFv3Bn30WVew07_nwP5YleQFQyKQDSxaXWw/edit#gid=0)
 	* [mandy's checklist](https://docs.google.com/spreadsheets/d/1Pc_waHSWrudmIfu8HENTydnq8ElFPcvpYreGOZyrJrI/edit?ts=598a090f#gid=0)
 	* [tech policy deck](https://docs.google.com/presentation/d/1awDmecRMww48vtA27uiOt-CxOE_8Lvw3087RMVEy6_A/edit#slide=id.g227982b055_0_65)
-	ADMIN
+
+**ADMIN**
+	* [History of the fellowships](https://docs.google.com/document/d/16CwcfPJh7ssnTn8-JmGtlQShHkg9aNO3A7ljye3VPN4/edit?ts=5968af2f)
 	* [2017 interview notes](https://docs.google.com/document/d/1nCB09xqjwIxDcEtyRC66CLHiy5O-I2CESK6GRK7cgJw/edit)
 	* [2017 host org onboarding logistics](https://docs.google.com/spreadsheets/d/1AllrybcZn8eb2MBB2cNi_6OzYT56BET9dqEw5A0VeGE/edit#gid=0)
 	* [2017 host org onboarding schedule](https://docs.google.com/document/d/1NgCEdi1j2kH22qmvcRZTKr9Cfy1noOOvEvnDPycQ4hk/edit#)
@@ -1079,8 +1015,19 @@ NEXT STEPS
 	* [science fellows budget document](https://docs.google.com/spreadsheets/d/1uZM9UPEs7Hs3gwHsr9CWt36yerHcEtPCpjiQzLorur8/edit?ts=599dc5d3#gid=1063471283)
 	* [2017 owf fellows budget document](https://docs.google.com/a/mozillafoundation.org/spreadsheets/d/1JXlJ4fdBW_q695JEhnoCVHgZqePngQUC0RGd-c8SdBg/edit?usp=sharing_eip&ts=599dc5e3)
 
+**HOST ORG FLUXX**
+	* [fellowship recruitment plans](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5a7006a5#heading=h.fp9inrzes09)
+	* [guide for managing applications in fluxx](https://docs.google.com/document/d/15DiWp9fE4sUtjcY2d9VSnaBygkOYwYy2lxMKc21Qs7E/edit?ts=5a5e48f5)
+	* [guide for host orgs to apply](https://docs.google.com/document/d/183Ni3v6_M19ZwVpPbZJo0iwpcJegnqFW6_VcYjeHmDY/edit#)
+	* [comms plan from kevin](https://docs.google.com/document/d/1D8IF7XsKCwxCXkLR58L0S5XDP8To0yxZqVjORs8z0_A/edit)
+	* [kalpana's spreadsheet workflow for host orgs](https://docs.google.com/spreadsheets/d/1tIOSjfeweJ5ul7HdHx-IrrRHqUHIjIa1tjtG7ZLvZDg/edit#gid=0)
+	* [hype plan](https://docs.google.com/document/d/1jIuL3yBY8DXc8HaeJFbwQ3WPnkIvKM6yvSK6Yy5ivI8/edit#bookmark=id.8fvdhfvex52t)
+	* [outreach list](https://docs.google.com/spreadsheets/d/19l0NXYsN2XWbuCS0AxmeI56MbrxP4G2Pin2dM3leiiU/edit?usp=sharing)
+	* [hype plan-sharable](https://docs.google.com/document/d/1-48nIOI4m_H4D8oeVMxa-GnU0kfAiw1XXVxl9AmhndE/edit#)
+	* [host org app process doc](https://docs.google.com/document/d/1YiN6BtdopOaAV2N31zXVvrEX8HAcDnxqFWmzlA1P6rg/edit#)
 
-	FELLOWS
+
+**FELLOWS**
 	* [2017-2018 fellows bios](https://docs.google.com/document/d/1_NUF0dMWsgvsPuOLCA1qFnYANadKaiO6123_suTjfYU/edit)
 	* [Fellows Engagement Tracker](https://docs.google.com/spreadsheets/d/1nvAQ50KRSOTA8Pjml9CovLAHuW6HZ3dZX1-0SKej56M/edit#gid=0)
 	* [2017-2018 doc drive](https://drive.google.com/drive/u/0/folders/0B32kLgMrp9LuQ1lONU1pMGZBYWM)
@@ -1105,11 +1052,24 @@ NEXT STEPS
 	* fellows [conference calendar](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=2023921961)
 	* [2017 Budget for all fellows](https://docs.google.com/spreadsheets/d/1opJVD43pMaJ5EdmMyxvjhDnlfJddAvxmeqN_iZSYzSg/edit#gid=1600931047)
 
-	ALUMNI
+**ALUMNI**
 	* [mofo fellowships slack](https://mozillafellowships.slack.com/messages/D8NEUJ03D/)
 	* [mofo fellows google group](https://groups.google.com/a/mozillafoundation.org/forum/#!forum/fellowships)
 
 ### EVENTS
+
+* WORKWEEK 2018
+	* [hotel reservation doc](https://docs.google.com/spreadsheets/d/1ZBxXMzaSUQvMjAlmYZg2n2132U1BfcAUvHTFf_mcOj4/edit#gid=0)
+	* [wishlist from fellows at all hands](https://pad.riseup.net/p/PlXNTHqZczT0FellowsWishlist)
+	* [old-agenda](https://public.etherpad-mozilla.org/p/2018-fellows-workweek)
+	* [registration](https://docs.google.com/spreadsheets/d/1XXr26aOBNl8C2BF84j9336atOGJKAVase0OhroKHU-g/edit#gid=1599984752)
+	* [new-agenda](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395a7b#)
+	* [fellows' workweek](https://docs.google.com/document/d/1aC2etlc1KXVvR_sJoR7g2nap4zoca0m-UFSE6g7Y17Y/edit?ts=5a395ae0)
+	* [workweek 2018 budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=0)
+
+* CCC
+	* [planning pad](https://pad.riseup.net/p/ODNEz95ZBJn3Fellows)
+	* [brownbag brainstorm doc](https://docs.google.com/document/d/1MZ-VODBE0B4ziW2H3yZIdVJ6aTNBMCLIGFXDKUqQruU/edit)
 
 * ALL HANDS 
 	*  work on [activity map](https://docs.google.com/spreadsheets/d/1kjlnwLwdll_pWmjbURnG74fGQXx7f0LCwph3obsgd80/edit#gid=0)
@@ -1136,6 +1096,7 @@ NEXT STEPS
 	* [ethics of open science research proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/198#issuecomment-317539123)
 
 * ONBOARDING
+	* archive [photos](https://photos.app.goo.gl/znXfDdicFRjioCLo1)
 	* [budget](https://docs.google.com/spreadsheets/d/1apvcnFYFUXyT7g_7AAlX5esEESeENIMghkESaehGQtY/edit#gid=0)
 	* [schedule](https://public.etherpad-mozilla.org/p/2017-fellows-onboarding)
 	* [presurvey](https://docs.google.com/a/mozillafoundation.org/forms/d/1R6R9rjT1W1QyevlKXcqZu3SVbUnhjXT5T0A3Qk6kFiM/edit)
