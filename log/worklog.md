@@ -916,6 +916,11 @@
 * sent program director gig to fellows and gig team
 * responses to fellowship application questions
 * bill.com questions/queries about budgeting
+* followed up with attendee for [offboarding in ny](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
+* updated [fellowship ama for Wed April 18](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* wrote back to kvin and temi about promoting host organization blogs
+* sage bionetworks headshots and bio sent
+* some travel approvals
 
 
 ## TODO
