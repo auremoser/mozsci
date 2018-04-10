@@ -912,6 +912,10 @@
 * emaile abby and ruzanna about baker mac
 * meeting with Shana about fellow candidates
 * meeting about app [site debrief](https://docs.google.com/document/d/1iXVL0YPP6UnmqhLUwXINbDl3C4Se1j9oA5fT20qpsY8/edit)
+* 1:1 with Amy
+* sent program director gig to fellows and gig team
+* responses to fellowship application questions
+* bill.com questions/queries about budgeting
 
 
 ## TODO
