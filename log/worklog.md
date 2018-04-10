@@ -908,6 +908,11 @@
 * organized files, prepped for class
 * added to [debrief meeting notes](https://docs.google.com/document/d/1iXVL0YPP6UnmqhLUwXINbDl3C4Se1j9oA5fT20qpsY8/edit)
 
+## 4/10/18
+* emaile abby and ruzanna about baker mac
+* meeting with Shana about fellow candidates
+* meeting about app [site debrief](https://docs.google.com/document/d/1iXVL0YPP6UnmqhLUwXINbDl3C4Se1j9oA5fT20qpsY8/edit)
+
 
 ## TODO
 
