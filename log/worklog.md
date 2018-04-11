@@ -922,8 +922,18 @@
 * sage bionetworks headshots and bio sent
 * some travel approvals
 
+## 4/11/18
+* [open web fellow thread](https://twitter.com/auremoser/status/984081956018315264) add tweet thread about [science](https://twitter.com/auremoser/status/984096332557225985) + [tech policy](https://twitter.com/auremoser/status/984099606492598274)
+* reminded fellows about spitfire in [slack](https://mozilla.slack.com/archives/C4W55UHE3/p1523459371000111)
+* meeting about fellows cfp comms
+* shared fellowship application in `announcements`: https://mozilla.slack.com/archives/C027LFU20/p1523468059000644
+* shared fellowship application in `mofo-staff`: https://mozilla.slack.com/archives/G4TED39AS/p1523466239000710, notified plants
+
 
 ## TODO
+
+* ama next wednesday - sending out reminder on MONDAY for registered candidates
+
 
 **OUTREACH**
 * update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
