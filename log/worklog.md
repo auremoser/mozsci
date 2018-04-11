@@ -928,10 +928,20 @@
 * meeting about fellows cfp comms
 * shared fellowship application in `announcements`: https://mozilla.slack.com/archives/C027LFU20/p1523468059000644
 * shared fellowship application in `mofo-staff`: https://mozilla.slack.com/archives/G4TED39AS/p1523466239000710, notified plants
+* reviewed FM's letter, checked with LR
+* passed app guide to Bram for sharing
+* updated [travel documentation for offboarding](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
+* created [budgets doc for offboarding](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1750118559)
+* fellowship grants checkin
+* applied to participate in [high tea talks](http://highteatalks.nyc/#participate)
+* logged [astrea's blog](https://www.astraeafoundation.org/stories/ford-mozilla-fellow/) and responded to CT
+* got back to fellow and host applicants seeking feedback
+* commented on [creative for the cfp](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
 
 
 ## TODO
 
+* fellows checkin call reminders
 * ama next wednesday - sending out reminder on MONDAY for registered candidates
 
 
