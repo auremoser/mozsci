@@ -938,6 +938,19 @@
 * got back to fellow and host applicants seeking feedback
 * commented on [creative for the cfp](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
 
+## 4/12/18
+* met with t for fellowship discussion
+* updated [offboarding etherpad](https://public.etherpad-mozilla.org/p/2018-offboarding)
+* followed up on carlos visa letter thread
+* followed up on MOU thread
+* meeting at Eyebeam
+* created fellows checkin etherpads
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-4-13)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-4-13)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-13)
+* wrote to fellows about calls tomorrow
+* wrote to open news alumns about fellowships
+
 
 ## TODO
 
