@@ -966,6 +966,7 @@
 * sent followup reminder for fellows call
 * updated [reviewer form](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) with contacts and commented in fluxx test doc
 * commented after testing workflow for reviewers in the [testing doc](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
+* followed up on carlos' letter
 
 
 ## TODO
