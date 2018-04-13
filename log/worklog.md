@@ -950,7 +950,6 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-13)
 * wrote to fellows about calls tomorrow
 * wrote to open news alumns about fellowships
-* shared [travel documentation for offboarding](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336) with Ann Marie
 
 
 ## 4/13/18
@@ -963,10 +962,15 @@
 * responded to kristin about fwd reference
 * wrote to all [alumni about fellowship cfp](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
 * wrote back to [kevin on dm front](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5ac3dfa4)
+* shared [travel documentation for offboarding](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336) with Ann Marie
+* sent followup reminder for fellows call
+* updated [reviewer form](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit) with contacts and commented in fluxx test doc
+* commented after testing workflow for reviewers in the [testing doc](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
+
 
 ## TODO
 
-* fellows checkin call reminders
+
 * ama next wednesday - sending out reminder on MONDAY for registered candidates
 
 
