@@ -950,7 +950,19 @@
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-13)
 * wrote to fellows about calls tomorrow
 * wrote to open news alumns about fellowships
+* shared [travel documentation for offboarding](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336) with Ann Marie
 
+
+## 4/13/18
+* fellows calls
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-4-13)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-4-13)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-13)
+* wrote to nathanael about visit to TZ for offboarding from [sg reference sheet](https://docs.google.com/spreadsheets/d/1fPKqnY8OtH2tMk028dbnwvwntt1SlNQhf_pgMO3kW9s/edit#gid=1099487764)
+* wrote back to some applicants
+* responded to kristin about fwd reference
+* wrote to all [alumni about fellowship cfp](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
+* wrote back to [kevin on dm front](https://docs.google.com/document/d/1bxygdgAVqjzzmGr-VC_qAHPU91_IEAgubCO1xblXhTc/edit?ts=5ac3dfa4)
 
 ## TODO
 
@@ -961,7 +973,6 @@
 **OUTREACH**
 * update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
 	* Hmmm.. what do you think about re-inviting those who have only applied once?
-* reach out to science alumni fellows
 * get travel for fluent conference
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 
