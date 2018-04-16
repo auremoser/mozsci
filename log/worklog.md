@@ -971,6 +971,9 @@
 * processed [letter for carlos](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit?ts=5acfbb62) and sent for signature
 * followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
 
+## 4/16/18
+* [diversity town hall](https://air.mozilla.org/mozilla-foundation-diversity-disclosure-town-hall/)
+
 
 ## TODO
 
