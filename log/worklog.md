@@ -969,6 +969,7 @@
 * followed up on carlos' letter
 * approved some bill.com posts
 * processed [letter for carlos](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit?ts=5acfbb62) and sent for signature
+* followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
 
 
 ## TODO
@@ -984,7 +985,7 @@
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 
 **UPDATES**
-* followup with [financial team on grant report](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
+
 * to kalpana:
 	1) Final list of reviewers + their emails [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
 	2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
