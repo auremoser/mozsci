@@ -968,6 +968,7 @@
 * commented after testing workflow for reviewers in the [testing doc](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 * followed up on carlos' letter
 * approved some bill.com posts
+* processed [letter for carlos](https://docs.google.com/document/d/1TdNEbMZbAuqVN3OV_7wxUMmJMJlYJRW89_wrx1ZrtKA/edit?ts=5acfbb62) and sent for signature
 
 
 ## TODO
