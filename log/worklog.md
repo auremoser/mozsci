@@ -1003,15 +1003,23 @@
 * checkin for flight
 * protect our spaces [signature](https://protectourspaces.org/?user=aurelia%40mozillafoundation.org&signature=1c9ea5c2b27a1b91ac43b318d99d2121aa9e18d1#petition-validation)
 * sent request for quote to spitfire
+* added to [exit survey](https://docs.google.com/document/d/1GS0V0mSJwUWHHruTOsEmMu-WD2PgNSdZjgps58Ypovs/edit) + responded with Michael's feedback
+* forwarded Alek's question through to legal
+* created [all hands plan and sent off to bosses](https://public.etherpad-mozilla.org/p/2018-aure-allhands)
+* updated [1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit) with professional development stuff
+* reviewed [pr](https://github.com/MozillaFoundation/mozfellows-2017/pull/6) in fellowship repo
+
 
 
 
 
 ## TODO
-
+* manage fluxx [requests](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#heading=h.y3080ax9s5u4) for attachments
 * test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
+	* add tips for recommenders to FAQ
+	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
 * flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
-* get rizwan details about
+
 * professional development
 * flight for fluent
 
