@@ -973,12 +973,48 @@
 
 ## 4/16/18
 * [diversity town hall](https://air.mozilla.org/mozilla-foundation-diversity-disclosure-town-hall/)
+* checkin about fellowship application management
+* moco staff call
+* invit to teon for staff call april 25th, cc lotta
+* rightscon letter for carlos sent and signed
+* corrections to bill.com requirements
+* sent email drafts to team to registered and unattached doc applicants
+* sent details about sage assembly to team
+* ama next wednesday - sending out reminder on MONDAY for registered candidates
+* [host org checkin call](https://public.etherpad-mozilla.org/p/2017-hostorgs)
+* followed up with aleksandar's situation
+
+## 4/17/18
+* website [consolidation meeting](https://docs.google.com/document/d/1L1p4KgrfIbSclRXJgGQEpNzTU2dqZ77l3UyfHoXxa9c/edit#)
+* moved meeting with Sarah to tomorrow
+* fellowship emails, check in on ama [etherpad](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* shared [job opening](https://twitter.com/auremoser/status/986279719208456194)
+* retweeted public interest tech campaign
+* queering mozfest [notes](https://docs.google.com/document/d/12vEcphITRX6dLazoRlnpJTH2WP4nXJFWOwKDml2uEbc/edit#)
+* meeting with ann marie about [offboarding bookings](https://public.etherpad-mozilla.org/p/fellows-plan-2017)
+* contacts for coc to jessie
+
+## 4/18/18
+* checkin with [sarah](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
+* emailed travel@ about approvers
+* email to jen about owf videos
+* [ama](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* updated [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* checkin for flight
+* protect our spaces [signature](https://protectourspaces.org/?user=aurelia%40mozillafoundation.org&signature=1c9ea5c2b27a1b91ac43b318d99d2121aa9e18d1#petition-validation)
+* sent request for quote to spitfire
+
+
 
 
 ## TODO
 
+* test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
+* flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
+* get rizwan details about
+* professional development
+* flight for fluent
 
-* ama next wednesday - sending out reminder on MONDAY for registered candidates
 
 
 **OUTREACH**
@@ -1015,6 +1051,7 @@ https://mzl.la/cc-2018 - link to all code
 * look into hotel block (fellows + host org leads)
 	* spreadsheet  with names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
+	* general [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/
 * swag - watch the watchers / magnets
 * dinner reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 * [offboarding plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
