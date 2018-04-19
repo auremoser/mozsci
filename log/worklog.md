@@ -1008,6 +1008,13 @@
 * created [all hands plan and sent off to bosses](https://public.etherpad-mozilla.org/p/2018-aure-allhands)
 * updated [1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit) with professional development stuff
 * reviewed [pr](https://github.com/MozillaFoundation/mozfellows-2017/pull/6) in fellowship repo
+* added to amy's [two day strat doc](https://docs.google.com/document/d/1YrnULOGQNeC7THLvEBAawkpcwA45raw_amsfkWa6Jto/edit?ts=5ad784ad)
+* answered followup questions in the [ama doc](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* attended profesh development meeting with amy and amc
+
+## 4/19/18
+* sent host org [checkin reminders](https://public.etherpad-mozilla.org/p/2017-hostorgs)
+* cleaned up [ama etherpad](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
 
 
 
@@ -1019,11 +1026,15 @@
 	* add tips for recommenders to FAQ
 	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
 * flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
+	* [protect our spaces](https://protectourspaces.org/)
+	* 
 
 * professional development
 * flight for fluent
 
-
+**KITS**
+* [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
+* [fundraising toolkit](https://docs.google.com/presentation/d/1DDBRJUdAkUFFwrlh4hMud92SLA9I7IcQrIyPwy90-8s/edit#slide=id.g34d60b9f3c_0_122)
 
 **OUTREACH**
 * update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
