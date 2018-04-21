@@ -1015,6 +1015,9 @@
 ## 4/19/18
 * sent host org [checkin reminders](https://public.etherpad-mozilla.org/p/2017-hostorgs)
 * cleaned up [ama etherpad](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
+* gave talk at Sage Assembly
+* responded to a lot of recruitment emails
+* fixed up folders in our [2018 recruitment strategy](https://drive.google.com/drive/folders/1qnEivBB2YGc8jOuGQntKxoo0JOlACfdO)
 
 
 
