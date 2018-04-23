@@ -58,10 +58,11 @@ lack of empathy in automation (collaboration and reproducibitility factor)
 
 ### Reconciling the Moment – The Promise and Peril
 
-**Ifeoma Ajunwa Cornell University** - debiased hiring
+**Ifeoma Ajunwa Cornell University** - debiased hiring, issues of recidivism and algorithms, inclusion and psychological testing for applicants
 
 ## REFERENCES
 * ML via [HotDog Detector](https://github.com/aws-samples/serverless-hotdog-detector)
-* ML via []()
+* ML via [Dogs vs chicken](https://www.google.com/search?q=chicken+vs+poodle&rlz=1C5CHFA_enUS721US724&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj31tjQ78vaAhVR6WMKHfNQBYwQ_AUICigB&biw=1436&bih=780#imgrc=AdS4vjKqmckTCM:)
 * [Building the Modern Web is Hard](https://www.oreilly.com/ideas/building-for-the-modern-web-is-really-really-hard)
 * [DataBodies in Codespace](https://placesjournal.org/article/databodies-in-codespace/)
+* [Open Source Pharma]()
