@@ -1029,7 +1029,7 @@
 * booked travel for fluent
 * sent receipts to fluent
 * attended [community call meeting](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
-* wrote fluent brief talk and title
+* wrote [fluent brief talk and title](../proposals/18-06-fluent.md)
 * wrote back to applicants who emailed over the weekend
 * drafted email to host organization leads about dates and details
 * got amira a ton of stats about fellows and twain
