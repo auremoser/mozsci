@@ -1017,23 +1017,46 @@
 * cleaned up [ama etherpad](https://public.etherpad-mozilla.org/p/2018-fellowship-ama)
 * gave talk at Sage Assembly
 * responded to a lot of recruitment emails
+
+
+## 4/20-21
+* Sage assembly
 * fixed up folders in our [2018 recruitment strategy](https://drive.google.com/drive/folders/1qnEivBB2YGc8jOuGQntKxoo0JOlACfdO)
+* filled out [all hands booking](https://docs.google.com/forms/d/e/1FAIpQLSdO6DhEb1vnwB1HyT9Vi_eo9sUl3wa8u1CqAIxu747whdAYvA/formResponse)
+* reviewed [alan's application pull request](https://github.com/mozilla/foundation.mozilla.org/pull/1441#pullrequestreview-114227015)
+
+## 4/23
+* booked travel for fluent
+* sent receipts to fluent
+* attended [community call meeting](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
+* wrote fluent brief talk and title
+* wrote back to applicants who emailed over the weekend
+* drafted email to host organization leads about dates and details
+* got amira a ton of stats about fellows and twain
+* meeting with AMC about applicant stuff
+* updated [bookings spreadsheet with more info](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1750118559)
+* sent matching details and date arrangements to 11 host orgs
+* approved spitfire bill 1/2
+* submitted request for [professional development funding](https://docs.google.com/forms/d/e/1FAIpQLSdXWN7UwH4cksmHO1AavDsAU5eBpN0icG31dH0L-GMskz35wQ/formResponse) for spitfire consulting to HR
+
 
 
 
 
 
 ## TODO
+* update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
 * manage fluxx [requests](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#heading=h.y3080ax9s5u4) for attachments
 * test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
 	* add tips for recommenders to FAQ
 	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
+	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
 * flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
 	* [protect our spaces](https://protectourspaces.org/)
 	* 
 
-* professional development
-* flight for fluent
+* professional development request submission to HR for 2,000K
+
 
 **KITS**
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
