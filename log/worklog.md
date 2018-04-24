@@ -1046,6 +1046,10 @@
 * [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * Leadership programs meeting [notes](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit?usp=sharing)
 * responded to [apply page issue](https://github.com/mozilla/foundation.mozilla.org/issues/1135)
+* canceled grants meeting
+* [baneful medicine exhibition](https://www.eventbrite.com/e/baneful-medicine-lecture-discussion-tickets-44841942457)
+* prepped [monthly staff call etherpad](https://docs.google.com/document/d/1ur-JSaz8D8I-J12eVSAUWg-Zkn7SrKvQhZUp9aP7WGA/edit)
+* got [planning doc](https://docs.google.com/document/d/1ur-JSaz8D8I-J12eVSAUWg-Zkn7SrKvQhZUp9aP7WGA/edit?usp=sharing) for call together
 
 
 
@@ -1053,6 +1057,9 @@
 
 
 ## TODO
+* Maybe follow-up with Abby about DD
+* Update email to reviewers with auto-warn fluxx
+
 * update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
 * manage fluxx [requests](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#heading=h.y3080ax9s5u4) for attachments
 * test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
