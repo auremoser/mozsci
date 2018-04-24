@@ -1038,6 +1038,14 @@
 * sent matching details and date arrangements to 11 host orgs
 * approved spitfire bill 1/2
 * submitted request for [professional development funding](https://docs.google.com/forms/d/e/1FAIpQLSdXWN7UwH4cksmHO1AavDsAU5eBpN0icG31dH0L-GMskz35wQ/formResponse) for spitfire consulting to HR
+* updated [issue](https://github.com/mozilla/foundation.mozilla.org/issues/1135#issuecomment-383725323)
+
+## 4/24
+* [ok3 open call](https://docs.google.com/document/d/1rprTuBCitxT2wt2HOA93dlAH6BUOCrJCv82Gpz9xV7Y/edit)
+* answere lots of back email about offboarding budget, bill.com, 
+* [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* Leadership programs meeting [notes](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit?usp=sharing)
+* responded to [apply page issue](https://github.com/mozilla/foundation.mozilla.org/issues/1135)
 
 
 
