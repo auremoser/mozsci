@@ -1050,13 +1050,32 @@
 * [baneful medicine exhibition](https://www.eventbrite.com/e/baneful-medicine-lecture-discussion-tickets-44841942457)
 * prepped [monthly staff call etherpad](https://docs.google.com/document/d/1ur-JSaz8D8I-J12eVSAUWg-Zkn7SrKvQhZUp9aP7WGA/edit)
 * got [planning doc](https://docs.google.com/document/d/1ur-JSaz8D8I-J12eVSAUWg-Zkn7SrKvQhZUp9aP7WGA/edit?usp=sharing) for call together
+* updated [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1750118559)
+* added details to [amy's feedback doc](https://docs.google.com/document/d/1UsmavYhLEwqiuGGMuD6SwpYY16nzHIj187kJksUAG0k/edit)
 
-
-
+## 4/25-26
+* [staff call](https://docs.google.com/document/d/1ur-JSaz8D8I-J12eVSAUWg-Zkn7SrKvQhZUp9aP7WGA/edit) + [slides](https://docs.google.com/presentation/d/1dfY8wqxKX4Dw3UAUn8OW7CZGaK9nEU_XwOr4oVn-YSQ/edit#slide=id.g32f15330eb_1_36) + [agenda](https://docs.google.com/document/d/1sQ4P5WYKqw6KoMdmHZx-FjVEudbPBl1y-Vx4pkoKx14/edit)
+* [fellowships team call](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+* proposal about aleks to AP and RT
+* application triage to reviewers with notes
+* updated [bookings spreadsheet with more info](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1750118559)
+* sent response to Derechos about options
+* filled out Mozilla Research grant recommendation for Monica
+* wrote about summer institute alternative
+* meeting with Sarah + Emily for monthly [checkin](https://public.etherpad-mozilla.org/p/project-checkin-sarah)
+* fleshed out etherpads with [run of show for offboarding](https://public.etherpad-mozilla.org/p/open-web-offboarding)
+* sent out etherpads for fellows' calls tomorrow
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-4-27)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-4-27)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-27)
+* rachel coldicutt meeting with dot.everyone, solicited [internet reports](http://understanding.doteveryone.org.uk/) facilitated connection to Solana
 
 
 
 ## TODO
+- spitfire needs to be notified about [run of show](https://docs.google.com/document/d/1Qy4PdIyOTIsEnoMh-mVk6dN6wIO3DTxXYUsDS32b-64/edit)
+- send invite to ford and fellows for dinner @Ilili
+
 * Maybe follow-up with Abby about DD
 * Update email to reviewers with auto-warn fluxx
 
@@ -1079,7 +1098,6 @@
 
 **OUTREACH**
 * update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
-	* Hmmm.. what do you think about re-inviting those who have only applied once?
 * get travel for fluent conference
 * review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
 
