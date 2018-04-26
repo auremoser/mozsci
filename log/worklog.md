@@ -1069,7 +1069,9 @@
 	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-4-27)
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-27)
 * rachel coldicutt meeting with dot.everyone, solicited [internet reports](http://understanding.doteveryone.org.uk/) facilitated connection to Solana
-
+* updated my [okr2 open call slides]
+(https://docs.google.com/presentation/d/1o30zWcHUnaJMTZi70IXKeAqjcSU-WzCqhYO6_2uLpA0/edit?ts=5ace9000#slide=id.g2b2dc27332_0_8)
+* updated my okr reporting [details](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
 
 ## TODO
