@@ -1077,14 +1077,32 @@
 
 * updated [fellows call issue](https://github.com/auremoser/mozsci/issues/4) passed to arliss
 * fellows calls
-
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-4-27]
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-4-27]
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-4-27]
+* added contact to invite list for Ford even
+* responded to some Bill.com issues
+* updated CR terms
+* corresponded with Arvind about offboarding
+* corresponded with Becca about arrangements and management at HR
+* application review
+* sent report to HB
+* reading applications
 
 
 ## TODO
 - spitfire needs to be notified about [run of show](https://docs.google.com/document/d/1Qy4PdIyOTIsEnoMh-mVk6dN6wIO3DTxXYUsDS32b-64/edit)
 - send invite to ford and fellows for dinner @Ilili
 
-* Maybe follow-up with Abby about DD
+
+- citizen lab
+- end of august for paper
+* Maybe follow-up with Abby about DD, work auth for UK, and [grant report requirement](https://docs.google.com/document/d/1mbItsaGipT_YewJs8GJS6w7Ht6oeYt_wpRW3d8bqmOA/edit) for hosts?
+- go unpaid - once you start new contract - terminate the fellowship
+- perhaps finish the paper - send us your project when it's done, continue calling your self a mozilla fellow until june 30
+- not pay him
+- amend contract for end dates - continue to be considered a Mozilla fellow until, continue to pay for travel through July 25th ? Paper
+
 * Update email to reviewers with auto-warn fluxx
 
 * update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
@@ -1096,9 +1114,6 @@
 * flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
 	* [protect our spaces](https://protectourspaces.org/)
 	* 
-
-* professional development request submission to HR for 2,000K
-
 
 **KITS**
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
