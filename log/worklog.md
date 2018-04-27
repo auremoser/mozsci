@@ -1073,6 +1073,12 @@
 (https://docs.google.com/presentation/d/1o30zWcHUnaJMTZi70IXKeAqjcSU-WzCqhYO6_2uLpA0/edit?ts=5ace9000#slide=id.g2b2dc27332_0_8)
 * updated my okr reporting [details](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
+## 4/27
+
+* updated [fellows call issue](https://github.com/auremoser/mozsci/issues/4) passed to arliss
+* fellows calls
+
+
 
 ## TODO
 - spitfire needs to be notified about [run of show](https://docs.google.com/document/d/1Qy4PdIyOTIsEnoMh-mVk6dN6wIO3DTxXYUsDS32b-64/edit)
