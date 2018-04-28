@@ -1088,6 +1088,8 @@
 * application review
 * sent report to HB
 * reading applications
+* followed up on offboarding bookings and contacts for [host organizations](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
+* updated [invite list for ford event](https://docs.google.com/spreadsheets/d/1DxtxZ1kc0lKljR3tj5XFSp9ChF9rKnrsyW39VBeZV2A/edit#gid=0)
 
 
 ## TODO
@@ -1126,10 +1128,6 @@
 
 **UPDATES**
 
-* to kalpana:
-	1) Final list of reviewers + their emails [from this reviewer sheet](https://docs.google.com/document/d/1OD5zkJC_jiXeRv4k5D3TNdC84LsBqUA0GKbPQmIkXNA/edit)
-	2) FLUXX Reviewer Email Copy (in case we don't want to use the standard in fluxx)
-	3) Final Review Form (i.e. what it will look like in Fluxx) ex. the questions with scoring sample.
 * update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
 * fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
 * finish up host org matching docs in drive_web
