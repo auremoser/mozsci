@@ -1091,6 +1091,7 @@
 * followed up on offboarding bookings and contacts for [host organizations](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
 * updated [invite list for ford event](https://docs.google.com/spreadsheets/d/1DxtxZ1kc0lKljR3tj5XFSp9ChF9rKnrsyW39VBeZV2A/edit#gid=0)
 * attempted to generate ad-hoc reports about fellowships from KS's instructions
+* [quant humanism site looks awesome](https://joeyklee.github.io/quant-humanists-2018/)
 
 
 ## TODO
