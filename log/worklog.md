@@ -1092,6 +1092,7 @@
 * updated [invite list for ford event](https://docs.google.com/spreadsheets/d/1DxtxZ1kc0lKljR3tj5XFSp9ChF9rKnrsyW39VBeZV2A/edit#gid=0)
 * attempted to generate ad-hoc reports about fellowships from KS's instructions
 * [quant humanism site looks awesome](https://joeyklee.github.io/quant-humanists-2018/)
+* added [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
 
 
 ## TODO
