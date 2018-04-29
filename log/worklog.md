@@ -1094,6 +1094,7 @@
 * [quant humanism site looks awesome](https://joeyklee.github.io/quant-humanists-2018/)
 * added [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
 * sent recommendation for Sucheta for Mozilla research grant
+* updated [global sprint map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
 
 
 ## TODO
