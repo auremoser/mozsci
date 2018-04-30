@@ -1096,6 +1096,7 @@
 * sent recommendation for Sucheta for Mozilla research grant
 * updated [global sprint map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
 * updated Sage notes and sent out assembly recap
+* updated [rsvps for ignacio](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
 
 
 ## TODO
