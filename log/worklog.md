@@ -1095,19 +1095,27 @@
 * added [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
 * sent recommendation for Sucheta for Mozilla research grant
 * updated [global sprint map](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
+* updated Sage notes and sent out assembly recap
 
 
 ## TODO
+* [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
+* [sustainability for fellows](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
+
+
+
+* pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
 - spitfire needs to be notified about [run of show](https://docs.google.com/document/d/1Qy4PdIyOTIsEnoMh-mVk6dN6wIO3DTxXYUsDS32b-64/edit)
 - send invite to ford and fellows for dinner @Ilili
 
+- [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
 
+MARB
 - citizen lab
 - end of august for paper
 * Maybe follow-up with Abby about DD, work auth for UK, and [grant report requirement](https://docs.google.com/document/d/1mbItsaGipT_YewJs8GJS6w7Ht6oeYt_wpRW3d8bqmOA/edit) for hosts?
 - go unpaid - once you start new contract - terminate the fellowship
 - perhaps finish the paper - send us your project when it's done, continue calling your self a mozilla fellow until june 30
-- not pay him
 - amend contract for end dates - continue to be considered a Mozilla fellow until, continue to pay for travel through July 25th ? Paper
 
 * Update email to reviewers with auto-warn fluxx
@@ -1120,7 +1128,7 @@
 	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
 * flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
 	* [protect our spaces](https://protectourspaces.org/)
-	* 
+
 
 **KITS**
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
