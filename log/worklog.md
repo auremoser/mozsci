@@ -1098,9 +1098,19 @@
 * updated Sage notes and sent out assembly recap
 * updated [rsvps for ignacio](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=1312421336)
 
+## 4/28
+* email followup with Rishab and Jen Carig
+* fleshed out [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* followed up on PR thread, and on edits to various docs
+
 
 ## TODO
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
+
+* redo [owf talking points]()
+
+* fix okr 2 slides
+
 * [sustainability for fellows](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
 
 
@@ -1118,6 +1128,7 @@ MARB
 - go unpaid - once you start new contract - terminate the fellowship
 - perhaps finish the paper - send us your project when it's done, continue calling your self a mozilla fellow until june 30
 - amend contract for end dates - continue to be considered a Mozilla fellow until, continue to pay for travel through July 25th ? Paper
+- continuing to be a Mozilla Fellow until July 25th, his LDAP (email and Slack access) will be active until that date as well. 
 
 * Update email to reviewers with auto-warn fluxx
 
@@ -1152,6 +1163,7 @@ https://mzl.la/cc-site-2018 - link to all slides/materials
 https://mzl.la/cc-2018 - link to all code
 
 **OFFBOARDING 2018**
+* [Offboarding Checklist](https://docs.google.com/spreadsheets/d/1rgR9nD-ee0Fg-ybEjxz11NTqaGpUmDktu4eZ2wOlP7E/edit?ts=5ae9d328#gid=0)
 * Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
 	* Maya Wagoner (Brooklyn Public Library
 	* Carlos Guerra (Derechos * Digitales)
