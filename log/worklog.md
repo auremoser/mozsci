@@ -1102,9 +1102,37 @@
 * email followup with Rishab and Jen Carig
 * fleshed out [1:1 notes](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * followed up on PR thread, and on edits to various docs
+* [1:1 with amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* Respond to alberto with a followup on Derechos this week
+* updated slides for [okr call](https://docs.google.com/presentation/d/1LFq1WDPZ81TGt_Ok3hz9GLlimdcnxywfhnpsngp3VV4/edit#slide=id.g3996c8682f_2_11)
+* got back to Masashi about alumni attendance at CLSI
+* put together super hero [slides](https://docs.google.com/presentation/d/1LFq1WDPZ81TGt_Ok3hz9GLlimdcnxywfhnpsngp3VV4/edit#slide=id.g3996c8682f_2_11)
 
+## 5/3
+* okr 2 [notes](https://docs.google.com/document/d/1_rL12JppqLEL__2HRZ6pK_gqRf0r_WaCa7hrDBdoGDk/edit#) + [slides](https://docs.google.com/presentation/d/1LFq1WDPZ81TGt_Ok3hz9GLlimdcnxywfhnpsngp3VV4/edit#slide=id.g39268b76a2_0_3478)
+* fleshed out [okr notes doc](https://docs.google.com/document/d/1Un0NC-ciZ8TDqyvDAooGFHbgh_WaP2PiFqiYRl5Ovx8/edit?ts=5aeb74e5)
+* worked on READMEs for hosts, and drive folder for applicants
+* put together updated fluxx docs
+
+## 5/4
+* sent scholarship for CLSI details to 3 alumni
+* responded to masashi
+* drafted note to team and ran by amy
+* generate TP report of reviews
+* reviewed [event invite doc](https://docs.google.com/document/d/1kmHXWEzyHpCPEBIOFV3rQ0hpFvThSyRGLkGPICniNr0/edit)
 
 ## TODO
+
+
+* MAY 9 SPITFIRE OUTLINES
+* MAY 10 [roles and responsiblities](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#)
+
+
+* email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
+
+* FOR CORI you can go into Fluxx and pull the application out of external review. this should pull it out of her queue. Then you can reassign yourself and send it back to external review
+
+
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
 * redo [owf talking points]()
