@@ -1126,6 +1126,7 @@
 ## 5/7
 * approved flights and moved to [budget sheet](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * finished out [email templates](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.pjmbfnq42kks) for amy
+* updated [miniafrica tour etherpad](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour) with places to go
 
 ## TODO
 
