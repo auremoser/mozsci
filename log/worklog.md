@@ -1129,6 +1129,7 @@
 * updated [miniafrica tour etherpad](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour) with places to go
 * MAY 10 [roles and responsiblities](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#) doc update and details
 * updated the [global sprint map for zannah](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
+* sent fellows talk updates to Spitfire for consideration of track change notes
 
 ## TODO
 
