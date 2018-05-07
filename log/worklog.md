@@ -1127,12 +1127,14 @@
 * approved flights and moved to [budget sheet](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * finished out [email templates](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.pjmbfnq42kks) for amy
 * updated [miniafrica tour etherpad](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour) with places to go
+* MAY 10 [roles and responsiblities](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#) doc update and details
+* updated the [global sprint map for zannah](https://auremoser.carto.com/builder/4096455f-09f9-4176-bf24-c210edb7e239/embed)
 
 ## TODO
 
 
 * MAY 9 SPITFIRE OUTLINES
-* MAY 10 [roles and responsiblities](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#)
+
 * email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
 * FOR CORI you can go into Fluxx and pull the application out of external review. this should pull it out of her queue. Then you can reassign yourself and send it back to external review
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
@@ -1163,6 +1165,7 @@ MARB
 **KITS**
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
 * [fundraising toolkit](https://docs.google.com/presentation/d/1DDBRJUdAkUFFwrlh4hMud92SLA9I7IcQrIyPwy90-8s/edit#slide=id.g34d60b9f3c_0_122)
+* [mofo fellows activity mapping 2017-2018](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#heading=h.8i45pm2au5ms)
 
 **OUTREACH**
 * update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
