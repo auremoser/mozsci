@@ -1120,33 +1120,24 @@
 * drafted note to team and ran by amy
 * generate TP report of reviews
 * reviewed [event invite doc](https://docs.google.com/document/d/1kmHXWEzyHpCPEBIOFV3rQ0hpFvThSyRGLkGPICniNr0/edit)
+* updates to CLSI fellows for booking travel
+* fixed up flight details with [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=86325608)
+
+## 5/7
+* approved flights and moved to [budget sheet](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* finished out [email templates](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.pjmbfnq42kks) for amy
 
 ## TODO
 
 
 * MAY 9 SPITFIRE OUTLINES
 * MAY 10 [roles and responsiblities](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#)
-
-
 * email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
-
 * FOR CORI you can go into Fluxx and pull the application out of external review. this should pull it out of her queue. Then you can reassign yourself and send it back to external review
-
-
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
-
-* redo [owf talking points]()
-
-* fix okr 2 slides
-
 * [sustainability for fellows](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
-
-
-
 * pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
-- spitfire needs to be notified about [run of show](https://docs.google.com/document/d/1Qy4PdIyOTIsEnoMh-mVk6dN6wIO3DTxXYUsDS32b-64/edit)
 - send invite to ford and fellows for dinner @Ilili
-
 - [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
 
 MARB
@@ -1157,8 +1148,6 @@ MARB
 - perhaps finish the paper - send us your project when it's done, continue calling your self a mozilla fellow until june 30
 - amend contract for end dates - continue to be considered a Mozilla fellow until, continue to pay for travel through July 25th ? Paper
 - continuing to be a Mozilla Fellow until July 25th, his LDAP (email and Slack access) will be active until that date as well. 
-
-* Update email to reviewers with auto-warn fluxx
 
 * update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
 * manage fluxx [requests](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#heading=h.y3080ax9s5u4) for attachments
@@ -1204,7 +1193,7 @@ https://mzl.la/cc-2018 - link to all code
 * look into hotel block (fellows + host org leads)
 	* spreadsheet  with names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
-	* general [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/
+	* general [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/)
 * swag - watch the watchers / magnets
 * dinner reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
 * [offboarding plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
