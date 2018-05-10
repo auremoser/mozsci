@@ -1151,6 +1151,14 @@
 * sent [hackarnaval](https://hackarnaval.online/) to paris office, followed up with Louis Philipe
 * updated [mou contact information](https://docs.google.com/spreadsheets/d/1gMt3ETRcKHhzDbzAE2B9gRL7x-cYXqpEW0hzbYmmlqE/edit#gid=1696165480)
 * started performance reviews
+* followed up on [bugzilla stuffs](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
+* added questions to the [recruitment doc](https://docs.google.com/document/d/1QAgmv-1a5mtE9QmSNho10H2rZeYgiIMGUHv9nCwEV-A/edit?ts=5af46e13)
+* updated [mozfest bio](https://docs.google.com/spreadsheets/d/1eCbNq1dK2xG5DtYmoMysCGlXb4cf7dlGzIt0u7QnN0g/edit#gid=0)
+* [wrangler call](https://public.etherpad-mozilla.org/p/festival.wranglers2018)
+* put together fellows' etherpads
+	* [g1](https://public.etherpad-mozilla.org/p/2017-fellows-g1-5-11)
+	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-5-11)
+	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-5-11)
 
 ## TODO
 
