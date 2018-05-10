@@ -1123,7 +1123,7 @@
 * updates to CLSI fellows for booking travel
 * fixed up flight details with [budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=86325608)
 
-## 5/7
+## 5/7-8
 * approved flights and moved to [budget sheet](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * finished out [email templates](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.pjmbfnq42kks) for amy
 * updated [miniafrica tour etherpad](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour) with places to go
@@ -1132,11 +1132,30 @@
 * sent fellows talk updates to Spitfire for consideration of track change notes
 * shared email templates with Kalpana
 * assigned trailing applicants to reviewers
+* review maya's bill question
+* 1:1 with Amy
+* finished app review
+
+## 5/9
+* updated global sprint map from [site registrations](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
+* responded with edits to a few emails
+* generated reports for TP and OW
+* fleshed out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
+	* [protect our spaces](https://protectourspaces.org/)
+* updated all readmes with new dates for owf
+* added bug for [host org mous](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
+* [team meeting](https://docs.google.com/document/d/1y6SXEwkR2Z17q23HMXQrb9GAEm5olxiKCsOUEl12f9c/edit)
+ 
+## 5/10
+* followed up on Rsvps with ford event in june
+* sent [hackarnaval](https://hackarnaval.online/) to paris office, followed up with Louis Philipe
+* updated [mou contact information](https://docs.google.com/spreadsheets/d/1gMt3ETRcKHhzDbzAE2B9gRL7x-cYXqpEW0hzbYmmlqE/edit#gid=1696165480)
+* started performance reviews
 
 ## TODO
 
-
-* MAY 9 SPITFIRE OUTLINES
+* agendas for friday meetings
+	* ldaps and onboarding at mozfest?
 
 * email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
 * FOR CORI you can go into Fluxx and pull the application out of external review. this should pull it out of her queue. Then you can reassign yourself and send it back to external review
@@ -1147,6 +1166,13 @@
 - [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
 
 MARB
+- did know him professionally before, good experiences
+- issues: bram had a lot of other professional obligations, employement research during fellowship
+- wanted a final deliverable of this position policy paper on if/how a company can do depacketing bit inspection
+-- paper done when? take off time in the summer
+- more for both sides to experience
+- maturity means he's ready to move earlier
+
 - citizen lab
 - end of august for paper
 * Maybe follow-up with Abby about DD, work auth for UK, and [grant report requirement](https://docs.google.com/document/d/1mbItsaGipT_YewJs8GJS6w7Ht6oeYt_wpRW3d8bqmOA/edit) for hosts?
@@ -1161,8 +1187,7 @@ MARB
 	* add tips for recommenders to FAQ
 	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
 	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
-* flesh out [queer narrative for mozfest](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit?usp=sharing_eil&ts=5ad63e4a)
-	* [protect our spaces](https://protectourspaces.org/)
+
 
 
 **KITS**
