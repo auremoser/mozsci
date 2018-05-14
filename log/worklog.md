@@ -1163,6 +1163,8 @@
 ## 5/14
 * letter to charlie
 * update visa letter for uttam
+* updated sheet for [reviewers and steph](https://docs.google.com/spreadsheets/d/1kZ3fOKBP4w9qms7yAfK1yhteOIGVZDdDxCxGMUXiRy4/edit#gid=1025433619)
+*
 
 
 ## TODO
