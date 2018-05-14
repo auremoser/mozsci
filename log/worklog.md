@@ -1160,6 +1160,11 @@
 	* [g2](https://public.etherpad-mozilla.org/p/2017-fellows-g2-5-11)
 	* [g3](https://public.etherpad-mozilla.org/p/2017-fellows-g3-5-11)
 
+## 5/14
+* letter to charlie
+* update visa letter for uttam
+
+
 ## TODO
 
 * agendas for friday meetings
