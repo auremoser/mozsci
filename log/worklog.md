@@ -1164,18 +1164,42 @@
 * letter to charlie
 * update visa letter for uttam
 * updated sheet for [reviewers and steph](https://docs.google.com/spreadsheets/d/1kZ3fOKBP4w9qms7yAfK1yhteOIGVZDdDxCxGMUXiRy4/edit#gid=1025433619)
-*
+* sent update email on science applicants
+* added feedback to [fluxx doc](https://docs.google.com/document/d/1LfZe1vydRFt8D9fv_NNhywvNVXXthboX5S2oAkLKu88/edit)
+* prepped checkin call with sararah
+* monthly [internal meeting](https://air.mozilla.org/monthly-internal-call-may-2018/)
+* updated [budg docs for additional travel](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* promoted remaining folks to "reviews complete" in fluxx
+* OKR 2 meeting with team
+* passed fellows' outlines to Ford
+
+## 5/15
+* worked through [sustainability for fellows](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
+* emailed bram about dates
+* prepped tickets etc for Paris
+* meeting about hackarnaval
+* stood up for meeting with Sarah :(
+* met with steph about interview prioritization
+* got feedback from JV on some interviews
+* connected orlando with josh for account reset
 
 
 ## TODO
+* fluent conference outline
+* invites to interviews for science
+* finish promotions in fluxx
+* put together invite
+	* draft question
+
+
+* I'm going to promote everyone to "reviews complete" in fluxx, they will be at the 'pending promotion' intermediate stage until we decide who to interview
 
 * agendas for friday meetings
 	* ldaps and onboarding at mozfest?
 
 * email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
-* FOR CORI you can go into Fluxx and pull the application out of external review. this should pull it out of her queue. Then you can reassign yourself and send it back to external review
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
-* [sustainability for fellows](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
+
 * pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
 - send invite to ford and fellows for dinner @Ilili
 - [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
