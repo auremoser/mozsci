@@ -1182,6 +1182,7 @@
 * met with steph about interview prioritization
 * got feedback from JV on some interviews
 * connected orlando with josh for account reset
+* updated budget doc [for fellows](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 
 
 ## TODO
