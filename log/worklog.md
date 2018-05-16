@@ -1188,6 +1188,8 @@
 * [mini africa tour planning](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour)
 * got back to amy and amc about ldap and onboarding stuff from fellows' etherpads
 * [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* met with Stephanie about queering mozfest track
+* updated bugzilla with new contact information for [laura](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
 
 
 ## TODO
