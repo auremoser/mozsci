@@ -1193,11 +1193,11 @@
 * invited ints for sci
 * commented on another [mou bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * responded to Erik about counts for Mozfest
+* [ongoing app process feedback](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
 
 
 ## TODO
 * fluent conference outline
-* invites to interviews for science
 * finish promotions in fluxx
 * put together invite
 	* draft questions
@@ -1208,8 +1208,6 @@
 
 * I'm going to promote everyone to "reviews complete" in fluxx, they will be at the 'pending promotion' intermediate stage until we decide who to interview
 
-* agendas for friday meetings
-	* ldaps and onboarding at mozfest?
 
 * email templates for [applicants](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
