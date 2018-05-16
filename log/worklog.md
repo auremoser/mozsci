@@ -1190,6 +1190,9 @@
 * [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * met with Stephanie about queering mozfest track
 * updated bugzilla with new contact information for [laura](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
+* invited ints for sci
+* commented on another [mou bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* responded to Erik about counts for Mozfest
 
 
 ## TODO
@@ -1197,7 +1200,10 @@
 * invites to interviews for science
 * finish promotions in fluxx
 * put together invite
-	* draft question
+	* draft questions
+* draft blog for tunis
+
+* follow-up with sarah about mozfest house
 
 
 * I'm going to promote everyone to "reviews complete" in fluxx, they will be at the 'pending promotion' intermediate stage until we decide who to interview
