@@ -1184,6 +1184,11 @@
 * connected orlando with josh for account reset
 * updated budget doc [for fellows](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 
+## 5/16
+* [mini africa tour planning](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour)
+* got back to amy and amc about ldap and onboarding stuff from fellows' etherpads
+* [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+
 
 ## TODO
 * fluent conference outline
