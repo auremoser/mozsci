@@ -1195,6 +1195,17 @@
 * responded to Erik about counts for Mozfest
 * [ongoing app process feedback](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
 
+* [fluent talk outline](https://gist.github.com/auremoser/39bdcc890ee5f98d3e7965207b289416)
+
+## 5/17-5/18
+* presentation at Hackarnaval with Amel
+* visit to CRI in Paris to meet with sci lab collaborator
+* updated [kr doc](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5afdb6d4)
+* initial consult with spitfire/hannah
+* meeting with Ford
+* scheduling interviews
+* booked additional arrangments for Tanzania
+
 
 ## TODO
 * fluent conference outline
