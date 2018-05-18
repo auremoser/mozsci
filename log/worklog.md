@@ -1205,6 +1205,7 @@
 * meeting with Ford
 * scheduling interviews
 * booked additional arrangments for Tanzania
+* added to [application review feedback](https://docs.google.com/document/d/1LfZe1vydRFt8D9fv_NNhywvNVXXthboX5S2oAkLKu88/edit)
 
 
 ## TODO
