@@ -1203,18 +1203,24 @@
 * updated [kr doc](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5afdb6d4)
 * initial consult with spitfire/hannah
 * meeting with Ford
+* put together invite and draft questions
 * scheduling interviews
 * booked additional arrangments for Tanzania
 * added to [application review feedback](https://docs.google.com/document/d/1LfZe1vydRFt8D9fv_NNhywvNVXXthboX5S2oAkLKu88/edit)
+* sent update to Jenn from spitfire
+
+## 5/20
+* reviewed [plos paper](https://docs.google.com/document/d/1Z8fZN8mX6HL2BogQVIuG2oCFGp44MUaiPucC95Q_vzc/edit#heading=h.84n65soacye4) + sent edits to Marc
+* worked on invites for interviews
+* worked on spitfire reminders for all fellows
+* responded to partner questions for Open Society + funders
 
 
 ## TODO
-* fluent conference outline
-* finish promotions in fluxx
-* put together invite
-	* draft questions
-* draft blog for tunis
 
+* fluent conference outline
+* finish promotions in fluxx - science
+* draft blog for tunis
 * follow-up with sarah about mozfest house
 
 
