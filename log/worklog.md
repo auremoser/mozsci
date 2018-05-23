@@ -1222,10 +1222,17 @@
 * rsvp'd for hack event in ny for sloam
 * updated [open web itinerary](https://public.etherpad-mozilla.org/p/open-web-offboarding) based on jeans comms training notes
 * followed up with Bryan at Open Society
+* updated run of show details with fellows talks outline
+* more scheduling logistics with ann marie
+* attended some interviews
+* added feedback to my 360 performance review feedback
+* [merged teon's pull request](https://github.com/mozillascience/fellows-class-2016/pull/11)
+* sent email reminders to all fellows for spitfire
 
 
 ## TODO
 
+* make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
 * file a bug for missing django event [site](https://science.mozilla.org/programs/events)
 * update
 * Aure to email exec team with top 6 selections by Friday/Monday + status (Mark, Angela, Ashley) with link to other candidates interviewed
