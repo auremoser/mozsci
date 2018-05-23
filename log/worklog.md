@@ -1209,14 +1209,30 @@
 * added to [application review feedback](https://docs.google.com/document/d/1LfZe1vydRFt8D9fv_NNhywvNVXXthboX5S2oAkLKu88/edit)
 * sent update to Jenn from spitfire
 
-## 5/20
+## 5/20-23
 * reviewed [plos paper](https://docs.google.com/document/d/1Z8fZN8mX6HL2BogQVIuG2oCFGp44MUaiPucC95Q_vzc/edit#heading=h.84n65soacye4) + sent edits to Marc
 * worked on invites for interviews
 * worked on spitfire reminders for all fellows
 * responded to partner questions for Open Society + funders
+* lots of scheduling
+* lots of email and logistics
+* reviewed [dlab agenda for tza]()
+* updated spreadsheets for internal updata on candidates
+* responded to a bunch of candidate emails
+* rsvp'd for hack event in ny for sloam
+* updated [open web itinerary](https://public.etherpad-mozilla.org/p/open-web-offboarding) based on jeans comms training notes
+* followed up with Bryan at Open Society
 
 
 ## TODO
+
+* file a bug for missing django event [site](https://science.mozilla.org/programs/events)
+* update
+* Aure to email exec team with top 6 selections by Friday/Monday + status (Mark, Angela, Ashley) with link to other candidates interviewed
+* Masashi - email about bram
+
+
+* [cc&s call reminder in airmo](https://public.etherpad-mozilla.org/p/CSS-community-call-May-31-2018)
 
 * fluent conference outline
 * finish promotions in fluxx - science
@@ -1290,6 +1306,7 @@ https://mzl.la/cc-2018 - link to all code
 	* Rebecca Ricks (Human Rights Watch)
 	* Sarah Kiden (Research ICT Africa)
 * flesh out [miniafrica tour](https://public.etherpad-mozilla.org/p/2018-miniAfricaTour)
+* tanzania [dlab workshops](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
 * flesh out [science onboarding](https://public.etherpad-mozilla.org/p/2018-offboarding#lineNumber=19) 
 * look into hotel block (fellows + host org leads)
 	* spreadsheet  with names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
@@ -1310,6 +1327,8 @@ https://mzl.la/cc-2018 - link to all code
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email host
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
+
+
 
 **WEBSITE**
 * [new project brief form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPxYeeXK6wog7YBP9qKM-pE7ntnEid54Ikw0CAkdDZxO5Q/viewform)
