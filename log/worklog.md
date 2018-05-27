@@ -1230,7 +1230,13 @@
 * sent email reminders to all fellows for spitfire
 
 
+## 5/27
+* signed up for All hands skill shares
+* got back to MP and some other folks
+
+
 ## TODO
+* send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 
 * make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
 * file a bug for missing django event [site](https://science.mozilla.org/programs/events)
