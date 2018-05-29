@@ -1246,11 +1246,15 @@
 * wrote to abby and rizwan about mou questions
 * added to a bug from [abby](https://bugzilla.mozilla.org/show_bug.cgi?id=1461361)
 * attended CC interview
+* attended [leadership call](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
+* performance review meetings
+* answered [alan's pr](https://github.com/mozilla/science.mozilla.org/issues/663#issuecomment-392906837)
 
 
 
 ## TODO
 
+* move cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
 * update [justify doc]()
 
 * send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
