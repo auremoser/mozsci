@@ -1241,6 +1241,9 @@
 * updated [budget doc](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
 * fleshed out science decisions
 * responded to fellows comments in [5/25 friyay etherpad](https://public.etherpad-mozilla.org/p/2017-fellows-5-25)
+* uploaded [drive picture for all hands](https://drive.google.com/drive/folders/1d0zd_ElzRVHFoZsVrR4Jbos-0tJLGNpu)
+* attended cc interview
+* wrote to abby and rizwan about mou questions
 
 
 
