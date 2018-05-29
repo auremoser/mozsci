@@ -1244,6 +1244,8 @@
 * uploaded [drive picture for all hands](https://drive.google.com/drive/folders/1d0zd_ElzRVHFoZsVrR4Jbos-0tJLGNpu)
 * attended cc interview
 * wrote to abby and rizwan about mou questions
+* added to a bug from [abby](https://bugzilla.mozilla.org/show_bug.cgi?id=1461361)
+* attended CC interview
 
 
 
