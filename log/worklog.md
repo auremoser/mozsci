@@ -1233,9 +1233,21 @@
 ## 5/27
 * signed up for All hands skill shares
 * got back to MP and some other folks
+* added an issues for [broken events](https://github.com/mozilla/science.mozilla.org/issues/663)
+* read over [plos paper](https://www.overleaf.com/10537738kmrzzrkhsnqc#/52233308/)
+* signed up for [all hands skill shares](https://docs.google.com/spreadsheets/d/1L75QCDC7kQ0G91H4Y2pcZ-JjYXB4o2eGTm6x-Fb_oRw/edit#gid=0)
+
+## 5/29
+* updated [budget doc](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* fleshed out science decisions
+* responded to fellows comments in [5/25 friyay etherpad](https://public.etherpad-mozilla.org/p/2017-fellows-5-25)
+
 
 
 ## TODO
+
+* update [justify doc]()
+
 * send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 
 * make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
