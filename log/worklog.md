@@ -1250,11 +1250,23 @@
 * performance review meetings
 * answered [alan's pr](https://github.com/mozilla/science.mozilla.org/issues/663#issuecomment-392906837)
 
+## 5/30
+* worked on science pop justifications
+* advisor call setup
+* responded to some bugzilla alerts for contracts
+* attendance with Dia on interview
+* moved [okr2 call details](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit#)
+* updated [kr goal doc for amy](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
+* updated exec notes docs for all current candidates
+* prepped for staff call
+
+
 
 
 ## TODO
 
-* move cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
+* update [Okr goal doc](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
+* FRIDAY move mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
 * update [justify doc]()
 
 * send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
