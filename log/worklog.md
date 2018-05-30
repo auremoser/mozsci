@@ -1261,13 +1261,16 @@
 * prepped for staff call
 	* [slides](https://docs.google.com/presentation/d/1f7N_vamDKF52ZkrHZHLKwlpukh4FeJz0jehEUF68XWw/edit#slide=id.g3b07438420_5_18)
 	* [agenda](https://docs.google.com/document/d/1KCe7n8hXcUnJDaHvvLFHoqiNk9hXWYjMhWihG0fFcyc/edit)
+* filled out [staff call survey](https://docs.google.com/forms/d/e/1FAIpQLSfz1OJ4q3cFvqW68boIp7P3wr1FVEo-tsYihbBwPX90bxwJXw/formResponse)
+* updated [Okr goal doc](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
+* updated [okr 2 objectives dashboard](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
 
 
 
 ## TODO
 
-* update [Okr goal doc](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
+
 * FRIDAY move mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
 * update [justify doc]()
 
