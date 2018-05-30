@@ -1259,6 +1259,8 @@
 * updated [kr goal doc for amy](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
 * updated exec notes docs for all current candidates
 * prepped for staff call
+	* [slides](https://docs.google.com/presentation/d/1f7N_vamDKF52ZkrHZHLKwlpukh4FeJz0jehEUF68XWw/edit#slide=id.g3b07438420_5_18)
+	* [agenda](https://docs.google.com/document/d/1KCe7n8hXcUnJDaHvvLFHoqiNk9hXWYjMhWihG0fFcyc/edit)
 
 
 
