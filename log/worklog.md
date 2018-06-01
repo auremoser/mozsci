@@ -1284,6 +1284,8 @@
 * submitted [pr](https://github.com/mozilla/advocacy.mozilla.org/pull/536) for a change to close applications on the advocacy site
 * added [eventbrite to email draft for fellows](https://docs.google.com/document/d/1M9VfpUsh-yWx7ahFebWhkLjpMJYoNS-5kovVWviL1iw/edit)
 * sent details to [nasma about amc pilot amendments](https://docs.google.com/document/d/1N_HSIxRdmXUtGqe6DDdLuhCC9fPMjJ4POTLDAAkvyyc/edit?ts=5b0c4c83)
+* updated [ford video shares](https://drive.google.com/drive/folders/1HVNugGPqTO8oh4XdMFvm077YPJ8E5WHR) for fellows' talks
+* updated [review goals](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit?ts=5b10248c)
 
 
 ## TODO
