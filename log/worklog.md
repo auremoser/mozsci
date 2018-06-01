@@ -1265,23 +1265,46 @@
 * updated [Okr goal doc](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit)
 * updated [okr 2 objectives dashboard](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
+## 5/31
+* interviews
+* email [draft review for offboarding](https://docs.google.com/document/d/1M9VfpUsh-yWx7ahFebWhkLjpMJYoNS-5kovVWviL1iw/edit)
+* reviewed AMC's wagtail pages
+* checked in with Aleksandar
+* reminded hosts about dealine for selects
+* updated host select stuff in justify doc
+* closed a bug for missing django event [site](https://science.mozilla.org/programs/events)
+* tweeted about [community call](https://science.mozilla.org/programs/events/community-call-may-31-2-et)
+* assisted with the [cs&s community call](https://public.etherpad-mozilla.org/p/CSS-community-call-May-31-2018)
+* attended owf event funding meeting
+* emailed Nasma about [network gathering](https://docs.google.com/document/d/1N_HSIxRdmXUtGqe6DDdLuhCC9fPMjJ4POTLDAAkvyyc/edit?ts=5b0c4c83)
 
+## 6/1
+* meeting with Amel about [dlab workshops](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
+* started working on foxes for dlab websit
+* submitted [pr](https://github.com/mozilla/advocacy.mozilla.org/pull/536) for a change to close applications on the advocacy site
+* added [eventbrite to email draft for fellows](https://docs.google.com/document/d/1M9VfpUsh-yWx7ahFebWhkLjpMJYoNS-5kovVWviL1iw/edit)
+* sent details to [nasma about amc pilot amendments](https://docs.google.com/document/d/1N_HSIxRdmXUtGqe6DDdLuhCC9fPMjJ4POTLDAAkvyyc/edit?ts=5b0c4c83)
 
 
 ## TODO
+* send out eventbrite to fellow (not on social media)
+* update website with change to close cfp
+* add "others" to [other tab](https://docs.google.com/spreadsheets/d/1nSWArs3WvmaE8qxZ7Wbk8aDfkvts5RpS0-LOrJqctWo/edit#gid=650768783)
 
+* [dlab workshop website](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
+- google form for RSVPs
+- expected audience 
+- venue: DLab
+- website with schedule, description of the events, dates, participants section (fellows, steph, dlab, and google form stuff) links to materials (hold on this), 
+- same structure of the website for wow Pasteur
+- 2 different pages for the different events
+- deadline: Friday June 8th
 
 * FRIDAY move mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
-* update [justify doc]()
 
 * send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 
 * make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
-* file a bug for missing django event [site](https://science.mozilla.org/programs/events)
-* update
-* Aure to email exec team with top 6 selections by Friday/Monday + status (Mark, Angela, Ashley) with link to other candidates interviewed
-* Masashi - email about bram
-
 
 * [cc&s call reminder in airmo](https://public.etherpad-mozilla.org/p/CSS-community-call-May-31-2018)
 
