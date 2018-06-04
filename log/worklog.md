@@ -1297,9 +1297,13 @@
 * answered some questions for celia
 * fleshed out [owf offboarding etherpad with ROS](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 * updated shorlist for exec, pinged amc and amy
+* drafted [invite to ny for aleks](https://docs.google.com/document/d/1yphs8JnGfi-WMzE8IVSJ-N877dsruOaxJLiUVgGs8q4/edit?ts=5a948123) sent to legal
+* emails with spitfire
+* moved mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
+* tweeted about [mozfest](https://docs.google.com/document/d/1-_dszm-7RjtKn8KOF56HDv8NKOmWFWz_2QFEonAfrP4/edit#)
 
 ## TODO
-* MONDAY send out eventbrite to fellow (not on social media)
+
 * add "others" to [other tab](https://docs.google.com/spreadsheets/d/1nSWArs3WvmaE8qxZ7Wbk8aDfkvts5RpS0-LOrJqctWo/edit#gid=650768783)
 
 * [dlab workshop website](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
@@ -1311,13 +1315,11 @@
 - 2 different pages for the different events
 - deadline: Friday June 8th
 
-* FRIDAY move mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
+
 
 * send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 
 * make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
-
-* [cc&s call reminder in airmo](https://public.etherpad-mozilla.org/p/CSS-community-call-May-31-2018)
 
 * fluent conference outline
 * finish promotions in fluxx - science
