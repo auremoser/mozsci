@@ -1286,11 +1286,20 @@
 * sent details to [nasma about amc pilot amendments](https://docs.google.com/document/d/1N_HSIxRdmXUtGqe6DDdLuhCC9fPMjJ4POTLDAAkvyyc/edit?ts=5b0c4c83)
 * updated [ford video shares](https://drive.google.com/drive/folders/1HVNugGPqTO8oh4XdMFvm077YPJ8E5WHR) for fellows' talks
 * updated [review goals](https://docs.google.com/document/d/1w_JSeC_p_PRvAwisCURSCLGG_bqC3Ugwe62GiFhSiFk/edit?ts=5b10248c)
+* asked about advice for queering mozfest in quiltbag slck
+* reminded a few hosts about dates/decsions
+* added to candidate shortlist
+* uploaded more videos to the ford folder
 
+## 6/4
+* sent all videos to ford for Spitfire
+* sent reminder [emails](https://docs.google.com/document/d/1M9VfpUsh-yWx7ahFebWhkLjpMJYoNS-5kovVWviL1iw/edit) to host orgs and fellows
+* answered some questions for celia
+* fleshed out [owf offboarding etherpad with ROS](https://public.etherpad-mozilla.org/p/open-web-offboarding)
+* updated shorlist for exec, pinged amc and amy
 
 ## TODO
-* send out eventbrite to fellow (not on social media)
-* update website with change to close cfp
+* MONDAY send out eventbrite to fellow (not on social media)
 * add "others" to [other tab](https://docs.google.com/spreadsheets/d/1nSWArs3WvmaE8qxZ7Wbk8aDfkvts5RpS0-LOrJqctWo/edit#gid=650768783)
 
 * [dlab workshop website](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
