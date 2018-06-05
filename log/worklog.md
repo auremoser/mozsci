@@ -1312,6 +1312,7 @@
 * [all hands meeting](https://drive.google.com/file/d/1wb0IeZirdczTXfbtAsaHslkfX_tbyYZF/view?ts=5b16afdf)
 * offboarding letter for aleks through legal and signed/sent
 * reviewed the [queering mozfest info](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
+* fleshed out details of alternates for amy
 
 ## TODO
 
