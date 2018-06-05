@@ -1313,6 +1313,7 @@
 * offboarding letter for aleks through legal and signed/sent
 * reviewed the [queering mozfest info](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
 * fleshed out details of alternates for amy
+* sent int requests to top candidates
 
 ## TODO
 
