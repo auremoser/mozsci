@@ -1301,10 +1301,24 @@
 * emails with spitfire
 * moved mozfest cfp to fellows offboarding: https://public.etherpad-mozilla.org/p/open-web-offboarding
 * tweeted about [mozfest](https://docs.google.com/document/d/1-_dszm-7RjtKn8KOF56HDv8NKOmWFWz_2QFEonAfrP4/edit#)
+* updated fellows [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/edit#gid=1527484735)
+* got back to cori and others about code for cancer
+* followed up on "others" to [other tab](https://docs.google.com/spreadsheets/d/1nSWArs3WvmaE8qxZ7Wbk8aDfkvts5RpS0-LOrJqctWo/edit#gid=650768783)
+
+## 6/5
+* met with ann marie - about offboarding stuff - has to be done by june 15th
+* need to bring their office badges + survey
+* meeting with Amy 1:1
+* [all hands meeting](https://drive.google.com/file/d/1wb0IeZirdczTXfbtAsaHslkfX_tbyYZF/view?ts=5b16afdf)
+* offboarding letter for aleks through legal and signed/sent
+* reviewed the [queering mozfest info](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
 
 ## TODO
 
-* add "others" to [other tab](https://docs.google.com/spreadsheets/d/1nSWArs3WvmaE8qxZ7Wbk8aDfkvts5RpS0-LOrJqctWo/edit#gid=650768783)
+* Setup interviews for Friday to check in with candidates
+Visa status
+Happy with host org
+
 
 * [dlab workshop website](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
 - google form for RSVPs
