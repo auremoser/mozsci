@@ -1325,23 +1325,27 @@
 * added [form to tz website](https://docs.google.com/forms/d/1CBrhLQAdZQRI4hdvE9nOtF7K3WBzJP3UrTvDVJ_9XuA/viewform?edit_requested=true)s
 * [queering mozfest meeting](https://docs.google.com/document/d/12vEcphITRX6dLazoRlnpJTH2WP4nXJFWOwKDml2uEbc/edit?ts=5ad63cac#heading=h.njh3e8tg3qtw)
 * calendar invite for MOU discussion with legal team
+* meeting with Bryan from Open Society about fellowships
+* meetin with Diane from CC legal counsel
+* swapped out evelyn for bof attendee at offboarding
+* sent sticker suggestions to amc
+* attended chat with brian nunez :) + juan e-troductions
+* wrote to CH and DS for updates 
+* sent followup for osf call
+* commented on some bill.com requests
+* made rsvp adjustments to wow tanzania site
+* sent [mozfest queer blog post](https://medium.com/@mozfest_queer/oh-deer-mozfest-goes-queer-444711319d48) to kevin and steph
 * 
 
 ## TODO
 * send nasma's proposal along
-* queer mozfest blog post
-* aurelia to do twitter accounts
-* meeting with Bryan from Open Society about fellowships
-* meetin with Diane from CC legal counsel
-
-
-* Setup interviews for Friday to check in with candidates
+* aurelia to do twitter accounts for queering mozfest post
+* ints
 Visa status
 Happy with host org
 
-* make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
 
-* fluent conference outline
+* [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
 * finish promotions in fluxx - science
 * draft blog for tunis
 * follow-up with sarah about mozfest house
@@ -1354,8 +1358,7 @@ Happy with host org
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
 * pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
-- send invite to ford and fellows for dinner @Ilili
-- [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
+
 
 MARB
 - did know him professionally before, good experiences
