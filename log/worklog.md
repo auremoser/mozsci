@@ -1319,9 +1319,21 @@
 	* [site](https://mozillascience.github.io/WOW-TZ/)
 	* [amc's site](https://openscience.splashthat.com/)
 * sent site to amel
-	
+
+## 6/6
+* filled out [all hands bio](https://docs.google.com/document/d/1_QMvvcycvrEzCtBNZkwrc3LXwev_7lw8RWKAQVnhNKE/edit)
+* added [form to tz website](https://docs.google.com/forms/d/1CBrhLQAdZQRI4hdvE9nOtF7K3WBzJP3UrTvDVJ_9XuA/viewform?edit_requested=true)s
+* [queering mozfest meeting](https://docs.google.com/document/d/12vEcphITRX6dLazoRlnpJTH2WP4nXJFWOwKDml2uEbc/edit?ts=5ad63cac#heading=h.njh3e8tg3qtw)
+* calendar invite for MOU discussion with legal team
+* 
 
 ## TODO
+* send nasma's proposal along
+* queer mozfest blog post
+* aurelia to do twitter accounts
+* meeting with Bryan from Open Society about fellowships
+* meetin with Diane from CC legal counsel
+
 
 * Setup interviews for Friday to check in with candidates
 Visa status
