@@ -1314,6 +1314,11 @@
 * reviewed the [queering mozfest info](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
 * fleshed out details of alternates for amy
 * sent int requests to top candidates
+* updated [website for science plannign pad](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
+	* [code](https://github.com/mozillascience/WOW-TZ)
+	* [site](https://mozillascience.github.io/WOW-TZ/)
+	* [amc's site](https://openscience.splashthat.com/)
+	
 
 ## TODO
 
