@@ -1318,6 +1318,7 @@
 	* [code](https://github.com/mozillascience/WOW-TZ)
 	* [site](https://mozillascience.github.io/WOW-TZ/)
 	* [amc's site](https://openscience.splashthat.com/)
+* sent site to amel
 	
 
 ## TODO
@@ -1325,20 +1326,6 @@
 * Setup interviews for Friday to check in with candidates
 Visa status
 Happy with host org
-
-
-* [dlab workshop website](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops)
-- google form for RSVPs
-- expected audience 
-- venue: DLab
-- website with schedule, description of the events, dates, participants section (fellows, steph, dlab, and google form stuff) links to materials (hold on this), 
-- same structure of the website for wow Pasteur
-- 2 different pages for the different events
-- deadline: Friday June 8th
-
-
-
-* send out updates to [owf fellows on offboarding comms training prep + ilili](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 
 * make 2 websites for [DLAB event](https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops) - June 8th
 
