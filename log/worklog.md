@@ -1335,15 +1335,41 @@
 * commented on some bill.com requests
 * made rsvp adjustments to wow tanzania site
 * sent [mozfest queer blog post](https://medium.com/@mozfest_queer/oh-deer-mozfest-goes-queer-444711319d48) to kevin and steph
-* 
+* send nasma's proposal along to exec
+
+## 6/7
+* canceled all friday checkins with current fellows
+* second round ints
+* adjusted WOW tz website for participants
+* attended [wrangler call](https://docs.google.com/document/d/1hSrBi1gLt9_iMABm2eQv9DqhuRVUBPrJSmdd_kF4XvY/edit#)
+* checkin with spitfire on slides
+
+## 6/8
+* spitfire coach meetings
+* spitfire slides sent to ford
+* checkin about ford dinner
+* sent off final choices to exec
+* updated terms of Nasma's contract situation
+
+## 6/11
+* fellows talks at Ford!
+* talk at Fluent
+* created bug for [nasma's event](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059) cc'd abby
+* wrote to ford with tops
+* setup meeting with ford for next week
+* wrote back to enrico about reimbursments and copied josh into an email
+* setup elife [community call](https://public.etherpad-mozilla.org/p/eLife-Community-Call-2018-06-26) + [submitted new event for elife call](https://air.mozilla.org/requests/1718/summary/#new)
+
 
 ## TODO
-* send nasma's proposal along
-* aurelia to do twitter accounts for queering mozfest post
-* ints
-Visa status
-Happy with host org
 
+* blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
+
+* aurelia to do twitter accounts for queering mozfest post
+* rebuild wagtail
+* email hosts with update on process
+
+* email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
 
 * [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
 * finish promotions in fluxx - science
