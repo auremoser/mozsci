@@ -1359,6 +1359,9 @@
 * setup meeting with ford for next week
 * wrote back to enrico about reimbursments and copied josh into an email
 * setup elife [community call](https://public.etherpad-mozilla.org/p/eLife-Community-Call-2018-06-26) + [submitted new event for elife call](https://air.mozilla.org/requests/1718/summary/#new)
+* gave steve song
+* retracted Entertin post from [gmaps]()
+* submitted expense report for all hands
 
 
 ## TODO
