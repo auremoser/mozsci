@@ -1371,6 +1371,7 @@
 * setup airmoz broadcast for e-life call
 * rescheduled meeting with cynthia from hrw
 * rescheduled air mozilla webcast
+* rsvp'd for handbook hackathon on july 25-27th, 2018
 
 
 ## TODO
