@@ -1362,25 +1362,28 @@
 * gave steve song
 * retracted Entertin post from [gmaps]()
 * submitted expense report for all hands
+* emailed hosts with update on process
+* [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988) + [video](https://www.oreilly.com/ideas/you-are-where-geospatial-web-dev-off-the-beaten-map)
+
+## 6/18
+* sent out all emails, setup appointment slots for thursday/friday
+* planning and travel prep for Tanzania
+* setup airmoz broadcast for e-life call
+* rescheduled meeting with cynthia from hrw
+* rescheduled air mozilla webcast
 
 
 ## TODO
 
+* apply to [data4change](https://data4change.workable.com/j/FEADCC5F64)
 * blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
-
 * aurelia to do twitter accounts for queering mozfest post
 * rebuild wagtail
-* email hosts with update on process
-
 * email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
-
-* [fluent conference talk](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/66988)
-* finish promotions in fluxx - science
+* finish promotions in fluxx - science / open seb
 * draft blog for tunis
 * follow-up with sarah about mozfest house
 
-
-* templates for [emails](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif)
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
 * pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
