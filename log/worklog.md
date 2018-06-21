@@ -1393,6 +1393,7 @@
 * bill.com approvals
 * emails about mozfest house arrangments
 * [ford feedback doc on fellows' event](https://docs.google.com/document/d/1JJOCEcHyhNtm4FlNYJwwz-rgitCxulw61Al-fIskR4c/edit)
+* put together rough [fellows calendar year](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit), passed it to Amy
 
 
 
