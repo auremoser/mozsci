@@ -1372,18 +1372,44 @@
 * rescheduled meeting with cynthia from hrw
 * rescheduled air mozilla webcast
 * rsvp'd for handbook hackathon on july 25-27th, 2018
+* created [elife community call link](https://science.mozilla.org/programs/events/community-call-jun-28-11-et)
+* tweet about [e-life community call link](https://elifesciences.org/events/08b40301/community-call-open-source-technology-development-for-science-communications-and-publishing)
+* tanzania prep
+* filled out survey for culture amp
+* applied to [data4change](https://data4change.workable.com/j/FEADCC5F64)
+* follow-up with sarah about mozfest house
+
+## 6/20
+* meeting with dlab and amel for tanzania
+* [onboarding meeting](https://docs.google.com/document/d/1xTgA2Z8wzRHkfSbnZmpSo04kBkrU9q6NLvyxs-jTl9Y/edit)
+* checked in with Stephanie about Queering Mozfest
+* meeting with Kadija
+* contract stuff for Nasma's work [network gathering](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
+* met with Meghan about NYC fellows
+* setup queering mozfest tracking info
+* queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
+
+## 6/21
+* bill.com approvals
+* emails about mozfest house arrangments
+* [ford feedback doc on fellows' event](https://docs.google.com/document/d/1JJOCEcHyhNtm4FlNYJwwz-rgitCxulw61Al-fIskR4c/edit)
+
 
 
 ## TODO
 
-* apply to [data4change](https://data4change.workable.com/j/FEADCC5F64)
-* blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
+* curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
+* queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
+* FOXES
+- aurelia to email about the event, and feedback on the process
+- aurelia to put together calendar dates - Jenny + kickoff call
+* feedback on offboarding event, blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
 * aurelia to do twitter accounts for queering mozfest post
 * rebuild wagtail
 * email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
 * finish promotions in fluxx - science / open seb
 * draft blog for tunis
-* follow-up with sarah about mozfest house
+
 
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
@@ -1413,7 +1439,12 @@ MARB
 	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
 	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
 
-
+**MOZFEST 2018**
+* curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
+* contacts outreach for CFP
+* [medium CFP post](https://medium.com/mozilla-festival/oh-deer-mozfest-goes-queer-444711319d48)
+* [narrative](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
+*  Pia gets 2 spaces, we have 3 stipends total
 
 **KITS**
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
