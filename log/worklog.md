@@ -1394,14 +1394,24 @@
 * emails about mozfest house arrangments
 * [ford feedback doc on fellows' event](https://docs.google.com/document/d/1JJOCEcHyhNtm4FlNYJwwz-rgitCxulw61Al-fIskR4c/edit)
 * put together rough [fellows calendar year](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit), passed it to Amy
+* shared [fellow events calendar with ford](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit)
+* meetings with fellows reminder sent
 
+## 6/22
+* fellows meeting [etherpad]()
+* fellows' foxes
+* date confirmations with ford and neufellows
+* queering mozfest community feedback
+* sent out fellows' foxes  to all
+* promoted all statuses for owf and s in fluxx
+* sent email process to amy and amc and kalpana
 
 
 ## TODO
 
+
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
-* FOXES
 - aurelia to email about the event, and feedback on the process
 - aurelia to put together calendar dates - Jenny + kickoff call
 * feedback on offboarding event, blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
@@ -1495,6 +1505,7 @@ https://mzl.la/cc-2018 - link to all code
 * matthew's [issue about fellowships](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
 
 **REPORTING**
+* [expenses process - 2018](https://docs.google.com/document/d/1eHcGWV4DP3YaDWcKPbeu6oi0ElvmrSpPZKvONyTJ_OU/edit#)
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email host
