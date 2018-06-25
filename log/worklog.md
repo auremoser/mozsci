@@ -1405,6 +1405,8 @@
 * sent out fellows' foxes  to all
 * promoted all statuses for owf and s in fluxx
 * sent email process to amy and amc and kalpana
+* dinner with the fellows
+* prepped the staff call
 
 
 ## TODO
@@ -1523,7 +1525,6 @@ https://mzl.la/cc-2018 - link to all code
 * [OWF hotel blocks](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 
 **OKR 2**
-
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 * [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
