@@ -1397,7 +1397,7 @@
 * shared [fellow events calendar with ford](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit)
 * meetings with fellows reminder sent
 
-## 6/22-24
+## 6/22-27
 * fellows meeting [etherpad](https://public.etherpad-mozilla.org/p/2017-fellows-6-22)
 * fellows' foxes
 * date confirmations with ford and neufellows
@@ -1411,6 +1411,10 @@
 * visited DLab for setup tomorrow
 * responded to Kalpana's questions about email automation
 * started fleshing out [fellows doc mega sheet](https://docs.google.com/document/d/1JRVAePWPOOIKJzKXMk0il1lL8Q4gWWiznqJWAC5c-T4/edit#) for Amy
+* added [creative media award to email template](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#)
+* processed invoice for dlab
+* took fellows to offboarding dinner
+* followed up with leadership [programs meeting](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
 
 
 ## TODO
