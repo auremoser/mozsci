@@ -1397,8 +1397,8 @@
 * shared [fellow events calendar with ford](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit)
 * meetings with fellows reminder sent
 
-## 6/22
-* fellows meeting [etherpad]()
+## 6/22-24
+* fellows meeting [etherpad](https://public.etherpad-mozilla.org/p/2017-fellows-6-22)
 * fellows' foxes
 * date confirmations with ford and neufellows
 * queering mozfest community feedback
@@ -1407,6 +1407,10 @@
 * sent email process to amy and amc and kalpana
 * dinner with the fellows
 * prepped the staff call
+* sent dlab invoice to Josh
+* visited DLab for setup tomorrow
+* responded to Kalpana's questions about email automation
+* started fleshing out [fellows doc mega sheet](https://docs.google.com/document/d/1JRVAePWPOOIKJzKXMk0il1lL8Q4gWWiznqJWAC5c-T4/edit#) for Amy
 
 
 ## TODO
@@ -1464,17 +1468,6 @@ MARB
 * [fundraising toolkit](https://docs.google.com/presentation/d/1DDBRJUdAkUFFwrlh4hMud92SLA9I7IcQrIyPwy90-8s/edit#slide=id.g34d60b9f3c_0_122)
 * [mofo fellows activity mapping 2017-2018](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#heading=h.8i45pm2au5ms)
 
-**OUTREACH**
-* update [amc doc](https://docs.google.com/spreadsheets/d/1PuTT3ZFnxlCMBuswa4G1QsutJOi52UnjinyVYVVyAuo/edit#gid=0)
-* get travel for fluent conference
-* review to-dos from [mb meeting](https://docs.google.com/document/d/10gpjhpOdilzrgql-zE0D9vG-pWPyLyGQPZXA4Rn-w5E/edit#heading=h.yx1dublpjr9n)
-
-**UPDATES**
-
-* update global sprint [map](https://docs.google.com/spreadsheets/d/1-JyApZ-AyBd9XX9vRoqX-zP_XHM-nRa-onWqhgtWcRU/edit#gid=1874859390)
-* fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
-* finish up host org matching docs in drive_web
-
 **TUNIS**
 * draft blog post for tunis
 https://mzl.la/cc-site-2018 - link to all slides/materials
@@ -1496,8 +1489,7 @@ https://mzl.la/cc-2018 - link to all code
 	* spreadsheet  with names + travel dates [AMC](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 	* [agenda](https://public.etherpad-mozilla.org/p/open-web-offboarding)
 	* general [travel budget](https://docs.google.com/spreadsheets/d/1g5NPN5toZSL-ZSJTWMMK5G2tqfKrFT9fFvOOn_wXAwU/)
-* swag - watch the watchers / magnets
-* dinner reservation (Sunday) - https://www.ililinyc.com/ (they have a nice back room that we could reserve, lots of small plate things to share)
+
 * [offboarding plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
 **FELLOWS FLUXX**
@@ -1512,7 +1504,7 @@ https://mzl.la/cc-2018 - link to all code
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
 * flesh out reminder in [host org checkin etherpad](https://public.etherpad-mozilla.org/p/2017-hostorgs) + email host
 * put together [fellows' reporting template](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6f76cf) for aleks + sarah k
-
+* fellows projects [sustainability](https://docs.google.com/document/d/1mtsvCjqfWSaDfuIay__wal7TviCEfwHS6ebcCY_Awso/edit#heading=h.qpv11t89mkgv)
 
 
 **WEBSITE**
