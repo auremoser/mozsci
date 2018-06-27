@@ -1423,8 +1423,11 @@
 * [mofo staff call](https://docs.google.com/document/d/1B5IzsXFd1OvuyRppEPuFbGW1UeTBTRUhZVia7FlCj0s/edit) + [slides](https://docs.google.com/presentation/d/1oCkPkFrKmFJpCdAQUmjh60nROIsIBCcE21ba4MOvWsM/edit?ts=5b321efe#slide=id.g3a307d289a_0_26)
 * responded to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
 * PTO request
-* cleared bug
-* reviewed open science [blog post](https://docs.google.com/document/d/1FfZGQT4k7DOnod0sI8mxtqIslMxxcb_aeIYlLQd8fm4/edit)
+* cleared bug + [addendum bof](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* reviewed orlando's [blog post](https://docs.google.com/document/d/1FfZGQT4k7DOnod0sI8mxtqIslMxxcb_aeIYlLQd8fm4/edit)
+* cleared bill.com requests
+* added notes for ["questions for abigaile doc"](https://docs.google.com/document/d/1czfQ-cTK95RZvg-O0WYlbSsFtayqnv3IIr3N9aMurls/edit?ts=5b33b9c6)
+* created stub docuement for [okr working group 2: consolidated calendar team](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit)
 
 OFFBOARDING - SCIENCE
 
@@ -1437,6 +1440,8 @@ OFFBOARDING - SCIENCE
 
 
 ## TODO
+
+* update okr doc
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
 * get back to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
@@ -1492,6 +1497,8 @@ MARB
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
 * [fundraising toolkit](https://docs.google.com/presentation/d/1DDBRJUdAkUFFwrlh4hMud92SLA9I7IcQrIyPwy90-8s/edit#slide=id.g34d60b9f3c_0_122)
 * [mofo fellows activity mapping 2017-2018](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#heading=h.8i45pm2au5ms)
+* [right link for contracts and bugs in bugzilla](https://bugzilla.mozilla.org/enter_bug.cgi?product=Mozilla%20Foundation%20Oper
+ations)
 
 **TUNIS**
 * draft blog post for tunis
