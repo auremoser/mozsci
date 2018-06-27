@@ -1320,6 +1320,7 @@
 	* [amc's site](https://openscience.splashthat.com/)
 * sent site to amel
 
+
 ## 6/6
 * filled out [all hands bio](https://docs.google.com/document/d/1_QMvvcycvrEzCtBNZkwrc3LXwev_7lw8RWKAQVnhNKE/edit)
 * added [form to tz website](https://docs.google.com/forms/d/1CBrhLQAdZQRI4hdvE9nOtF7K3WBzJP3UrTvDVJ_9XuA/viewform?edit_requested=true)s
@@ -1415,10 +1416,30 @@
 * processed invoice for dlab
 * took fellows to offboarding dinner
 * followed up with leadership [programs meeting](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
+* data lab website
+* responded to Lucie about Mozfest house reservations
+* processed invoice for DLab
+* gave bram letter details for departing from fellowship
+* [mofo staff call](https://docs.google.com/document/d/1B5IzsXFd1OvuyRppEPuFbGW1UeTBTRUhZVia7FlCj0s/edit) + [slides](https://docs.google.com/presentation/d/1oCkPkFrKmFJpCdAQUmjh60nROIsIBCcE21ba4MOvWsM/edit?ts=5b321efe#slide=id.g3a307d289a_0_26)
+* responded to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
+* PTO request
+* cleared bug
+* reviewed open science [blog post](https://docs.google.com/document/d/1FfZGQT4k7DOnod0sI8mxtqIslMxxcb_aeIYlLQd8fm4/edit)
+
+OFFBOARDING - SCIENCE
+
+* https://public.etherpad-mozilla.org/p/2018-offboarding
+* https://public.etherpad-mozilla.org/p/tanzania-dLab-workshops
+* https://openscience.splashthat.com/
+* https://mozillascience.github.io/WOW-TZ/
+* open science day: https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#heading=h.r3uyrfr9fzs3
+
 
 
 ## TODO
-
+* mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
+* revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
+* get back to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
 
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
