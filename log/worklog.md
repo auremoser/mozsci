@@ -1428,6 +1428,9 @@
 * cleared bill.com requests
 * added notes for ["questions for abigaile doc"](https://docs.google.com/document/d/1czfQ-cTK95RZvg-O0WYlbSsFtayqnv3IIr3N9aMurls/edit?ts=5b33b9c6)
 * created stub docuement for [okr working group 2: consolidated calendar team](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit)
+* responded to [bof bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* reviewed [checklist with the fellows](https://docs.google.com/spreadsheets/d/178Pc6BovFvP5pm5pfenkjv1eZGVZfpYHmLki5p4nHaU/edit#gid=354415497)
+* made [bof grant reporting template](https://docs.google.com/document/d/1PFzn1nokSi2wXVb3AKm8N1lSTjfjgXecbtKxiB7RqrI/edit)
 
 OFFBOARDING - SCIENCE
 
