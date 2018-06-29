@@ -1441,6 +1441,8 @@ OFFBOARDING - SCIENCE
 * https://mozillascience.github.io/WOW-TZ/
 * open science day: https://docs.google.com/document/d/1xFH_l1ijQlKE96QZ3aNbA_kRE2NgQALDP0Qhu7RgRt0/edit#heading=h.r3uyrfr9fzs3
 
+## 7/29/18
+* updated [allied media bugzilla](https://bugzilla.mozilla.org/process_bug.cgi)
 
 
 ## TODO
