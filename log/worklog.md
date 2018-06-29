@@ -1444,6 +1444,9 @@ OFFBOARDING - SCIENCE
 ## 7/29/18
 * updated [allied media bugzilla](https://bugzilla.mozilla.org/process_bug.cgi)
 * [workshop/code camp](https://openscience.splashthat.com/) for tanzanian teens: https://mzl.la/cc-2018
+* reviewed [bof contract](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* fluxx and emails
+
 
 
 ## TODO
