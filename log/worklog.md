@@ -1447,13 +1447,17 @@ OFFBOARDING - SCIENCE
 * reviewed [bof contract](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * fluxx and emails
 
+
 ## 7/5/18
 * [wrangler call](https://docs.google.com/document/d/1hSrBi1gLt9_iMABm2eQv9DqhuRVUBPrJSmdd_kF4XvY/edit#)
-* [index call]()
+* [index call](https://docs.google.com/document/d/1JRVAePWPOOIKJzKXMk0il1lL8Q4gWWiznqJWAC5c-T4/edit#)
 * fixed my github rsa key issue finally
+* [checklist](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1wrn33k8yf73b#attid%253Datt_1646bbb1309a2271_0.1_f_jj8w64u50) + [checklist 2]()
+* updated okr [doc for June](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
 ## TODO
 * email to host orgs post mortem
+
 
 * update okr doc
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
