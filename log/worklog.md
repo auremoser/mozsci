@@ -1455,6 +1455,10 @@ OFFBOARDING - SCIENCE
 * [checklist](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1wrn33k8yf73b#attid%253Datt_1646bbb1309a2271_0.1_f_jj8w64u50) + [checklist 2]()
 * updated okr [doc for June](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 
+## 7/6/18
+* intertech meeting about queering mozfest - notes in calendar invite
+* emailed sarah + steph about intertech update
+
 ## TODO
 * email to host orgs post mortem
 
