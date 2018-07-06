@@ -1459,6 +1459,7 @@ OFFBOARDING - SCIENCE
 * intertech meeting about queering mozfest - notes in calendar invite
 * emailed sarah + steph about intertech update
 * [fellows' expenses meetings](https://docs.google.com/document/d/1eHcGWV4DP3YaDWcKPbeu6oi0ElvmrSpPZKvONyTJ_OU/edit#)
+* science [fellows' contracts moved forward](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
 
 ## TODO
 * email to host orgs post mortem
