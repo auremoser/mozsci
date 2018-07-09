@@ -1460,12 +1460,26 @@ OFFBOARDING - SCIENCE
 * emailed sarah + steph about intertech update
 * [fellows' expenses meetings](https://docs.google.com/document/d/1eHcGWV4DP3YaDWcKPbeu6oi0ElvmrSpPZKvONyTJ_OU/edit#)
 * science [fellows' contracts moved forward](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
+* shared [file on fellows' finances](https://drive.google.com/drive/u/0/folders/1dmbMchV1v0rxsIH2mg8PyU-JH61L9kny)
+* made twitter AMA suggestions to kristina in [mozfest blog](https://docs.google.com/document/d/1huyAptp9NwZOAdsKmi_012We7MBMG7okxupBiti9P2Y/edit?ts=5b3f9bf6)
+* meeting with Kristina Gorr about queering mozfest comms
+* sent ann marie templates
+* meeting with amy about calendar consolidation
+& [notes](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit)
+* update okr doc
+
+## 7/9/18
+* updated [contracts bug for owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632)
+* meeting with ann marie
+* emails to some of the fellows
+* reviewed [transition documentation](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
+
 
 ## TODO
 * email to host orgs post mortem
 
 
-* update okr doc
+
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
 * get back to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
@@ -1481,6 +1495,9 @@ OFFBOARDING - SCIENCE
 * finish promotions in fluxx - science / open seb
 * draft blog for tunis
 
+* [contracts bug - science](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
+* [contracts bug - owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632)
+* [host orgs](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
