@@ -1473,11 +1473,21 @@ OFFBOARDING - SCIENCE
 * meeting with ann marie
 * emails to some of the fellows
 * reviewed [transition documentation](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
+* sent feedback followups to all top apps/requests
+* okr brief meeting
+* team coworking time with amy/ann marie
+* completed exit [survey](https://docs.google.com/forms/d/e/1FAIpQLSeEv0hEP4EGh9cSDfT8mX9hJvE-ZJ8j0T1r39yUbmGiDAptxw/formResponse)
+
+## 7/10/18
+* updated [study group map](https://auremoser.carto.com/builder/95be417c-ac31-11e6-b906-0ef7f98ade21/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B25.610303288306632%2C-60.40081501007081%5D%2C%22sw%22%3A%5B66.28828366245656%2C64.75543498992921%5D%2C%22center%22%3A%5B50.041957015583286%2C2.1773099899291997%5D%2C%22zoom%22%3A4%7D%7D)
+* sent out tech ex candidates
+* gave feedback to hang about her venn more project
+* confirmed numbers with Erik for 
 
 
 ## TODO
 * email to host orgs post mortem
-
+* update [science website content](https://docs.google.com/document/d/1qZsSfyho2v5eyKI_DXSKqVASIzrp4bauQvF-Qzr8F-0/edit#heading=h.lamtxnh56rg) + clone for [owf]
 
 
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
