@@ -1482,11 +1482,19 @@ OFFBOARDING - SCIENCE
 * updated [study group map](https://auremoser.carto.com/builder/95be417c-ac31-11e6-b906-0ef7f98ade21/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B25.610303288306632%2C-60.40081501007081%5D%2C%22sw%22%3A%5B66.28828366245656%2C64.75543498992921%5D%2C%22center%22%3A%5B50.041957015583286%2C2.1773099899291997%5D%2C%22zoom%22%3A4%7D%7D)
 * sent out tech ex candidates
 * gave feedback to hang about her venn more project
-* confirmed numbers with Erik for 
+* confirmed numbers with Erik for hotels for mozfest
+* [1:1](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* [leadership call](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit)
+* added feedback to the [fellows at mozfest doc](https://docs.google.com/document/d/1sUyq1ksbpJQCGqSCj2GgYY-YVgGJZMgNNyXCr_WjdGQ/edit#)
+
+## 7/11/18
+* setup handbook [hackathon template](https://docs.google.com/presentation/d/1wfB-Z4LB60sBeXi0BQLeEV1Cyz-DTp6ewGsH25_8B7I/edit#slide=id.g3a5e1aac9d_0_36)
 
 
 ## TODO
 * email to host orgs post mortem
+- thank you, more details shortly, thanks for signing mous, all fellows have verbally accepted offers, but we're still processing their contracts, onboarding in toronto dates, start first week in september, i'll followup with an e-troduction, host org event preceding mozfest - ann marie + amy
+* transfer documents
 * update [science website content](https://docs.google.com/document/d/1qZsSfyho2v5eyKI_DXSKqVASIzrp4bauQvF-Qzr8F-0/edit#heading=h.lamtxnh56rg) + clone for [owf]
 
 
