@@ -1503,6 +1503,7 @@ OFFBOARDING - SCIENCE
 * tweeted about [grants admin job](https://careers.mozilla.org/position/gh/1243970)
 * sent template email to amy and ann marie for review
 * contracts adjustment to transition doc
+* made [etherpad for host org feedback](https://public.etherpad-mozilla.org/p/2018-host-org-feedback)
 
 
 ## TODO
