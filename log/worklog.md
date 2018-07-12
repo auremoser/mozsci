@@ -1495,16 +1495,22 @@ OFFBOARDING - SCIENCE
 * reminded PI of their MOU
 * attended open office hours for OKR 2 with [rizwan](https://docs.google.com/document/d/11i9NMnXtYU-a_yw9aDbs2H6mFqzBLIEdggASYQxeucc/edit#)
 * made [advocacy page](https://docs.google.com/document/d/1MaKbvRTLGOo_UNtI5lXUct8z73_QYYMdJxSreQ2rOec/edit?usp=sharing) for foundation site
-* made [science page]() for foundation site
+* made [science page](https://docs.google.com/document/d/1qZsSfyho2v5eyKI_DXSKqVASIzrp4bauQvF-Qzr8F-0/edit) for foundation site
 * worked on [comms docs](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
+
+## 7/12/18
+* sent out advocacy and science pages
+* tweeted about [grants admin job](https://careers.mozilla.org/position/gh/1243970)
+* sent template email to amy and ann marie for review
+* contracts adjustment to transition doc
 
 
 ## TODO
 * email to host orgs post mortem
-- thank you, more details shortly, thanks for signing mous, all fellows have verbally accepted offers, but we're still processing their contracts, onboarding in toronto dates, start first week in september, i'll followup with an e-troduction, host org event preceding mozfest - ann marie + amy
-* transfer documents
-* update [science website content](https://docs.google.com/document/d/1qZsSfyho2v5eyKI_DXSKqVASIzrp4bauQvF-Qzr8F-0/edit#heading=h.lamtxnh56rg) + clone for [owf]
 
+* transfer documents
+
+* [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
 
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
@@ -1619,6 +1625,7 @@ https://mzl.la/cc-2018 - link to all code
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 * [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
+* [2018 H2 OKR2 Doc](https://docs.google.com/document/d/11i9NMnXtYU-a_yw9aDbs2H6mFqzBLIEdggASYQxeucc/edit#)
 
 
 **MISC.**
