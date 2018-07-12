@@ -1489,6 +1489,14 @@ OFFBOARDING - SCIENCE
 
 ## 7/11/18
 * setup handbook [hackathon template](https://docs.google.com/presentation/d/1wfB-Z4LB60sBeXi0BQLeEV1Cyz-DTp6ewGsH25_8B7I/edit#slide=id.g3a5e1aac9d_0_36)
+* followed up with intertech for queering mozfest
+* met with ann marie about screendoor pros/cons
+* responded to [legal asks](https://docs.google.com/document/d/1-3tMeUG7-TX4-WNFB7CXgdta5Md1gwT2O5BCJrs7wLM/edit?ts=5b44e924) + worked on some contract bugs
+* reminded PI of their MOU
+* attended open office hours for OKR 2 with [rizwan](https://docs.google.com/document/d/11i9NMnXtYU-a_yw9aDbs2H6mFqzBLIEdggASYQxeucc/edit#)
+* made [advocacy page](https://docs.google.com/document/d/1MaKbvRTLGOo_UNtI5lXUct8z73_QYYMdJxSreQ2rOec/edit?usp=sharing) for foundation site
+* made [science page]() for foundation site
+* worked on [comms docs](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
 
 
 ## TODO
