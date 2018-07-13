@@ -1515,7 +1515,8 @@ OFFBOARDING - SCIENCE
 * working through transfer documents
 * team meeting for leadership team
 * team meeting for [consolidated calendars](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit) with amy jenn and lindsey
-
+* meeting with mel
+* collab calendar sketch [comments](https://docs.google.com/spreadsheets/d/1kBQ9VnOfxuv7G2OAu99rFpK3YPULOsjIQLo__Vs0yvg/edit#gid=0)
 
 
 ## TODO
