@@ -1505,6 +1505,12 @@ OFFBOARDING - SCIENCE
 * contracts adjustment to transition doc
 * made [etherpad for host org feedback](https://public.etherpad-mozilla.org/p/2018-host-org-feedback)
 
+## 7/13/18
+* sent out updates to 
+* responded to some fellows questions
+* encrypted to suk
+* signed up for [write speak code](https://www.writespeakcode.com/)
+
 
 ## TODO
 * email to host orgs post mortem
@@ -1530,7 +1536,8 @@ OFFBOARDING - SCIENCE
 
 * [contracts bug - science](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
 * [contracts bug - owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632)
-* [host orgs](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* [host orgs 2017](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
+* [host orgs 2018](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
 
 * [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
