@@ -1510,6 +1510,12 @@ OFFBOARDING - SCIENCE
 * responded to some fellows questions
 * encrypted to suk
 * signed up for [write speak code](https://www.writespeakcode.com/)
+* transferring folder documents to amy and steph
+* updating fellows [contacts sheet for all]()
+* working through transfer documents
+* team meeting for leadership team
+* team meeting for [consolidated calendars](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit) with amy jenn and lindsey
+
 
 
 ## TODO
