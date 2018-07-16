@@ -1518,6 +1518,11 @@ OFFBOARDING - SCIENCE
 * meeting with mel
 * collab calendar sketch [comments](https://docs.google.com/spreadsheets/d/1kBQ9VnOfxuv7G2OAu99rFpK3YPULOsjIQLo__Vs0yvg/edit#gid=0)
 
+## 7/16/18
+* sent out departure emails - ford and mofo
+* 
+
+
 
 ## TODO
 * email to host orgs post mortem
