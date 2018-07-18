@@ -1554,7 +1554,6 @@ OFFBOARDING - SCIENCE
 
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
-* feedback on offboarding event, blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
 * aurelia to do twitter accounts for queering mozfest post
 * email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
 * draft blog for tunis
@@ -1588,7 +1587,6 @@ OFFBOARDING - SCIENCE
 ations)
 
 **TUNIS**
-* draft blog post for tunis
 https://mzl.la/cc-site-2018 - link to all slides/materials
 https://mzl.la/cc-2018 - link to all code
 
