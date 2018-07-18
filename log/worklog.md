@@ -1520,30 +1520,43 @@ OFFBOARDING - SCIENCE
 
 ## 7/16/18
 * sent out departure emails - ford and mofo
-* 
+* worked on [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua)
+* message to older host orgs
+* message to stephanie about leaving
+* sent luca details for [online gallery at Mozfest](https://docs.google.com/presentation/d/18qu0QObU6E49PzxY6P12B4-UjACIZ5_FH_AFMi37e-Q/edit#slide=id.g3bc724a66f_0_1)
+* filled out [ford Foundation Grant details](https://docs.google.com/document/d/19AxL83P_YAAuIOaewXK2KHauI-Y1mMJ6fgv4b0oArV4/edit)
+* transfered all drive folders to rest of team
+
+
+## 7/17/18
+* followed up with [allied media bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
+* worked on [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
+* followed up on sam's session at mozfest
+* followed up on darius' reimbursement for decentralized web
+
+## 7/18/18
+* sent out emails to fellows and host orgs about transitions
+* grants meeting [notes](https://docs.google.com/document/d/1_o3LyYlYJEFiQkbCeFXCjKxqG4XEu7Hvo63pTgKTHfE/edit)
+* updated [fellows contacts doc](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
+* wrapped up [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
+* wrote up [miniwow africa sum up blog post](https://docs.google.com/document/d/1YRuNsGLoqg_uICFJa3Ooqju61jSwyZ1b_5aod4UFm68/edit?usp=sharing)
+* sent to steph and amel for adjustments and details
 
 
 
 ## TODO
-* email to host orgs post mortem
-
-* transfer documents
 
 * [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
 
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
-* get back to abby about [amc bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469059)
+
 
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
-- aurelia to email about the event, and feedback on the process
-- aurelia to put together calendar dates - Jenny + kickoff call
 * feedback on offboarding event, blogpost reminder email: specific impact and what they're doing next, also to promote them and amplifying voice, recruitment 
 * aurelia to do twitter accounts for queering mozfest post
-* rebuild wagtail
 * email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
-* finish promotions in fluxx - science / open seb
 * draft blog for tunis
 
 * [contracts bug - science](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
@@ -1551,29 +1564,10 @@ OFFBOARDING - SCIENCE
 * [host orgs 2017](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * [host orgs 2018](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
 
-* [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
-
-* pass along [hb grant report](https://docs.google.com/document/d/1XGzpPlX31-gqz3sTva2jgdfqpIxaMc9mEAiMtQza--M/edit?ts=5ae385c6)
-
-
-MARB
-- did know him professionally before, good experiences
-- issues: bram had a lot of other professional obligations, employement research during fellowship
-- wanted a final deliverable of this position policy paper on if/how a company can do depacketing bit inspection
--- paper done when? take off time in the summer
-- more for both sides to experience
-- maturity means he's ready to move earlier
-
-- citizen lab
-- end of august for paper
-* Maybe follow-up with Abby about DD, work auth for UK, and [grant report requirement](https://docs.google.com/document/d/1mbItsaGipT_YewJs8GJS6w7Ht6oeYt_wpRW3d8bqmOA/edit) for hosts?
-- go unpaid - once you start new contract - terminate the fellowship
-- perhaps finish the paper - send us your project when it's done, continue calling your self a mozilla fellow until june 30
-- amend contract for end dates - continue to be considered a Mozilla fellow until, continue to pay for travel through July 25th ? Paper
-- continuing to be a Mozilla Fellow until July 25th, his LDAP (email and Slack access) will be active until that date as well. 
+* [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#) 
 
 * update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
-* manage fluxx [requests](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#heading=h.y3080ax9s5u4) for attachments
+
 * test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
 	* add tips for recommenders to FAQ
 	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
