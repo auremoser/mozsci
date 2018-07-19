@@ -1542,6 +1542,11 @@ OFFBOARDING - SCIENCE
 * wrote up [miniwow africa sum up blog post](https://docs.google.com/document/d/1YRuNsGLoqg_uICFJa3Ooqju61jSwyZ1b_5aod4UFm68/edit?usp=sharing)
 * sent to steph and amel for adjustments and details
 
+## 7/19/18
+* met with steph about queering mozfest turnover
+* wrangler call
+* got back to lotta about call next week
+* updated [fellows contacts sheet](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
 
 
 ## TODO
