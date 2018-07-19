@@ -1544,10 +1544,11 @@ OFFBOARDING - SCIENCE
 
 ## 7/19/18
 * met with steph about queering mozfest turnover
-* wrangler call
+* [wrangler call](https://docs.google.com/document/d/1hSrBi1gLt9_iMABm2eQv9DqhuRVUBPrJSmdd_kF4XvY/edit)
 * got back to lotta about call next week
 * updated [fellows contacts sheet](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
-* transfered medium blog to steph
+* transfered medium blog to steph for queering mozfest
+* answered questions on the [ford final report doc](https://docs.google.com/document/d/19AxL83P_YAAuIOaewXK2KHauI-Y1mMJ6fgv4b0oArV4/edit?ts=5b50dc52)
 
 
 ## TODO
@@ -1557,20 +1558,19 @@ OFFBOARDING - SCIENCE
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
 
-
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
 * aurelia to do twitter accounts for queering mozfest post
 * email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
-* draft blog for tunis
+
+**CONTRACTS**
 
 * [contracts bug - science](https://bugzilla.mozilla.org/show_bug.cgi?id=1469586)
 * [contracts bug - owf](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632)
 * [host orgs 2017](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * [host orgs 2018](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
 
-* [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#) 
-
+ 
 * update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
 
 * test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
@@ -1579,6 +1579,7 @@ OFFBOARDING - SCIENCE
 	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
 
 **MOZFEST 2018**
+
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
 * contacts outreach for CFP
 * [medium CFP post](https://medium.com/mozilla-festival/oh-deer-mozfest-goes-queer-444711319d48)
@@ -1586,6 +1587,7 @@ OFFBOARDING - SCIENCE
 *  Pia gets 2 spaces, we have 3 stipends total
 
 **KITS**
+
 * [mofo internal comms](https://docs.google.com/document/d/1UiBLvQ7A5IQwVe8pyDWGNBT7Iy_4DaeczXSnqmfrUlY/edit)
 * [fundraising toolkit](https://docs.google.com/presentation/d/1DDBRJUdAkUFFwrlh4hMud92SLA9I7IcQrIyPwy90-8s/edit#slide=id.g34d60b9f3c_0_122)
 * [mofo fellows activity mapping 2017-2018](https://docs.google.com/document/d/1BQcg_1GwtMwNbK9Q9OEPCqyFE487UHF2BOw0QBQDsuY/edit?ts=5aeb5356#heading=h.8i45pm2au5ms)
@@ -1593,10 +1595,12 @@ OFFBOARDING - SCIENCE
 ations)
 
 **TUNIS**
+
 https://mzl.la/cc-site-2018 - link to all slides/materials
 https://mzl.la/cc-2018 - link to all code
 
 **OFFBOARDING 2018**
+
 * [Offboarding Checklist](https://docs.google.com/spreadsheets/d/1rgR9nD-ee0Fg-ybEjxz11NTqaGpUmDktu4eZ2wOlP7E/edit?ts=5ae9d328#gid=0)
 * Fellows [interested in talks at Ford](https://mozilla.slack.com/archives/C4W55UHE3/p1515789898000384):
 	* Maya Wagoner (Brooklyn Public Library
@@ -1616,12 +1620,15 @@ https://mzl.la/cc-2018 - link to all code
 * [offboarding plan](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 
 **FELLOWS FLUXX**
+
 * [comms plan](https://docs.google.com/document/d/1STgAXUAb-4E1zKK5unMOh-EUUAYDHXFh0pzBovSMXBM/edit)
 * [newsletter posts](https://docs.google.com/spreadsheets/d/1bYoRL0tI71LJaYfSf8TRXzeF88p_m59kjmObkSf3N0k/edit#gid=0)
 * email to use for fellows app: https://mzl.la/fellowship-application
 * matthew's [issue about fellowships](https://github.com/MozillaFoundation/CommsTeam/issues/2#issuecomment-376284403)
+* [managing guide to applications](https://docs.google.com/document/d/1MSzs1rPb0L19boi2GgTrqf_Z_rFry1JLhRelbqsmtp4/edit#)
 
 **REPORTING**
+
 * [expenses process - 2018](https://docs.google.com/document/d/1eHcGWV4DP3YaDWcKPbeu6oi0ElvmrSpPZKvONyTJ_OU/edit#)
 * put together bits of freedom reporting template based on [this](https://docs.google.com/document/d/1yMwzSOZhhYIIBuvwdmSMxth1Bv_m4KdwqmmfXj92q5I/edit?ts=5a6b65a4)
 * MARCH 14 - ping aleks about [grant report](https://docs.google.com/document/d/12hJAA95AkvwUm3nQ1xA5aB4ZQHI0zHAi_e8jdvFi0Ng/edit)
@@ -1631,15 +1638,18 @@ https://mzl.la/cc-2018 - link to all code
 
 
 **WEBSITE**
+
 * [new project brief form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPxYeeXK6wog7YBP9qKM-pE7ntnEid54Ikw0CAkdDZxO5Q/viewform)
 
 **OWF ALUMNI**
+
 * [Ford MVP Brief](https://docs.google.com/document/d/1y0HJYYl0sd_BbILyf0hOru3mAoHEOB7364YOHncNYy4/edit?ts=5a1ee9b6)
 * [Alumni strategy doc](https://docs.google.com/document/d/1BvNu1yOCXI9f3_QM2ivEI3FXLzqR4qIyhSniaahd50I/edit?ts=5a70a18c#heading=h.owci54f9v4me)
 * [Offboarding + Alumni Doc](https://docs.google.com/document/d/1TEKRnhoOcL2qyGtenjoBi0GjethPqKayFSRxyBf72Gs/edit#)
 * [OWF hotel blocks](https://docs.google.com/spreadsheets/d/10Pk3oyEcUKLNNj1gDjOrpzB0PG7QLX1KbzZHqRURgj8/edit?ts=5ac38e58#gid=0)
 
 **OKR 2**
+
 * [2018 H1 OKR Reporting](https://docs.google.com/spreadsheets/d/16X5IF3V-IkBIdK1AdsIdw_32qhFAUCxBGjXk11yrB8k/edit?ts=5a611d26#gid=1512487064)
 * [OKR 2018 Working Group notes](https://docs.google.com/document/d/1WN4cUDTQvgmhsOgbzk7mv6hq-PH-Hfh6Auv3MbuqqaU/edit?ts=5a872fb6)
 * [Fellows media mentions](https://docs.google.com/spreadsheets/d/1l_QMnhisrSV5ssJ-abW1Op_lsyDwxuPewCpOVwj2cAo/edit#gid=1777995333)
