@@ -1547,6 +1547,7 @@ OFFBOARDING - SCIENCE
 * wrangler call
 * got back to lotta about call next week
 * updated [fellows contacts sheet](https://docs.google.com/spreadsheets/d/1SBEKwAU-uECs5gXDYTzORpvUEmfxrEzcvpN1oDVf0dc/edit#gid=0)
+* transfered medium blog to steph
 
 
 ## TODO
