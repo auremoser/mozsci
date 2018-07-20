@@ -1550,6 +1550,9 @@ OFFBOARDING - SCIENCE
 * transfered medium blog to steph for queering mozfest
 * answered questions on the [ford final report doc](https://docs.google.com/document/d/19AxL83P_YAAuIOaewXK2KHauI-Y1mMJ6fgv4b0oArV4/edit?ts=5b50dc52)
 
+## 7/20/18
+* updated [consolidated calendar](https://docs.google.com/spreadsheets/d/1kBQ9VnOfxuv7G2OAu99rFpK3YPULOsjIQLo__Vs0yvg/edit#gid=0)
+* e-troduced Stephanie and Sarah for Queering Mozfest
 
 ## TODO
 
