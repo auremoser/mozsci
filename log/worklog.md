@@ -1553,6 +1553,13 @@ OFFBOARDING - SCIENCE
 ## 7/20/18
 * updated [consolidated calendar](https://docs.google.com/spreadsheets/d/1kBQ9VnOfxuv7G2OAu99rFpK3YPULOsjIQLo__Vs0yvg/edit#gid=0)
 * e-troduced Stephanie and Sarah for Queering Mozfest
+* consolidated [calendar working group meeting](https://docs.google.com/document/d/19Gq9Z9A6qM0O29kmWw3DhGs1hBODJUwyScHw8_74h68/edit)
+
+## 7/21/18
+* hope conf wrap up
+* working on [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua)
+* research for SAVI consulting / facilitation
+* prep for handbook hackathon at Sloan foundation
 
 ## TODO
 
