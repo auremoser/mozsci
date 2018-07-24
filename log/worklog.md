@@ -1560,18 +1560,22 @@ OFFBOARDING - SCIENCE
 * working on [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua)
 * research for SAVI consulting / facilitation
 * prep for handbook hackathon at Sloan foundation
+* fleshed out many additions to the [ford report](https://docs.google.com/document/d/19AxL83P_YAAuIOaewXK2KHauI-Y1mMJ6fgv4b0oArV4/edit?ts=5b512284)
+* transfered [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) to Amy for ford meeting
+* checked in on [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/) thread, still no traction but AMC should be admin from here on out
+
+## 7/22/18
+* shared mozfest invited guest meeting notes with steph
+* met erika o for coffee
+* responded to savi design session and lucie's mozfest house emails
+
 
 ## TODO
 
 * [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
 
 * mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
-* revisit [dates](https://docs.google.com/document/d/1nxq-cOi5Ddeexgm_8qkr0QdizNuA77ABiFcX8bXIIbo/edit) for ford meeting
 
-* curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
-* queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
-* aurelia to do twitter accounts for queering mozfest post
-* email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
 
 **CONTRACTS**
 
@@ -1580,18 +1584,13 @@ OFFBOARDING - SCIENCE
 * [host orgs 2017](https://bugzilla.mozilla.org/show_bug.cgi?id=1357212)
 * [host orgs 2018](https://bugzilla.mozilla.org/show_bug.cgi?id=1460270)
 
- 
-* update [community call brainstorm doc](https://docs.google.com/document/d/143YmH-9UjPRSiNlGKl2n1HQm8LuRL_lloELNMyVSb2k/edit?usp=sharing)
-
-* test [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/)
-	* add tips for recommenders to FAQ
-	*  It would be lovely to have something on the FAQ related to potential recommenders, along the lines that “we know this is weird, thanks! here’s what we’re looking for.
-	* How do you take advantage of this? If you were already using the foundation site to build pages, head on over to https://foundation.mozilla.org/cms to log in now. And take a look at the usage guide at https://foundation.mozilla.org/docs/how-do-i-wagtail/. If you’re having problems, shoot us a message in Slack- #mofo-wagtail is the room where we’re hanging out. If you have a bug to report, post it at https://github.com/mozilla/foundation.mozilla.org/issues/new
 
 **MOZFEST 2018**
 
 * curating queering mozfest [list](https://docs.google.com/spreadsheets/d/1JfZST7fLp2tlAOmMDcXXqSOydPikXQsycmGT51YV-7Q/edit#gid=991336634)
-* contacts outreach for CFP
+* queer tech [outreach](https://docs.google.com/spreadsheets/d/1LGv0zPTbrwuC9nhHJYmqy_f3GwiEepVlF9FkqpkgWP0/edit#gid=0)
+* aurelia to do twitter accounts for queering mozfest post
+* email templates [1](https://docs.google.com/document/d/1-hpKK4vFHEzUC0WnV0c9ECikIDNEq4QlidKonHLvSE8/edit#heading=h.1r8gpnkxjqif) + [2](https://docs.google.com/document/d/1iYPpfMdX4R3e9ip7fsiGJBNQ2mE8ZvVh5WftzSD1KPk/edit)
 * [medium CFP post](https://medium.com/mozilla-festival/oh-deer-mozfest-goes-queer-444711319d48)
 * [narrative](https://docs.google.com/document/d/12NsPnQYbJAhCrV_kuvHVvfAx3sFndjsWN8XJI0JIq1w/edit#)
 *  Pia gets 2 spaces, we have 3 stipends total
