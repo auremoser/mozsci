@@ -1565,9 +1565,11 @@ OFFBOARDING - SCIENCE
 * checked in on [wagtail](https://foundation.mozilla.org/docs/how-do-i-wagtail/) thread, still no traction but AMC should be admin from here on out
 
 ## 7/22/18
-* shared mozfest invited guest meeting notes with steph
+* shared mozfest invited [guest meeting notes](https://docs.google.com/document/d/1shKz--CTaLUOk5vqEa6iNPsYVLlqA-FbWOQSUCKpotk/edit#) with steph
 * met erika o for coffee
 * responded to savi design session and lucie's mozfest house emails
+* [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
+* [leadership programs team meeting](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit?usp=sharing)
 
 
 ## TODO
