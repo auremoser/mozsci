@@ -1567,16 +1567,18 @@ OFFBOARDING - SCIENCE
 ## 7/22/18
 * shared mozfest invited [guest meeting notes](https://docs.google.com/document/d/1shKz--CTaLUOk5vqEa6iNPsYVLlqA-FbWOQSUCKpotk/edit#) with steph
 * met erika o for coffee
+* transitioned mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
 * responded to savi design session and lucie's mozfest house emails
 * [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * [leadership programs team meeting](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit?usp=sharing)
+* [savi design session](https://public.etherpad-mozilla.org/p/savi-design-session)
 
 
 ## TODO
 
 * [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
 
-* mozfest house arrangements with Lucie - W - host org onboarding, F - funder cocktail
+
 
 
 **CONTRACTS**
