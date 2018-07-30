@@ -1572,6 +1572,17 @@ OFFBOARDING - SCIENCE
 * [1:1 with Amy](https://docs.google.com/document/d/1LGe_7Fekd3SgU_T0UwMpT8TlfPNf9tNAFAkeK-4UKyQ/edit)
 * [leadership programs team meeting](https://docs.google.com/document/d/1cJfCaCDGACTD3KfkWsJ9nBu9CxeLeilRcStSYiouVrE/edit?usp=sharing)
 * [savi design session](https://public.etherpad-mozilla.org/p/savi-design-session)
+* worked on [aleks contract bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1385334)
+
+## 7/31/18
+* exit interview
+* meeting with michelle about science
+* expense reports
+* followup on aleks' contract
+* set away message in drafts
+* 1:1 with cori
+* recommendation letter for rishab
+* added a community [impact story to OSAOS](https://docs.google.com/document/d/1yd2Nl85mHrgY807xaI_pn4kCr8KNpzkjPCQJusl2HNI/edit#)
 
 
 ## TODO
