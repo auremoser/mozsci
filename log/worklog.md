@@ -1584,6 +1584,7 @@ OFFBOARDING - SCIENCE
 * recommendation letter for rishab
 * added a community [impact story to OSAOS](https://docs.google.com/document/d/1yd2Nl85mHrgY807xaI_pn4kCr8KNpzkjPCQJusl2HNI/edit#)
 * updated [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632) requesting more information for vP's contract
+* celebrated [popcorn site](https://mmmavis.github.io/popcorns/)
 
 ## TODO
 
