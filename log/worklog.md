@@ -1586,6 +1586,19 @@ OFFBOARDING - SCIENCE
 * updated [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1469632) requesting more information for vP's contract
 * celebrated [popcorn site](https://mmmavis.github.io/popcorns/)
 
+## 8/1/18
+* write speak code conference
+* xat contacts confirmed
+* keys setup
+
+
+## 8/11/18
+* [savi strat etherpad](https://public.etherpad-mozilla.org/p/savi-design-session)
+* [wrap-up folder](https://drive.google.com/drive/u/0/folders/1mkRoKzO2ugl3W1-LcYGXJE5X8VQkQYtg)
+	* [annotated project matrix](https://docs.google.com/spreadsheets/d/1v7sVTiOuNrot4jZBmSYnxwNhOCFhHLEY1wr4hyhYgEM/edit#gid=0)
+	* [summary doc](https://docs.google.com/document/d/1FyPrOykg28-yDRolNhgUkMWfSBiw10zBwljPr87D0tk/edit)
+	* [agenda](https://docs.google.com/document/d/1a_7KhmXJBLnTxfxvjC_7Uqv1j3Mg1EHs-c9icp3oJVY/edit#)
+
 ## TODO
 
 * [transitions](https://docs.google.com/document/d/1_x-BQfhdkOz1NwMoVX4Fq49GQlA3sRkokCIP5xD26oc/edit#heading=h.5x7bnn6qx2ua) + [comms](https://docs.google.com/document/d/1XD1MY27OyPK-wOs46_0jEd_ADKjzB-40OMPjMyGv05k/edit?ts=5b3fcd58#)
